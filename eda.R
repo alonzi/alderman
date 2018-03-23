@@ -31,7 +31,7 @@ E_tib <- mutate(E_tib,days_since_last_checkout = today()-ymd(E_tib$`Date Last Ch
 # days since last checkout
 ggplot(data=E_tib, aes(days_since_last_checkout)) + 
   geom_histogram() 
-#+  scale_y_log10()
+  #scale_y_log10()
 
 # total checkouts
 ggplot(data=tail(E_tib,58888), aes(`Total Checkouts`)) + 
@@ -45,3 +45,19 @@ ggplot(data=tail(E_tib,58888),aes(x=days_since_last_checkout,y=`Total Checkouts`
 #with outliers
 ggplot(data=E_tib,aes(x=days_since_last_checkout,y=`Total Checkouts`)) +
   geom_hex()
+
+
+#####################
+# Explanitory histograms
+
+# days since last checkout
+ggplot(data=E_tib, aes(days_since_last_checkout)) + 
+  geom_histogram() 
+
+# annotated and zoomed
+ggplot(data=E_tib, aes(days_since_last_checkout)) + 
+  geom_histogram(bins=2000/7) +
+  geom_vline(size=2,xintercept=365, color="red") +
+  geom_vline(size=2,xintercept=2*365, color="blue") +
+  geom_vline(size=2,xintercept=5*365, color="green") +
+  scale_x_continuous(limits = c(0,2000))
