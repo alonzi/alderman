@@ -5,7 +5,7 @@ alderman data science
 
 * `plots - folder containing plots made for this project`
 
-* `*.xlsx - raw daa produced by Tim`
+* `*.xlsx - raw data produced by Tim`
 
 * `*.R - script files to produce plots from the raw data`
 
