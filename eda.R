@@ -25,6 +25,8 @@ E_tib <- read_excel("E.xlsx")
 # Today  use: today()
 E_tib <- mutate(E_tib,days_since_last_checkout = today()-ymd(E_tib$`Date Last Checked Out`))
 
+# compute total checkouts per days since last checkout
+E_tib <- mutate(E_tib,checkouts_per_day = as.numeric(E_tib$`Total Checkouts`)/as.numeric(days_since_last_checkout))
 ######################
 # make the exploratory histograms
 
