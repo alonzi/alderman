@@ -77,8 +77,8 @@ ggplot(data=E_tib, aes(days_since_last_checkout)) +
   geom_histogram(bins = 2000/7)  +
   scale_x_continuous(limits = c(2000,4000))
 ggplot(data=E_tib, aes(days_since_last_checkout)) + 
-  geom_histogram(bins = 50/7)  +
-  scale_x_continuous(limits = c(3000,3050))
+  geom_histogram(bins = 20)  +
+  scale_x_continuous(limits = c(3035,3055))
 
 ### ?? what happened 3030 days since data was collected ??
 
@@ -99,3 +99,4 @@ ggplot(data=tail(E_tib,58888), aes(`Total Checkouts`)) +
 ggplot(data=tail(E_tib,58888),aes(x=days_since_last_checkout,y=`Total Checkouts`)) +
   geom_hex(bins=2000/14)+
   scale_x_continuous(limits = c(0,2000))
+
