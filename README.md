@@ -1,10 +1,12 @@
 # alderman
 alderman data science
 
-plots - folder containing plots made for this project
+## Contents
 
-`*.xlsx - raw daa produced by Tim`
+* `plots - folder containing plots made for this project`
 
-`*.R - script files to produce plots from the raw data`
+* `*.xlsx - raw daa produced by Tim`
 
-DataWorkingGroup_preliminarydata.pptx - slides presenting some preliminary plots
+* `*.R - script files to produce plots from the raw data`
+
+* `DataWorkingGroup_preliminarydata.pptx - slides presenting some preliminary plots`
