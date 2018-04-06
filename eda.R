@@ -8,11 +8,13 @@
 ######################
 # set up environment
 #install.packages("tidyverse")
+#install.packages('ggthemes')
 
 library(tidyverse)
 library(readxl)
 library(lubridate)
 library(ggplot2)
+library(ggthemes)
 
 
 ######################
@@ -26,18 +28,27 @@ E_tib <- read_excel("E.xlsx")
 E_tib <- mutate(E_tib,days_since_last_checkout = today()-ymd(E_tib$`Date Last Checked Out`))
 
 # compute total checkouts per days since last checkout
-E_tib <- mutate(E_tib,checkouts_per_day = as.numeric(E_tib$`Total Checkouts`)/as.numeric(days_since_last_checkout))
+E_tib <- mutate(E_tib,checkouts_per_day = as.numeric(E_tib$`Total Checkouts`)/as.numeric(E_tib$`Date Copy Created`))
 ######################
 # make the exploratory histograms
+
+# 
+ggplot(data=E_tib, aes(E_tib$`Date Copy Created`)) + 
+  geom_histogram() 
 
 # days since last checkout
 ggplot(data=E_tib, aes(days_since_last_checkout)) + 
   geom_histogram() 
-  #scale_y_log10()
+#scale_y_log10()
 
 # total checkouts
 ggplot(data=tail(E_tib,58888), aes(`Total Checkouts`)) + 
   geom_histogram() +
+  scale_y_log10()
+
+# checkouts per day
+ggplot(data=tail(E_tib,58888), aes(checkouts_per_day)) + 
+  geom_histogram(bins=100)+
   scale_y_log10()
 
 # checkouts vs days since
@@ -51,6 +62,15 @@ ggplot(data=E_tib,aes(x=days_since_last_checkout,y=`Total Checkouts`)) +
 ### conserved quantity maximum - days + checkouts = C
 ### actually i don't like this
 
+# checkouts per day vs checkouts
+# no outliers checkouts
+ggplot(data=tail(E_tib,58888),aes(x=`Total Checkouts`,y=checkouts_per_day)) +
+  geom_hex()
+
+# checkouts per day vs days since last checkout
+# no outliers checkouts
+ggplot(data=tail(E_tib,58888),aes(x=days_since_last_checkout,y=checkouts_per_day)) +
+  geom_hex()
 
 #####################
 # Explanitory histograms
@@ -62,11 +82,11 @@ ggplot(data=E_tib, aes(days_since_last_checkout)) +
 # annotated and zoomed
 ggplot(data=E_tib, aes(days_since_last_checkout)) + 
   geom_histogram(bins=2000/7) +
-  geom_vline(size=1.2,xintercept=365, color="red") +
-  geom_vline(size=1.2,xintercept=2*365, color="blue") +
-  geom_vline(size=1.2,xintercept=3*365, color="green") +
-  geom_vline(size=1.2,xintercept=4*365, color="cyan") +
-  geom_vline(size=1.2,xintercept=5*365, color="magenta") +
+  geom_vline(size=.71,xintercept=365, color="red") +
+  geom_vline(size=.71,xintercept=2*365, color="blue") +
+  geom_vline(size=.71,xintercept=3*365, color="green") +
+  geom_vline(size=.71,xintercept=4*365, color="cyan") +
+  geom_vline(size=.71,xintercept=5*365, color="magenta") +
   scale_x_continuous(limits = c(0,5.5*365))
 
 ### Apply a fourier transform to pick out all the details
@@ -102,3 +122,42 @@ ggplot(data=tail(E_tib,58888),aes(x=days_since_last_checkout,y=`Total Checkouts`
   geom_hex(bins=2000/14)+
   scale_x_continuous(limits = c(0,2000))
 
+
+
+
+
+
+
+####################################
+#Plots to Show
+
+# checkouts per day vs checkouts
+# linear relationship shows consisten use of items over time
+ggplot(data=tail(E_tib,58888),aes(x=`Total Checkouts`,y=checkouts_per_day)) +
+  geom_hex()+
+  scale_x_continuous(limits = c(0.1,300))+
+  scale_y_continuous(limits = c(0.1e-07,3.5e-07))
+
+
+
+# days_since_last_checkout
+# shows picture for duration of study - spike at 3045 aka 11/29/2009-12/10/2009
+ggplot(data=E_tib, aes(days_since_last_checkout)) + 
+  geom_histogram(bins=500) +
+  labs(x = "Days since last checkout", y='Items') +
+  theme_bw()  # contender
+
+# shows annual structure of checkout history
+ggplot(data=E_tib, aes(days_since_last_checkout)) + 
+  geom_histogram(bins=2000/7) +
+  geom_vline(size=.71,xintercept=365, color="red") +
+  geom_vline(size=.71,xintercept=2*365, color="blue") +
+  geom_vline(size=.71,xintercept=3*365, color="green") +
+  geom_vline(size=.71,xintercept=4*365, color="cyan") +
+  geom_vline(size=.71,xintercept=5*365, color="magenta") +
+  scale_x_continuous(limits = c(0,5.5*365))+
+  labs(x = "Days since last checkout", y='Items') +
+  theme_bw()  # contender
+
+# total checkouts
+# shows exponential 
