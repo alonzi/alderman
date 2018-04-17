@@ -146,6 +146,7 @@ ggplot(data=E_tib, aes(days_since_last_checkout)) +
   geom_histogram(bins=500) +
   labs(x = "Days since last checkout", y='Items') +
   theme_bw()  # contender
+ggsave("days_since_all.png",device='png',dpi=1000)
 
 # shows annual structure of checkout history
 ggplot(data=E_tib, aes(days_since_last_checkout)) + 
@@ -158,6 +159,7 @@ ggplot(data=E_tib, aes(days_since_last_checkout)) +
   scale_x_continuous(limits = c(0,5.5*365))+
   labs(x = "Days since last checkout", y='Items') +
   theme_bw()  # contender
+ggsave("days_since_365.png",device='png',dpi=1000)
 
 # total checkouts
 # shows exponential 

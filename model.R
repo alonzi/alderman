@@ -68,25 +68,28 @@ ggplot(data=E_tib_nooutliers,aes(x=S_even,y=`Total Checkouts`)) +
 # plots to show
 
 # even weights
-ggplot(data=E_tib_nooutliers, aes(S_even)) + 
+plot1<-ggplot(data=E_tib_nooutliers, aes(S_even)) + 
   geom_histogram(bins = 250) +
   scale_x_continuous(limits = c(0,1))+
   ggtitle('Model result for even weight')+
   labs(x = "Model Prediction", y='Items') +
   theme_bw()  # contender
-
+ggsave("even_weight_model.png",device='png',dpi=1000)
 # weighted towards days since last checkout
-ggplot(data=E_tib_nooutliers, aes(S_days)) + 
+plot2<-ggplot(data=E_tib_nooutliers, aes(S_days)) + 
   geom_histogram(bins = 250) +
   scale_x_continuous(limits = c(0,1))+
   ggtitle('Model result weight days since checkout')+
   labs(x = "Model Prediction", y='Items') +
   theme_bw()  # contender
+ggsave("days_weight_model.png",device='png',dpi=1000)
 
 # weighted towards total checkouts
-ggplot(data=E_tib_nooutliers, aes(S_czec)) + 
+plot3<-ggplot(data=E_tib_nooutliers, aes(S_czec)) + 
   geom_histogram(bins = 250) +
   scale_x_continuous(limits = c(0,1))+
   ggtitle('Model result weight total checkouts')+
   labs(x = "Model Prediction", y='Items') +
   theme_bw()  # contender
+ggsave("czec_weight_model.png",device='png',dpi=1000)
+
