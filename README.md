@@ -14,3 +14,11 @@ alderman data science
   * `*.xlsx - raw data produced by Tim`
 
   * `*.R - script files to produce plots from the raw data`
+  
+## To Do
+
+* `study comparative analysis of different call number ranges`
+
+* `mave several models and pick lists for each call number range`
+
+* `have liaisons review pick lists`
