@@ -5,12 +5,12 @@ alderman data science
 
 * `anthony_data - data derived from blue cloud analytics`
 
-* `phase1 - data and analysis derived from director station`
-
 * `presentations - presentations given for this project`
 
-* `plots - folder containing plots made for this project`
+* `phase1 - data and analysis derived from director station`
 
-* `*.xlsx - raw data produced by Tim`
+  * `plots - folder containing plots made for this project`
 
-* `*.R - script files to produce plots from the raw data`
+  * `*.xlsx - raw data produced by Tim`
+
+  * `*.R - script files to produce plots from the raw data`
