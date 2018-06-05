@@ -6,9 +6,9 @@
 library(tidyverse)
 
 # Usage
-#filename <- "B.csv"
-#tib <- data_cleaner(filename)
-#data_visualizer(tib,filename)
+filename <- "B.csv"
+tib <- data_cleaner(filename)
+data_visualizer(tib,filename)
 ### Normalize Features
 #x0 - catalog.pub.year -- compute number of days -- days
 #x1 - item.create.date -- compute number of days -- days
@@ -39,3 +39,14 @@ tib <- flat_model(beta,tib)
 ggplot(data=tib, aes(S_flat)) + 
   geom_histogram(bins=100) +
   scale_x_continuous(limits = c(0,1))
+
+# B target = 16483 volumes
+tib <-arrange(tib,S_flat)
+ggplot(data=tail(tib,16483), aes(S_flat)) + 
+  geom_histogram(bins=100) +
+  scale_x_continuous(limits = c(0,1))
+
+
+B_pick_list <- tail(tib,16483)
+write.csv(tail(tib,16483),file = "B_pick_list.csv")
+
