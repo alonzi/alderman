@@ -12,7 +12,7 @@ library(ggthemes)
 source('data_cleaner.R')
 
 
-data_visualizer <- function(tib,filename){
+data_visualizer <- function(tib,filename,volumes){
 ###########################
 # checkouts per day vs checkouts
 ggplot(data=tail(tib,34000),aes(x=`Item.Lifetime.Checkout`+`Item.Lifetime.Renewals`,y=checkouts_per_day)) +
@@ -43,8 +43,20 @@ ggplot(data=tib, aes(days_since_last_checkout)) +
   labs(x = "Days since last checkout", y='Items') +
   theme_bw()  # contender
 ggsave(paste(filename,"days_since_last_checkout_structure.png"),device='png',dpi=1000)
-}
 
+
+# plot S distribution
+ggplot(data=tib, aes(S_flat)) + 
+  geom_histogram(bins=100) +
+  scale_x_continuous(limits = c(0,1))
+ggsave(paste(filename,"Sdistribution.png"),device='png',dpi=1000)
+
+# Kept volumes
+ggplot(data=tail(tib,volumes), aes(S_flat)) + 
+  geom_histogram(bins=100) +
+  scale_x_continuous(limits = c(0,1))
+ggsave(paste(filename,"Sdistribution_clemons.png"),device='png',dpi=1000)
+}
 # Usage
 #filename <- "B.csv"
 #tib <- data_cleaner(filename)
