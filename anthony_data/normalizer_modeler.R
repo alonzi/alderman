@@ -5,15 +5,6 @@
 
 library(tidyverse)
 
-# Usage
-filename <- "B.csv"
-beta <- c(-1,-1,1,1,-1,1)
-volumes < 16483
-tib <- data_cleaner(filename)
-tib <- normalizer(tib)
-tib <- S_model(beta,tib)
-data_visualizer(tib,filename)
-write.csv(tail(tib,16483),file = paste(filename,".clemons.csv"))
 
 
 ### Normalize Features

@@ -17,7 +17,7 @@ data_visualizer <- function(tib,filename,volumes){
 # checkouts per day vs checkouts
 ggplot(data=tail(tib,34000),aes(x=`Item.Lifetime.Checkout`+`Item.Lifetime.Renewals`,y=checkouts_per_day)) +
   geom_hex()
-ggsave(paste(filename,"checkouts_per_dat_vs_total_checkouts+renewals.png"),device='png',dpi=1000)
+ggsave(paste(filename,".checkouts_per_dat_vs_total_checkouts+renewals.png",sep=""),device='png',dpi=1000)
 
 
 ###########################
@@ -28,7 +28,7 @@ ggplot(data=tib, aes(days_since_last_checkout)) +
   labs(x = "Days since last checkout", y='Items') +
   theme_bw() + # contender
   scale_x_continuous(limits = c(0.1,6000))
-ggsave(paste(filename,"days_since_last checkout.png"),device='png',dpi=1000)
+ggsave(paste(filename,".days_since_last checkout.png",sep=''),device='png',dpi=1000)
 
 ###########################
 # shows annual structure of checkout history
@@ -42,22 +42,18 @@ ggplot(data=tib, aes(days_since_last_checkout)) +
   scale_x_continuous(limits = c(0,5.5*365))+
   labs(x = "Days since last checkout", y='Items') +
   theme_bw()  # contender
-ggsave(paste(filename,"days_since_last_checkout_structure.png"),device='png',dpi=1000)
+ggsave(paste(filename,".days_since_last_checkout_structure.png",sep=""),device='png',dpi=1000)
 
 
 # plot S distribution
 ggplot(data=tib, aes(S_flat)) + 
   geom_histogram(bins=100) +
   scale_x_continuous(limits = c(0,1))
-ggsave(paste(filename,"Sdistribution.png"),device='png',dpi=1000)
+ggsave(paste(filename,".Sdistribution.png",sep=""),device='png',dpi=1000)
 
 # Kept volumes
 ggplot(data=tail(tib,volumes), aes(S_flat)) + 
   geom_histogram(bins=100) +
   scale_x_continuous(limits = c(0,1))
-ggsave(paste(filename,"Sdistribution_clemons.png"),device='png',dpi=1000)
+ggsave(paste(filename,".Sdistribution_clemons.png",sep=""),device='png',dpi=1000)
 }
-# Usage
-#filename <- "B.csv"
-#tib <- data_cleaner(filename)
-#data_visualizer(tib,filename)
