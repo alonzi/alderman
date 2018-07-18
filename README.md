@@ -1,5 +1,4 @@
 # alderman
-alderman data science
 current work is in anthony_data
 phase1 is depricated
 
