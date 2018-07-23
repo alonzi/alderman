@@ -12,5 +12,5 @@
 * NumRenewals
 * Duplicates
 * Bib Marc Subfield Data
-* MultiVolume
+* MultiVolume - this number represents the number of volumes in a multivolume set. the row represents the collection.
 * Keep On Grounds: 0 = no, 1 = yes
