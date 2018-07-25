@@ -5,12 +5,12 @@
 * Catalog Title
 * Catalog Author
 * Catalog Pub Year
-* Item Created Date
+* Item Created Date - date item added to SIRSI
 * Item Last Checkout Date
 * NumInhouseUses
 * NumCheckouts
 * NumRenewals
-* Duplicates
+* Number Items Owned
 * Bib Marc Subfield Data
 * MultiVolume - this number represents the number of volumes in a multivolume set. the row represents the collection.
 * Keep On Grounds: 0 = no, 1 = yes
