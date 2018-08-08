@@ -35,7 +35,9 @@ data_tibble <- left_join(data_tibble,data_tibble_uniques)
 data_tibble <- distinct(data_tibble,Catalog.Id,.keep_all=TRUE)
 
 # add column for multi volume set
-data_tibble <- mutate(data_tibble,MultiVolume=grepl("v.*$",Item.Call.Number,ignore.case=TRUE))
+vol1 <-"\\sAbh.*$|\\sAbt.*$|\\san.*$|\\sband*$|\\sbd.*$|\\sBde.*$|\\sbk.*$|\\sbr.*$|\\sBuch*$|\\sc.*$|\\sch.*$|\\scis.*$|\\scuad.*$|\\scz.*$|\\sd.*$|\\sfasc.*$|\\sF.*$|\\sfol.*$|\\sg.*$|\\sHalbbd.*$|\\sHeft*$|\\siss.*$|\\sissue*$|\\sjaarg.*$|\\sJahrg.*$|\\skn.*$|\\skng.*$|\\sl.*$|\\sLfg.*$|\\sn.F.*$|\\snouv.*$|\\sn.r.*$|\\sno.*$|\\snr.*$|\\snu.*$|\\spt.*$|\\squad.*$|\\sReihe*$|\\sr.*$|\\sroc.*$|\\srocz.*$|\\ssb.*$|\\sser.*$|\\sses.*$|\\ssess.*$|\\sSdhft.*$|\\ssuppl.*$|\\ssv.*$|\\sT.*$|\\stbd.*$|\\steil*$|\\stomo*$|\\stome*$|\\sv.*$|\\svyd.*$|\\svyp.*$|\\swyd.*$|\\swydz.*$|\\syr.*$|\\szesz.*$"
+vol2 <-"Abh.*$|Abt.*$|an.*$|v.*$|vyd.*$|vyp.*$|wyd.*$|wydz.*$|yr.*$|zesz.*$"
+data_tibble <- mutate(data_tibble,MultiVolume=grepl(vol1,Item.Call.Number,ignore.case=TRUE))
 
 # select columns for liaisons
 data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume)
