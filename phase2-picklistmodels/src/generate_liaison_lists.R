@@ -6,11 +6,14 @@
 # Load Necessary Functions
 source("./src/data_cleaner.R")
 
+
 # Configure To run on desired data
 datapath <- "./dat"
 input_files <- list.files(datapath)
 input_files <- paste(datapath,input_files,sep="/")
 output_files <- paste("./liaison_review/x",list.files(datapath),sep="")
+#output_files <- gsub('.{3}$', '', output_files)
+#output_files <- paste(output_files,"xlsx",sep="")
 
 # Turn the crank
 tibbles <- lapply(input_files,data_cleaner)
