@@ -32,12 +32,12 @@ data_tibble <- mutate(data_tibble,x5=(data_tibble$checkouts_per_day-mean(data_ti
 
 
 # run the three models
-beta <- c(2.*(runif(1)-0.5),2.*(runif(1)-0.5),2.*(runif(1)-0.5),2.*(runif(1)-0.5),2.*(runif(1)-0.5),2.*(runif(1)-0.5)) # random betas
+beta <- c(2.*(runif(1)-0.5),2.*(runif(1)-0.5),2.*(runif(1)-0.5),0.,2.*(runif(1)-0.5),0.) # random betas
 data_tibble <- mutate(data_tibble,scoreA=1/(1+exp(-(beta[1]*as.numeric(x0)+beta[2]*as.numeric(x1)+beta[3]*as.numeric(x2)+beta[4]*as.numeric(x3)+beta[5]*as.numeric(x4)+beta[6]*as.numeric(x5)))))
 
 data_tibble <- mutate(data_tibble,scoreB=runif(length(x0)))
 
-beta <- c(-1,-1,1,1,-1,1) # flat
+beta <- c(-1,-1,1,0.,-1,0.) # flat
 data_tibble <- mutate(data_tibble,scoreC=1/(1+exp(-(beta[1]*as.numeric(x0)+beta[2]*as.numeric(x1)+beta[3]*as.numeric(x2)+beta[4]*as.numeric(x3)+beta[5]*as.numeric(x4)+beta[6]*as.numeric(x5)))))
 
 
