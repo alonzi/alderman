@@ -40,8 +40,10 @@ data_tibble <- mutate(data_tibble,scoreB=runif(length(x0)))
 beta <- c(-1,-1,1,0.,-1,0.) # flat
 data_tibble <- mutate(data_tibble,scoreC=1/(1+exp(-(beta[1]*as.numeric(x0)+beta[2]*as.numeric(x1)+beta[3]*as.numeric(x2)+beta[4]*as.numeric(x3)+beta[5]*as.numeric(x4)+beta[6]*as.numeric(x5)))))
 
+data_tibble <- mutate(data_tibble,modelC=dense_rank(1-scoreC))
 
-
+data_tibble <- mutate(data_tibble,dscoreC=1-scoreC)
+data_tibble <- arrange(data_tibble,dscoreC)
 
 # collapse all dupes into one entry
 data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumInhouseUses=sum(Item.Lifetime.Inhouse.Uses))
@@ -63,10 +65,10 @@ vol2 <-"Abh.*$|Abt.*$|an.*$|v.*$|vyd.*$|vyp.*$|wyd.*$|wydz.*$|yr.*$|zesz.*$"
 data_tibble <- mutate(data_tibble,MultiVolume=grepl(vol1,Item.Call.Number,ignore.case=TRUE))
 
 # select columns for liaisons
-data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume,scoreA,scoreB,scoreC)
+data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume,scoreC,modelC)
 
 # add column for action
-data_tibble <- mutate(data_tibble,KeepOnGrounds=10)
+data_tibble <- mutate(data_tibble,LiaisonRecommendation=0)
                      
 
 
