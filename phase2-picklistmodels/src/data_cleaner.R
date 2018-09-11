@@ -20,6 +20,29 @@ data_tibble <- mutate(data_tibble,days_since_last_checkout = today()-mdy(data_ti
 # compute total checkouts per days since last checkout
 data_tibble <- mutate(data_tibble,checkouts_per_day = as.numeric(data_tibble$Item.Lifetime.Checkout+data_tibble$`Item.Lifetime.Renewals`)/as.numeric(today()-mdy(data_tibble$`Item.Created.Date`)))
 
+
+# establish the canonical variables
+data_tibble <- mutate(data_tibble,x0=(365*(2018-data_tibble$Catalog.Pub.Year)-mean(365*(2018-data_tibble$Catalog.Pub.Year)))/sqrt(var(365*(2018-data_tibble$Catalog.Pub.Year))))
+data_tibble <- mutate(data_tibble,x1=(today()-mdy(data_tibble$Item.Created.Date)-mean(today()-mdy(data_tibble$Item.Created.Date)))/sqrt(var(today()-mdy(data_tibble$Item.Created.Date))))
+data_tibble <- mutate(data_tibble,x2=(data_tibble$Item.Lifetime.Checkout-mean(data_tibble$Item.Lifetime.Checkout))/sqrt(var(data_tibble$Item.Lifetime.Checkout)))
+data_tibble <- mutate(data_tibble,x3=(data_tibble$Item.Lifetime.Renewals-mean(data_tibble$Item.Lifetime.Renewals))/sqrt(var(data_tibble$Item.Lifetime.Renewals)))
+data_tibble <- mutate(data_tibble,x4=(data_tibble$days_since_last_checkout-mean(data_tibble$days_since_last_checkout))/sqrt(var(data_tibble$days_since_last_checkout)))
+data_tibble <- mutate(data_tibble,x5=(data_tibble$checkouts_per_day-mean(data_tibble$checkouts_per_day))/sqrt(var(data_tibble$checkouts_per_day)))
+
+
+
+# run the three models
+beta <- c(2.*(runif(1)-0.5),2.*(runif(1)-0.5),2.*(runif(1)-0.5),2.*(runif(1)-0.5),2.*(runif(1)-0.5),2.*(runif(1)-0.5)) # random betas
+data_tibble <- mutate(data_tibble,scoreA=1/(1+exp(-(beta[1]*as.numeric(x0)+beta[2]*as.numeric(x1)+beta[3]*as.numeric(x2)+beta[4]*as.numeric(x3)+beta[5]*as.numeric(x4)+beta[6]*as.numeric(x5)))))
+
+data_tibble <- mutate(data_tibble,scoreB=runif(length(x0)))
+
+beta <- c(-1,-1,1,1,-1,1) # flat
+data_tibble <- mutate(data_tibble,scoreC=1/(1+exp(-(beta[1]*as.numeric(x0)+beta[2]*as.numeric(x1)+beta[3]*as.numeric(x2)+beta[4]*as.numeric(x3)+beta[5]*as.numeric(x4)+beta[6]*as.numeric(x5)))))
+
+
+
+
 # collapse all dupes into one entry
 data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumInhouseUses=sum(Item.Lifetime.Inhouse.Uses))
 data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumCheckouts=sum(Item.Lifetime.Checkout))
@@ -40,11 +63,13 @@ vol2 <-"Abh.*$|Abt.*$|an.*$|v.*$|vyd.*$|vyp.*$|wyd.*$|wydz.*$|yr.*$|zesz.*$"
 data_tibble <- mutate(data_tibble,MultiVolume=grepl(vol1,Item.Call.Number,ignore.case=TRUE))
 
 # select columns for liaisons
-data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume)
+data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume,scoreA,scoreB,scoreC)
 
 # add column for action
-data_tibble <- mutate(data_tibble,KeepOnGrounds=0)
+data_tibble <- mutate(data_tibble,KeepOnGrounds=10)
                      
+
+
 return(data_tibble)
 }
 

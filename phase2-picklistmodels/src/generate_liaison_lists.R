@@ -5,18 +5,29 @@
 
 # Load Necessary Functions
 source("./src/data_cleaner.R")
+source("./src/normalizer_modeler.R")
 
+#print(2.*(runif(1)-0.5))
+#print(2.*(runif(1)-0.5))
+#print(2.*(runif(1)-0.5))
 
 # Configure To run on desired data
 datapath <- "./dat"
 input_files <- list.files(datapath)
 input_files <- paste(datapath,input_files,sep="/")
 output_files <- paste("./liaison_review/x",list.files(datapath),sep="")
+
+input_files <- "./dat/BR_.csv" # use for testing, comment out for production
+output_files <- "./liaison_review/xBR_.csv"
+
 #output_files <- gsub('.{3}$', '', output_files)
 #output_files <- paste(output_files,"xlsx",sep="")
 
 # Turn the crank
 tibbles <- lapply(input_files,data_cleaner)
+#tibbles <- lapply(tibbles,normalizer)
+#tibbles <- lapply(tibbles,model)
+
 
 # make output files
 for (i in 1:length(output_files)){
