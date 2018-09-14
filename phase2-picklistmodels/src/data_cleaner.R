@@ -47,17 +47,29 @@ data_tibble <- arrange(data_tibble,dscoreC)
 
 
 cutoffs <- list('./dat/BR_.csv'=7402,
-                'DA_.csv'=7024,
-                'DS_1-689.csv'=1,
-                'DS_701-937.csv'=1,
-                'HM_.csv'=5080,
-                'HQ_.csv'=9394,
-                'PA_.csv'=13103,
-                'PG_.csv'=6192,
-                'PL_1001-3311.csv'=1,
-                'PQ_6001-8560.csv'=1,
-                'PR_3991-5990.csv'=1
+                './dat/DA_.csv'=7024,
+                './dat/DS_1-689.csv'=8640.,
+                './dat/DS_701-937.csv'=4558.,
+                './dat/HM_.csv'=5080,
+                './dat/HQ_.csv'=9394,
+                './dat/PA_.csv'=13103,
+                './dat/PG_.csv'=6192,
+                './dat/PL_1001-3311.csv'=2912.,
+                './dat/PQ_6001-8560.csv'=8501.,
+                './dat/PR_3991-5990.csv'=6398.
                 )
+# 1.7 million
+#16887 BR_.csv
+#23313 DA_.csv
+#43811 DS_1-689.csv
+#23112 DS_701-937.csv
+#9932 HM_.csv
+#24898 HQ_.csv
+#24584 PA_.csv
+#35815 PG_.csv
+#17283 PL_1001-3311.csv
+#47062 PQ_6001-8560.csv
+#21052 PR_3991-5990.csv
 
 cutoff <- cutoffs[[filename]]
 data_tibble <- mutate(data_tibble,model=ifelse(modelC<cutoff,'1','0'))
@@ -83,7 +95,7 @@ vol2 <-"Abh.*$|Abt.*$|an.*$|v.*$|vyd.*$|vyp.*$|wyd.*$|wydz.*$|yr.*$|zesz.*$"
 data_tibble <- mutate(data_tibble,MultiVolume=grepl(vol1,Item.Call.Number,ignore.case=TRUE))
 
 # select columns for liaisons
-data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume,scoreC,MODEL)
+data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume,MODEL)
 
 # add column for action
 data_tibble <- mutate(data_tibble,LiaisonRecommendation=0)
