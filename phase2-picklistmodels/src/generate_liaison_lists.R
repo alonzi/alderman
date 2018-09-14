@@ -5,11 +5,6 @@
 
 # Load Necessary Functions
 source("./src/data_cleaner.R")
-#source("./src/normalizer_modeler.R")
-
-#print(2.*(runif(1)-0.5))
-#print(2.*(runif(1)-0.5))
-#print(2.*(runif(1)-0.5))
 
 # Configure To run on desired data
 datapath <- "./dat"
@@ -25,9 +20,6 @@ output_files <- "./liaison_review/xBR_.csv"
 
 # Turn the crank
 tibbles <- lapply(input_files,data_cleaner)
-#tibbles <- lapply(tibbles,normalizer)
-#tibbles <- lapply(tibbles,model)
-
 
 # make output files
 for (i in 1:length(output_files)){

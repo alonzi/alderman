@@ -45,10 +45,28 @@ data_tibble <- mutate(data_tibble,modelC=dense_rank(1-scoreC))
 data_tibble <- mutate(data_tibble,dscoreC=1-scoreC)
 data_tibble <- arrange(data_tibble,dscoreC)
 
+
+cutoffs <- list('./dat/BR_.csv'=7402,
+                'DA_.csv'=7024,
+                'DS_1-689.csv'=1,
+                'DS_701-937.csv'=1,
+                'HM_.csv'=5080,
+                'HQ_.csv'=9394,
+                'PA_.csv'=13103,
+                'PG_.csv'=6192,
+                'PL_1001-3311.csv'=1,
+                'PQ_6001-8560.csv'=1,
+                'PR_3991-5990.csv'=1
+                )
+
+cutoff <- cutoffs[[filename]]
+data_tibble <- mutate(data_tibble,model=ifelse(modelC<cutoff,'1','0'))
+
 # collapse all dupes into one entry
 data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumInhouseUses=sum(Item.Lifetime.Inhouse.Uses))
 data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumCheckouts=sum(Item.Lifetime.Checkout))
 data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumRenewals=sum(Item.Lifetime.Renewals))
+data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate( MODEL = ifelse( sum(as.integer(model))>=1,'1','0' ) )
 
 # make count of duplicate ids
 data_tibble_uniques <- count(data_tibble,Catalog.Id)
@@ -65,7 +83,7 @@ vol2 <-"Abh.*$|Abt.*$|an.*$|v.*$|vyd.*$|vyp.*$|wyd.*$|wydz.*$|yr.*$|zesz.*$"
 data_tibble <- mutate(data_tibble,MultiVolume=grepl(vol1,Item.Call.Number,ignore.case=TRUE))
 
 # select columns for liaisons
-data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume,scoreC,modelC)
+data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume,scoreC,MODEL)
 
 # add column for action
 data_tibble <- mutate(data_tibble,LiaisonRecommendation=0)
