@@ -7,7 +7,7 @@
 source("./src/data_cleaner.R")
 
 # Configure To run on desired data
-datapath <- "./dat"
+datapath <- "./data"
 input_files <- list.files(datapath)
 input_files <- paste(datapath,input_files,sep="/")
 output_files <- paste("./picklists/x",list.files(datapath),sep="")

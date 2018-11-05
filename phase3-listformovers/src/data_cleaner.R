@@ -12,19 +12,24 @@ data_cleaner <- function(filename) {
 ######################
 # read in data
 data_tibble <- read.csv(filename)
+print('analyzing')
+print(filename)
 ######################
 # compute days since last checkout
 # Date Last Checked Out ymd(E_tib$`Date Last Checked Out`)
 # Today  use: today()
 data_tibble <- mutate(data_tibble,days_since_last_checkout = today()-mdy(data_tibble$Item.Last.Checkout.Date))
 # compute total checkouts per days since last checkout
-data_tibble <- mutate(data_tibble,checkouts_per_day = as.numeric(data_tibble$Item.Lifetime.Checkout+data_tibble$`Item.Lifetime.Renewals`)/as.numeric(today()-mdy(data_tibble$`Item.Created.Date`)))
+data_tibble <- mutate(data_tibble,Item.Lifetime.Checkout.Corrected=Item.Legacy.Total.Charges-Item.Lifetime.Renewals)
 
+data_tibble <- mutate(data_tibble,checkouts_per_day = as.numeric(data_tibble$Item.Lifetime.Checkout.Corrected+data_tibble$`Item.Lifetime.Renewals`)/as.numeric(today()-mdy(data_tibble$`Item.Created.Date`)))
 
 # establish the canonical variables
 data_tibble <- mutate(data_tibble,x0=(365*(2018-data_tibble$Catalog.Pub.Year)-mean(365*(2018-data_tibble$Catalog.Pub.Year)))/sqrt(var(365*(2018-data_tibble$Catalog.Pub.Year))))
 data_tibble <- mutate(data_tibble,x1=(today()-mdy(data_tibble$Item.Created.Date)-mean(today()-mdy(data_tibble$Item.Created.Date)))/sqrt(var(today()-mdy(data_tibble$Item.Created.Date))))
-data_tibble <- mutate(data_tibble,x2=(data_tibble$Item.Lifetime.Checkout-mean(data_tibble$Item.Lifetime.Checkout))/sqrt(var(data_tibble$Item.Lifetime.Checkout)))
+
+data_tibble <- mutate(data_tibble,x2=(data_tibble$Item.Lifetime.Checkout.Corrected-mean(data_tibble$Item.Lifetime.Checkout.Corrected))/sqrt(var(data_tibble$Item.Lifetime.Checkout.Corrected)))
+
 data_tibble <- mutate(data_tibble,x3=(data_tibble$Item.Lifetime.Renewals-mean(data_tibble$Item.Lifetime.Renewals))/sqrt(var(data_tibble$Item.Lifetime.Renewals)))
 data_tibble <- mutate(data_tibble,x4=(data_tibble$days_since_last_checkout-mean(data_tibble$days_since_last_checkout))/sqrt(var(data_tibble$days_since_last_checkout)))
 data_tibble <- mutate(data_tibble,x5=(data_tibble$checkouts_per_day-mean(data_tibble$checkouts_per_day))/sqrt(var(data_tibble$checkouts_per_day)))
@@ -46,17 +51,21 @@ data_tibble <- mutate(data_tibble,dscoreC=1-scoreC)
 data_tibble <- arrange(data_tibble,dscoreC)
 
 
-cutoffs <- list('./dat/BR_.csv'=7402,
-                './dat/DA_.csv'=7024,
-                './dat/DS_1-689.csv'=8640.,
-                './dat/DS_701-937.csv'=4558.,
-                './dat/HM_.csv'=5080,
-                './dat/HQ_.csv'=9394,
-                './dat/PA_.csv'=13103,
-                './dat/PG_.csv'=6192,
-                './dat/PL_1001-3311.csv'=2912.,
-                './dat/PQ_6001-8560.csv'=8501.,
-                './dat/PR_3991-5990.csv'=6398.
+cutoffs <- list('./data/B_.csv'=1,
+                './data/BR_.csv'=7402,
+                './data/DA_.csv'=7024,
+                './data/DC_1-947.csv'=1,
+                './data/DP_1-402.csv'=1,
+                './data/DS_1-689.csv'=8640.,
+                './data/DS_701-937.csv'=4558.,
+            #    './data/HM_.csv'=5080,
+            #    './data/HQ_.csv'=9394,
+            #    './data/PA_.csv'=13103,
+            #    './data/PG_.csv'=6192,
+                './data/PL_1001-3311.csv'=2912.,
+                './data/PQ_6001-8560.csv'=8501.,
+                './data/PR_3991-5990.csv'=6398.,
+                './data/Z_670.csv'=6.
                 )
 # 1.7 million
 #16887 BR_.csv
@@ -72,11 +81,12 @@ cutoffs <- list('./dat/BR_.csv'=7402,
 #21052 PR_3991-5990.csv
 
 cutoff <- cutoffs[[filename]]
+# This like makes the cutoff for volumes to store in clemons
 data_tibble <- mutate(data_tibble,model=ifelse(modelC<cutoff,'1','0'))
 
 # collapse all dupes into one entry
 data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumInhouseUses=sum(Item.Lifetime.Inhouse.Uses))
-data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumCheckouts=sum(Item.Lifetime.Checkout))
+data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumCheckouts=sum(Item.Lifetime.Checkout.Corrected))
 data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumRenewals=sum(Item.Lifetime.Renewals))
 data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate( MODEL = ifelse( sum(as.integer(model))>=1,'1','0' ) )
 
@@ -95,7 +105,7 @@ vol2 <-"Abh.*$|Abt.*$|an.*$|v.*$|vyd.*$|vyp.*$|wyd.*$|wydz.*$|yr.*$|zesz.*$"
 data_tibble <- mutate(data_tibble,MultiVolume=grepl(vol1,Item.Call.Number,ignore.case=TRUE))
 
 # select columns for liaisons
-data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume,MODEL)
+data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume,modelC,MODEL)
 
 # add column for action
 data_tibble <- mutate(data_tibble,LiaisonRecommendation=0)
