@@ -1,0 +1,20 @@
+"","Catalog.Id","Item.Barcode","Item.Call.Number","Item.Library.Code","Catalog.Title","Catalog.Author","Catalog.Pub.Year","Item.Created.Date","Item.Last.Checkout.Date","NumInhouseUses","NumCheckouts","NumRenewals","Duplicates","Bib.Marc.Subfield.Data","MultiVolume","modelC","MODEL","LiaisonRecommendation"
+"1",183640,"X000862008","Z670 .A2 S3 1981","ALDERMAN","Das Bibliothekswesen im 18. Jahrhundert /","(Johann Georg), Schelhorn, J. G.",1981,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,NA,NA,0
+"2",3887697,"X004626044","Z670 .A3 K67 2002","ALDERMAN","a practical guide and manual / Korean librarianship outside of Korea :","",2002,"9/30/02","8/5/08",0,0,0,1,"2",FALSE,NA,NA,0
+"3",1187989,"X001618172","Z670 .A38","ALDERMAN","Manual of library organization","Alam, Shamsul.",1960,"6/29/96","1/1/00",2,0,0,1,"2",FALSE,NA,NA,0
+"4",1187993,"X002417643","Z670 .B74 1929","ALDERMAN","The American public library,","Bostwick, Arthur E. (Arthur Elmore),",1929,"6/29/96","1/1/00",0,1,0,1,"2 14",FALSE,NA,NA,0
+"5",229683,"X000375617","Z670 .B958 1978","ALDERMAN","a manual & textbook / Library practice :","Burkett, Jack,",1978,"6/28/96","3/15/04",1,3,0,1,"2",FALSE,NA,NA,0
+"6",1187997,"X000594320","Z670 .C79 1966","ALDERMAN","An introduction to librarianship,","Corbett, Edmund V.",1966,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,NA,NA,0
+"7",1188005,"1188005-1001","Z670 .G45 1963","ALDERMAN","Rahnum??e kit?bd?ri.","G?h?ul?m Ras?l",1963,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,NA,NA,0
+"8",1188007,"X030452450","Z670 .L6 1935 v.2","ALDERMAN","The business of bookbinding for librarians, publishers, students, binders, and the general reader,","(Alexander John), Philip, Alexander J.",1935,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,NA,NA,0
+"9",1188013,"X030452451","Z670 .M3 1924 no. 29","ALDERMAN","Library work with children,","Hunt, Clara Whitehill,",1924,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,NA,NA,0
+"10",1188012,"X030452452","Z670 .M3 1925 no. 18","ALDERMAN","Classification,","Bacon, Corinne,",1925,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,NA,NA,0
+"11",1188009,"X030452454","Z670 .M3 1928 no. 4","ALDERMAN","The college and university library,","(James Ingersoll), Wyer, J. I.",1928,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,NA,NA,0
+"12",1188010,"X030452455","Z670 .M3 1930 no. 10","ALDERMAN","Elements of the library plan.","(Herbert Simon), Hirshberg, Herbert S.",1930,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,NA,NA,0
+"13",1188011,"X030452453","Z670 .M3 1930 no. 16","ALDERMAN","Book selection,","Bascom, Elva Lucile,",1930,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,NA,NA,0
+"14",1231139,"X001566263","Z670 .M64 1952 Index","ALDERMAN","Handbuch der Bibliothekswissenschaft,","Milkau, Fritz,",1952,"9/30/08","10/19/17",0,1,0,5,"2",FALSE,NA,NA,0
+"15",4797998,"X030509204","Z670 .M64 1961 Registerband","ALDERMAN","Handbuch des Büchereiwesens.","Langfeldt, Johannes,",1961,"12/1/08","1/1/00",0,0,0,1,"2",TRUE,NA,NA,0
+"16",4797217,"X030509176","Z670 .M64 Halbbd.1","ALDERMAN","Handbuch des Büchereiwesens /","",1973,"11/25/08","6/22/10",0,2,0,2,"2",TRUE,NA,NA,0
+"17",4474952,"X030217478","Z670 .N29 2007","ALDERMAN","les lectures d'un libertin érudit / La bibliothèque parisienne de Gabriel Naudé en 1630 :","Boeuf, Estelle.",2007,"3/20/07","8/5/08",0,0,0,1,"2",FALSE,NA,NA,0
+"18",1277045,"X000423051","Z670 .S74","ALDERMAN","The library; an introduction for library assistants.","San Francisco Bay Region Chapter. Special Libraries Association.",1967,"6/30/96","1/1/00",1,1,0,1,"2",FALSE,NA,NA,0
+"19",755799,"X030488283","Z670.5 .M6 1968","ALDERMAN","a systems approach Library effectiveness:","Morse, Philip M. (Philip McCord),",1968,"10/15/08","1/1/00",0,0,0,1,"2 14",FALSE,NA,NA,0
