@@ -1,0 +1,322 @@
+"","Catalog.Id","Item.Barcode","Item.Call.Number","Item.Library.Code","Catalog.Title","Catalog.Author","Catalog.Pub.Year","Item.Created.Date","Item.Last.Checkout.Date","NumInhouseUses","NumCheckouts","NumRenewals","Duplicates","Bib.Marc.Subfield.Data","MultiVolume","modelC","MODEL","LiaisonRecommendation"
+"1",1256108,"X001314797","PH5031 .S25 1988","ALDERMAN","Basque /","Saltarelli, Mario.",1988,"6/30/96","11/29/18",4,57,13,1,"2",FALSE,1,"1",0
+"2",1023266,"X000276904","PH2111 .B34 1965a","ALDERMAN","Learn Hungarian,","B·nhidi, Zolt·n.",1965,"6/29/96","5/7/18",7,65,8,2,"2",FALSE,2,"1",0
+"3",1378767,"X001640779","PH324 .E5 F7 1988","ALDERMAN","The Kalevala : epic of the Finnish people /","",1988,"6/30/96","4/24/17",3,43,15,1,"2",TRUE,3,"1",0
+"4",4369833,"X004899929","PH3281 .K8866 H3313 2006","ALDERMAN","War & war /","Krasznahorkai, L·szlÛ.",2006,"5/30/06","12/27/15",1,25,5,1,"2",FALSE,4,"1",0
+"5",6909766,"X031772978","PH3351 .S592 P513 2016","ALDERMAN","Iza's ballad /","SzabÛ, Magda,",2016,"11/17/16","4/9/18",0,5,1,1,"2",FALSE,5,"1",0
+"6",7648316,"X032220707","PH5339 .A8 N4813 2017","ALDERMAN","Nevada days : a novel /","Atxaga, Bernardo,",2017,"7/23/18","9/15/18",0,1,0,1,"2",FALSE,6,"1",0
+"7",7344180,"X032068510","PH3281 .K8866 A2 2017","ALDERMAN","The world goes on /","Krasznahorkai, L·szlÛ,",2017,"1/17/18","12/3/18",0,1,1,1,"2 10",FALSE,7,"1",0
+"8",7248515,"X031817557","PH3351 .S592 K313 2017","ALDERMAN","Katalin Street /","SzabÛ, Magda,",2017,"10/4/17","2/18/18",0,2,1,1,"2",FALSE,8,"1",0
+"9",5238932,"X030743559","PH5035 .E95 2010","ALDERMAN","Outlines of Basque grammar /","Eys, W. J. van (Willem J.),",2010,"10/28/10","4/23/18",0,11,17,1,"2",FALSE,9,"1",0
+"10",6913665,"X031773000","PH3213 .B596 N5613 2016","ALDERMAN","The dispossessed : a novel /","BorbÈly, Szil·rd,",2016,"11/30/16","6/13/17",0,3,5,1,"2",FALSE,10,"1",0
+"11",7348543,"X031842189","PH666.21 .I77 M4413 2015b","ALDERMAN","The man who spoke Snakish /","Kivir‰hk, Andrus,",2015,"1/29/18","7/2/18",0,1,5,1,"2",FALSE,11,"1",0
+"12",5580596,"X031195089","PH3281 .K8866 S2813 2012","ALDERMAN","Satan tango /","Krasznahorkai, L·szlÛ.",2012,"3/21/12","7/22/18",0,8,7,1,"2",FALSE,12,"1",0
+"13",6948255,"X031804125","PH5339 .S16 L5418 2016","ALDERMAN","La educaciÛn de Lili /","Saizarbitoria, RamÛn,",2016,"2/14/17","4/14/17",0,2,2,1,"2",TRUE,13,"1",0
+"14",1032888,"X000496443","PH5035 .L58 1949","ALDERMAN","La lengua vasca; gram·tica, conversaciÛn, diccionario vasco-castellaÒo y castellaÒko-vasco.","LÛpez Mendiz·bal, Isaac,",1949,"6/29/96","12/7/18",2,45,102,1,"2",FALSE,14,"1",0
+"15",6909695,"X031741418","PH5339 .U55 E5518 2016","ALDERMAN","La hora de despertarnos juntos /","Uribe Urbieta, Kirmen,",2016,"11/17/16","4/13/17",0,2,1,1,"2",FALSE,15,"1",0
+"16",6948261,"X031804134","PH5339 .S16 B5418 2015","ALDERMAN","Amor y guerra /","Saizarbitoria, RamÛn.",2015,"2/14/17","4/14/17",0,2,2,1,"2",FALSE,16,"1",0
+"17",3779611,"X004561329","PH3281 .M35 G94 2001","CLEMONS","Embers /","M·rai, S·ndor,",2001,"10/1/01","3/18/17",2,23,1,1,"3",TRUE,17,"1",0
+"18",2054243,"X002161057","PH3281 .K3815 S6713 1992","ALDERMAN","Fateless /","KertÈsz, Imre,",1992,"6/30/96","9/10/15",3,33,2,1,"2",FALSE,18,"1",0
+"19",6171184,"X031230120","PH3213 .B24 M4213 2013","ALDERMAN","The Transylvanian trilogy. Book three, They were divided /","B·nffy, MiklÛs,",2013,"12/17/13","2/23/18",0,4,4,1,"2",FALSE,19,"1",0
+"20",6915172,"X031798131","PH3213 .B596 A2 2016","ALDERMAN","Berlin-Hamlet /","BorbÈly, Szil·rd,",2016,"12/2/16","12/17/16",0,1,0,1,"2",FALSE,20,"1",0
+"21",6909651,"X031772968","PH356 .I78 K8313 2016","ALDERMAN","The weaver : a novel /","It‰ranta, Emmi,",2016,"11/16/16","11/22/16",0,1,0,1,"2",FALSE,21,"1",0
+"22",2225290,"X002311080","PH5177 .E5 O9 1992","ALDERMAN","Oxford photo dictionary : Ingelesera-Euskera /","",1992,"7/1/96","3/9/16",1,31,0,1,"2",FALSE,22,"1",0
+"23",6162380,"X031600861","PH3281 .K8866 S4513 2013","ALDERMAN","Seiobo there below /","Krasznahorkai, L·szlÛ.",2013,"12/4/13","4/19/17",0,4,25,1,"2",FALSE,23,"1",0
+"24",6163422,"X031580626","PH3213 .B24 M413 2013","ALDERMAN","The Transylvanian trilogy.","B·nffy, MiklÛs,",2013,"12/11/13","2/23/18",0,2,1,1,"2",FALSE,24,"1",0
+"25",6948262,"X031741435","PH5397 .E8 O97 2012","ALDERMAN","Our wars : short fiction on Basque conflicts /","",2012,"2/14/17","2/24/17",1,0,0,1,"2",FALSE,25,"1",0
+"26",4678561,"X030278564","PH135 .K35 2008","ALDERMAN","Finnish : an essential grammar /","Karlsson, Fred.",2008,"1/11/08","12/11/18",1,9,13,1,"2",FALSE,26,"1",0
+"27",6076085,"X031603351","PH5339 .S16 M3718 2013","ALDERMAN","Martutene /","Saizarbitoria, RamÛn.",2013,"6/5/13","4/14/17",0,3,5,1,"2",FALSE,27,"1",0
+"28",5823283,"X030852663","PH5085 .A77 2012","ALDERMAN","Morphotactics : Basque auxiliaries and the structure of spellout /","Arregi, Karlos.",2012,"10/23/12","5/29/17",1,3,7,1,"2",FALSE,28,"1",0
+"29",2506281,"X002686524","PH5024 .T69 1995","ALDERMAN","Towards a history of the Basque language /","",1995,"7/1/96","1/5/17",4,26,7,1,"2",FALSE,29,"1",0
+"30",3590840,"X004401077","PH3291 .N297 S9413 2000","ALDERMAN","Love : a novel /","N·das, PÈter,",2000,"12/19/00","1/24/17",1,19,0,1,"2 3",FALSE,30,"1",0
+"31",6243430,"X031648067","PH5339 .A8 Z3318 2010","ALDERMAN","Siete casas en Francia /","Atxaga, Bernardo.",2010,"4/14/14","5/15/17",0,1,5,1,"2",FALSE,31,"1",0
+"32",4326903,"X004835254","PH3351 .S592 A7413 2005","ALDERMAN","The door /","SzabÛ, Magda,",2005,"11/10/05","11/17/17",0,11,9,1,"2",FALSE,32,"1",0
+"33",5502254,"X031194692","PH3291 .N297 P37513 2011","CLEMONS","Parallel stories /","N·das, PÈter,",2011,"11/30/11","5/14/18",0,2,14,1,"3",FALSE,33,"1",0
+"34",4244229,"X004767731","PH3351 .S86 U813 2002","ALDERMAN","Journey by moonlight /","Szerb, Antal,",2005,"5/4/05","4/5/17",1,12,1,1,"2",FALSE,34,"1",0
+"35",6160990,"X031580900","PH5339 .U55 M8718 2013","ALDERMAN","Lo que mueve el mundo /","Uribe Urbieta, Kirmen,",2013,"11/25/13","4/25/16",0,1,0,1,"2",FALSE,35,"1",0
+"36",2725444,"X004053736","PH3291 .N297 E413 1997b","ALDERMAN","A book of memories /","N·das, PÈter,",1997,"10/15/97","9/28/10",2,29,0,1,"2",FALSE,36,"1",0
+"37",6071884,"X031611491","PH3281 .K3815 Z46 2013","ALDERMAN","Dossier K /","KertÈsz, Imre,",2013,"8/12/13","5/12/16",1,1,5,2,"2",FALSE,37,"1",0
+"38",6138239,"X031614961","PH355 .C34 H4713 2013","ALDERMAN","Mr Darwin's gardener /","Carlson, Kristina,",2013,"10/8/13","2/16/15",1,2,0,1,"2",FALSE,38,"1",0
+"39",4135493,"X004805408","PH3281 .M35 V413 2004","ALDERMAN","Casanova in Bolzano /","M·rai, S·ndor,",2004,"12/14/04","12/15/15",1,18,2,2,"2 3",TRUE,39,"1",0
+"40",6426374,"X031719562","PH5339 .A8 O2317 2007","ALDERMAN","Obabakoak /","Atxaga, Bernardo,",2007,"11/5/14","3/23/17",0,0,0,1,"2",FALSE,40,"1",0
+"41",4672689,"X030255720","PH706 .S23 2007","ALDERMAN","Saami linguistics /","",2007,"12/11/07","4/28/17",4,7,3,1,"2",FALSE,41,"1",0
+"42",5597499,"X031195158","PH356 .P85 T6813 2011","ALDERMAN","True /","Pulkkinen, Riikka,",2011,"4/25/12","5/5/15",2,3,6,1,"2",TRUE,42,"1",0
+"43",1862580,"X032019384","PH3321 .P43 N5 1991","ALDERMAN","Night song of the personal shadow : selected poems /","Petri, Gyˆrgy.",1991,"3/1/18","3/2/18",0,0,0,1,"2 14",FALSE,43,"1",0
+"44",4135845,"X004807523","PH3281 .K3815 F4513 2004","ALDERMAN","Liquidation /","KertÈsz, Imre,",2004,"11/23/04","6/4/18",1,18,0,2,"2 3",TRUE,44,"1",0
+"45",6126719,"X031614739","PH3213 .B518 S5613 2013","ALDERMAN","The sinistra zone /","Bodor, ¡d·m.",2013,"9/6/13","8/5/14",0,0,0,1,"2",FALSE,45,"1",0
+"46",5278914,"X030793921","PH3281 .K85 P313 2010","ALDERMAN","Skylark /","Kosztol·nyi, Dezs?,",2010,"1/25/11","5/10/14",0,4,0,1,"2",FALSE,46,"1",0
+"47",4780089,"X030457314","PH3291 .N297 E413 2008","ALDERMAN","A book of memories : a novel /","N·das, PÈter,",2008,"10/7/08","10/20/16",1,4,7,1,"2",FALSE,47,"1",0
+"48",6075774,"X031614516","PH5339 .S16 G6718 2002","ALDERMAN","Gu·rdame bajo tierra /","Saizarbitoria, RamÛn.",2002,"6/4/13","7/15/16",0,1,4,1,"2",TRUE,48,"1",0
+"49",4717726,"X030407651","PH3382.14 .R34 F4413 2007","CLEMONS","The white king /","Dragom·n, Gyˆrgy,",2007,"5/8/08","2/2/18",0,3,0,1,"3",TRUE,49,"1",0
+"50",4899780,"X030562316","PH666.31 .N75 B7413 2009","ALDERMAN","Brecht at night /","Unt, Mati.",2009,"8/12/09","3/12/17",0,1,0,1,"2",FALSE,50,"1",0
+"51",4320085,"X004902906","PH3281 .K3815 Z72 2005","ALDERMAN","Imre KertÈsz and Holocaust literature /","",2005,"10/11/05","5/14/13",1,10,2,1,"2",FALSE,51,"1",0
+"52",4741318,"X030259613","PH666.31 .N75 D6613 2008","ALDERMAN","Diary of a blood donor /","Unt, Mati.",2008,"6/24/08","4/16/17",0,2,0,1,"2",TRUE,52,"1",0
+"53",4807656,"X030473573","PH3281 .M35 E8613 2008","ALDERMAN","Esther's inheritance /","M·rai, S·ndor,",2008,"12/19/08","12/15/15",0,2,0,1,"2",FALSE,53,"1",0
+"54",5290742,"X030822796","PH3281 .M35 I413 2011","CLEMONS","Portraits of a marriage /","M·rai, S·ndor,",2011,"3/1/11","8/12/11",0,3,0,1,"3",FALSE,54,"1",0
+"55",5723457,"X030844149","PH5339 .A8 Z3313 2011","ALDERMAN","Seven houses in France /","Atxaga, Bernardo.",2011,"8/2/12","11/20/12",0,0,0,1,"2",FALSE,55,"1",0
+"56",5695876,"X030842998","PH5339 .U55 B5518 2009","ALDERMAN","Bilbao-New York-Bilbao /","Uribe Urbieta, Kirmen,",2010,"5/30/12","3/22/13",0,0,0,1,"2",FALSE,56,"1",0
+"57",4455399,"X030111186","PH133 .G73 2006","ALDERMAN","Grammar from the human perspective : case, space and person in Finnish /","",2006,"1/16/07","8/29/17",0,2,0,1,"2",FALSE,57,"1",0
+"58",5723460,"X030843721","PH5339 .A8 A2 2009","ALDERMAN","Two Basque stories /","Atxaga, Bernardo.",2009,"8/2/12","10/11/12",1,0,0,1,"2",FALSE,58,"1",0
+"59",4635665,"X030275899","PH355 .P22 H69 2007","ALDERMAN","The howling miller /","Paasilinna, Arto,",2007,"10/3/07","5/21/15",0,3,0,1,"2",FALSE,59,"1",0
+"60",1649875,"X001937039","PH2640 .O67 1989","ALDERMAN","Angol-Magyar kÈziszÛt·r = a concise English-Hungarian dictionary /","Orsz·gh, L·szlÛ.",1989,"6/30/96","5/14/13",0,23,3,1,"2",FALSE,60,"1",0
+"61",4636152,"X030261752","PH3291 .N297 A2 2007","ALDERMAN","Fire and knowledge : fiction and essays /","N·das, PÈter,",2007,"10/23/07","2/23/17",0,3,0,2,"2 3",FALSE,61,"1",0
+"62",5723461,"X031214806","PH5397 .E3 S59 2007","ALDERMAN","Six Basque poets /","",2007,"8/2/12","9/6/12",0,0,0,1,"2",FALSE,62,"1",0
+"63",3883854,"X004631055","PH2361 .K55 2002","ALDERMAN","The syntax of Hungarian /","Kiss, Katalin ….",2002,"9/10/02","4/2/18",0,6,0,1,"2",FALSE,63,"1",0
+"64",4605556,"X030103217","PH3281 .K7558 V313 2007","ALDERMAN","The city builder /","Konr·d, Gyˆrgy,",2007,"7/3/07","6/14/16",0,1,0,1,"2",TRUE,64,"1",0
+"65",5723458,"X030843733","PH5339 .A8 Z7213 2005","ALDERMAN","Bernardo Atxaga : Basque literature from the end of the Franco era to the present /","Kortazar, Jon.",2005,"8/2/12","10/11/12",1,0,0,1,"2",FALSE,65,"1",0
+"66",4742521,"X030204459","PH3304 .J313 2004","ALDERMAN","John the valiant /","Pet?fi, S·ndor,",2004,"6/30/08","5/11/14",1,3,3,1,"2",FALSE,66,"1",0
+"67",2716614,"X004157732","PH3281 .K3815 K313 1997","ALDERMAN","Kaddish for a child not born /","KertÈsz, Imre,",1997,"9/11/97","1/31/17",1,14,0,1,"2",FALSE,67,"1",0
+"68",674949,"X001205461","PH131 .K2913 1983","ALDERMAN","Finnish grammar /","Karlsson, Fred.",1983,"6/29/96","12/15/16",0,20,0,1,"2",FALSE,68,"1",0
+"69",4292258,"X004913085","PH3281 .K3815 F45 2003","ALDERMAN","Felsz·mol·s : regÈny /","KertÈsz, Imre,",2003,"7/13/05","6/4/18",0,2,0,1,"2",TRUE,69,"1",0
+"70",5052956,"X030377303","PH3351 .V233 A6313 2009","CLEMONS","The book of fathers : a novel /","V·mos, MiklÛs.",2009,"10/26/09","5/21/10",0,3,0,1,"3",FALSE,70,"1",0
+"71",4299385,"X004925155","PH5397 .E8 A56 2004","ALDERMAN","An anthology of Basque short stories /","",2004,"8/23/05","5/10/14",1,5,0,1,"2",FALSE,71,"1",0
+"72",4292268,"X004913090","PH3281 .K3815 K3 2003","ALDERMAN","Kaddis a meg nem sz¸letett gyermekÈrt /","KertÈsz, Imre,",2003,"7/13/05","1/31/17",1,2,2,1,"2",FALSE,72,"1",0
+"73",2464496,"X002668304","PH3241 .E85 K513 1995","ALDERMAN","A little Hungarian pornography /","Esterh·zy, PÈter,",1995,"7/1/96","5/11/14",1,17,3,1,"2",FALSE,73,"1",0
+"74",2224221,"X002304875","PH5031 .G46 1993","ALDERMAN","Generative studies in Basque linguistics /","",1993,"7/1/96","11/29/18",1,13,11,1,"2",FALSE,74,"1",0
+"75",4303425,"X004833863","PH3281 .K3815 S6713 2005","ALDERMAN","Fatelessness /","KertÈsz, Imre,",2005,"9/14/05","5/11/14",2,3,3,1,"2",FALSE,76,"1",0
+"76",7369380,"X031849227","PH5339 .A7 A2 2017","ALDERMAN","Downhill ; and Rock & core /","Aresti, Gabriel",2017,"2/28/18","1/1/00",0,0,0,1,"2",FALSE,77,"1",0
+"77",4288236,"X004860537","PH3213 .D53 A6 2005","ALDERMAN","Love and other stories /","DÈry, Tibor,",2005,"6/21/05","4/14/15",0,2,0,1,"2",FALSE,78,"1",0
+"78",4685416,"X030251830","PH355 .V37 H3613 2008","ALDERMAN","The parson's widow /","Vartio, Marja-Liisa.",2008,"2/5/08","6/22/12",0,1,0,1,"2",FALSE,79,"1",0
+"79",5158120,"X030690782","PH3241 .E85 S4513 2010","CLEMONS","Not art : a novel /","Esterh·zy, PÈter,",2010,"5/17/10","5/18/10",0,0,0,1,"3",FALSE,80,"1",0
+"80",3949010,"X004719038","PH666.21 .R6 P3513 2003","ALDERMAN","Treading air /","Kross, Jaan.",2003,"6/24/03","12/2/16",0,3,0,1,"2",FALSE,81,"1",0
+"81",2404304,"X002601827","PH355 .P22 J313 1995","ALDERMAN","The year of the hare /","Paasilinna, Arto,",1995,"7/1/96","9/26/18",1,11,0,1,"2",FALSE,82,"1",0
+"82",5128592,"X030707044","PH5281 .W75 2009","ALDERMAN","Writers in between languages : minority literatures in the global scene /","",2009,"4/19/10","4/22/10",1,0,0,1,"2",FALSE,83,"1",0
+"83",3556409,"X004435651","PH2131 .S55 2000","ALDERMAN","The phonology of Hungarian /","Sipt·r, PÈter.",2000,"8/10/00","4/2/18",0,5,1,1,"2",FALSE,84,"1",0
+"84",71183,"X001057333","PH325 .K3 1985","ALDERMAN","Kalevala 1835-1985 : the national epic of Finland /","",1985,"6/28/96","9/26/18",0,14,0,1,"2",FALSE,85,"1",0
+"85",3534277,"X004418891","PH3281 .K7558 K6613 2000","ALDERMAN","Stonedial /","Konr·d, Gyˆrgy,",2000,"5/16/00","4/2/17",0,6,0,1,"2 3",FALSE,87,"1",0
+"86",4882787,"X030569243","PH356 .H578 E8813 2009","CLEMONS","When I forgot /","Hirvonen, Elina,",2009,"6/10/09","6/16/09",0,1,0,1,"3",FALSE,88,"1",0
+"87",4292276,"X004913096","PH3281 .K638 B84 1993","ALDERMAN","Budapest : regÈny /","KÛbor, Tam·s,",1993,"7/13/05","12/21/16",1,3,0,1,"2",FALSE,89,"1",0
+"88",2014547,"X002186954","PH5339 .A8 O313 1992b","ALDERMAN","Obabakoak : a novel /","Atxaga, Bernardo.",1992,"6/30/96","2/6/18",1,11,1,1,"2",FALSE,90,"1",0
+"89",2764597,"X004151599","PH3241 .E85 N613 1997","ALDERMAN","She loves me /","Esterh·zy, PÈter,",1997,"2/4/98","5/14/18",0,7,3,1,"2",FALSE,91,"1",0
+"90",6727450,"X031759511","PH5023 .T63513 2015","ALDERMAN","Mythology and ideology of the Basque language /","Tovar, Antonio,",2015,"5/9/16","1/1/00",0,0,0,1,"2",FALSE,92,"1",0
+"91",4291241,"X004913010","PH3241 .H3184 K75 1993","ALDERMAN","A krist·lynÈz?k /","Hars·nyi, K·lm·n,",1993,"7/6/05","7/19/17",0,1,1,1,"2",FALSE,93,"1",0
+"92",6727454,"X031759524","PH5397 .E8 U48 2014","ALDERMAN","Ultrasounds : Basque women writers on motherhood /","",2014,"5/9/16","1/1/00",0,0,0,1,"2",FALSE,94,"1",0
+"93",4819963,"X030516664","PH5339 .A8 H5513 2009","CLEMONS","The accordionist's son /","Atxaga, Bernardo.",2009,"2/11/09","2/19/09",0,0,0,1,"3",FALSE,95,"0",0
+"94",4511842,"X030200247","PH3281 .K7558 Z46 2007","CLEMONS","A guest in my own country : a Hungarian life /","Konr·d, Gyˆrgy,",2007,"4/26/07","7/23/09",0,2,0,1,"3",FALSE,96,"0",0
+"95",1956129,"X002111515","PH3281 .K85 E313 1991","ALDERMAN","Anna ?Edes /","Kosztol·nyi, Dezs?,",1991,"6/30/96","5/20/13",3,15,1,1,"2",FALSE,97,"0",0
+"96",3905588,"X004757022","PH3281 .M35 F613 2002","CLEMONS","Memoir of Hungary, 1944-48 : Sandor Marai /","M·rai, S·ndor,",2002,"1/13/04","8/12/11",0,5,0,1,"2 3",TRUE,98,"0",0
+"97",2483917,"X002240148","PH326 .D8 1995","ALDERMAN","Finnish folk poetry and the Kalevala /","DuBois, Thomas A. (Thomas Andrew),",1995,"7/1/96","9/26/18",1,8,0,1,"2",FALSE,99,"0",0
+"98",4688926,"X030249770","PH3281 .K3815 D4813 2008","ALDERMAN","Detective story /","KertÈsz, Imre,",2008,"2/26/08","1/24/09",1,2,0,2,"2 3",TRUE,100,"0",0
+"99",2811129,"X004210798","PH3241 .E85 H3413 1998","ALDERMAN","The glance of countess Hahn-Hahn (Down the Danube) /","Esterh·zy, PÈter,",1998,"7/7/98","7/24/17",0,6,0,1,"2",FALSE,101,"0",0
+"100",4019361,"X004770700","PH3241 .E85 H3713 2004","ALDERMAN","Celestial harmonies : a novel /","Esterh·zy, PÈter,",2004,"3/30/04","6/27/07",0,8,0,2,"2 3",FALSE,102,"0",0
+"101",6605596,"X031713155","PH5339 .A7185 B5818 2014","ALDERMAN","Debe decirse dos veces /","Arregi, Rikardo,",2014,"7/28/15","1/1/00",0,0,0,1,"2",FALSE,103,"0",0
+"102",4792748,"X030498944","PH3213 .B2976 N9413 2008","CLEMONS","Tranquility /","Bartis, Attila.",2008,"11/17/08","11/18/08",0,0,0,1,"3",FALSE,104,"0",0
+"103",4244806,"X004833111","PH346 .H69 2005","ALDERMAN","How to address the fog : XXV Finnish poems, 1978-2002  /","",2005,"5/9/05","6/22/12",0,1,0,1,"2",FALSE,105,"0",0
+"104",4690630,"X030278790","PH5339 .A8 H5513 2007","ALDERMAN","The accordionist's son /","Atxaga, Bernardo.",2007,"2/21/08","11/10/08",1,1,0,1,"2",FALSE,106,"0",0
+"105",2854623,"X006004345","PH5023 .V53 1997","ALDERMAN","CrÌtica del problema sobre el origen y prehistoria de la raza vasca /","Unamuno, Miguel de,",1997,"11/17/98","1/4/12",1,11,0,1,"2",FALSE,107,"0",0
+"106",4031977,"X004743890","PH666.21 .A6 O3413 2004","ALDERMAN","Everything brings everything back /","Kaplinski, Jaan,",2004,"5/19/04","8/29/13",0,1,0,1,"2",FALSE,108,"0",0
+"107",6244954,"X031648418","PH5339 .A8 N4818 2014","ALDERMAN","DÌas de Nevada /","Atxaga, Bernardo,",2014,"12/16/14","1/1/00",0,0,0,2,"2",FALSE,109,"0",0
+"108",6424360,"X031670779","PH5339 .Z72 Z47 2014","ALDERMAN","Epistolario de Pilar De Zubiaurre (1906-1970) / ediciÛn de Iker Gonz·lez-Allende.","",2014,"10/28/14","1/1/00",0,0,0,1,"2",FALSE,112,"0",0
+"109",6384018,"X031666659","PH355 .W8 T86 2013","ALDERMAN","A delicate shade of pink : the lives of Hella Wuolijoki and Salme Dutt in the service of revolution /","Tuomioja, Erkki.",2013,"9/2/14","1/1/00",0,0,0,1,"2",TRUE,113,"0",0
+"110",2330834,"X002560101","PH2640 .O95 1994","ALDERMAN","The Oxford-Duden pictorial Hungarian-English dictionary.","",1994,"7/1/96","5/14/13",1,12,3,1,"2",FALSE,115,"0",0
+"111",6244914,"X031649597","PH5339 .A8 A43 2013","ALDERMAN","Alfabeto de las pulgas y otros textos sueltos /","Atxaga, Bernardo.",2013,"4/22/14","1/1/00",0,0,0,1,"2",FALSE,116,"0",0
+"112",6244938,"X031615483","PH5339 .A8 B4418 2013","ALDERMAN","Memorias de una vaca /","Atxaga, Bernardo.",2013,"4/22/14","1/1/00",0,0,0,1,"2",FALSE,116,"0",0
+"113",3971774,"X004704686","PH3138 .J48 C66 2003","ALDERMAN","Contemporary Jewish writing in Hungary : an anthology /","",2003,"9/30/03","5/14/13",0,1,2,1,"2",TRUE,117,"0",0
+"114",6262357,"X031630906","PH5339 .D4 L513 2012","ALDERMAN","Linguae Vasconum Primitiae : The first fruits of the Basque language, 1545 /","Dechepare, Bernat.",2012,"5/28/14","1/1/00",0,0,0,1,"2",TRUE,118,"0",0
+"115",4372595,"X030033586","PH3213 .D256 B3515 2006","ALDERMAN","Balaton-Brigade : Erz‰hlung /","Dalos, Gyˆrgy.",2006,"6/13/06","4/6/10",1,0,0,1,"2",FALSE,119,"0",0
+"116",6244923,"X031624182","PH5339 .A8 A6 2012","ALDERMAN","Henry Bengoa Inventarium : (Lagun Galdu Baten Bila) /","Atxaga, Bernardo.",2012,"4/22/14","1/1/00",0,0,0,1,"2",FALSE,120,"0",0
+"117",267440,"X000377742","PH135 .L4","ALDERMAN","Basic course in Finnish.","Lehtinen, Meri K. Tuulikki.",1963,"6/28/96","5/29/12",3,23,0,1,"2",FALSE,121,"0",0
+"118",2522548,"X002719941","PH671 .E5 E874 1996","ALDERMAN","Estonian short stories /","",1996,"7/1/96","12/15/15",1,8,0,1,"2",FALSE,122,"0",0
+"119",6080321,"X031611211","PH5339 .C36 T9518 2013","ALDERMAN","Twist : seres intermitentes /","Cano, Harkaitz,",2013,"6/12/13","1/1/00",0,0,0,1,"2",TRUE,123,"0",0
+"120",2042075,"X002189327","PH401 .E1 W3 1992","ALDERMAN","A Way to measure time : contemporary finnish literature /","",1992,"6/30/96","11/15/15",0,9,0,1,"2",FALSE,125,"0",0
+"121",4511869,"X030200258","PH3281 .M35 Z4213 2007","CLEMONS","The rebels /","M·rai, S·ndor,",2007,"4/26/07","4/29/07",2,1,0,2,"2 3",FALSE,126,"0",0
+"122",4613745,"X030101906","PH355 .L489 T9413 2007","ALDERMAN","Dark paradise /","Liksom, Rosa.",2007,"8/7/07","8/7/07",0,0,0,1,"2",TRUE,127,"0",0
+"123",2954310,"X006107628","PH3281 .J64 A26 1999","ALDERMAN","The iron-blue vault : selected poems /","JÛzsef, Attila,",1999,"10/11/99","7/23/09",2,9,0,1,"2",FALSE,128,"0",0
+"124",6080448,"X030610599","PH5339 .C36 B4413 2010","ALDERMAN","Blade of light /","Cano, Harkaitz,",2010,"6/13/13","1/1/00",0,0,0,1,"2",FALSE,130,"0",0
+"125",238944,"X000323604","PH2640 .O715 1979","ALDERMAN","Magyar-angol kÈziszÛt·r = A concise Hungarian-English dictionary /","Orsz·gh, L·szlÛ.",1979,"6/28/96","4/24/14",0,14,3,1,"2",FALSE,131,"0",0
+"126",1789642,"X001878962","PH14 .D42 1990","ALDERMAN","The Uralic Protolanguage : a comprehensive reconstruction /","DÈcsy, Gyula.",1990,"6/30/96","12/15/16",1,7,0,1,"2",FALSE,132,"0",0
+"127",4291244,"X004913018","PH3281 .L64 K35 1978","ALDERMAN","Lesznai kÈpeskˆnyv : Lesznai Anna Ìr·sai, kÈpei Ès hÌmzÈsei / [÷ssze·llÌtotta: Gergely Tibor ; Az utÛszÛt Ìrta: Szabadi Judit Ès VezÈr ErzsÈbet ; FÈnykÈpezte: SzelÈnyi K·roly ; Tervezte: Mayer Gyula].","Lesznai, Anna.",1978,"7/6/05","7/15/17",0,1,42,1,"2",FALSE,133,"0",0
+"128",4291216,"X004913003","PH3281 .K7558 E5 2002","ALDERMAN","Elutaz·s Ès hazatÈrÈs : ˆnÈletrajzi regÈny /","Konr·d, Gyˆrgy,",2002,"7/6/05","4/6/10",0,0,0,1,"2",FALSE,134,"0",0
+"129",650449,"X000907395","PH3012 .C94 1984","CLEMONS","The Oxford history of Hungarian literature from the earliest times to the present /","Czig·ny, LÛr·nt.",1984,"6/29/96","7/2/14",0,11,0,1,"3 14",FALSE,135,"0",0
+"130",2106180,"X002182200","PH3017 .H86 1993","ALDERMAN","Hungarian literature /","",1993,"6/30/96","5/1/14",0,8,7,1,"2",FALSE,136,"0",0
+"131",4233523,"X004854525","PH3441 .E3 I52 2003","ALDERMAN","In quest of the 'miracle stag' : the poetry of Hungary.","",2003,"3/29/05","9/24/08",1,1,0,1,"2",FALSE,137,"0",0
+"132",6080323,"X031719535","PH5339 .C36 B4418 2006","ALDERMAN","El filo de la hierba /","Cano, Harkaitz,",2006,"6/12/13","1/1/00",0,0,0,1,"2",FALSE,138,"0",0
+"133",6080302,"X030610695","PH5339 .S16 R6713 2006","ALDERMAN","Rossetti's obsession /","Saizarbitoria, RamÛn.",2006,"6/12/13","1/1/00",1,0,0,1,"2",TRUE,138,"0",0
+"134",4604864,"X030267580","PH3351 .S592 A84 1967","ALDERMAN","AlvÛk fut·sa /","SzabÛ, Magda,",1967,"6/29/07","5/14/18",0,1,3,1,"2",FALSE,139,"0",0
+"135",4395485,"X030105758","PH3213 .D256 K6713 2006","ALDERMAN","The circumcision /","Dalos, Gyˆrgy.",2006,"9/12/06","9/13/06",0,0,0,1,"2",FALSE,140,"0",0
+"136",4392088,"X004897695","PH355 .K5865 H8513 2006","ALDERMAN","A fool's paradise /","Konkka, Anita,",2006,"8/29/06","8/31/06",0,0,0,1,"2",FALSE,141,"0",0
+"137",4347347,"X004901117","PH666.31 .N75 O6713 2006","ALDERMAN","Things in the night /","Unt, Mati.",2006,"2/13/06","2/24/06",1,1,0,1,"2",FALSE,142,"0",0
+"138",6080325,"X031605165","PH5339 .C36 B5418 2004","ALDERMAN","Jazz y Alaska en la misma frase /","Cano, Harkaitz,",2004,"6/12/13","1/1/00",0,0,0,1,"2",FALSE,143,"0",0
+"139",5680960,"X030842953","PH5339 .A8 G5918 2007","ALDERMAN","El hombre solo /","Atxaga, Bernardo.",2007,"5/23/12","1/1/00",0,0,0,1,"2",TRUE,144,"0",0
+"140",6735959,"X031759755","PH5339 .A8 G5918 1994","ALDERMAN","El hombre solo /","Atxaga, Bernardo.",1994,"6/10/16","1/1/00",0,0,0,1,"2",TRUE,145,"0",0
+"141",1942803,"X032019408","PH3441 .G3 I58 1991","ALDERMAN","Inzwischen fallen die Reiche : Poesie aus Ungarn /","",1990,"6/30/96","3/2/18",0,4,0,1,"2",FALSE,146,"0",0
+"142",5723421,"X030875828","PH5339 .A8 Z76 2005","ALDERMAN","Waking the hedgehog : the literary universe of Bernardo Atxaga /","Olaziregi, Mari Jose.",2005,"8/1/12","1/1/00",1,0,0,1,"2",FALSE,147,"0",0
+"143",5680927,"X030843014","PH5339 .A8 S6418 2005","ALDERMAN","El hijo del acordeonista /","Atxaga, Bernardo.",2005,"5/23/12","1/1/00",0,0,0,1,"2",FALSE,148,"0",0
+"144",194052,"X000086918","PH5031 .W54","ALDERMAN","Prolegomena to a grammar of Basque /","Wilbur, Terence H.",1979,"6/28/96","3/9/16",0,9,3,1,"2",FALSE,149,"0",0
+"145",1641081,"X001619381","PH3281 .M15 E513 1989","ALDERMAN","The tragedy of man /","Mad·ch, Imre,",1989,"6/30/96","8/9/17",0,4,7,1,"2",FALSE,150,"0",0
+"146",2431521,"X002610075","PH3351 .S592 A7413 1994","ALDERMAN","The door : a novel /","SzabÛ, Magda,",1994,"7/1/96","9/6/16",0,3,5,1,"2",FALSE,151,"0",0
+"147",2959837,"X004358880","PH3301 .A616 1999","ALDERMAN","La grande triade della poesia rivoluzionaria ungherese : Pet?fi, Ady, JÛzsef /","",1999,"10/28/99","5/12/13",1,1,1,1,"2",FALSE,152,"0",0
+"148",1971708,"X002444122","PH5339 .A8 O3 1990","ALDERMAN","Obabakoak /","Atxaga, Bernardo.",1990,"6/30/96","12/5/12",0,8,1,1,"2",FALSE,153,"0",0
+"149",2078542,"X002212816","PH355 .S73 W55 1992","ALDERMAN","Wings of hope and daring : selected poems /","Stenberg, Eira,",1992,"6/30/96","3/2/18",0,2,0,1,"2",FALSE,154,"0",0
+"150",2506347,"X002684762","PH355 .K823 D6613 1995","ALDERMAN","DoÒa Quixote and other citizens ; Gold of Ophir /","Krohn, Leena.",1995,"7/1/96","1/7/04",0,15,0,1,"2",TRUE,155,"0",0
+"151",2300826,"X002492191","PH610 .M67 1994","ALDERMAN","Colloquial Estonian /","Moseley, Chris.",1994,"7/1/96","4/6/11",0,8,0,1,"2",FALSE,156,"0",0
+"152",1932563,"X002157819","PH666.21 .R6 K413 1992","ALDERMAN","The Czar's madman /","Kross, Jaan.",1992,"6/30/96","11/27/09",2,10,0,1,"2",FALSE,157,"0",0
+"153",2043911,"X002162268","PH3321 .P46 A3 1992","ALDERMAN","Conversations with Sheryl Sutton : the novel of a dialogue /","Pilinszky, J·nos.",1992,"6/30/96","6/12/18",1,1,0,1,"2",FALSE,158,"0",0
+"154",319903,"X000763299","PH609 .T33 1973 PT.1","ALDERMAN","Standard Estonian grammar.","Tauli, Valter.",1973,"6/28/96","12/11/18",3,14,8,2,"2",TRUE,159,"0",0
+"155",4291261,"X004913011","PH3281 .K7558 U38 1991","ALDERMAN","Az ˙jj·sz¸letÈs melankÛli·ja /","Konr·d, Gyˆrgy,",1991,"7/6/05","4/6/10",0,0,0,1,"2",FALSE,160,"0",0
+"156",2019205,"X002163332","PH3321 .R27 T313 1992","ALDERMAN","Foamy sky : the major poems of MiklÛs RadnÛti /","RadnÛti, MiklÛs,",1992,"6/30/96","2/13/17",1,2,5,1,"2 14",TRUE,161,"0",0
+"157",2262571,"X002396546","PH508.4 .K665 1992","ALDERMAN","Po?zii?a pechali : karel?skie obri?adovye plachi /","Konkka, U. S.",1992,"7/1/96","10/22/16",1,2,0,1,"2",FALSE,162,"0",0
+"158",153518,"X000464669","PH5023 .T635","ALDERMAN","MitologÌa e ideologÌa sobre la lengua vasca : historia de los estudios sobre ella /","Tovar, Antonio.",1980,"6/28/96","12/4/13",0,9,5,1,"2",FALSE,163,"0",0
+"159",4848951,"X030548998","PH5024 .M4913 2008","ALDERMAN","Koldo Mitxelena : selected writings of a Basque scholar /","Michelena, Luis.",2008,"3/9/09","1/1/00",1,0,0,1,"2",FALSE,164,"0",0
+"160",4826707,"X030519272","PH5339 .U645 K6313 2008","ALDERMAN","The red notebook /","Urretavizcaya, Arantxa.",2008,"3/4/09","1/1/00",0,0,0,1,"2",FALSE,165,"0",0
+"161",3493068,"X004274730","PH2640 .O715 1959","ALDERMAN","Magyar-angol kÈziszÛt·r.","Orsz·gh, L·szlÛ.",1959,"1/31/00","5/1/15",1,11,9,1,"2",FALSE,166,"0",0
+"162",2929831,"X004323512","PH3321 .R27 Z77 1999","ALDERMAN","The life and poetry of MiklÛs RadnÛti : essays /","",1999,"7/21/99","5/31/12",1,0,0,1,"2",FALSE,167,"0",0
+"163",2445085,"X002647465","PH3291 .P336 A26 1994","ALDERMAN","Souls and secrets : Hasidic stories /","Patai, JÛzsef,",1995,"7/1/96","8/17/15",2,1,0,1,"2",FALSE,168,"0",0
+"164",757769,"X000422284","PH355 .W3 I36 1966","ALDERMAN","The Roman; the memoirs of Minutus Lausus Manilianus, who has won the insignia of a triumph, who has the rank of Consul, who is chairman of the Priests' Collegium of the God Vespasian and a member of the Roman Senate","Waltari, Mika,",1966,"6/29/96","7/2/11",1,15,0,1,"2",FALSE,169,"0",0
+"165",3998054,"X004743079","PH355 .S5445 S46 2003","ALDERMAN","Not before sundown /","Sinisalo, Johanna,",2003,"1/5/04","10/17/04",0,1,0,1,"2",FALSE,170,"0",0
+"166",1993126,"X002135804","PH666.21 .A6 A26 1992","ALDERMAN","The wandering border /","Kaplinski, Jaan,",1991,"6/30/96","8/29/13",0,4,0,1,"2",FALSE,171,"0",0
+"167",267799,"X000158580","PH665 .T33 P6213 1978","ALDERMAN","The misadventures of the new Satan /","Tammsaare, A. H. (Anton Hansen),",1978,"6/28/96","12/14/18",0,3,11,1,"2",FALSE,172,"0",0
+"168",2640447,"X004055726","PH3441 .E3 I5 1996","ALDERMAN","In quest of the 'miracle stag' : the poetry of Hungary : an anthology of Hungarian poetry in English translation from the 13th century to the present in commemoration of the 1100th anniversary of the foundation of Hungary and the 40th anniversary of the Hungarian Uprising of 1956 /","",1996,"1/13/97","3/26/07",0,8,0,1,"2",FALSE,173,"0",0
+"169",2967289,"X004375004","PH325 .P413 1999","ALDERMAN","Kalevala mythology /","Pentik‰inen, Juha.",1999,"11/17/99","1/28/04",3,7,0,1,"2",FALSE,174,"0",0
+"170",1368777,"X001605633","PH3291 .N825 B38 1989","ALDERMAN","Battlefields and playgrounds /","NyÌri, J·nos,",1989,"6/30/96","10/27/13",1,4,0,1,"2",FALSE,175,"0",0
+"171",1312092,"X001509466","PH2576 .K313 1978","ALDERMAN","The world of names : a study in Hungarian onomatology /","K·lm·n, BÈla,",1978,"6/30/96","5/14/13",0,8,3,1,"2",FALSE,176,"0",0
+"172",4009010,"X004743284","PH3291 .N385 A27 2004","ALDERMAN","The night of Akhenaton : selected poems /","Nemes Nagy, ¡gnes.",2004,"2/18/04","4/16/04",2,0,0,1,"2",FALSE,177,"0",0
+"173",566734,"X000120511","PH355 .W3 S52 1949","CLEMONS","The Egyptian, a novel;","Waltari, Mika,",1949,"6/29/96","1/27/11",1,20,0,1,"3 14",FALSE,178,"0",0
+"174",2892590,"X006078077","PH3281 .K2347 K65 1998","ALDERMAN","Kormos Kov?ek = Scorched stones/","Kann·s, Alajos.",1998,"3/19/99","4/6/10",0,1,0,1,"2",FALSE,179,"0",0
+"175",4513149,"X030219765","PH5024.75 .A58 2006","ALDERMAN","Anthology of apologists and detractors of the Basque language /","Madariaga Orbea, Juan.",2006,"5/2/07","1/1/00",0,0,0,1,"2",FALSE,180,"0",0
+"176",4694399,"X030365869","PH5290 .S48 2003","ALDERMAN","Shooting from the lip : bertsolariak ipar amerikan : improvised Basque-verse singing /","Mallea-Olaetxe, J. (Joxe),",2003,"3/4/08","1/1/00",1,0,0,1,"2",FALSE,181,"0",0
+"177",2361886,"X002560967","PH355 .A43 N313 1994","ALDERMAN","Narcissus in winter /","Ahti, Risto.",1994,"7/1/96","4/6/10",0,5,0,1,"2",FALSE,182,"0",0
+"178",1032883,"X000305421","PH3441 .E8 T9 1967","ALDERMAN","Twenty-two Hungarian short stories,","",1967,"6/29/96","6/2/13",3,11,3,1,"2",TRUE,183,"0",0
+"179",4513148,"X030219767","PH5339 .O54 Y6313 2005","ALDERMAN","And the serpent said to the woman /","OÒederra, Miren Lourdes.",2005,"5/2/07","1/1/00",0,0,0,1,"2",FALSE,184,"0",0
+"180",4447123,"X030113835","PH2361 .E94 2006","ALDERMAN","Event structure and the left periphery : studies on Hungarian /","",2006,"12/5/06","1/1/00",0,0,0,1,"2",FALSE,185,"0",0
+"181",4291584,"X004913071","PH3241 .I55 Z513","ALDERMAN","Beatrice aprÛdjai : regÈny /","IllyÈs, Gyula,",1979,"7/7/05","4/6/10",0,0,0,1,"2",FALSE,186,"0",0
+"182",244876,"X000139956","PH355 .L4 H413","ALDERMAN","Whitsongs /","Leino, Eino,",1978,"6/28/96","11/1/18",0,1,1,1,"2",FALSE,187,"0",0
+"183",1032866,"X030717743","PH3351 .T592 1964 v.4","ALDERMAN","TÛth ¡rp·d ˆsszes m?vei.","TÛth, ¡rp·d,",1964,"4/6/10","4/6/10",0,0,0,2,"2",TRUE,188,"0",0
+"184",3959838,"X004659178","PH355 .S2 T5313 2003","ALDERMAN","Trilogy /","Saarikoski, Pentti.",2003,"8/19/03","8/20/03",0,0,0,1,"2",TRUE,189,"0",0
+"185",4291251,"X004913016","PH3202 .A35 Z68 1977","ALDERMAN","Ady : cikkek, emlÈkezÈsek, levelek /","Hatvany, Lajos,",1977,"7/6/05","4/6/10",0,0,0,1,"2",FALSE,190,"0",0
+"186",706676,"X032014496","PH275 .S8 1967 O.1-2","ALDERMAN","Nykysuomen sanakirja; lyhent‰m‰tˆn kansanpainos.","Suomalaisen Kirjallisuuden Seura.",1967,"3/7/18","1/1/00",2,0,0,3,"2",FALSE,191,"0",0
+"187",4302671,"X004944006","PH5290 .V65 2005","ALDERMAN","Voicing the moment : improvised oral poetry and Basque tradition /","",2005,"9/9/05","1/1/00",1,0,0,1,"2",FALSE,192,"0",0
+"188",4301674,"X004938950","PH3291 .P247 O9 2005","ALDERMAN","Out of oneself /","P·lyi, Andr·s,",2005,"9/1/05","1/1/00",1,0,0,1,"2",FALSE,193,"0",0
+"189",4291543,"X004913060","PH3321 .P46 S98 1975","ALDERMAN","Sz·lk·k /","Pilinszky, J·nos.",1975,"7/7/05","4/6/10",1,0,0,1,"2",FALSE,194,"0",0
+"190",4248022,"X004833239","PH3441 .E3 A8 2005","ALDERMAN","At the end of the broken bridge : XXV Hungarian poems, 1978-2002 /","",2005,"5/25/05","1/1/00",0,0,0,1,"2",FALSE,195,"0",0
+"191",2838786,"X004285213","PH98 .D43 G482 1993","ALDERMAN","al-Kha???ah wa-al-takf?r, min al-binyaw?yah il· al-tashri??yah : muqaddimah na?ar?yah, dir?sah ta?b?q?yah : dir?sah naqd?yah /","Ghadhdh?m?, ?Abd All?h Mu?ammad.",1993,"10/6/98","4/6/10",0,0,0,1,"2",TRUE,196,"0",0
+"192",1893506,"X002037781","PH3213 .E6 I3515 1991","ALDERMAN","Ich fing eine Fliege beim Minister : Bagatellen /","Eˆrsi, Istv·n.",1991,"6/30/96","4/6/10",0,3,0,1,"2",FALSE,197,"0",0
+"193",620079,"X000487172","PH3281 .L59 S913","ALDERMAN","Confrontation;","Lengyel, JÛzsef,",1973,"6/29/96","5/30/17",1,2,0,1,"2",FALSE,198,"0",0
+"194",4291510,"X004913046","PH3012 .S9 1972","ALDERMAN","Magyar irodalomtˆrtÈnet.","Szerb, Antal,",1972,"7/7/05","4/6/10",0,0,0,1,"2",FALSE,199,"0",0
+"195",4291513,"X004913047","PH3241 .I55 K67 1972","ALDERMAN","Kora tavasz : regÈny ; Mint a darvak : visszaemlÈkezÈsek, rajzok /","IllyÈs, Gyula,",1972,"7/7/05","4/6/10",0,0,0,1,"2",FALSE,199,"0",0
+"196",2264684,"X002423999","PH3241 .E85 H713 1993","ALDERMAN","The book of Hrabal /","Esterh·zy, PÈter,",1993,"7/1/96","4/6/10",1,2,0,1,"2",FALSE,200,"0",0
+"197",1830870,"X002069086","PH5339 .A8 A57 1990","ALDERMAN","Poemas & hÌbridos /","Atxaga, Bernardo.",1990,"6/30/96","4/6/10",0,3,0,1,"2",FALSE,201,"0",0
+"198",4048044,"X004765908","PH3213 .B637 T7313 2004","CLEMONS","To err is divine /","Bozai, ¡gota.",2004,"8/2/04","1/1/00",0,0,0,1,"3",TRUE,202,"0",0
+"199",4291549,"X004913062","PH3241 .I55 H25 1971","ALDERMAN","Hajsz·lgy?kerek /","IllyÈs, Gyula,",1971,"7/7/05","4/6/10",0,0,0,1,"2",FALSE,203,"0",0
+"200",2629246,"X006075704","PH3441 .E3 C65 1996","ALDERMAN","The Colonnade of teeth : modern Hungarian poetry /","",1996,"11/14/96","8/19/99",0,11,0,1,"2",TRUE,204,"0",0
+"201",2517238,"X004082832","PH1051 .L9 1996","ALDERMAN","Zyri?anski? kra? pri episkopakh permskikh i zyri?anski? i?azyk, 1383-1501 : posobie pri izuchenii zyri?anami russkogo i?azyka /","Lytkin, G. S. (Georgi? Stepanovich),",1995,"7/1/96","4/6/10",0,1,0,1,"2",FALSE,205,"0",0
+"202",1652567,"X001730594","PH326 .P46 1989","ALDERMAN","Kalevala mythology /","Pentik‰inen, Juha.",1989,"6/30/96","2/3/04",2,9,0,1,"2",FALSE,207,"0",0
+"203",445488,"X000298422","PH2390 .K5 1967","ALDERMAN","On emphasis and word order in Hungarian.","Kiefer, Ferenc.",1967,"6/29/96","5/14/13",0,7,3,1,"2",FALSE,208,"0",0
+"204",2151762,"X002302305","PH3241 .H443 O815 1993","ALDERMAN","Weiningers Ende : ein Kriminalroman /","Hern·di, MiklÛs.",1993,"7/1/96","4/6/10",0,1,0,1,"2",FALSE,209,"0",0
+"205",2266518,"X002423007","PH3281 .M15 E5 1993","ALDERMAN","The tragedy of man /","MacLeod, Iain,",1993,"7/1/96","4/6/10",1,1,0,1,"2",FALSE,209,"0",0
+"206",130558,"X004913007","PH3281 .J75 A16 1968 kot.6","ALDERMAN","PrÛzai Ìr·sok.","Juh·sz, Gyula,",1968,"7/6/05","4/6/10",4,2,0,3,"2 14",FALSE,210,"0",0
+"207",2475991,"X004041042","PH324 .S83 K63 1992","ALDERMAN","Utenzi wa Kalevala /","Lˆnnrot, Elias,",1992,"7/1/96","4/6/10",0,1,0,1,"2",FALSE,211,"0",0
+"208",1352032,"X000001005","PH355 .W3 E813","CLEMONS","The Etruscan.","Waltari, Mika,",1956,"6/30/96","9/2/08",0,15,0,1,"3 14",FALSE,212,"0",0
+"209",731512,"X000376600","PH610 .O35 1968","ALDERMAN","Basic course in Estonian /","Oinas, Felix J.",1968,"6/29/96","4/6/11",2,8,0,1,"2",FALSE,214,"0",0
+"210",3773325,"X004568486","PH3816.8 .P87 2000","ALDERMAN","Nenet?skie pesni-khynabt?sy : si?uzhetika, semantika i po?tika /","Pushkareva, E. T.",2000,"9/4/01","10/5/01",0,1,0,1,"2",FALSE,215,"0",0
+"211",1019867,"X032077521","PH623 .S2 v.2","ALDERMAN","Eesti keele mıisteline sınaraamat. Dictionaire analogique de la langue estonienne, avec un index pourvu des traductions en franÁais.","Saareste, Andrus,",1958,"1/24/18","1/1/00",0,0,0,3,"2",TRUE,216,"0",0
+"212",1289501,"X001431655","PH5023 .T62 1950","ALDERMAN","La lengua vasca.","Tovar, Antonio.",1950,"6/30/96","3/9/16",0,9,4,1,"2",FALSE,217,"0",0
+"213",2271584,"X006075112","PH3144 .H3 1993","ALDERMAN","Ha belemarkolunk a pÛkh·lÛba /","",1993,"7/1/96","4/6/10",0,0,0,1,"2",FALSE,218,"0",0
+"214",2070681,"X002193756","PH355 .A7 Z89 1990","ALDERMAN","Maailma tekstin‰ : Kari Aronpuron runous ja postmodernismi /","Tuohimaa, Sinikka.",1990,"6/30/96","4/6/10",0,1,0,1,"2",FALSE,219,"0",0
+"215",2267850,"X002395900","PH3166 .M57 1993","ALDERMAN","A Mirror to the cage : three contemporary Hungarian plays /","",1993,"7/1/96","12/29/07",0,2,0,1,"2",FALSE,220,"0",0
+"216",1653606,"X002562841","PH3321 .P43 S36 1989","ALDERMAN","Schˆner und unerbittlicher Mummenschanz : Gedichte : Ungarisch/Deutsch /","Petri, Gyˆrgy.",1989,"6/30/96","4/6/10",2,1,0,1,"2",FALSE,221,"0",0
+"217",1660700,"X002596557","PH819 .G4 L48 1989 Bd.1/2","ALDERMAN","Tscheremissische Texte /","",1989,"6/30/96","4/6/10",0,1,0,1,"2",TRUE,221,"0",0
+"218",3690362,"X004471895","PH3321 .R27 Z67 2000","ALDERMAN","In the footsteps of Orpheus : the life and times of MiklÛs RadnÛti /","Ozsv·th, Zsuzsanna,",2000,"2/13/01","9/3/01",0,1,0,1,"2",FALSE,222,"0",0
+"219",246059,"X000681781","PH2121 .S42 1944 v.1","ALDERMAN","Spoken Hungarian, basic course.","Sebeok, Thomas A. (Thomas Albert),",1944,"6/28/96","5/11/14",1,12,5,1,"2",TRUE,223,"0",0
+"220",2394883,"X002627018","PH3281 .K22 H313 1995","ALDERMAN","The ant heap : a novel /","Kaffka, Margit.",1995,"7/1/96","6/28/06",0,2,0,1,"2",FALSE,224,"0",0
+"221",1792640,"X001855511","PH5177 .E5 A96 1990","ALDERMAN","English-Basque dictionary /","Aulestia, Gorka,",1990,"6/30/96","3/8/02",0,8,0,1,"2",FALSE,226,"0",0
+"222",3545665,"X004378216","PH666.3 .O33 P5513 2000","ALDERMAN","Border state / Tınu ’nnepalu ; translated from the Estonian by Madli Puhvel.","Tode, Emil,",2000,"6/27/00","6/13/01",1,1,0,1,"2",FALSE,227,"0",0
+"223",2617471,"X004020038","PH666.21 .R6 A23 1995","ALDERMAN","The conspiracy & other stories /","Kross, Jaan.",1995,"10/21/96","11/17/04",0,3,0,1,"2",FALSE,228,"0",0
+"224",445645,"X000305420","PH2375 .Z7513 1967","ALDERMAN","The system of Hungarian sentence patterns.","Zsilka, J·nos.",1967,"6/29/96","9/1/11",0,6,0,1,"2",FALSE,229,"0",0
+"225",417454,"X000079646","PH131 .L8","ALDERMAN","Phonological and lexical aspects of colloquial Finnish,","Luthy, Melvin J.",1973,"6/29/96","6/15/11",1,4,0,1,"2",FALSE,230,"0",0
+"226",2783567,"X004335930","PH3361 .W56 1982","ALDERMAN","Wenn einst die Nacht sich erschˆpft : Gedichte und dramatische Lyrik /","Vˆrˆsmarty, Mih·ly,",1982,"4/6/98","4/6/10",0,0,0,1,"2",FALSE,231,"0",0
+"227",4291223,"X004913009","PH3281 .L59 A6 1989","ALDERMAN","Lengyel JÛzsef noteszeib*ol : 1955-1975 /","Lengyel, JÛzsef,",1989,"7/6/05","1/1/00",0,0,0,1,"2",FALSE,232,"0",0
+"228",1023340,"X000243100","PH3261 .A7 E5 1963","ALDERMAN","The man with the golden touch.","JÛkai, MÛr,",1963,"6/29/96","10/21/15",0,2,0,1,"2 14",FALSE,233,"0",0
+"229",4291222,"X004913008","PH3281 .L6 Z464 1987","ALDERMAN","…letem kˆnyve : naplÛk, Èletrajzi tˆredÈkek /","Lengyel, MenyhÈrt,",1987,"7/6/05","1/1/00",0,0,0,1,"2",FALSE,234,"0",0
+"230",2411287,"X002602258","PH5290 .A93 1995","ALDERMAN","Improvisational poetry from the Basque country /","Aulestia, Gorka,",1995,"7/1/96","9/4/01",0,5,0,1,"2",FALSE,235,"0",0
+"231",87887,"X000992104","PH315 .O35 1985","ALDERMAN","Studies in Finnic folklore : homage to the Kalevala /","Oinas, Felix J.",1985,"6/28/96","2/12/04",2,6,0,1,"2",FALSE,236,"0",0
+"232",3696675,"X004471219","PH3241 .I55 A6 2000","ALDERMAN","Charon's ferry : fifty poems /","IllyÈs, Gyula,",2000,"3/6/01","1/1/00",0,0,0,1,"2",FALSE,237,"0",0
+"233",4292286,"X004913101","PH3202 .A35 Z48 1956","ALDERMAN","V·logatott levelei : [a leveleket v·logatta, sajtÛ al· rendezte, az elÛszÛt Ès a jegyz /","Ady, Endre,",1956,"8/1/05","4/6/10",0,0,0,1,"2",FALSE,238,"0",0
+"234",677159,"X001168167","PH2635 .R4 1957","ALDERMAN","A-B-C; Magyar, Angol, Francia ...","",1957,"6/29/96","5/1/14",0,5,7,1,"2",FALSE,239,"0",0
+"235",2483794,"X002429033","PH5339 .I68 L66 1979","ALDERMAN","Lope Agirre","Irigoien, Juan Mari.",1979,"7/1/96","4/6/10",2,1,0,1,"2",TRUE,240,"0",0
+"236",420260,"X000080379","PH3409 .C92","ALDERMAN","A magyar irodalom fogadtat·sa a viktori·nus Angli·ban : 1830-1914 /","Czig·ny, LÛr·nt.",1976,"6/29/96","4/6/10",0,2,0,1,"2",FALSE,241,"0",0
+"237",2951768,"X006107633","PH3321 .P43 E8 1999","ALDERMAN","Eternal Monday : new & selected poems /","Petri, Gyˆrgy.",1999,"10/4/99","12/1/99",1,1,0,1,"2",FALSE,242,"0",0
+"238",1268637,"X001168147","PH279 .V8 1966","ALDERMAN","Suomalais-englantilainen koulusanakirja.","Wuolle, Aino,",1966,"6/30/96","5/29/12",0,3,0,1,"2",FALSE,243,"0",0
+"239",1860745,"X004119308","PH5339 .D4 L5 1978","ALDERMAN","El primer libro impreso en euskera (aÒo 1545) : reproducciÛn facsÌmil del ˙nico ejemplar que se conoce de la ediciÛn prÌncipe, hoy en la Biblioteca Nacional de ParÌs /","Dechepare, Bernat.",1978,"6/30/96","4/6/10",0,1,0,1,"2",TRUE,244,"0",0
+"240",1868634,"X002160566","PH3241 .H3163 S9413 1992","ALDERMAN","A Hungarian romance : a novel /","Hankiss, ¡gnes.",1992,"6/30/96","5/31/05",1,1,0,1,"2",FALSE,245,"0",0
+"241",2855496,"X004192447","PH3291 .N297 C7313 1998","ALDERMAN","The end of a family story : a novel /","N·das, PÈter,",1998,"12/15/98","3/23/00",0,1,0,1,"2 14",TRUE,246,"0",0
+"242",2893201,"X006077867","PH5339 .A8 L6 1999","ALDERMAN","The lone woman /","Atxaga, Bernardo.",1999,"3/22/99","5/18/99",1,1,0,1,"2 3",TRUE,247,"0",0
+"243",2930474,"X004320876","PH5339 .C366 Z48 1998","ALDERMAN","La barca de Caronte : (epÌstolas para la otra orilla) /","Caro Baroja, PÌo.",1998,"7/23/99","1/1/00",0,0,0,1,"2",FALSE,248,"0",0
+"244",2935066,"X004353713","PH324 .H5 L615 1997","ALDERMAN","K?lev?l? /","Lˆnnrot, Elias,",1997,"8/4/99","1/1/00",0,0,0,1,"2",TRUE,249,"0",0
+"245",4291556,"X004913068","PH3281 .J64 1977 v.2","ALDERMAN","JÛzsef Attila m*uvei /","JÛzsef, Attila,",1977,"8/2/05","1/1/00",1,0,0,2,"2",TRUE,250,"0",0
+"246",4292288,"X004913102","PH3017 .K58","ALDERMAN","Kritikus sz·mad·s /","KomlÛs, Alad·r.",1977,"7/13/05","1/1/00",0,0,0,1,"2",FALSE,251,"0",0
+"247",4291252,"X004913015","PH3012 .H67 1976","ALDERMAN","A magyar irodalom fejl*odÈstˆrtÈnete /","Horv·th, J·nos,",1976,"7/6/05","1/1/00",0,0,0,1,"2",FALSE,253,"0",0
+"248",4291219,"X004913004","PH3213 .B14 T54 1976","ALDERMAN","Tim·r Virgil fia ; Hal·lfiai ; V·logatott novell·k /","Babits, Mih·ly,",1976,"7/6/05","1/1/00",0,0,0,1,"2",TRUE,253,"0",0
+"249",611306,"X032014491","PH3194 .F6 S8","ALDERMAN","The street of the Fishing cat;","Foldes, Yolanda,",1937,"3/7/18","1/1/00",0,0,0,2,"2",FALSE,254,"0",0
+"250",2485528,"X006053780","PH344 .O5 1995","ALDERMAN","On the border : new writing from Finland /","",1995,"7/1/96","9/15/98",0,4,0,1,"2",FALSE,255,"0",0
+"251",4291517,"X004913069","PH3017 .I44 1975 v.2","ALDERMAN","Ir·nyt*uvel /","IllyÈs, Gyula,",1975,"8/4/05","1/1/00",0,0,0,2,"2",TRUE,256,"0",0
+"252",4292279,"X004913098","PH3241 .I55 Z65","ALDERMAN","SzembesÌtes : IllyÈs Gyula Èlet˙tja P·rizsig /","Fodor, Ilona.",1975,"7/13/05","1/1/00",0,0,0,1,"2",FALSE,257,"0",0
+"253",4291255,"X004913014","PH3001 .N92 F45 1975","ALDERMAN","FeljegyzÈsek Ès levelek a NyugatrÛl /","",1975,"7/6/05","1/1/00",0,0,0,1,"2",TRUE,259,"0",0
+"254",4292269,"X004913092","PH3202 .A35 Z73 1972 kot.2","ALDERMAN","Ady Endre.","Kir·ly, Istv·n.",1972,"4/12/06","1/1/00",0,0,0,2,"2",FALSE,260,"0",0
+"255",1023281,"X002417479","PH2645 .G4 H3 1966","ALDERMAN","NÈmet-magyar kÈziszÛt·r.","Hal·sz, El?d.",1966,"6/29/96","4/6/10",0,2,0,1,"2",FALSE,261,"0",0
+"256",4292284,"X004913100","PH3321 .P46 V4","ALDERMAN","VÈgkifejlet : versek Ès szÌnm*uvek /","Pilinszky, J·nos.",1974,"7/13/05","1/1/00",2,0,0,1,"2",TRUE,262,"0",0
+"257",4291672,"X004913078","PH3241 .I55 U37","ALDERMAN","⁄jabb dr·m·k /","IllyÈs, Gyula,",1974,"7/8/05","1/1/00",0,0,0,1,"2",FALSE,263,"0",0
+"258",4291248,"X004913017","PH3241 .I55 Z52","ALDERMAN","SzÌves kalauz : ˙tirajzok /","IllyÈs, Gyula,",1974,"7/6/05","1/1/00",0,0,0,1,"2",FALSE,264,"0",0
+"259",4291215,"X004913002","PH3017 .B28 1973","ALDERMAN","Kˆnyvr?l kˆnyvre.","Babits, Mih·ly,",1973,"7/6/05","1/1/00",0,0,0,1,"2",FALSE,265,"0",0
+"260",1951026,"X002159161","PH3288 .V37 1991","ALDERMAN","Ferenc Molnar and the Austro-Hungarian ""fin de siËcle"" /","V·rkonyi, Istv·n.",1991,"6/30/96","1/18/99",1,4,0,1,"2",FALSE,267,"0",0
+"261",2228533,"X002315517","PH335 .L489 Y3213 1993","ALDERMAN","One night stands /","Liksom, Rosa.",1993,"7/1/96","2/10/98",0,4,0,1,"2",FALSE,269,"0",0
+"262",1807111,"X002014406","PH401 .E3 E53 1990","ALDERMAN","Enchanting beasts : an anthology of modern women poets of Finland /","",1990,"6/30/96","1/1/00",1,3,0,1,"2",FALSE,270,"0",0
+"263",1352081,"X001601689","PH325 .K33 1987","ALDERMAN","Kalevala et traditions orales du monde : Paris, 18-22 mars 1985 /","",1987,"6/30/96","11/2/99",1,4,0,1,"2",FALSE,271,"0",0
+"264",267471,"X001705179","PH324.E5 K5 1907 v.1","ALDERMAN","Kalevala, the land of heroes,","",1907,"6/28/96","5/2/13",3,29,0,2,"2 14",TRUE,272,"0",0
+"265",345449,"X000045222","PH502 .P3","ALDERMAN","Karjala Valdai murrak.","Palmeos, Paula.",1962,"6/28/96","4/6/10",0,2,0,1,"2",FALSE,273,"0",0
+"266",4291592,"X004913072","PH3281 .K1474 R19 1970","ALDERMAN","Ravelszki /","K·rolyi, Mih·ly,",1970,"7/7/05","1/1/00",0,0,0,1,"2",TRUE,274,"0",0
+"267",2301136,"X002491765","PH3321 .R37 N48 1994","ALDERMAN","New life /","Rakovszky, Zsuzsa,",1994,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,275,"0",0
+"268",528950,"X000486618","PH3202 .A35 A22 1969","ALDERMAN","Poems of Endre Ady.","Ady, Endre,",1969,"6/29/96","7/17/06",2,3,0,1,"2",FALSE,276,"0",0
+"269",4291677,"X004913081","PH3281 .L44 P7 1969","ALDERMAN","Prenn Ferenc h·nyatott Èlete.","Lengyel, JÛzsef,",1969,"7/8/05","1/1/00",0,0,0,1,"2",FALSE,277,"0",0
+"270",4291484,"X004913035","PH3351 .V533 A14 1969","ALDERMAN","Ignotus v·logatott Ìr·sai.","Ignotus,",1969,"7/7/05","1/1/00",0,0,0,1,"2",FALSE,278,"0",0
+"271",2229141,"X002404353","PH3291 .O695 B55 1993","ALDERMAN","The blood of the Walsungs : selected poems /","Orb·n, OttÛ.",1993,"7/1/96","1/1/00",2,1,0,1,"2",FALSE,279,"0",0
+"272",2288235,"X002453462","PH355 .T484 A6 1993","ALDERMAN","Black and red /","Tiihonen, Ilpo,",1993,"7/1/96","1/1/00",1,1,0,1,"2",FALSE,279,"0",0
+"273",2302416,"X002474100","PH9 .B8 D2 1992","ALDERMAN","D.V. Bubrikh : k 100-letii?u so dni?a rozhdenii?a : sbornik state? /","",1992,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,280,"0",0
+"274",2074603,"X002219055","PH3213 .C8145 A26 1992","ALDERMAN","Selected poems of S·ndor CsoÛri /","CsoÛri, S·ndor.",1992,"6/30/96","1/1/00",1,1,0,1,"2",FALSE,281,"0",0
+"275",2121468,"X002242744","PH609 .H37 1992","ALDERMAN","Grammatisches Wˆrterbuch des Estnischen /","Hasselblatt, Cornelius.",1992,"6/30/96","1/1/00",1,1,0,1,"2",FALSE,281,"0",0
+"276",2279180,"X002435946","PH666.21 .R6 P613 1994","ALDERMAN","Professor Martens' Departure /","Kross, Jaan.",1994,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,282,"0",0
+"277",2396332,"X002596381","PH9 .F37 1994","ALDERMAN","Julius von Farkas zum 100. Geburtstag /","",1994,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,282,"0",0
+"278",1952094,"X002084164","PH3070 .D47 1991","ALDERMAN","Ungarische Avantgarde-Dichtung in Wien 1920-1926 : ihre zeitgenˆssische literaturkritische Rezeption in Ungarn sowie in der ungarischen Presse ÷sterreichs, Rum‰niens, Jugoslawiens und der Tschechoslowakei /","DerÈky, P·l,",1991,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,284,"0",0
+"279",1896565,"X002047603","PH3070 .N67 1991","ALDERMAN","Nostalgie, Realit‰t und politische Utopie : ungarische Literaten im Wien der zwanziger Jahre : Vortr‰ge ungarischer Literaturwissenschaftler in Innsbruck /","",1991,"6/30/96","1/1/00",1,1,0,1,"2",FALSE,284,"0",0
+"280",1998647,"X002140991","PH782 .E35 1991","ALDERMAN","Istorii?a v pesni?akh /","Efimova, M. F. (Marii?a Fedorovna)",1991,"6/30/96","1/1/00",1,1,0,1,"2",FALSE,284,"0",0
+"281",2626179,"X004044592","PH3165 .H85 1996","ALDERMAN","Hungarian plays : new drama from Hungary /","",1996,"11/5/96","11/18/96",1,2,0,1,"2",FALSE,285,"0",0
+"282",2374880,"X002582219","PH3241 .H294 B4613 1993","ALDERMAN","Fire of Bengal /","HajnÛczy, RÛzsa.",1993,"7/1/96","1/1/00",1,0,0,1,"2",FALSE,286,"0",0
+"283",2318070,"X002512878","PH87 .E5 G74 1993","ALDERMAN","The great bear : a thematic anthology of oral poetry in the Finno-Ugrian languages /","",1993,"7/1/96","1/1/00",3,0,0,1,"2",TRUE,286,"0",0
+"284",2028473,"X002162175","PH3012 .D346 1992","ALDERMAN","Vom Propheten zum Produzenten : zum Rollenwandel der Literaten in Ungarn und Osteuropa /","Dalos, Gyˆrgy.",1992,"6/30/96","2/10/98",1,2,0,1,"2",FALSE,288,"0",0
+"285",2471345,"X006056230","PH665 .K6 Z725 1995","ALDERMAN","Symbol of dawn : the life and times of the 19th-century Estonian poet Lydia Koidula /","Puhvel, Madli.",1995,"7/1/96","1/14/98",0,1,0,1,"2",FALSE,289,"0",0
+"286",2141460,"X002267565","PH1108 .P76 1992","ALDERMAN","Problemy pis?mennosti i kul?tury : materialy konferent?sii, posvi?ashchenno? 250-letii?u so dni?a rozhdenii?a chuvashskogo uchenogo i prosvetiteli?a Ermei?a Rozhanskogo /","",1992,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,290,"0",0
+"287",1970762,"X002736233","PH3281 .K7558 K4713 1992","ALDERMAN","A feast in the garden /","Konr·d, Gyˆrgy,",1992,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,291,"0",0
+"288",439053,"X000396443","PH3287 .L5 E5 1944","CLEMONS","Liliom : a legend in seven scenes and a prologue /","Moln·r, Ferenc,",1944,"6/29/96","6/20/08",0,8,0,1,"3",FALSE,292,"0",0
+"289",88218,"X032014495","PH625 .E38 1984","ALDERMAN","Eesti-vene ıppesınastik /","",1984,"6/28/96","7/28/00",0,2,0,1,"2",FALSE,293,"0",0
+"290",2334884,"X002626836","PH1108.4 .G94 1991","ALDERMAN","Gydyke /","",1991,"7/1/96","1/1/00",1,0,0,1,"2",FALSE,294,"0",0
+"291",1951779,"X002073934","PH3166 .H86 1991","ALDERMAN","Hungary : plays /","",1991,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,295,"0",0
+"292",2025878,"X002158256","PH666.12 .E35 I28 1991","ALDERMAN","I sto smerte? ; Narvski? vodopad : romany /","Beekman, Vladimir.",1991,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,295,"0",0
+"293",350527,"X032019387","PH5291 .H4 1925","ALDERMAN","…tudes sur le thÈ‚tre basque; le thÈ‚tre comique: chikitoak et koblak--mascarades souletines--tragi-comÈdies de carnaval--sÈrÈnades charivariques--parades charivariques--farces charivariques, illustrÈ de vingt-huit figures documentaires et du?n air de danse notÈ,","HÈrelle, G. (Georges),",1925,"3/1/18","1/1/00",0,0,0,1,"2 14",FALSE,296,"0",0
+"294",2626240,"X004017846","PH735 .E6 B49 1996","ALDERMAN","Beyond the wolf line : an anthology of S·mi poetry /","",1996,"11/6/96","11/25/96",1,1,0,1,"2",FALSE,297,"0",0
+"295",50816,"50816-1002","PH279 .H83 1984","ALDERMAN","Uusi suomi-englanti suursanakirja = Finnish-English general dictionary /","Hurme, Raija.",1984,"7/22/98","1/1/00",0,0,0,1,"2",FALSE,298,"0",0
+"296",2283493,"X002444841","PH666.12 .E35 E213 1987","ALDERMAN","The year of the donkey /","Beekman, Vladimir.",1987,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,299,"0",0
+"297",2056063,"X002190661","PH807.4 .K68 1987","ALDERMAN","Areal?nye issledovanii?a po vostochnym finno-ugorskim i?azykam.","Kovedi?aeva, E. I. (Evgenii?a Ivanovna)",1987,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,300,"0",0
+"298",622869,"X000486067","PH301 .A35","ALDERMAN","A history of Finnish literature.","Ahokas, Jaakko,",1973,"6/29/96","9/2/01",1,4,0,1,"2",FALSE,301,"0",0
+"299",4291514,"X004913048","PH3202 .A35 A15 1961","ALDERMAN","Ady Endre ˆsszes novell·i /","Ady, Endre,",1961,"7/7/05","1/1/00",0,0,0,1,"2",FALSE,302,"0",0
+"300",668731,"X000741390","PH3321 .R27 Z5 1983","ALDERMAN","MiklÛs RadnÛti, a biography of his poetry /","Birnbaum, Marianna D.",1983,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,303,"0",0
+"301",4291531,"X004913054","PH3202 .A35 A14 1955 v.4","ALDERMAN","Ady Endre ˆsszes prÛzai m¸vei.","Ady, Endre,",1955,"7/17/06","1/1/00",0,0,0,6,"2",TRUE,304,"0",0
+"302",2277974,"X002438129","PH509 .R8 R6 1985","ALDERMAN","Roda nashego napevy : izbrannye pesni runopevcheskogo roda Perttunenov /","",1985,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,306,"0",0
+"303",4291494,"X004913037","PH3281 .K244 E33 1957","ALDERMAN","Egy ember Èlete /","Kass·k, Lajos.",1957,"7/7/05","1/1/00",0,0,0,1,"2",FALSE,307,"0",0
+"304",1032810,"X000449620","PH3281 .K85 A56","ALDERMAN","¡lom Ès Ûlom.","Kosztol·nyi, Dezs?,",1969,"6/29/96","1/2/98",0,7,0,1,"2",FALSE,308,"0",0
+"305",319730,"X000057848","PH3177 .A713","ALDERMAN","Arar·t : a collection of Hungarian-Jewish short stories /","",1977,"6/28/96","1/1/00",1,2,0,1,"2",FALSE,309,"0",0
+"306",4291429,"X004913032","PH3202 .A35 Z74 1921","ALDERMAN","Ady-tanulm·nyok.","Fˆldessy, Gyula,",1921,"7/7/05","4/6/10",0,0,0,1,"2",FALSE,311,"0",0
+"307",1645292,"X002496160","PH803 .V333 1948","ALDERMAN","Nekotorye voprosy mari?skogo i?azykoznanii?a : sbornik state? /","Vasil?ev, V. M. (Valerian Mikha?lovich),",1948,"6/30/96","4/17/09",2,1,0,1,"2",FALSE,312,"0",0
+"308",1298655,"X001397426","PH355 .K548 K513 1980","ALDERMAN","Eva = (Kihlaus) /","Kivi, Aleksis,",1980,"6/30/96","4/15/97",0,2,0,1,"2",FALSE,313,"0",0
+"309",427372,"427372-2001","PH143 .T5 1976","ALDERMAN","Le systËme graphique du franÁais : introduction ‡ une pÈdagogie rationnelle de l'orthographe /","Thimonnier, RenÈ.",1976,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,314,"0",0
+"310",1918478,"X032019385","PH3321 .R45 Z8","ALDERMAN","L'?uvre hispanoamÈricaine de Zsigmond Remenyik /","Ferdinandy, Georges.",1975,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,315,"0",0
+"311",374139,"X000293204","PH3202 .A35 A34","ALDERMAN","Endre Ady.","Ady, Endre,",1967,"6/28/96","1/10/00",1,2,0,1,"2",FALSE,316,"0",0
+"312",1023287,"X002417008","PH3021 .V35","ALDERMAN","John Bowring Ès a magyar irodalom.","Varannai, AurÈl,",1967,"6/29/96","1/1/00",1,2,0,1,"2",FALSE,317,"0",0
+"313",752945,"X001168157","PH807 .S43","ALDERMAN","Concordance and thesaurus of Cheremis poetic language,","Sebeok, Thomas A. (Thomas Albert),",1961,"6/29/96","9/11/00",0,3,0,1,"2",FALSE,318,"0",0
+"314",700011,"X001168210","PH3281 .M15 E63 1965","ALDERMAN","¡lom a t?rtÈnelemr?l. Mad·ch Imre Ès Az ember tragÈdiÌaja.","S?tÈr, Istv·n.",1965,"6/29/96","1/1/00",0,2,0,1,"2",FALSE,319,"0",0
+"315",239880,"X000486066","PH279 .N8 1915","ALDERMAN","English-Finnish dictionary,","Nuorteva, Santeri,",1915,"6/28/96","11/8/15",0,3,0,1,"2",FALSE,320,"0",0
+"316",1913659,"X032019386","PH3281 .K57 K57","ALDERMAN","KÌsÈrnek a csillagok : versek.","Kiss, Jenˆ,",1964,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,322,"0",0
+"317",1032832,"X002483618","PH3285 .E5 B4 1937","ALDERMAN","All the plays of Moln·r;","Moln·r, Ferenc,",1937,"6/29/96","1/17/01",0,8,0,1,"2 14",FALSE,323,"0",0
+"318",4291506,"X004913044","PH3202 .A35 Z675 1927","ALDERMAN","Ady, a kort·rsak kˆzt ; Ady Endre levelei Ès levelek Ady EndrÈhez /","Hatvany, Lajos,",1927,"7/7/05","1/1/00",0,0,0,1,"2",FALSE,324,"0",0
+"319",4291259,"X004913027","PH3202 .A24 Z525 1924","ALDERMAN","Ady-m˙zeum /","",1924,"7/6/05","1/1/00",0,0,0,1,"2",FALSE,325,"0",0
+"320",459942,"X000487169","PH3281 .K85 B82 1927","ALDERMAN","The bloody poet; a novel about Nero,","Kosztol·nyi, Dezs?,",1927,"6/29/96","1/10/02",0,4,0,1,"2",FALSE,326,"0",0
+"321",143127,"X000487605","PH3261 .T4 E5 1901","ALDERMAN","Eyes like the sea, a novel,","JÛkai, MÛr,",1901,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,328,"0",0

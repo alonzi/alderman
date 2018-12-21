@@ -1,0 +1,642 @@
+"","Catalog.Id","Item.Barcode","Item.Call.Number","Item.Library.Code","Catalog.Title","Catalog.Author","Catalog.Pub.Year","Item.Created.Date","Item.Last.Checkout.Date","NumInhouseUses","NumCheckouts","NumRenewals","Duplicates","Bib.Marc.Subfield.Data","MultiVolume","modelC","MODEL","LiaisonRecommendation"
+"1",1234371,"X001109884","DE59 .O94 1986","ALDERMAN","The Oxford history of the classical world /","",1986,"6/30/96","10/6/09",38,380,0,1,"2 3",FALSE,1,"1",0
+"2",1775200,"X001845127","DE86 .G738 1990","ALDERMAN","Alexander to Actium : the historical evolution of the Hellenistic age /","Green, Peter,",1990,"6/30/96","5/3/17",8,82,3,1,"2",FALSE,2,"1",0
+"3",2632641,"X004044956","DE71 .F74 1996","ALDERMAN","Egypt, Greece, and Rome : civilizations of the ancient Mediterranean /","Freeman, Charles,",1996,"11/26/96","11/27/18",2,94,127,2,"2 3",FALSE,3,"1",0
+"4",137976,"X000403626","DE86 .G73 1982","ALDERMAN","From Alexander to Cleopatra : the Hellenistic world /","Grant, Michael,",1982,"6/28/96","11/27/18",3,74,124,1,"2",FALSE,4,"1",0
+"5",530879,"X006095496","DE71 .S6","ALDERMAN","Blacks in antiquity; Ethiopians in the Greco-Roman experience","Snowden, Frank M.,",1970,"6/29/96","6/19/17",8,77,25,1,"2",FALSE,5,"1",0
+"6",2864625,"X006029070","DE7 .P7213 1998","ALDERMAN","Greek lives : a selection of nine Greek lives /","Plutarch.",1998,"12/21/98","12/5/18",9,56,3,1,"2",FALSE,6,"1",0
+"7",673295,"X000667123","DE15.5 .U6 R44 1984","ALDERMAN","Classica Americana : the Greek and Roman heritage in the United States /","Reinhold, Meyer,",1984,"6/29/96","5/11/18",7,77,59,2,"2",TRUE,7,"1",0
+"8",416568,"X000023515","DE80 .B7713 V.1","ALDERMAN","The Mediterranean and the Mediterranean world in the age of Philip II;","Braudel, Fernand.",1972,"6/29/96","11/25/18",17,105,34,2,"2",TRUE,8,"1",0
+"9",7737822,"X032221061","DE96 .H47 2018","ALDERMAN","The captive sea : slavery, communication, and commerce in early modern Spain and the Mediterranean /","Hershenzon, Daniel,",2018,"9/24/18","12/9/18",0,2,1,1,"2",FALSE,9,"1",0
+"10",7354631,"X031821892","DE84 .B753 2018","ALDERMAN","Brill's companion to military defeat in ancient Mediterranean society /","",2018,"2/8/18","11/27/18",0,3,0,1,"2",FALSE,10,"1",0
+"11",7752870,"X032211917","DE60 .N85 2018","ALDERMAN","La Nuit : imaginaire et rÈalitÈs nocturnes dans le monde grÈco-romain /","",2018,"10/11/18","10/19/18",0,1,0,1,"2",FALSE,11,"1",0
+"12",7310953,"X031821795","DE84 .B75 2016","ALDERMAN","Brill's Companion to insurgency and terrorism in the Ancient Mediterranean /","",2016,"12/5/17","10/10/18",0,2,0,1,"2",FALSE,12,"1",0
+"13",7364636,"X031849292","DE73.2 .S4 S44 2017","ALDERMAN","""Sea Peoples"" up-to-date : new research on transformations in the Eastern Mediterranean in the 13th-11th centuries BCE : proceedings of the ESF-Workshop held at the Austrian Academy of Sciences, Vienna, 3-4 November 2014 /","",2017,"2/20/18","5/17/18",0,2,0,1,"2",FALSE,13,"1",0
+"14",7217384,"X031846358","DE94 .C37 2015","ALDERMAN","Infidel kings and unholy warriors : faith, power, and violence in the age of crusade and jihad /","Catlos, Brian A.",2015,"8/3/17","10/1/18",0,2,0,1,"2",FALSE,14,"1",0
+"15",7329365,"X031841980","DE2.5 .H47 2017","ALDERMAN","L'hÈritage grec des colonies romaines d'Orient : interactions culturelles dans les provinces hellÈnophones de l'empire romain : actes du colloque de Strasbourg, 8-9 novembre 2013 /","",2017,"1/8/18","2/5/18",0,1,0,1,"2",FALSE,15,"1",0
+"16",6889483,"X031784270","DE84 .C57 2016","ALDERMAN","Circum mare : themes in ancient warfare /","",2016,"9/28/16","11/27/18",0,2,3,1,"2",FALSE,16,"1",0
+"17",7313971,"X032057582","DE86 .H37 2017","ALDERMAN","Hellenism and the local communities of the Eastern Mediterranean : 400 BCE-250 CE /","",2017,"12/8/17","12/20/17",0,1,0,1,"2",FALSE,17,"1",0
+"18",7262817,"X031810254","DE59 .D58 2017 v.1","ALDERMAN","The diversity of classical archaeology /","",2017,"11/30/17","12/16/17",0,1,0,1,"2",TRUE,18,"1",0
+"19",6725319,"X031731309","DE85.5 .F8 F74 2016","ALDERMAN","French Mediterraneans : transnational and imperial histories /","",2016,"5/4/16","11/16/17",2,4,0,1,"2",TRUE,19,"1",0
+"20",6904565,"X031797954","DE5 .D532 2016","ALDERMAN","Dictionnaire de la MÈditerranÈe /","",2016,"11/8/16","3/19/18",0,2,0,1,"2",FALSE,20,"1",0
+"21",6821749,"X031783771","DE31 .V35 2016","ALDERMAN","Valuing landscape in classical antiquity : natural environment and cultural imagination /","",2016,"8/5/16","2/23/18",0,2,0,1,"2",FALSE,21,"1",0
+"22",6730397,"X032581618","DE94 .F76 2016","ALDERMAN","The Near West : Medieval North Africa, Latin Europe and the Mediterranean in the Second Axial Age /","Fromherz, Allen James,",2016,"5/13/16","11/7/18",0,1,0,1,"2",FALSE,22,"1",0
+"23",6898423,"X031795920","DE86 .M375 2017","ALDERMAN","Sources for Ancient Mediterranean civilizations : texts, maps and images /","Mathisen, Ralph W.,",2017,"10/26/16","2/23/18",0,1,0,1,"2",FALSE,23,"1",0
+"24",6678742,"X031782542","DE94 .J345 2014","ALDERMAN","Travellers, merchants and settlers in the eastern Mediterranean, 11th-14th centuries /","Jacoby, David,",2014,"1/20/16","8/8/18",0,2,1,1,"2",FALSE,24,"1",0
+"25",6933176,"X031793252","DE96.5 .B76 2017","ALDERMAN","The Napoleonic Mediterranean : enlightenment, revolution and empire /","Broers, Michael,",2017,"12/28/16","9/16/17",0,1,3,1,"2",FALSE,25,"1",0
+"26",6940542,"X031799916","DE86 .C85 2017","ALDERMAN","Cultural contact and appropriation in the Axial-Age Mediterranean world : a periplos /","",2017,"1/12/17","6/9/17",0,1,0,1,"2",FALSE,26,"1",0
+"27",3490137,"X031646782","DE59 .H7 2000","ALDERMAN","The corrupting sea : a study of Mediterranean history /","Horden, Peregrine.",2000,"10/10/14","8/27/18",11,47,10,3,"2 4",FALSE,27,"1",0
+"28",6996472,"X031803973","DE59 .B43 2014","ALDERMAN","Confronting the classics : traditions, adventures, and innovations /","Beard, Mary,",2014,"3/7/17","3/17/17",1,1,0,1,"2",FALSE,28,"1",0
+"29",6382280,"X031665327","DE61 .P5 M38 2014","ALDERMAN","British captives from the Mediterranean to the Atlantic, 1563-1760 /","Matar, N. I. (Nabil I.),",2014,"8/21/14","8/20/18",0,4,2,1,"2",FALSE,29,"1",0
+"30",6915660,"X031792775","DE86 .Z85 2017","ALDERMAN","The ancient city /","Zuiderhoek, Arjan,",2017,"12/7/16","2/18/17",0,1,2,1,"2",FALSE,30,"1",0
+"31",6502541,"X031716836","DE80 .C658 2014","ALDERMAN","A companion to Mediterranean history /","",2014,"2/11/15","10/31/18",1,2,0,1,"2",FALSE,32,"1",0
+"32",6563400,"X031706825","DE96 .M56 2015","ALDERMAN","Peiresc's Mediterranean world /","Miller, Peter N.,",2015,"5/27/15","4/30/18",0,2,6,1,"2",FALSE,33,"1",0
+"33",161037,"X031871281","DE59 .B48 1980","ALDERMAN","GÓnduri ?i chipuri din lumea antic? /","Bezdechi, ?tefan,",1980,"11/2/17","11/3/17",0,0,0,2,"2",FALSE,34,"1",0
+"34",6915507,"X031798421","DE85.5 .I85 F76 2013","ALDERMAN","La frontiËre mÈditerranÈenne du XVe au XVIIe siËcle : Èchanges, circulations et affrontements /","",2013,"12/6/16","1/31/17",0,1,0,1,"2",TRUE,35,"1",0
+"35",6837461,"X031759166","DE8 .A35 2016","ALDERMAN","Across the Corrupting Sea : Post-Braudelian Approaches to the Ancient Eastern Mediterranean /","",2016,"9/6/16","11/28/16",0,1,0,1,"2",FALSE,36,"1",0
+"36",6384345,"X031658614","DE15 .F76 2014","ALDERMAN","From abortion to pederasty : addressing difficult topics in the classics classroom /","",2014,"9/3/14","4/24/18",0,3,1,1,"2",FALSE,37,"1",0
+"37",763694,"X001282626","DE8 .P36 1986","CLEMONS","Past perspectives : studies in Greek and Roman historical writing : papers presented at a conference in Leeds, 6-8 April 1983 /","",1986,"6/29/96","10/1/18",4,47,11,1,"3",FALSE,38,"1",0
+"38",6909530,"X031792596","DE9 .F56 M5 2016","ALDERMAN","M. I. Finley : an ancient historian and his impact /","",2016,"11/16/16","11/28/16",1,0,0,1,"2",FALSE,39,"1",0
+"39",5960295,"X031602863","DE80 .O84 2012","ALDERMAN","The Oxford handbook of late antiquity /","",2012,"3/20/13","4/26/18",2,6,17,1,"2",FALSE,40,"1",0
+"40",6534086,"X031717276","DE8 .G743 2011","ALDERMAN","Greek and Roman historiography /","",2011,"4/10/15","5/11/17",0,3,3,1,"2",FALSE,41,"1",0
+"41",6732094,"X031795122","DE94 .O27 2016","ALDERMAN","The Mediterranean world : from the fall of Rome to the rise of Napoleon /","O'Connell, Monique,",2016,"5/25/16","10/17/16",0,1,0,1,"2",FALSE,42,"1",0
+"42",6488355,"X031738757","DE73.2 .P56 P86 2014","ALDERMAN","The Punic Mediterranean identities and identification from Phoenician settlement to Roman rule /","",2014,"1/26/15","5/12/18",0,1,3,1,"2",FALSE,43,"1",0
+"43",6189651,"X031580093","DE86 .B76 2013","ALDERMAN","The making of the Middle Sea : a history of the Mediterranean from the beginning to the emergence of the classical world /","Broodbank, Cyprian.",2013,"1/28/14","5/12/18",0,3,3,1,"2",FALSE,45,"1",0
+"44",5997086,"X031602975","DE86 .P65 2013","ALDERMAN","Polybius and his world : essays in memory of F.W. Walbank.","",2013,"5/2/13","2/26/18",1,5,8,1,"2",FALSE,46,"1",0
+"45",4672867,"X030374598","DE61 .C4 C66 2007","ALDERMAN","Constructions of childhood in ancient Greece and Italy /","",2007,"4/22/08","4/27/18",2,17,18,1,"2 4",TRUE,47,"1",0
+"46",6161375,"X031620876","DE15.5 .G3 H37 2013","ALDERMAN","Winckelmann and the invention of Antiquity : history and aesthetics in the age of Altertumswissenschaft /","Harloe, Katherine,",2013,"11/28/13","9/20/17",0,4,33,1,"2",FALSE,48,"1",0
+"47",5312831,"X030816088","DE71 .C85 2010","ALDERMAN","Cultural identity in the ancient Mediterranean /","",2011,"3/24/11","5/7/18",1,9,21,1,"2",FALSE,50,"1",0
+"48",6708297,"X031735141","DE7 .P5 2016","ALDERMAN","Hellenistic lives /","Plutarch.",2016,"3/16/16","4/5/16",0,1,0,1,"2",FALSE,51,"1",0
+"49",4671963,"X030276297","DE8 .C65 2007 v.1","ALDERMAN","A companion to Greek and Roman historiography /","",2007,"12/6/07","12/17/18",13,31,17,2,"2",TRUE,52,"1",0
+"50",3898765,"X004664876","DE86 .B67 2002","ALDERMAN","The legacy of Alexander : politics, warfare, and propaganda under the successors /","Bosworth, A. B.",2002,"3/3/03","5/6/16",3,46,29,2,"2",FALSE,53,"1",0
+"51",4742349,"X030395796","DE71 .E98 2008","ALDERMAN","Daily life in the Hellenistic Age : from Alexander to Cleopatra /","Evans, J. A. S. (James Allan Stewart),",2008,"6/28/08","2/14/17",1,17,3,1,"2",FALSE,55,"1",0
+"52",6071967,"X031613471","DE7 .P5 2013","ALDERMAN","Demosthenes and Cicero /","Plutarch.",2013,"5/30/13","11/26/18",0,1,63,1,"2",FALSE,56,"1",0
+"53",5963579,"X030609386","DE94 .B98 2012","ALDERMAN","Byzantines, Latins, and Turks in the eastern Mediterranean world after 1150 /","",2012,"4/3/13","11/15/16",2,5,1,1,"2",FALSE,57,"1",0
+"54",4848988,"X030701049","DE80 .B7713 1995 v.1","CLEMONS","The Mediterranean and the Mediterranean world in the age of Philip II /","Braudel, Fernand.",1995,"9/1/10","7/9/18",2,14,43,2,"3",TRUE,58,"1",0
+"55",6417903,"X031653740","DE73 .C66 2014","ALDERMAN","A companion to ethnicity in the ancient Mediterranean /","",2014,"11/13/14","3/24/15",0,3,0,1,"2",FALSE,59,"1",0
+"56",2531863,"X002757219","DE7 .P5 1992 v.1","ALDERMAN","Plutarch : the lives of the noble Grecians and Romans /","Plutarch.",1992,"7/1/96","10/1/18",13,84,7,3,"2",TRUE,60,"1",0
+"57",6553048,"X031706475","DE5 .O94 2014","ALDERMAN","The Oxford companion to classical civilization /","",2014,"6/10/15","6/22/15",0,1,0,1,"2",FALSE,61,"1",0
+"58",3833022,"X006135219","DE71 .B72 2002","ALDERMAN","The Mediterranean in the ancient world /","Braudel, Fernand.",2002,"4/29/02","5/11/17",4,29,44,1,"2 4",FALSE,62,"1",0
+"59",4688644,"X030278816","DE86 .K35 2007","ALDERMAN","Hellenism in Byzantium : the transformations of Greek identity and the reception of the classical tradition /","Kaldellis, Anthony.",2007,"2/13/08","1/26/17",4,15,10,1,"2",FALSE,63,"1",0
+"60",5369085,"X030958514","DE71 .R53 2011","ALDERMAN","Cosmopolis : imagining community in late classical Athens and the early Roman Empire /","Richter, Daniel S.",2011,"7/7/11","11/3/17",0,4,0,1,"2",FALSE,65,"1",0
+"61",2264931,"X030685414","DE25 .L48 fasc.1","ALDERMAN","Lexicon of the Greek and Roman cities and place names in antiquity, ca. 1500 B.C. - ca. A.D. 500 /","",1992,"9/20/13","11/1/17",0,0,0,20,"2",TRUE,66,"1",0
+"62",5963583,"X030609141","DE86 .D46 2012","ALDERMAN","Negotiating identity in the ancient Mediterranean : the archaic and classical Greek multiethnic emporia /","Demetriou, Denise,",2012,"4/3/13","8/11/16",0,2,1,1,"2",FALSE,67,"1",0
+"63",5512666,"X031188105","DE71 .K57 2011","ALDERMAN","Greco-Roman associations : texts, translations, and commentary.","Kloppenborg, John S.,",2011,"12/10/11","2/4/18",0,2,0,1,"2",FALSE,68,"1",0
+"64",5270888,"X030817161","DE96 .T73 2010","ALDERMAN","Trade and cultural exchange in the early modern Mediterranean : Braudel's maritime legacy /","",2010,"1/13/11","1/3/18",1,4,10,1,"2",FALSE,69,"1",0
+"65",288221,"X000171318","DE73.2 .B55 B4 1979","ALDERMAN","The Negro in Greek and Roman civilization /","Beardsley, Grace Maynard Hadley,",1979,"6/28/96","5/22/12",3,52,5,1,"2",FALSE,71,"1",0
+"66",6149472,"X031618962","DE71 .F69 2013","ALDERMAN","Studying gender in classical antiquity /","Foxhall, Lin,",2013,"11/5/13","3/17/15",0,2,0,1,"2",FALSE,72,"1",0
+"67",3949789,"X004719322","DE86 .C65 2003","ALDERMAN","A Companion to the Hellenistic world /","",2003,"6/26/03","1/15/18",6,21,12,1,"2",FALSE,73,"1",0
+"68",5744197,"X030856525","DE5 .O9 2012","ALDERMAN","The Oxford classical dictionary.","",2012,"8/27/12","5/5/16",3,2,6,1,"2 4",FALSE,74,"1",0
+"69",5764770,"X030843885","DE8 .M655 2012","ALDERMAN","Essays in ancient and modern historiography /","Momigliano, Arnaldo.",2012,"9/6/12","9/24/15",2,3,2,1,"2",FALSE,75,"1",0
+"70",6288894,"X031628634","DE7 .P513 2013","ALDERMAN","The rise of Rome : twelve lives /","Plutarch.",2013,"6/18/14","7/3/14",2,1,1,1,"2",FALSE,76,"1",0
+"71",7746870,"X031915822","DE7 .P53 1836","ALDERMAN","Plutarch's Lives /","Plutarch.",1836,"11/1/17","11/1/17",0,0,0,1,"2",FALSE,77,"1",0
+"72",5100205,"X030770072","DE73.2 .E8 V35 2009","ALDERMAN","The first Ethiopians : the image of Africa and Africans in the early Mediterranean world /","Van Wyk Smith, Malvern.",2009,"3/8/10","7/5/18",0,2,3,1,"2",TRUE,78,"1",0
+"73",591936,"X004213819","DE80 .B7714 v.1","ALDERMAN","The Mediterranean and the mediterranean world in the age of Philip II.","Braudel, Fernand.",1972,"7/28/98","10/6/17",24,113,4,4,"2 3 21",TRUE,79,"1",0
+"74",2056468,"X002219761","DE61 .B87 M67 1992","ALDERMAN","Death-ritual and social structure in classical antiquity /","Morris, Ian,",1992,"6/30/96","12/2/16",2,39,0,1,"2 14",FALSE,80,"1",0
+"75",5161231,"X030782403","DE8 .U55 2010","ALDERMAN","Historiae mundi : studies in universal history /","Universal Historiography in Antiquity and Beyond",2010,"6/7/10","12/21/15",2,6,2,1,"2",FALSE,81,"1",0
+"76",5057376,"X030720566","DE5 .O95 2010 v.4","ALDERMAN","The Oxford encyclopedia of ancient Greece and Rome /","",2010,"11/11/09","6/28/17",11,17,2,6,"2",TRUE,82,"1",0
+"77",6184655,"X031582426","DE3 .S69 2012","ALDERMAN","Sozidai?ushchai?a vernost? : k 90-letii?u A.A. Takho-Godi.","",2012,"1/13/14","1/16/14",0,1,0,1,"2",FALSE,83,"1",0
+"78",5228522,"X030720442","DE60 .C55 2010","CLEMONS","The classical tradition /","",2010,"10/13/10","9/25/14",0,7,2,1,"3 4",FALSE,84,"1",0
+"79",4375763,"X004904114","DE86 .C35 2006","ALDERMAN","The Cambridge companion to the Hellenistic world /","",2006,"6/27/06","11/17/16",4,13,4,1,"2",FALSE,85,"1",0
+"80",5288089,"X030810790","DE71 .S27 2011","ALDERMAN","Handbook for classical research /","Schaps, David M.",2011,"2/15/11","8/7/14",1,6,0,1,"2",FALSE,86,"1",0
+"81",4696858,"X030278927","DE86 .E77 2008","ALDERMAN","A history of the Hellenistic world, 323-30 BC  /","Errington, R. M. (Robert Malcolm)",2008,"3/12/08","5/12/18",1,5,14,1,"2",FALSE,88,"1",0
+"82",1864147,"X002041834","DE86 .G734 1991","ALDERMAN","A short history of classical civilization /","Grant, Michael,",1991,"6/30/96","11/27/18",1,33,124,1,"2",FALSE,89,"1",0
+"83",3682070,"X006111166","DE59 .O94 2001","ALDERMAN","The Oxford illustrated history of Greece and the Hellenistic world /","Boardman, John,",2001,"1/18/01","1/24/17",2,25,0,1,"2 4",FALSE,91,"1",0
+"84",5174941,"X030715173","DE71 .M355 2009","ALDERMAN","Mania : madness in the Greco-Roman world /","Unisa Classics Colloquium",2009,"7/8/10","5/14/17",2,1,3,1,"2",FALSE,92,"1",0
+"85",2805076,"X030781327","DE61 .S43 W33 1998","ALDERMAN","Seagoing ships & seamanship in the Bronze Age Levant /","Wachsmann, Shelley.",1998,"9/2/10","11/30/16",2,9,2,2,"2",FALSE,93,"1",0
+"86",4333216,"X004995146","DE71 .C85 2005","ALDERMAN","Cultural borrowings and ethnic appropriations in antiquity /","",2005,"12/10/05","6/6/17",1,11,4,1,"2",FALSE,94,"1",0
+"87",4820933,"X030276797","DE86 .C63 2009","ALDERMAN","A companion to late Antiquity /","",2009,"2/13/09","1/15/16",3,5,1,1,"2",FALSE,95,"1",0
+"88",4407200,"X004834211","DE80 .N67 2006","ALDERMAN","The middle sea : a history of the Mediterranean /","Norwich, John Julius,",2006,"10/11/06","6/18/12",2,18,0,1,"2",FALSE,97,"1",0
+"89",4296277,"X004903562","DE71 .C495 2006","ALDERMAN","Classical pasts : the classical traditions of Greece and Rome /","",2006,"1/17/06","7/18/18",3,7,10,1,"2 4",FALSE,98,"1",0
+"90",4505555,"X030197253","DE86 .G74 2007","CLEMONS","The Hellenistic age : a history /","Green, Peter,",2007,"4/2/07","1/25/17",0,7,0,1,"3",FALSE,100,"1",0
+"91",5213188,"X030781184","DE100 .D48 2010","ALDERMAN","Deux MÈditerranÈes : les voies de la mondialisation et de l'autonomie /","",2010,"9/8/10","6/14/11",0,10,0,1,"2",FALSE,101,"1",0
+"92",534236,"X000448720","DE5 .O9 1970","ALDERMAN","The Oxford classical dictionary,","",1970,"6/29/96","1/23/17",7,34,0,1,"1 2 14 17 19",FALSE,105,"1",0
+"93",2457560,"X002664581","DE59 .P373 1995","ALDERMAN","The passionate intellect : essays on the transformation of classical traditions : presented to Professor I.G. Kidd /","",1995,"7/1/96","6/27/17",3,31,0,1,"2",FALSE,106,"1",0
+"94",4299997,"X004833759","DE80 .M432 2005","ALDERMAN","Mediterranean paradigms and classical antiquity /","",2005,"8/24/05","5/20/13",3,17,0,1,"2",FALSE,108,"1",0
+"95",4328448,"X004835311","DE86 .L36 2005","ALDERMAN","The classical world : an epic history from Homer to Hadrian /","Lane Fox, Robin,",2005,"11/18/05","11/13/10",4,21,0,1,"2",FALSE,109,"1",0
+"96",2633258,"X004066254","DE5 .O9 1996","ALDERMAN","The Oxford classical dictionary /","",1996,"12/2/96","8/25/09",16,64,2,2,"2 4 14 17",FALSE,110,"1",0
+"97",4505836,"X030114847","DE71 .C55 2006","ALDERMAN","Reading and writing the Mediterranean /","Consolo, Vincenzo,",2006,"4/3/07","7/18/18",0,1,2,1,"2",FALSE,111,"1",0
+"98",4393411,"X030105531","DE86 .H332 2006","ALDERMAN","The Hellenistic monarchies : selected papers /","Habicht, Christian,",2006,"9/5/06","5/12/18",1,2,6,1,"2",FALSE,112,"1",0
+"99",4397115,"X030106135","DE61 .P63 H36 2006","ALDERMAN","The shotgun method : the demography of the ancient Greek city-state culture /","Hansen, Mogens Herman,",2006,"9/19/06","11/14/16",0,5,0,1,"2",FALSE,113,"1",0
+"100",4078728,"X004771888","DE71 .B45 2004","ALDERMAN","Spectacular power in the Greek and Roman city /","Bell, Andrew (Andrew J. E.)",2004,"10/27/04","7/18/18",0,6,10,1,"2",FALSE,114,"1",0
+"101",4446267,"X004834495","DE7 .G37 2006","ALDERMAN","Celebrity in antiquity : from media tarts to tabloid queens /","Garland, Robert,",2006,"11/30/06","3/14/13",0,11,3,1,"2",FALSE,117,"1",0
+"102",5170586,"X030265462","DE96 .F58 2009","ALDERMAN","Schiavit˘ mediterranee : corsari, rinnegati e santi di et‡ moderna /","Fiume, Giovanna.",2009,"6/30/10","3/21/14",1,0,0,1,"2",FALSE,118,"1",0
+"103",5270885,"X030817243","DE86 .K47 2010","ALDERMAN","A brief history of classical civilization /","Kershaw, Stephen.",2010,"1/13/11","11/4/12",0,1,0,1,"2",FALSE,119,"1",0
+"104",3918330,"X004657986","DE94 .C78 2003","ALDERMAN","Crusaders, condottieri, and cannon : medieval warfare in societies around the Mediterranean /","",2003,"3/6/03","10/3/16",2,12,0,1,"2",FALSE,120,"1",0
+"105",4019422,"X004770757","DE71 .W57 2004","ALDERMAN","The ancient Mediterranean world : from the Stone Age to A.D. 600 /","Winks, Robin W.",2004,"3/30/04","4/27/18",0,6,0,1,"2",FALSE,121,"1",0
+"106",533748,"X000090595","DE8 .G7","ALDERMAN","The ancient historians.","Grant, Michael,",1970,"6/29/96","11/1/17",6,33,8,2,"2 21",FALSE,122,"1",0
+"107",1314467,"X001360784","DE8 .G391 1988","ALDERMAN","History and biography in ancient thought / by Bruno Gentili and Giovanni Cerri ; [translated by David Murray and Leonard Murray under the supervision of A. Hamilton, G. Giangrande, and Daniele Guardamagna].","Gentili, Bruno.",1988,"6/30/96","9/20/18",1,24,4,1,"2",FALSE,123,"1",0
+"108",4703492,"X030088431","DE8 .C67 2007","ALDERMAN","Costruzione e uso del passato storico nella cultura antica : atti del convegno internazionale di studi, Firenze 18-20 settembre 2003 /","",2007,"3/27/08","1/26/16",2,0,0,1,"2",FALSE,124,"1",0
+"109",135906,"X000354212","DE57 .L57 1982","ALDERMAN","Classical survivals : the classics in the modern world /","Lloyd-Jones, Hugh.",1982,"6/28/96","10/30/08",1,45,0,1,"2",FALSE,125,"1",0
+"110",954646,"X000215034","DE7 .P5 1940","ALDERMAN","The lives of the noble Grecians and Romans,","Plutarch.",1932,"6/29/96","11/6/17",1,30,10,1,"2",FALSE,127,"1",0
+"111",3509346,"X004661540","DE61 .P5 D47 1999","ALDERMAN","Piracy in the Graeco-Roman world /","De Souza, Philip.",1999,"2/7/03","9/7/18",1,7,0,1,"2",TRUE,128,"1",0
+"112",3908272,"X004667314","DE96 .E28 2002","ALDERMAN","Early modern history and the social sciences : testing the limits of Braudel's Mediterranean /","",2002,"1/3/03","2/4/16",4,12,1,1,"2",FALSE,129,"1",0
+"113",782526,"X001260813","DE94 .F47 1987","ALDERMAN","Before Columbus : exploration and colonization from the Mediterranean to the Atlantic 1229-1492 /","Fern·ndez-Armesto, Felipe.",1987,"6/29/96","8/1/12",4,36,1,1,"2",FALSE,130,"1",0
+"114",4766351,"X030464288","DE3 .M347 2008","ALDERMAN","Mediterranean passages : readings from Dido to Derrida /","",2008,"9/9/08","2/28/13",1,4,0,1,"2",FALSE,131,"1",0
+"115",3834224,"X004773761","DE3 .M52 2002 v.2","ALDERMAN","Rome, the Greek world, and the East /","Millar, Fergus.",2002,"6/25/04","11/27/18",1,11,0,3,"2",TRUE,132,"1",0
+"116",1840103,"X001963307","DE61 .Y6 K54 1991","ALDERMAN","Ancient youth : the ambiguity of youth and the absence of adolescence in Greco-Roman society /","Kleijwegt, Marc.",1991,"6/30/96","11/15/17",0,24,5,1,"2",FALSE,133,"1",0
+"117",339798,"X000049770","DE8 .M65","ALDERMAN","Essays in ancient and modern historiography /","Momigliano, Arnaldo.",1977,"6/28/96","6/22/15",4,30,0,1,"2",FALSE,134,"1",0
+"118",4043825,"X004771243","DE86 .S855 2004","ALDERMAN","Studies in ancient Greek and Roman society /","",2004,"7/15/04","4/22/14",3,11,1,1,"2",FALSE,135,"1",0
+"119",4393167,"X030150029","DE96 .B37 2006","ALDERMAN","Esclavos y cautivos : conflicto entre la cristiandad y el islam en el siglo XVIII /","Barrio Gozalo, Maximiliano.",2006,"9/4/06","2/9/16",1,2,0,1,"2",FALSE,136,"1",0
+"120",954674,"X000090588","DE89 .A5 1966","ALDERMAN","Ancient society and institutions:","",1966,"6/29/96","7/13/18",3,24,5,1,"2",FALSE,137,"1",0
+"121",401488,"X000157591","DE60 .W37 1976","ALDERMAN","Rome's debt to Greece /","Wardman, Alan.",1976,"6/28/96","7/18/18",1,23,10,1,"2",FALSE,138,"1",0
+"122",776446,"X001283623","DE60 .C46 1987","ALDERMAN","Centre and periphery in the ancient world /","",1987,"6/29/96","3/5/14",6,31,0,1,"2",FALSE,139,"1",0
+"123",2243028,"X002405469","DE71 .C25 1993","ALDERMAN","The Mediterranean world in late antiquity, AD 395-600 /","Cameron, Averil.",1993,"7/1/96","9/25/17",2,23,3,1,"2",FALSE,140,"1",0
+"124",576567,"X030238041","DE5 .O9 1949","ALDERMAN","The Oxford classical dictionary,","",1949,"6/7/07","1/23/17",2,2,0,1,"2",FALSE,141,"1",0
+"125",4010547,"X004743345","DE71 .F74 2004","ALDERMAN","Egypt, Greece, and Rome : civilizations of the ancient Mediterranean /","Freeman, Charles,",2004,"2/25/04","1/21/15",1,9,3,1,"2",FALSE,142,"1",0
+"126",4000840,"X004779074","DE71 .E58 2003","ALDERMAN","Les …lites et leurs facettes : les Èlites locales dans le monde hellÈnistique et romain /","",2003,"1/20/04","5/12/18",0,2,6,1,"2",FALSE,143,"1",0
+"127",4225588,"X004839711","DE2.5 .R48 2005","ALDERMAN","Rethinking the Mediterranean /","",2005,"2/10/05","3/28/13",0,10,4,1,"2 4",FALSE,144,"1",0
+"128",4615463,"X030275567","DE86 .G739 2007","ALDERMAN","Alexander the great and the Hellenistic Age /","Green, Peter,",2007,"8/15/07","4/24/09",0,12,0,1,"2",FALSE,145,"1",0
+"129",3783879,"X004606974","DE84 .H447 2001","ALDERMAN","Les Barbaresques : la course et la guerre en MÈditerranÈe, XIVe-XVIe siËcle /","Heers, Jacques.",2001,"10/15/01","8/9/17",0,9,0,1,"2",FALSE,146,"1",0
+"130",2142882,"X002528722","DE60 .C48 1993","ALDERMAN","Centre and periphery in the Hellenistic world /","",1993,"7/1/96","7/18/18",4,20,10,1,"2",FALSE,147,"1",0
+"131",645374,"X000823691","DE86 .R65 1984","ALDERMAN","Rome and the Greek East to the death of Augustus /","",1984,"6/29/96","5/18/17",7,23,6,1,"2",FALSE,148,"1",0
+"132",4409057,"X030107906","DE100 .C675 2006","ALDERMAN","The convergence of civilizations : constructing a Mediterranean Region /","",2006,"10/25/06","5/20/13",1,5,0,1,"2",FALSE,149,"1",0
+"133",43480,"X001034164","DE86 .W35 1985","ALDERMAN","Selected papers : studies in Greek and Roman history and historiography /","Walbank, F. W. (Frank William),",1985,"6/28/96","2/26/18",1,21,7,1,"2",FALSE,150,"1",0
+"134",213203,"X000238361","DE7 .P53 1872","ALDERMAN","Plutarch's Lives /","Plutarch.",1872,"6/28/96","3/3/16",6,34,0,1,"2",FALSE,151,"1",0
+"135",80527,"X001013383","DE3 .C7 1985","ALDERMAN","The Craft of the ancient historian : essays in honor of Chester G. Starr /","",1985,"6/28/96","5/7/18",2,20,7,1,"2",FALSE,152,"1",0
+"136",4249052,"X004183866","DE59 .C59 1998","CLEMONS","The Ancient city : life in classical Athens & Rome /","Connolly, Peter,",2001,"6/9/98","4/20/16",2,18,7,1,"3 14",FALSE,153,"1",0
+"137",3942490,"X004663539","DE7 .R53 2003","ALDERMAN","Twelve Greeks and Romans who changed the world /","Richard, Carl J.",2003,"5/20/03","11/10/09",3,19,0,1,"2",FALSE,154,"1",0
+"138",3918772,"X004688684","DE59 .N62 2002","ALDERMAN","Noctes atticae : 34 articles on Graeco-Roman antiquity and its Nachleben : studies presented to J¯rgen Mejer on his sixtieth birthday March 18, 2002 /","",2002,"2/21/03","5/9/17",2,4,0,1,"2",FALSE,155,"1",0
+"139",525220,"X000090593","DE71 .G68 1969","ALDERMAN","The ancient Mediterranean.","Grant, Michael,",1969,"6/29/96","11/27/18",1,19,124,1,"2",FALSE,156,"1",0
+"140",4685943,"X030371078","DE86 .C655 2006","ALDERMAN","La MÈditerranÈe d'une rive ‡ l'autre : culture classique et cultures pÈriphÈriques : actes [du 17e colloque de la villa KÈrylos ‡ Beaulieu-sur-Mer les 20 & 21 octobre 2006] /","Colloque de la Villa KÈrylos",2007,"2/7/08","8/15/12",2,1,0,1,"2",FALSE,157,"1",0
+"141",576424,"X001076152","DE7 .P7 S3","CLEMONS","The rise and fall of Athens; nine Greek lives: Theseus, Solon, Themistocles, Aristides, Cimon, Pericles, Nicias, Alcibiades, Lysander.","Plutarch.",1960,"6/29/96","6/10/09",5,39,0,1,"3",FALSE,158,"1",0
+"142",1655829,"X001742012","DE71 .G74 1989","ALDERMAN","Classical bearings : interpreting ancient history and culture /","Green, Peter,",1989,"6/30/96","4/23/17",2,20,36,1,"2",FALSE,159,"1",0
+"143",2465223,"X002712204","DE1 .L58 1993","ALDERMAN","Tria Lustra: Essays and notes presented to John Pinsent founder and editor of Liverpool Classical Monthly by some of its contributors on the occasion of the 150th issue/","",1993,"7/1/96","2/6/18",20,18,0,1,"2",FALSE,160,"1",0
+"144",7796961,"X032581831","DE85.5 .G7 H65 2018","ALDERMAN","The warm South : how the Mediterranean shaped the British imagination /","Holland, R. F. (Robert F.),",2018,"11/14/18","1/1/00",0,0,0,1,"2",FALSE,161,"1",0
+"145",147634,"X000688453","DE8 .F67 1983","ALDERMAN","The nature of history in ancient Greece and Rome /","Fornara, Charles W.",1983,"6/28/96","10/9/15",2,23,4,1,"2 14",FALSE,162,"1",0
+"146",4449188,"X030007698","DE71 .T735 2006","ALDERMAN","Transferts culturels et politique dans le monde hellÈnistique : actes de la table ronde sur les identitÈs collectives, Sorbonne, 7 fÈvrier 2004 /","",2006,"12/18/06","12/17/13",1,0,0,1,"2",FALSE,163,"1",0
+"147",3969510,"X004733399","DE8 .G74 2001 v.2","ALDERMAN","Grecs et romains aux prises avec l'histoire : reprÈsentations, rÈcits et idÈologie /","",2003,"10/20/03","3/8/16",4,7,13,2,"2",TRUE,164,"1",0
+"148",437035,"X000015551","DE8 .M65 1977b","CLEMONS","Essays in ancient and modern historiography /","Momigliano, Arnaldo.",1977,"6/29/96","1/18/13",3,29,4,1,"3",FALSE,165,"1",0
+"149",7650468,"X032211571","DE71 .B44 2018","ALDERMAN","Soziale Insekten in der Antike : ein Beitrag zu Naturkonzepten in der griechisch-rˆmischen Kultur /","Berrens, Dominik,",2018,"7/26/18","1/1/00",0,0,0,1,"2",FALSE,166,"1",0
+"150",7625975,"X032085358","DE60 .E58 2018","ALDERMAN","EntrepÙts et circuits de distribution en MÈditerranÈe antique /","",2018,"7/9/18","1/1/00",0,0,0,1,"2",FALSE,167,"1",0
+"151",3827086,"X004638269","DE71 .N55 1997","ALDERMAN","The Civic world of professional associations in the Roman East /","Nijf, Onno van,",1997,"4/2/02","12/14/15",1,7,1,1,"2",FALSE,168,"1",0
+"152",3516745,"X004393204","DE85.5 .S7 G55 2000","ALDERMAN","Spain and the Mediterranean : developing a European policy towards the south /","Gillespie, Richard,",2000,"3/30/00","11/16/17",0,7,0,1,"2",TRUE,169,"1",0
+"153",3712929,"X004652202","DE61 .M5 M54 1993","ALDERMAN","Cataphracti and clibanarii : studies on the heavy armoured cavalry of the ancient world /","Mielczarek, Mariusz.",1993,"4/25/01","11/17/17",1,5,0,1,"2",FALSE,170,"1",0
+"154",2633530,"X004067023","DE59 .D35 1989","ALDERMAN","Daidalikon : studies in memory of Raymond V. Schoder, S.J. /","",1989,"12/2/96","2/13/17",2,17,12,1,"2",FALSE,171,"1",0
+"155",4124619,"X004843720","DE61 .O43 C46 2003 t.2","ALDERMAN","L'anciennetÈ chez les anciens /","Centre d'Ètude et de la recherce sur les civilisations antiques de la MÈditerranÈe. Colloquim",2003,"11/1/04","4/9/14",3,6,0,2,"2",TRUE,172,"1",0
+"156",3809499,"X004611478","DE71 .B73 1998","ALDERMAN","Les mÈmoires de la MÈditerranÈe : prÈhistoire et antiquitÈ /","Braudel, Fernand.",1998,"1/30/02","9/30/12",0,13,0,1,"2",FALSE,173,"1",0
+"157",3908648,"X004672802","DE97 .T45 2002","ALDERMAN","Un rÍve mÈditerranÈen : des saint-simoniens aux intellectuels des annÈes trente, 1832-1962 /","TÈmime, …mile",2002,"1/8/03","4/10/17",0,1,0,1,"2",FALSE,174,"1",0
+"158",3791924,"X004555003","DE3 .I6 2001","ALDERMAN","Interpreting late antiquity : essays on the postclassical world /","",2001,"11/13/01","9/24/14",1,9,0,1,"2",FALSE,175,"1",0
+"159",3887983,"X004631769","DE86 .A35 2002","ALDERMAN","After the past : essays in ancient history in honour of H.W. Pleket /","",2002,"10/1/02","9/29/16",0,2,2,1,"2",FALSE,177,"1",0
+"160",4450544,"X030162451","DE80 .N67 2006b","CLEMONS","The Middle Sea : a history of the Mediterranean /","Norwich, John Julius,",2006,"2/1/07","9/7/10",0,4,0,1,"3 4",FALSE,178,"1",0
+"161",2630822,"X004080211","DE61 .E25 H85 1996","ALDERMAN","Human landscapes in classical antiquity : environment and culture /","",1996,"11/19/96","5/21/13",3,23,3,1,"2",FALSE,179,"1",0
+"162",1641067,"X001728273","DE7 .N442 1989","ALDERMAN","Cornelius Nepos : a selection, including the lives of Cato and Atticus /","Nepos, Cornelius.",1989,"6/30/96","5/8/18",0,14,0,1,"2",FALSE,180,"1",0
+"163",4861488,"X030468042","DE3 .E2 2008","ALDERMAN","East & west : papers in ancient history presented to Glen W. Bowersock /","",2008,"4/14/09","9/3/09",2,0,0,1,"2",FALSE,182,"1",0
+"164",4447721,"X030151654","DE80 .L36 2006","CLEMONS","The classical world : an epic history from Homer to Hadrian /","Lane Fox, Robin,",2006,"12/8/06","12/10/09",0,5,0,1,"3",FALSE,183,"1",0
+"165",3896919,"X004652569","DE94 .C38 no.7","ALDERMAN","Zones cÙtiËres littorrales dans le monde mÈditerranÈen au Moyen ¬ge ; dÈfense, peuplement, mise en valeur ; actes du colloque international organisÈ par l'…cole franÁaise de Rome et la Casa de Vel·zquez, en collaboration avec le CollËge de France et le Centre interuniversitaire d'histoire et d'archÈologie mÈdiÈvale","",2001,"11/18/02","8/15/16",0,1,0,1,"2",TRUE,184,"1",0
+"166",3793934,"X004606308","DE3 .G73 2001","ALDERMAN","The Greek East in the Roman context : proceedings of a colloquium organised by The Finnish Institute at Athens ; May 21 and 22, 1999 /","",2001,"11/20/01","2/7/14",1,8,0,1,"2",FALSE,187,"1",0
+"167",6999972,"X031800438","DE59.5 .F43 2013","ALDERMAN","Field methods and post-excavation techniques in late antique archaeology /","",2013,"3/17/17","1/1/00",1,0,0,1,"2",FALSE,188,"1",0
+"168",2738191,"X006046966","DE94 .A38 1997","ALDERMAN","The western Mediterranean kingdoms, 1200-1500 : the struggle for dominion /","Abulafia, David.",1997,"11/24/97","5/5/16",2,13,5,1,"2",FALSE,189,"1",0
+"169",48094,"X000953509","DE8 .F55 1985","ALDERMAN","Ancient history : evidence and models /","Finley, M. I. (Moses I.),",1985,"6/28/96","4/5/16",4,17,5,1,"2",FALSE,192,"1",0
+"170",2645334,"X006036556","DE59 .I58 1997","ALDERMAN","Inventing ancient culture : historicism, periodization and the ancient world /","",1997,"1/27/97","1/18/13",0,21,4,1,"2",FALSE,193,"1",0
+"171",74285,"X031915820","DE8 .M84 1983","ALDERMAN","Die Konzeption des Fortschritts im antiken Geschichtsdenken /","M¸ller, Reimar.",1983,"11/1/17","1/1/00",0,0,0,2,"2",FALSE,194,"1",0
+"172",24059,"X000848495","DE61 .M5 R65","ALDERMAN","Roman urban defences in the west : a review of current research on urban defences in the Roman Empire with special reference to the northern provinces, based on papers presented to the conference on Roman urban defences held at the Museum of London on 21-23 March 1980 /","",1983,"6/28/96","5/23/18",0,12,4,1,"2",TRUE,196,"1",0
+"173",7277268,"X031871270","DE59 .B38","ALDERMAN","Het maansteenrif : wandelingen door de antieke wereld /","Bastet, F. L.",1979,"11/2/17","1/1/00",0,0,0,1,"2",FALSE,197,"1",0
+"174",29773,"X000902623","DE61 .H86 A52 1985","ALDERMAN","Hunting in the ancient world /","Anderson, J. K. (John Kinloch)",1985,"6/28/96","4/20/17",0,14,4,1,"2",FALSE,198,"1",0
+"175",4717966,"X030374747","DE8 .B73 2008","ALDERMAN","Studi di storiografia filosofica antica /","Brancacci, Aldo.",2008,"5/9/08","8/10/09",1,0,0,1,"2",FALSE,199,"1",0
+"176",195754,"X031871174","DE94 .C45 1978 t.2","ALDERMAN","La navigazione mediterranea nell'alto Medioevo [settimana di studio] 14-20 aprile 1977.","Centro italiano di studi sull'alto Medioevo.",1978,"11/1/17","1/1/00",0,0,0,2,"2",TRUE,200,"1",0
+"177",583628,"X000301703","DE59 .N3 1968","ALDERMAN","Greece and Rome; builders of our world.","National Geographic Book Service.",1968,"6/29/96","11/12/18",0,12,0,1,"2",FALSE,201,"1",0
+"178",4022439,"X004789192","DE8 .T66 2002","ALDERMAN","Rethinking Roman history /","Toner, J. P.",2002,"4/15/04","3/5/08",0,13,0,1,"2",FALSE,202,"1",0
+"179",954644,"X004965713","DE5 .S7 1849 v.3","ALDERMAN","Dictionary of Greek and Roman biography and mythology.","Smith, William,",1849,"4/25/08","11/3/15",2,7,0,3,"2",TRUE,203,"1",0
+"180",3940832,"X004689164","DE86 .G47 2002","ALDERMAN","Gestures : essays in ancient history, literature, and philosophy presented to Alan L. Boegehold on the occasion of his retirement and his seventy-fifth birthday /","",2002,"5/14/03","8/10/10",6,10,0,1,"2",FALSE,204,"1",0
+"181",954623,"X004801475","DE5 .D21 1900 v.4 pt.1","ALDERMAN","Dictionnaire des antiquitÈs grecques et romaines : d'aprËs les textes et les monuments /","Daremberg, Charles,",1900,"7/26/04","1/19/18",16,0,0,10,"2",TRUE,205,"1",0
+"182",3818204,"X004611888","DE73 .O75 2001","ALDERMAN","Origines Gentium : textes /","",2001,"2/28/02","7/21/15",0,2,5,1,"2",FALSE,207,"1",0
+"183",1229884,"X004801545","DE5 .P34 bd.10A (2.Folge)","ALDERMAN","Paulys Real-Encyclop‰die der classischen Altertumswissenschaft. Neue Bearbeitung unter Mitwirkung zahlreicher Fachgenossen","Pauly, August Friedrich von,",1893,"7/26/04","1/9/18",51,1,0,83,"2",TRUE,208,"1",0
+"184",73861,"X001016316","DE60 .B58 1986","ALDERMAN","The origins of civilization in Greek and Roman thought /","Blundell, Sue.",1986,"6/28/96","4/20/17",2,13,9,1,"2",FALSE,209,"1",0
+"185",1302984,"X000210324","DE7 .P55 1955 V.1","ALDERMAN","The lives of the noble Grecians and Romans, compared together /","Plutarch.",1955,"6/30/96","1/11/14",3,32,9,2,"2",TRUE,210,"1",0
+"186",4506852,"X030209123","DE71 .F33","ALDERMAN","Head and hand in ancient Greece; four studies in the social relations of thought.","Farrington, Benjamin,",1947,"4/6/07","1/23/12",1,1,1,1,"2",FALSE,211,"1",0
+"187",4377351,"X030118202","DE61 .P75 I43 2005","ALDERMAN","Imaginary kings : royal images in the ancient Near East, Greece and Rome /","",2005,"7/5/06","3/17/08",2,6,0,1,"2",FALSE,212,"1",0
+"188",576040,"X031871175","DE71 .T6 1959","ALDERMAN","Hellenism; the history of a civilization.","Toynbee, Arnold,",1959,"11/1/17","1/1/00",1,16,7,3,"2 3",FALSE,213,"1",0
+"189",4039789,"X004769806","DE73.2 .S4 B35 2004","ALDERMAN","Mystery of the ancient seafarers /","Ballard, Robert D.",2004,"6/23/04","12/20/11",1,3,0,1,"2",FALSE,214,"1",0
+"190",2848727,"X004268109","DE5 .O92 1998","ALDERMAN","The Oxford companion to classical civilization /","",1998,"11/2/98","1/3/06",6,29,0,1,"2 4",FALSE,216,"1",0
+"191",597870,"X000526815","DE71 .R35","ALDERMAN","Urbanitas: ancient sophistication and refinement,","Ramage, Edwin S.,",1973,"6/29/96","4/21/16",2,15,0,1,"2",FALSE,218,"1",0
+"192",3716917,"X006112873","DE86 .P655 2000","ALDERMAN","Politics, administration and society in the Hellenistic and Roman world : proceedings of the international colloquium, Bertinoro 19-24 July 1997 /","",2000,"5/10/01","5/21/13",2,7,1,1,"2",FALSE,219,"1",0
+"193",3908165,"X004672857","DE84 .A76 2002","ALDERMAN","Army and power in the ancient world /","",2002,"1/2/03","5/21/12",1,5,0,1,"2",FALSE,220,"1",0
+"194",4386981,"X030122523","DE4 .H455 2006","ALDERMAN","Vom hellenistischen Osten zum rˆmischen Westen : ausgew‰hlte Schriften zur Alten Geschichte /","Heinen, Heinz,",2006,"8/10/06","8/15/07",1,6,0,1,"2",FALSE,221,"1",0
+"195",4382631,"X030118357","DE5 .L5817 1992","ALDERMAN","Slovar? antichnosti /","",1992,"7/24/06","1/26/11",0,0,0,1,"2",FALSE,222,"1",0
+"196",445881,"X006136503","DE3 .M28 1974 V.1","ALDERMAN","Mansel'e arma?an.  MÈlanges Mansel.","",1974,"6/29/96","11/27/18",9,21,0,3,"2",TRUE,224,"1",0
+"197",2641718,"X004067866","DE2.5 .A86 1996","ALDERMAN","Aspects of Hellenistic kingship /","",1996,"1/16/97","5/12/18",2,7,7,1,"2",FALSE,225,"1",0
+"198",4017403,"X004789016","DE60 .C357 2003","ALDERMAN","La campagne antique : espace sauvage, terre domestiquÈe.","",2003,"3/23/04","3/28/13",0,0,0,1,"2",FALSE,226,"1",0
+"199",287625,"X000108087","DE59 .B5 v.1","ALDERMAN","Hommages ‡ Marcel Renard,","Bibauw, Jacqueline.",1969,"6/28/96","10/27/17",13,23,0,3,"2",TRUE,228,"1",0
+"200",3971861,"X004704778","DE9 .A1 D84 2003","ALDERMAN","The Greek and Roman historians /","Duff, Tim.",2003,"9/30/03","4/10/07",1,13,0,1,"2",TRUE,229,"1",0
+"201",6548664,"X031648918","DE59 .M37 2011","ALDERMAN","Un mar de culturas : Sicilia, AndalucÌa y el Mediterr·neo /","",2011,"4/21/15","1/1/00",0,0,0,1,"2",FALSE,230,"1",0
+"202",714129,"X001063898","DE71 .G7 1986","ALDERMAN","Greece and Rome : the birth of Western civilization /","Grant, Michael,",1986,"6/29/96","11/12/18",1,7,0,1,"2",FALSE,231,"1",0
+"203",954643,"X001946566","DE5 .S672 1927","ALDERMAN","A smaller classical dictionary.","Smith, William,",1934,"10/31/17","1/1/00",0,0,0,1,"2",FALSE,232,"1",0
+"204",7277164,"X031900162","DE3 .D3 v.1 pt.1 1932","ALDERMAN","Ancient oil mills and presses /","Drachmann, A. G. (Aage Gerhardt),",1932,"11/1/17","1/1/00",0,0,0,1,"2",TRUE,233,"1",0
+"205",954675,"X000090589","DE89 .A5 1967","ALDERMAN","Ancient society and institutions:","",1967,"6/29/96","5/9/18",1,9,3,1,"2",FALSE,235,"1",0
+"206",6423912,"X031670690","DE71 .G73 2013","ALDERMAN","Les Grecs hÈritiers des Romains : huit ExposÈs suivis de discussions : Vandoeuvres - Geneve, 27-31 aout 2012 /","",2013,"10/24/14","1/1/00",0,0,0,1,"2",FALSE,236,"1",0
+"207",4552558,"X030246609","DE8 .T56 2007","ALDERMAN","Antike Geschichtsschreibung : Studien zur Historiographie /","Timpe, Dieter.",2007,"5/14/07","1/17/08",1,1,0,1,"2",FALSE,237,"1",0
+"208",7277300,"X031871278","DE10 .M34 1920","ALDERMAN","L'antiquite : orient-Grece-Rome : redige conformement aux programmes du 3i mai 1902","Malet, Albert",1920,"11/2/17","1/1/00",0,0,0,1,"2",FALSE,238,"1",0
+"209",1289664,"X001466773","DE61 .L32 P37 1988","ALDERMAN","Pastoral economies in classical antiquity /","",1988,"6/30/96","3/12/18",3,7,0,1,"2",FALSE,239,"1",0
+"210",3979989,"X004855824","DE59 .H57 2003 v.3","ALDERMAN","Histoire, espaces et marges de l'AntiquitÈ. hommages ‡ Monique Clavel-LÈvÍque /","",2003,"2/10/05","1/26/11",2,0,0,4,"2",TRUE,240,"1",0
+"211",3719627,"X004607784","DE3 .T73 2000","ALDERMAN","Tra Orfeo e Pitagora : origini e incontri di culture nell'antichit‡ : atti dei seminari napoletani 1996-1998 /","",2000,"5/21/01","7/2/13",1,4,0,1,"2",FALSE,241,"1",0
+"212",7571398,"X031826723","DE5 .L564 1898","ALDERMAN","Classical dictionary : containing a copious account of all the proper names mentioned in ancient authors : with the value of coins, weights, and measures used among the Greeks and Romans : and a chronological table /","LempriËre, John,",1898,"6/14/18","1/1/00",0,0,0,1,"2",FALSE,242,"1",0
+"213",1365376,"X002593653","DE3 .M46 1988 v.8","ALDERMAN","MÈlanges Pierre LÈvÍque /","",1988,"6/30/96","11/21/18",23,17,0,9,"2",TRUE,243,"1",0
+"214",576425,"X000024350","DE7 .P5 1932a","ALDERMAN","The lives of the noble Grecians and Romans,","Plutarch.",1932,"6/29/96","4/26/04",6,75,0,3,"2 3 5",FALSE,244,"1",0
+"215",1304024,"X001175266","DE7 .P5 1920 v.1","ALDERMAN","Lives of illustrious men /","Plutarch.",1920,"7/7/17","1/1/00",1,12,4,3,"2",TRUE,245,"1",0
+"216",2883158,"X004287885","DE3 .M48 v.24","ALDERMAN","Responsabilit‡, perdono e vendetta nel mondo antico /","",1998,"2/22/99","11/10/15",1,4,0,1,"2",TRUE,246,"1",0
+"217",3585035,"X004532591","DE3 .M48 v.25","ALDERMAN","Fazioni e congiure nel mondo antico /","",1999,"11/27/00","9/22/15",0,0,0,1,"2",TRUE,247,"1",0
+"218",6163443,"X031603960","DE80 .M475 2013","ALDERMAN","Mediterr·neos : an interdisciplinary approach to the cultures of the Mediterranean Sea /","",2013,"1/13/14","1/1/00",0,0,0,1,"2",FALSE,248,"1",0
+"219",501422,"X000026252","DE61 .N3 B37","ALDERMAN","Deep water, ancient ships : the treasure vault of the Mediterranean/","Bascom, Willard.",1976,"6/29/96","4/5/17",4,8,3,1,"2",FALSE,251,"1",0
+"220",6133912,"X031583518","DE84 .R57 2013","ALDERMAN","Rituals of triumph in the Mediterranean world /","",2013,"9/17/13","1/1/00",0,0,0,1,"2",FALSE,252,"1",0
+"221",2269394,"X002589159","DE1 .C3 v.3 no.1 1946","ALDERMAN","The figure of Dionysos on the Siphnian frieze,","Lenzen, Victor Fritz,",1946,"7/1/96","10/31/17",1,9,0,1,"2",TRUE,254,"1",0
+"222",4327017,"X004956577","DE61 .E25 C66 2004","ALDERMAN","Concepts, pratiques et enjeux environnementaux dans l'empire romain /","Concepts, pratiques et enjeux environnementaux dans l'empire romain",2005,"11/10/05","2/16/09",1,0,0,1,"2",TRUE,255,"1",0
+"223",2635663,"X004069300","DE86 .T7 1996","ALDERMAN","Transitions to empire : essays in Greco-Roman history, 360-146 B.C. in honor of E. Badian /","",1996,"12/12/96","2/8/17",3,5,1,1,"2",FALSE,257,"1",0
+"224",2066603,"X002190781","DE60 .G35 1992","ALDERMAN","Classical and modern interactions : postmodern architecture, multiculturalism, decline, and other issues /","Galinsky, Karl,",1992,"6/30/96","6/16/11",4,18,0,1,"2",FALSE,258,"1",0
+"225",4038939,"X004790427","DE31 .C467 2004","ALDERMAN","Chora und Polis /","",2004,"6/18/04","1/18/10",1,1,0,1,"2",FALSE,259,"1",0
+"226",593525,"X031915859","DE5 .B34 1885 v.1","ALDERMAN","Denkm‰ler des klassischen Altertums zur erl‰uterung des lebens der Griechen und Rˆmer in Religion, kunst und sitte.","Baumeister, A. (August),",1885,"11/1/17","1/1/00",0,0,0,3,"2 14",TRUE,260,"1",0
+"227",954650,"X000108089","DE7 .P7 T8 1963 v.1","ALDERMAN","Selected lives from the Lives of the noble Grecians and Romans.","Plutarch.",1963,"6/29/96","1/25/12",1,23,0,2,"2",TRUE,261,"1",0
+"228",2632715,"X004044942","DE71 .V65 1996","ALDERMAN","Voluntary associations in the Graeco-Roman world /","",1996,"11/26/96","11/16/15",0,7,1,1,"2",FALSE,262,"1",0
+"229",366387,"X000692177","DE3 .N6","ALDERMAN","La Notion du divin depuis HomËre jusqu'‡ Platon.","",1955,"6/28/96","5/13/18",0,6,1,1,"2",FALSE,264,"1",0
+"230",3585329,"X004478745","DE73.2 .S4 S43 2000","ALDERMAN","The sea peoples and their world : a reassessment /","",2000,"1/12/01","12/8/09",3,9,0,1,"2",FALSE,266,"1",0
+"231",7277302,"X031871280","DE29 .T754 1876","ALDERMAN","Classical geography /","Tozer, Henry Fanshawe,",1876,"11/2/17","1/1/00",0,0,0,1,"2",FALSE,267,"1",0
+"232",2095771,"X002182279","DE61 .N3 P37 1992","ALDERMAN","Ancient shipwrecks of the Mediterranean & the Roman provinces /","Parker, A. J. (Anthony John)",1992,"6/30/96","4/5/17",2,5,6,1,"2",FALSE,268,"1",0
+"233",393784,"X000700005","DE3 .M387","ALDERMAN","MÈlanges d'histoire ancienne et d'archÈologie offerts ‡ Paul Collart /","",1976,"6/28/96","5/12/18",0,4,2,1,"2",FALSE,269,"1",0
+"234",2918715,"X004313639","DE59 .E93 1999","ALDERMAN","The eye expanded : life and the arts in Greco-Roman antiquity /","",1999,"6/7/99","2/23/13",3,6,0,1,"2",FALSE,270,"1",0
+"235",4043743,"X004762257","DE59 .B685 E5 1857","ALDERMAN","A manual of Grecian and Roman antiquities /","Bojesen, E. F. (Ernst Frederik),",1857,"7/14/04","10/21/15",1,0,0,1,"2",FALSE,271,"1",0
+"236",1860532,"X002051312","DE85.5 .U6 S74 1992","ALDERMAN","Entangled allies : U.S. policy toward Greece, Turkey, and Cyprus /","Stearns, Monteagle,",1992,"6/30/96","2/10/07",3,26,0,1,"2",FALSE,272,"1",0
+"237",197739,"X002264550","DE3 .M48 v.6","ALDERMAN","Conoscenze etniche e rapporti di convivenza nell'antichit‡ /","",1979,"6/28/96","7/17/18",0,3,0,1,"2",TRUE,273,"1",0
+"238",3506271,"X004405799","DE8 .C66 1996","ALDERMAN","Presentazione e scrittura della storia : storiografia, epigrafi, monumenti : atti del convegno di Pontignano, aprile 1996 /","",1999,"2/17/00","1/8/14",0,2,0,1,"2",FALSE,274,"1",0
+"239",2383426,"X002591931","DE7 .P55 1967 v.5","ALDERMAN","Plutarch's Lives of the noble Grecians and Romans.","Plutarch.",1967,"7/1/96","11/1/17",1,43,0,6,"2",TRUE,276,"1",0
+"240",245659,"X000396075","DE7 .P5 1910 V.2","ALDERMAN","Plutarch's lives, ""Dryden Plutarch,""","Plutarch.",1910,"6/28/96","4/13/15",0,15,3,1,"2 3",TRUE,277,"1",0
+"241",1259930,"X001463483","DE8 .G56 1986","ALDERMAN","Il protagonismo nella storiografia classica.","Giornate filologiche genovesi",1987,"6/30/96","11/30/18",0,1,0,1,"2",FALSE,278,"1",0
+"242",2847164,"X004236837","DE3 .M48 v.23","ALDERMAN","Amnistia, perdonno e vendetta nel mondo antico /","",1997,"10/27/98","11/10/15",0,1,0,1,"2",TRUE,279,"1",0
+"243",220056,"X000327809","DE61 .P8 S78","ALDERMAN","Studien zur antiken Sozialgeschichte : Festschrift Friedrich Vittinghoff /","",1980,"6/28/96","8/21/18",3,2,0,1,"2",FALSE,280,"1",0
+"244",308140,"X030525622","DE7 .P5 1882 v.3","ALDERMAN","Plutarch's lives, the translation called Drydens? corrected from the Greek and revised by A. H. Clough ...","Plutarch.",1882,"2/2/09","2/3/09",1,4,0,5,"2",TRUE,281,"1",0
+"245",449438,"X000034438","DE61 .E5 S28 1974","ALDERMAN","The elephant in the Greek and Roman world /","Scullard, H. H. (Howard Hayes),",1974,"6/29/96","5/1/15",3,9,13,1,"2",FALSE,283,"1",0
+"246",2468777,"X002642825","DE61 .P66 R49 1995","ALDERMAN","Trade in the western Mediterranean, AD 400-700 : the ceramic evidence /","Reynolds, Paul,",1995,"7/1/96","11/23/15",3,6,2,1,"2",TRUE,284,"1",0
+"247",3737056,"X004523188","DE59 .A64 2001","ALDERMAN","Antiquities /","",2001,"7/24/01","5/11/09",2,7,0,1,"2",FALSE,285,"1",0
+"248",119472,"X000616576","DE3 .P43 1981","ALDERMAN","Pegasus : classical essays from the University of Exeter /","",1981,"6/28/96","5/4/17",2,4,16,1,"2",FALSE,286,"1",0
+"249",2630424,"X004066852","DE94 .I67 1996","ALDERMAN","Intercultural contacts in the medieval Mediterranean /","",1996,"11/18/96","4/28/15",1,6,2,1,"2",FALSE,287,"1",0
+"250",559985,"X000090932","DE61 .N3 T3 1966","ALDERMAN","Marine archaeology; developments during sixty years in the Mediterranean.","Taylor, Joan du Plat,",1966,"6/29/96","5/16/17",1,5,3,1,"2",TRUE,288,"1",0
+"251",1790166,"X001861269","DE3 .M48 v.15","ALDERMAN","Fenomeni naturali e avvenimenti storici nell'antichit‡ /","",1989,"6/30/96","10/31/17",3,2,0,1,"2",TRUE,289,"1",0
+"252",205262,"X000308901","DE80 .I53 1976 v.1","ALDERMAN","Actes du deuxiËme CongrËs international d'Ètude des cultures de la MÈditerranÈe occidentale.","International Congress of Studies on Cultures of the Western Mediterranean",1976,"6/28/96","3/11/18",8,4,6,2,"2",TRUE,290,"1",0
+"253",576596,"X030525618","DE5 .S7 1867 v.2","ALDERMAN","Dictionary of Greek and Roman biography and mythology.","Smith, William,",1867,"2/2/09","2/2/09",0,0,0,1,"2 10",TRUE,291,"1",0
+"254",104976,"X001106070","DE3 .M48 v.10","ALDERMAN","I Santuari e la guerra nel mondo classico /","",1984,"6/28/96","10/31/17",1,2,0,1,"2",TRUE,292,"1",0
+"255",1869924,"X002037095","DE59 .R32 1990","ALDERMAN","The school of Hellas : essays on Greek history, archaeology, and literature /","Raubitschek, A. E. (Antony Erich),",1991,"6/30/96","8/6/14",0,8,0,1,"2",FALSE,293,"1",0
+"256",1370784,"X001585004","DE59 .T7 1989","ALDERMAN","Tradition and innovation in late antiquity /","",1989,"6/30/96","10/2/12",3,12,0,1,"2",FALSE,294,"0",0
+"257",2413729,"X002653523","DE3 .M48 v.20","ALDERMAN","Emigrazione e immigrazione nel mondo antico /","",1994,"7/1/96","5/3/17",1,2,1,1,"2",TRUE,295,"0",0
+"258",354876,"X000052406","DE73.2 .S4 S26","ALDERMAN","The sea peoples : warriors of the ancient Mediterranean, 1250-1150 B.C. /","Sandars, N. K. (Nancy K.)",1978,"6/28/96","2/19/14",1,10,0,1,"2",FALSE,296,"0",0
+"259",548008,"X000090933","DE61 .N3 F57","ALDERMAN","Cities in the sea","Flemming, N. C. (Nicholas Coit)",1971,"6/29/96","4/10/17",2,4,5,1,"2",TRUE,297,"0",0
+"260",2330384,"X002549748","DE3 .S7 1994","ALDERMAN","Storia poesia e pensiero nel mondo antico : studi in onore di Marcello Gigante.","",1994,"7/1/96","10/7/16",0,3,1,1,"2",FALSE,298,"0",0
+"261",1892005,"X002049156","DE3 .M48 v.16","ALDERMAN","""Dulce et decorum est pro patria mori"" : la morte in combattimento nell'antichit‡ /","",1990,"6/30/96","5/26/16",1,4,1,1,"2",TRUE,299,"0",0
+"262",315775,"X031915878","DE5 .P33 1839 V.2","ALDERMAN","Real-Encyclop‰die der classischen Altertumswissenschaft in alphabetischer Ordnung /","Pauly, August Friedrich von,",1839,"11/1/17","1/1/00",0,0,0,7,"2",TRUE,300,"0",0
+"263",2269393,"X002399892","DE1 .C3 v.2 no.5 1952","ALDERMAN","Quintus Veranius, consul A.D. 49; a study based upon his recently identified sepulchral inscription.","Gordon, Arthur E. (Arthur Ernest),",1952,"7/1/96","10/31/17",1,4,0,1,"2",TRUE,301,"0",0
+"264",2409249,"X002602617","DE9 .T54 F56 1994","ALDERMAN","Theopompus of Chios : history and rhetoric in the fourth century B.C. /","Flower, Michael A.",1994,"7/1/96","9/24/14",0,7,8,1,"2",TRUE,302,"0",0
+"265",1356988,"X001603033","DE60 .V57 1988 v.1","ALDERMAN","Epigrafia e storiografia : studi di storia antica /","Virgilio, Biagio.",1988,"6/30/96","11/1/17",1,1,0,1,"2",TRUE,303,"0",0
+"266",954629,"X031915856","DE5 .L564 1833 v.1","ALDERMAN","Bibliotheca classica: or, A classical dictionary;","LempriËre, John,",1833,"11/1/17","1/1/00",0,0,0,2,"2 14",TRUE,304,"0",0
+"267",18955,"X000773927","DE3 .M48 v.8","ALDERMAN","Politica e religione nel primo scontro tra Roma e l'Oriente /","",1982,"6/28/96","5/8/17",0,2,0,1,"2",TRUE,305,"0",0
+"268",3788591,"X004562878","DE1 .S9 v.2 2000","ALDERMAN","Syggraph? : materiali e appunti per lo studio della storia e della letteratura antica /","",1998,"10/31/01","1/26/11",1,1,0,1,"2",TRUE,306,"0",0
+"269",1646728,"X001729947","DE3 .M48 v.5","ALDERMAN","Aspetti dell'opinione pubblica nel mondo antico /","",1978,"6/30/96","10/31/17",2,1,0,1,"2",TRUE,307,"0",0
+"270",374788,"X000700004","DE3 .M38","ALDERMAN","MÈlanges Antoine Bon.","",1975,"6/28/96","12/12/17",0,1,0,1,"2",FALSE,308,"0",0
+"271",4444019,"X030944434","DE5 .N4913 2006 index","ALDERMAN","Brill's New Pauly : encyclopaedia of the ancient world :","",2006,"7/28/11","1/1/00",10,0,0,6,"2",FALSE,311,"0",0
+"272",3958933,"X004721690","DE71 .S555 2003","ALDERMAN","Sinn (in) der Antike : Orientierungssysteme, Leitbilder und Wertkonzepte im Altertum /","",2003,"8/13/03","2/14/08",0,2,0,1,"2",FALSE,312,"0",0
+"273",133209,"X000924416","DE3 .M48 v.7","ALDERMAN","Religione e politica nel mondo antico /","",1981,"6/28/96","10/31/17",0,0,0,1,"2",TRUE,313,"0",0
+"274",2427,"X001042581","DE3 .M45 1982","ALDERMAN","MÈlanges offerts en hommage au RÈvÈrend pËre Etienne Gareau.","",1982,"6/28/96","5/4/16",2,3,1,1,"2",FALSE,314,"0",0
+"275",576970,"X000090586","DE86 .C8 1966","ALDERMAN","The first merchant venturers: the ancient Levant in history and commerce.","Culican, William.",1966,"6/29/96","11/30/16",1,3,0,1,"2",FALSE,316,"0",0
+"276",3911114,"X030926402","DE5 .N4813 2002 index","ALDERMAN","Brill's New Pauly : encyclopaedia of the ancient world :","",2002,"4/15/11","1/1/00",74,0,0,16,"2",FALSE,318,"0",0
+"277",454614,"X000692178","DE3 .P6","ALDERMAN","Polis and imperium : studies in honour of Edward Togo Salmon /","",1974,"6/29/96","7/31/12",1,11,0,1,"2",FALSE,319,"0",0
+"278",4001310,"X004779914","DE73 .E88 2002","ALDERMAN","Etudes de dÈmographie du monde grÈco-romain /","",2002,"1/21/04","2/6/07",1,2,0,1,"2",FALSE,320,"0",0
+"279",314657,"X001099998","DE29 .H463 1959","ALDERMAN","Atlas of the classical world.","Heyden, A. A. M. van der",1960,"6/28/96","1/9/18",1,0,0,1,"2",FALSE,322,"0",0
+"280",2381198,"X002600173","DE1 .A28 v.5","ALDERMAN","Aspects of Hellenism in Italy : towards a cultural unity? /","",1993,"7/1/96","4/25/14",2,5,0,1,"2",TRUE,323,"0",0
+"281",2097071,"X002244058","DE71 .L39 1993","ALDERMAN","Law, politics and society in the ancient Mediterranean world /","",1993,"6/30/96","1/20/08",2,18,0,1,"2",FALSE,324,"0",0
+"282",626188,"X001099788","DE5 .P36 1965","ALDERMAN","Harper's dictionary of classical literature and antiquities.","Peck, Harry Thurston,",1965,"6/29/96","4/10/17",1,1,0,1,"2",FALSE,326,"0",0
+"283",1304511,"X001198822","DE7 .P5 1900z v.1-3","ALDERMAN","Lives : the translation called Dryden's /","Plutarch.",1900,"6/30/96","11/1/17",1,5,0,1,"2",TRUE,327,"0",0
+"284",2383054,"X002563381","DE8 .M47 1995","ALDERMAN","Methods in the Mediterranean : historical and archaeological views on texts and archaeology /","",1995,"7/1/96","8/25/10",1,12,0,1,"2",FALSE,330,"0",0
+"285",2269395,"X002399890","DE1 .C3 v.3 no.3 1957","ALDERMAN","Contributions to the palaeography of Latin inscriptions,","Gordon, Joyce Anna (Stiefbold)",1957,"7/1/96","10/31/17",1,0,0,1,"2",TRUE,331,"0",0
+"286",254393,"X000312215","DE60 .T47","ALDERMAN","Terre et paysans dÈpendants dans les sociÈtÈs antiques : [Colloque international tenu ‡ BesanÁon les 2 et 3 mai 1974] /","",1979,"6/28/96","12/16/16",0,0,0,1,"2",FALSE,332,"0",0
+"287",5124597,"X030714949","DE71 .B69 2010","ALDERMAN","Am Ende des Lebens : Alter, Tod und Suizid in der Antike /","Brandt, Hartwin.",2010,"4/5/10","1/1/00",0,0,0,1,"2",FALSE,333,"0",0
+"288",3855436,"X004623706","DE24 .G46 2000","ALDERMAN","Geographie und verwandte Wissenschaften /","",2000,"6/6/02","8/14/08",1,1,0,1,"2",FALSE,334,"0",0
+"289",157458,"X000333775","DE3.5 .R4 V.2","ALDERMAN","Hommages ‡ Albert Grenier.","Renard, Marcel",1962,"6/28/96","5/21/13",8,20,2,3,"2",TRUE,336,"0",0
+"290",538961,"X000692221","DE80 .B7 1971","ALDERMAN","Mediterranean: portrait of a sea,","Bradford, Ernle Dusgate Selby.",1971,"6/29/96","2/23/10",1,14,0,1,"2",FALSE,337,"0",0
+"291",353904,"X002077737","DE3 .A5 v.8 1941 pt.1","ALDERMAN","Studien zur Markuss‰ule","Zwikker, Willem.",1941,"6/28/96","1/20/17",0,2,3,1,"2",TRUE,338,"0",0
+"292",5074292,"X030609629","DE94 .C66 2007","ALDERMAN","Morir en el mediterr·neo medieval : actas del III Congreso Internacional de ArqueologÌa, Arte e Historia de la Antig¸edad TardÌa y Alta Edad Media peninsular celebrado en la Universidad AutÛnoma de Madrid (UAM) y en e Museo de los Origenes de Madrid (Casa de San Isidro) - 17 y 18 Diciembre de 2007 /","Congreso Internacional de ArqueologÌa, Arte e Historia de la Antig¸edad TardÌa y Alta Edad Media",2009,"12/12/09","1/1/00",0,0,0,1,"2",FALSE,340,"0",0
+"293",462143,"X000692175","DE3 .M39","ALDERMAN","MÈlanges d'histoire ancienne offerts ‡ William Seston.","",1974,"6/29/96","8/25/15",4,2,0,1,"2",FALSE,341,"0",0
+"294",3573930,"X006111305","DE73.2 .P56 P486 1999","ALDERMAN","Phoenicians and Carthaginians in the western Mediterranean /","",1999,"10/18/00","10/15/07",1,6,0,1,"2",FALSE,343,"0",0
+"295",947512,"X030525610","DE3 .A5 v.7 1940","ALDERMAN","Catalogue of the bronzes in the Allard Pierson Museum at Amsterdam.","Gulik, Hendrika Christina van.",1940,"6/29/96","10/31/17",0,0,0,1,"2",TRUE,344,"0",0
+"296",2897500,"X004320511","DE8 .P67 1997","ALDERMAN","La forma proemiale : storiografia e pubblico nel mondo antico /","Porciani, Leone.",1997,"4/2/99","12/16/11",0,1,0,1,"2",FALSE,345,"0",0
+"297",189564,"X000868488","DE1 .C3 v.1 no.1","ALDERMAN","New aspects of the Menon painter,","Smith, H. R. W. (Henry Roy William),",1929,"6/28/96","8/29/17",0,1,0,1,"2 14",TRUE,347,"0",0
+"298",671766,"X030552626","DE3 .A5 v.2 1934","ALDERMAN","Lekythos; arch‰ologische, sprachliche und religionsgeschichtliche Untersuchungen,","Elferink, Lambertus Johan.",1934,"6/29/96","10/31/17",0,0,0,1,"2",TRUE,348,"0",0
+"299",390278,"X000962172","DE3 .A5 v.3 1934","ALDERMAN","Notes on the history of ancient roads and their construction.","Forbes, R. J. (Robert James),",1934,"6/28/96","10/31/17",0,0,0,1,"2 14",TRUE,349,"0",0
+"300",628234,"X002140368","DE80 .B7716 t.2","ALDERMAN","El mediterraneo y el mundo mediterraneo en la Època de Filipe II.","Braudel, Fernand.",1953,"6/29/96","7/28/15",1,7,9,2,"2",TRUE,350,"0",0
+"301",466049,"X000376797","DE61 .N3 R6 1937","ALDERMAN","Greek and Roman naval warfare; a study of strategy, tactics, and ship design from Salamis (480 B. C.) to Actium (31 B. C.)","Rodgers, William Ledyard,",1937,"6/29/96","4/17/08",3,19,0,1,"2",TRUE,351,"0",0
+"302",577259,"X000090597","DE9 .C6 1968","ALDERMAN","Theopompus and fifth-century Athens","Connor, W. Robert (Walter Robert),",1968,"6/29/96","10/12/11",0,9,0,1,"2",FALSE,354,"0",0
+"303",1229890,"X000371524","DE7 .P55 1898 V.7","ALDERMAN","Plutarch's lives;","Plutarch.",1898,"6/30/96","11/6/17",1,4,0,9,"2",TRUE,355,"0",0
+"304",2956632,"X004340925","DE2.5 .O47 1996","ALDERMAN","Akten des 6. ÷sterreichischen Althistorikertages : 21.-23.11.1996, Institut f¸r Alte Geschichte der Universit‰t Innsbruck /","÷sterreichischer Althistorikertag",1998,"10/19/99","1/26/11",0,0,0,1,"2",FALSE,356,"0",0
+"305",3565297,"X004469427","DE86 .V57 2000","ALDERMAN","Virtuelle Antike : Wendepunkte der alten Geschichte /","",2000,"9/13/00","6/12/09",0,1,0,1,"2",FALSE,358,"0",0
+"306",954672,"X000090931","DE72 .F6","ALDERMAN","Augustus Caesar's world, a story of ideas and events from B. C. 44 to 14 A. D.","Foster, Genevieve,",1947,"6/29/96","10/26/12",2,8,0,1,"2",FALSE,359,"0",0
+"307",4808380,"X030508510","DE9 .G67 G36 2008","ALDERMAN","Anton Francesco Gori collezionista : formazione e dispersione della raccolta di antichit‡ /","Gambaro, Clara.",2008,"1/2/09","1/1/00",0,0,0,1,"2",TRUE,360,"0",0
+"308",769608,"X001247200","DE8 .F56 1987","ALDERMAN","The use and abuse of history /","Finley, M. I. (Moses I.),",1987,"6/29/96","1/2/13",1,4,0,1,"2",FALSE,361,"0",0
+"309",1675406,"X000265799","DE7 .P5 1928","ALDERMAN","Plutarch's Lives of illustrious men /","Plutarch.",1928,"6/30/96","2/3/09",6,17,0,1,"2",FALSE,362,"0",0
+"310",509476,"X000155457","DE73.2 .S4 N494","ALDERMAN","The Sea Peoples and Egypt /","Nibbi, Alessandra.",1975,"6/29/96","11/11/11",0,7,0,1,"2",FALSE,364,"0",0
+"311",49322,"X000629122","DE73.2 .P56 I57 1979","ALDERMAN","Phˆnizier im Westen : die Beitr‰ge des Internationalen Symposiums ¸ber ""Die Phˆnizische Expansion im Westlichen Mittelmeerraum"" in Kˆln vom 24. bis 27. April, 1979 /","Internationales Symposium ¸ber ""Die Phˆnizische Expansion im Westlichen Mittelmeerraum""",1982,"6/28/96","5/15/14",1,1,1,1,"2",FALSE,365,"0",0
+"312",1792219,"X001879210","DE96 .T46 1989","ALDERMAN","El mar maldito : cautivos y corsarios en el Siglo de Oro /","Temprano, Emilio.",1989,"6/30/96","1/27/14",1,1,0,1,"2",FALSE,366,"0",0
+"313",536484,"X000692224","DE98 .H3 1971","ALDERMAN","The Mediterranean naval situation, 1908-1914,","Halpern, Paul G.,",1971,"6/29/96","5/11/12",0,6,1,1,"2 21",FALSE,367,"0",0
+"314",2457624,"X004030017","DE71 .R63 1995","ALDERMAN","Rom und der griechische Osten : Festschrift f¸r Hatto H. Schmitt zum 65. Geburtstag, dargebracht von Sch¸lern, Freunden und M¸nchner Kollegen /","",1995,"7/1/96","10/31/12",3,3,0,1,"2",FALSE,368,"0",0
+"315",3774012,"X004735452","DE4 .G834 2001 Bd.2","ALDERMAN","Kleine Schriften zum griechischen und rˆmischen Altertum /","Gschnitzer, Fritz.",2000,"10/29/03","2/21/05",1,3,0,2,"2",TRUE,371,"0",0
+"316",387717,"X001100010","DE89 .L4813 1968","ALDERMAN","Political power in the ancient world /","Levi, Mario Attilio,",1968,"6/28/96","8/16/99",0,32,0,1,"2",FALSE,373,"0",0
+"317",1680319,"X001779173","DE2 .D422 no.29","ALDERMAN","Imperii insignia, sella curulis und fasces : zur Repr‰sentation rˆmischer Magistrate /","Sch‰fer, Thomas.",1989,"6/30/96","2/10/12",0,4,0,1,"2",TRUE,374,"0",0
+"318",954666,"X000981880","DE60 .H3 1938","ALDERMAN","Buried cities,","Hall, Jennie,",1922,"6/29/96","12/2/13",3,5,0,1,"2",FALSE,376,"0",0
+"319",4644761,"X030338197","DE8 .V57 2007","ALDERMAN","Visions grecques de Rome = Griechische Blicke auf Rom /","",2007,"11/1/07","1/1/00",0,0,0,1,"2",FALSE,377,"0",0
+"320",3686939,"X004469984","DE61 .S48 C65 1995","ALDERMAN","NÈcropoles et pouvoir : idÈologies, pratiques et interprÈtations : actes du Colloque ThÈories de la nÈcropole antique, Lyon 21-25 janvier 1995 /","Colloque ThÈories de la nÈcropole antique",1998,"2/2/01","12/8/03",4,8,0,1,"2",TRUE,379,"0",0
+"321",3921549,"X004688689","DE89 .W53 2002","ALDERMAN","Widerstand, Anpassung, Integration : die griechische Staatenwelt und Rom : Festschrift f¸r J¸rgen Deininger zum 65. Geburtstag /","",2002,"3/6/03","10/4/04",0,1,0,1,"2",FALSE,380,"0",0
+"322",212574,"X000692199","DE7 .P531 1886","ALDERMAN","Plutarch's lives of Alcibiades & Coriolanus, Aristides & Cato the Censor.","Plutarch.",1886,"6/28/96","10/21/15",0,3,0,1,"2",FALSE,381,"0",0
+"323",4598092,"X030273571","DE71 .E935 2007","ALDERMAN","Les exclus dans l'antiquitÈ : actes du colloque organisÈ ‡ Lyon les 23-24 septembre 2004 /","",2007,"6/12/07","1/1/00",4,0,0,1,"2",FALSE,382,"0",0
+"324",564143,"X000288642","DE8 .S74","ALDERMAN","Studi di storiografia antica.","",1971,"6/29/96","5/15/13",1,1,0,1,"2",FALSE,383,"0",0
+"325",3991969,"X004745084","DE59 .C46 2000","ALDERMAN","Symbiosis, symbolism, and the power of the past : Canaan, ancient Israel, and their neighbors from the Late Bronze Age through Roman Palaestina : proceedings of the Centennial Symposium, W.F. Albright Institute of Archaeological Research and American Schools of Oriental Research, Jerusalem, May 29-31, 2000 /","Centennial Symposium, W.F. Albright Institute of Archaeological Research and American Schools of Oriental Research",2003,"1/7/04","1/13/04",3,0,0,1,"2",FALSE,384,"0",0
+"326",2635222,"X006031221","DE71 .A84 1993","ALDERMAN","Les loisirs et l'hÈritage de la culture classique : actes du XIIIe congrËs de l'Association Guillaume BudÈ, Dijon, 27-31 ao˚t 1993 /","Association Guillaume BudÈ. CongrËs",1996,"12/10/96","11/18/10",1,3,0,1,"2",FALSE,385,"0",0
+"327",1381631,"X001616856","DE94 .C38 no.3","ALDERMAN","Guerre, fortification et habitat dans le monde mÈditerranÈen au moyen ‚ge : colloque organisÈ par la Casa de Vel·zquez et l'…cole franÁaise de Rome, Madrid, 24-27 novembre 1985 /","",1988,"6/30/96","1/26/11",3,4,0,1,"2",TRUE,388,"0",0
+"328",257078,"X000692188","DE5 .L564 1825","ALDERMAN","A classical dictionary; containing a copious account of all the proper names mentioned in ancient authors.","LempriËre, John,",1825,"6/28/96","4/30/18",1,2,2,1,"2",FALSE,389,"0",0
+"329",4466439,"X030111717","DE5 .N48136 2007","ALDERMAN","Brill's New Pauly : chronologies of the ancient world : names, dates and dynasties /","",2007,"2/8/07","1/1/00",0,0,0,1,"2",FALSE,390,"0",0
+"330",4468911,"X030087461","DE60 .G74 2005","ALDERMAN","Greci, Fenici, Romani : interazioni culturali nel Mediterraneo antico : atti delle giornate di studio (Viterbo, 28-29 maggio 2004) /","",2005,"2/20/07","1/1/00",0,0,0,1,"2",FALSE,391,"0",0
+"331",671767,"X001993212","DE3 .A5 v.4","ALDERMAN","Het grafveld onder hees bij Nijmegen, een bijdrage tot de kennis van Ulpia Noviomagus,","Brunsting, Hendrik.",1937,"6/29/96","8/26/13",0,2,0,1,"2",TRUE,392,"0",0
+"332",4444011,"X030166681","DE71 .S63 2005","ALDERMAN","Society and religions : studies in Greek and Roman history /","",2005,"11/20/06","1/1/00",0,0,0,1,"2",FALSE,395,"0",0
+"333",1804465,"X001861339","DE59 .A7 1986","ALDERMAN","L'archeologia italiana nel Mediterraneo : fino alla seconda     guerra mondiale /","",1986,"6/30/96","1/26/11",0,3,0,1,"2",FALSE,398,"0",0
+"334",287697,"X000494850","DE3 .A5 v.1","ALDERMAN","Ancestral portraiture in Rome and the art of the last of the Republic,","Zadoks-Josephus Jitta, A. N. (Annie Nicolette),",1932,"6/28/96","4/14/11",0,7,0,1,"2",TRUE,399,"0",0
+"335",1794314,"X001879886","DE3 .A4 no.2","ALDERMAN","Hecyra /","Terence.",1963,"6/30/96","2/2/09",2,9,0,1,"2",TRUE,400,"0",0
+"336",349680,"X000381730","DE7 .P6 1914 V.4","ALDERMAN","Plutarch's lives,","Plutarch.",1914,"6/28/96","2/3/09",1,13,0,1,"2",TRUE,401,"0",0
+"337",156395,"X000965963","DE59 .S75 1980","ALDERMAN","The survival of antiquity.","",1980,"6/28/96","4/23/07",1,11,0,1,"2",FALSE,402,"0",0
+"338",474595,"X000367033","DE86 .U7 1962","ALDERMAN","The origin of tyranny.","Ure, P. N. (Percy Neville),",1962,"6/29/96","10/15/12",1,1,0,1,"2",FALSE,403,"0",0
+"339",2298212,"X002491703","DE94 .C38 no.4","ALDERMAN","FrontiËre et peuplement dans le monde mÈditerranÈen au Moyen ¬ge : actes du colloque d'Erice - Trapani (Italie) tenu du 18 au 25 septembre 1988 /","",1992,"7/1/96","1/26/11",6,2,0,1,"2",TRUE,405,"0",0
+"340",2786509,"X004218114","DE59 .M69 1996","ALDERMAN","Les Moyens d'expression du pouvoir dans les sociÈtes anciennes /","",1996,"4/15/98","11/2/09",0,0,0,1,"2",FALSE,406,"0",0
+"341",947515,"X031744018","DE3 .B52 v.2 1891","ALDERMAN","Peintures de vases antiques recueillies par Millin (1808) et Millingen (1813) /","Reinach, Salomon,",1891,"6/29/96","12/17/15",0,0,0,1,"2",TRUE,407,"0",0
+"342",2854454,"X006073151","DE60 .J47 1998","ALDERMAN","The environment and the classical world /","Jeskins, Patricia.",1998,"11/17/98","2/28/05",0,8,0,1,"2",FALSE,408,"0",0
+"343",132591,"X001099986","DE7 .P5 1891 v.1","ALDERMAN","Plutarch's Lives.","Plutarch.",1891,"6/28/96","7/16/12",3,12,0,5,"2",TRUE,409,"0",0
+"344",386306,"X000692201","DE8 .H5","ALDERMAN","Histoire et historiens dans l'antiquitÈ; sept exposÈs et discussions","",1958,"6/28/96","5/18/10",0,6,0,1,"2",FALSE,410,"0",0
+"345",4352504,"X004897271","DE5 .C28 2006","ALDERMAN","The Cambridge dictionary of classical civilization /","",2006,"6/20/06","1/1/00",4,0,0,1,"2 4",FALSE,411,"0",0
+"346",4373586,"X030121956","DE61 .M5 A73 2005","ALDERMAN","Arqueolog??a militar romana en Europa = Roman military archaeology in Europe /","",2005,"6/15/06","1/1/00",0,0,0,1,"2",FALSE,414,"0",0
+"347",550257,"X000179862","DE80 .B77 1966 v.1","ALDERMAN","La MÈditerranÈe et le monde mÈditeranÈen ‡ l'Èpoque de Philippe II.","Braudel, Fernand.",1966,"6/29/96","5/31/11",2,5,0,2,"2",TRUE,415,"0",0
+"348",2788589,"X004133799","DE59.5 .C66 1997","ALDERMAN","The conservation of archaeological sites in the Mediterranean region : an international conference organized by the Getty Conservation Institute and the J. Paul Getty Museum, 6-12 May 1995 /","",1997,"4/22/98","12/11/07",0,3,0,1,"2",FALSE,417,"0",0
+"349",391491,"X000700008","DE8 .G33","ALDERMAN","Beobachtungen zu Bauelementen in der antiken Historiographie besonders bei Livius und Caesar /","G‰rtner, Hans Armin,",1975,"6/28/96","5/13/10",0,4,0,1,"2",FALSE,418,"0",0
+"350",2464018,"X002695939","DE86 .C377 1993 v.2","ALDERMAN","Scritti di storia antica : istituzioni e politica /","C‡ssola, Filippo.",1993,"7/1/96","1/26/11",0,2,0,2,"2",TRUE,419,"0",0
+"351",2743767,"X006044298","DE94 .I58 1995","ALDERMAN","Across the Mediterranean frontiers : trade, politics and religion, 650-1450 : selected proceedings of the International Medieval Congress, University of Leeds, 10-13 July 1995, 8-11 July 1996 /","International Medieval Congress",1997,"12/15/97","4/27/07",3,5,0,1,"2 14",FALSE,421,"0",0
+"352",2687396,"X006007799","DE8 .R4 1996","ALDERMAN","Retrospektive: Konzepte von Vergangenheit in der griechisch-rˆmischen Antike/","",1996,"5/8/97","6/24/09",1,2,0,1,"2",FALSE,422,"0",0
+"353",1752119,"X002561950","DE9 .M34 A53 1990","ALDERMAN","Amedeo Maiuri nel centenario della nascita /","",1990,"6/30/96","3/1/11",0,1,0,1,"2",FALSE,423,"0",0
+"354",2151646,"X002260699","DE59 .B37","ALDERMAN","Duizendjarig dolen : wandelingen door de antieke wereld /","Bastet, F. L.",1978,"7/1/96","1/26/11",1,2,0,1,"2",FALSE,424,"0",0
+"355",2716374,"X004029954","DE4 .M47 1996","ALDERMAN","Hestia und Erigone : Vortr‰ge und Aufs‰tze /","Merkelbach, Reinhold,",1996,"9/10/97","12/20/07",0,4,0,1,"2",FALSE,425,"0",0
+"356",4337524,"X004835774","DE60 .R65 2005","ALDERMAN","Romanisierung  : theoretische Modelle und praktische Fallbeispiele = Romanisation /","",2005,"1/7/06","1/1/00",0,0,0,1,"2",FALSE,430,"0",0
+"357",4335029,"X004995158","DE73 .X456 2005","ALDERMAN","Xenophobie, Philoxenie : vom Umgang mit Fremden in der Antike /","",2005,"12/19/05","1/1/00",0,0,0,1,"2",FALSE,431,"0",0
+"358",181244,"X001099983","DE3 .E5 v.3 1876","ALDERMAN","Grundriss der rˆmischen Literaturgeschichte f¸r Gymnasien /","Bender, Hermann,",1876,"6/28/96","10/30/15",0,0,0,1,"2",TRUE,432,"0",0
+"359",487494,"X000130433","DE89 .L4813 1975","CLEMONS","Political power in the ancient world /","Levi, Mario Attilio,",1975,"6/29/96","6/26/08",2,7,0,1,"3",FALSE,433,"0",0
+"360",4326756,"X004847720","DE2.5 .O78 2002","ALDERMAN","Die Geschichte der Antike aktuell : Methoden, Ergebnisse und Rezeption : Akten des 9. gesamtˆsterreichischen Althistorikertages 2002 und der V. Internationalen Table Ronde zur Geschichte der Alpen-Adria-Region in der Antike (Klagenfurt, 14.11-17.11.2002) /","÷sterreichischer Althistorikertag",2005,"11/9/05","1/1/00",1,0,0,1,"2",FALSE,434,"0",0
+"361",2415547,"X002594056","DE98 .H65 1994","ALDERMAN","Hommage ‡ Alain Sainte-Marie.","",1994,"7/1/96","1/26/11",0,0,0,1,"2",FALSE,435,"0",0
+"362",1304016,"X004061523","DE4 .C7 v.5 pt.2 1854","ALDERMAN","Zur geschichte der classischen philologie seit wiederherstellung der literatur /","Creuzer, Georg Friedrich,",1854,"6/30/96","10/30/15",0,1,0,1,"2",TRUE,438,"0",0
+"363",420892,"X000868490","DE1 .C3 v.1 no.2","ALDERMAN","The ""armed Aphrodite"" on Acrocorinth and the Aphrodite of Capua,","Broneer, Oscar,",1930,"6/29/96","11/17/11",0,3,0,1,"2",TRUE,439,"0",0
+"364",4292642,"X004938317","DE71 .A63 2005","ALDERMAN","Die andere Seite der Klassik : Gewalt im 5. und 4. Jahrhundert v. Chr. : kulturwissenschaftliches Kolloquium Bonn, Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, 11.-13. Juli 2002 /","",2005,"7/15/05","1/1/00",0,0,0,1,"2",FALSE,440,"0",0
+"365",576874,"X004801479","DE5 .H3 1937","ALDERMAN","The Oxford companion to classical literature,","Harvey, Paul,",1937,"6/29/96","6/22/12",0,1,0,1,"2",FALSE,441,"0",0
+"366",218168,"X000458991","DE3 .C58","ALDERMAN","Contributi di storia antica in onore di Albino Garzetti.","",1976,"6/28/96","5/31/11",0,0,0,1,"2",FALSE,442,"0",0
+"367",4288994,"X004833377","DE5 .O95 2005","ALDERMAN","The Oxford dictionary of the classical world /","",2005,"6/27/05","1/1/00",9,0,0,1,"2 4",FALSE,443,"0",0
+"368",395580,"X001130143","DE8 .Q56 V.1","ALDERMAN","Quinto contributo alla storia degli studi classici e del mondo antico /","",1975,"6/28/96","11/30/10",2,2,0,2,"2",TRUE,444,"0",0
+"369",3834883,"X004586095","DE86 .R45 2002","ALDERMAN","Studies in classical history and society /","Reinhold, Meyer,",2002,"5/7/02","3/10/03",0,1,0,1,"2",FALSE,445,"0",0
+"370",109338,"X001145547","DE59 .B383 1983","ALDERMAN","Naar paleizen uit het slik : wandelingen door de antieke wereld /","Bastet, F. L.",1983,"6/28/96","1/26/11",0,0,0,1,"2",FALSE,446,"0",0
+"371",425316,"X000700012","DE89 .F74","ALDERMAN","Schriften zur griechischen und rˆmischen Verfassungsgeschichte und Verfassungstheorie /","Fritz, Kurt von,",1976,"6/29/96","5/6/10",0,2,0,1,"2",FALSE,447,"0",0
+"372",2644164,"X006040177","DE9 .S35 A3 1996","ALDERMAN","Il diario segreto, 1917-1933 /","Sanctis, Gaetano de,",1996,"1/22/97","11/5/09",1,0,0,1,"2",FALSE,449,"0",0
+"373",188443,"X030806145","DE59 .M63","ALDERMAN","Alla scoperta della civilt‡ mediterranea /","Moscati, Sabatino.",1979,"6/28/96","1/26/11",0,0,0,1,"2",FALSE,450,"0",0
+"374",1303524,"X000414413","DE7 .P5325 1906","ALDERMAN","Lives of Caesar, Brutus, and Antony /","Plutarch.",1906,"6/30/96","1/8/12",0,4,0,1,"2",FALSE,451,"0",0
+"375",331299,"X000049660","DE1 .C3 v.2 no.3","ALDERMAN","Supralineate abbreviations in Latin inscriptions /","Gordon, Arthur E. (Arthur Ernest),",1977,"6/28/96","1/26/11",0,0,0,1,"2",TRUE,452,"0",0
+"376",130663,"X000321931","DE5 .L58 1977","ALDERMAN","Lexikon der Antike /","",1977,"6/28/96","1/26/11",0,0,0,1,"2",FALSE,452,"0",0
+"377",268949,"X001099783","DE5 .L564 1832","ALDERMAN","Bibliotheca classica : or, A dictionary of all the principal names and terms relating to the geography, topography, history, literature and mythology of the ancients...","LempriËre, John,",1832,"6/28/96","10/19/15",0,2,0,1,"2",FALSE,453,"0",0
+"378",108269,"X001099993","DE7 .P54 1844 v.3-5","ALDERMAN","The civil wars of Rome: select lives translated from Plutarch,","Plutarch.",1844,"6/28/96","10/21/15",0,1,0,1,"2",TRUE,454,"0",0
+"379",431216,"X000235187","DE4 .S34","ALDERMAN","Spigolature archeologiche /","Sardo Spagnuolo, Nina.",1976,"6/29/96","1/26/11",0,0,0,1,"2",FALSE,455,"0",0
+"380",4229933,"X004879197","DE3 .A88 2004","ALDERMAN","Au jardin des HespÈrides : histoire, sociÈtÈ et Èpigraphie des mondes anciens. MÈlanges offerts ‡ Alain Tranoy /","",2004,"3/8/05","1/1/00",0,0,0,1,"2",FALSE,458,"0",0
+"381",2357763,"X002540086","DE1 .C3 v.1 no.6-7,12","ALDERMAN","On the Athenian theater before 441 B.C.,","Allen, James Turney,",1937,"7/1/96","1/26/11",0,3,0,1,"2",TRUE,459,"0",0
+"382",4222302,"X004844592","DE2.5 .S63 2004","ALDERMAN","Societ‡ e cultura in et‡ tardoantica : atti dell'Incontro di studi, Udine, 29-30 maggio 2003 /","",2004,"1/25/05","1/1/00",0,0,0,1,"2",FALSE,461,"0",0
+"383",2397744,"X002602581","DE8 .M45 1994","ALDERMAN","La MÈmoire perdue : ‡ la recherche des archives oubliÈes, publiques et privÈes, de la Rome antique /","",1994,"7/1/96","3/8/08",0,4,0,1,"2",FALSE,462,"0",0
+"384",2609504,"X004039118","DE86 .D6 1995","ALDERMAN","Das europ‰ische 'Barbaricum' und die Zone der Mediterrankultur: Ihre historische Wechselwirkung und das Geschichtsbild des Poseidonios/","Dobesch, Gerhard.",1995,"9/11/96","4/28/08",2,3,0,1,"2",FALSE,464,"0",0
+"385",656728,"X001099777","DE4 .C7 v.3 pt.2 1847","ALDERMAN","Zur geschichte der griechischen und rˆmischen literatur ; abhandlungen /","Creuzer, Georg Friedrich,",1847,"6/29/96","10/19/15",0,0,0,1,"2",TRUE,465,"0",0
+"386",3506173,"X004412553","DE7 .H39 2000","ALDERMAN","Who's who in the Greek world / John Hazel.","Hazel, John.",2000,"2/17/00","1/13/05",1,1,0,1,"2",FALSE,468,"0",0
+"387",2269396,"X000836390","DE1 .C3 v.4 no.4","ALDERMAN","Ancient Athenian calendars on stone.","Pritchett, W. Kendrick (William Kendrick),",1963,"7/1/96","1/26/11",0,0,0,1,"2",TRUE,470,"0",0
+"388",643572,"X000685349","DE8 .S67 1983","ALDERMAN","Sources for ancient history /","",1983,"6/29/96","5/17/07",1,6,0,1,"2 3",FALSE,471,"0",0
+"389",390282,"X001043193","DE3 .A5 v.6","ALDERMAN","Aeneas's arrival in Latium; observations on legends, history, religion, topography and related subjects in Vergil, Aeneid VII, 1-135,","Boas, HenriÎtte.",1938,"6/28/96","2/2/09",0,6,0,1,"2",TRUE,472,"0",0
+"390",776492,"X001076264","DE4 .P56 1984","ALDERMAN","Parerga : Ècrits de philologie, d'Èpigraphie et d'histoire ancienne /","Pippidi, D. M.",1984,"6/28/96","8/21/09",0,1,0,2,"2",FALSE,473,"0",0
+"391",421376,"X000868487","DE1 .C3 v.1 no.3","ALDERMAN","The origin of Chalcidian ware,","Smith, H. R. W. (Henry Roy William),",1932,"6/29/96","1/26/11",0,2,0,1,"2",TRUE,474,"0",0
+"392",1607797,"X001634442","DE9 .M53 A3 1986","ALDERMAN","Wspomnienia /","Micha?owski, Kazimierz.",1986,"6/30/96","11/19/09",1,0,0,2,"2",FALSE,475,"0",0
+"393",1229880,"X000939063","DE3 .A4 no.1 1962","ALDERMAN","A biography of C. Marius : an inaugural lecture given in the University College of Rhodesia and Nyasaland /","Carney, Thomas F.",1962,"6/30/96","3/19/09",0,3,0,1,"2",TRUE,477,"0",0
+"394",241735,"X000355670","DE73 .B44 1979","ALDERMAN","Die Bevˆlkerung der griechisch-rˆmischen Welt /","Beloch, Julius,",1979,"6/28/96","10/28/08",0,2,0,1,"2",FALSE,478,"0",0
+"395",3575700,"X004539060","DE96 .G83 2000","ALDERMAN","La Guerre de course en MÈditerranÈe (1515-1830) /","",2000,"10/25/00","6/19/03",0,1,0,1,"2",FALSE,479,"0",0
+"396",4003755,"X004779969","DE59 .M857 2003","ALDERMAN","Munera amicitiae : studi di storia e cultura sulla tarda antichit‡ offerti a Salvatore Pricoco /","",2003,"1/28/04","1/1/00",0,0,0,1,"2",FALSE,481,"0",0
+"397",1296876,"X004801564","DE59 .C55 1988 v.1","ALDERMAN","Civilization of the ancient Mediterranean : Greece and Rome /","",1988,"7/27/04","1/1/00",5,0,0,3,"2",TRUE,482,"0",0
+"398",141592,"X000400087","DE61 .O4 C3 1953","ALDERMAN","L'olivier et l'huile dans l'Afrique romaine /","Camps-Fabrer, Henriette.",1953,"6/28/96","2/3/09",0,3,0,1,"2",TRUE,483,"0",0
+"399",1669133,"X031900158","DE3 .M48 v.14","ALDERMAN","Geografia e storiografia nel mondo classico /","",1988,"6/30/96","8/25/08",1,1,0,1,"2",TRUE,484,"0",0
+"400",1303306,"X002417060","DE7 .P532 1886","ALDERMAN","Lives of Alexander the Great and Julius Caesar /","Plutarch.",1886,"6/30/96","1/8/12",0,2,0,1,"2",FALSE,485,"0",0
+"401",339329,"X000908269","DE61 .H7 F5 1923","ALDERMAN","The inns of Greece & Rome, and a history of hospitality from the dawn of time to the Middle Ages,","Firebaugh, W. C.",1923,"6/28/96","2/3/09",2,5,0,1,"2",TRUE,487,"0",0
+"402",3976610,"X004749433","DE3 .L45 2003","ALDERMAN","Leitbild Wissenschaft? /","",2003,"10/22/03","1/1/00",0,0,0,1,"2",FALSE,488,"0",0
+"403",2648386,"X004751952","DE5 .N48 1996 Bd.16","ALDERMAN","Der neue Pauly : Enzyklop‰die der Antike /","",1996,"1/16/04","1/1/00",10,1,0,20,"2 4",TRUE,489,"0",0
+"404",645897,"X000303721","DE71 .C27 1946","ALDERMAN","Life and thought in the Greek and Roman world /","Cary, M. (Max),",1946,"6/29/96","2/3/09",2,3,0,1,"2",FALSE,490,"0",0
+"405",641152,"X000493514","DE98 .B78 1980","ALDERMAN","L'equilibrio difficile : Gran Bretagna, Italia e Francia nel Mediterraneo (1930-1937) /","Brundu Olla, Paola.",1980,"6/29/96","2/7/08",0,2,0,1,"2",FALSE,493,"0",0
+"406",2678563,"X004045966","DE86 .E537 1996","ALDERMAN","[Energeia] : studies on ancient history and epigraphy presented to H.W. Pleket /","",1996,"4/4/97","3/1/03",0,9,0,1,"2",FALSE,494,"0",0
+"407",595981,"X000692222","DE86 .H3","ALDERMAN","Greeks, Celts, and Romans: studies in venture and resistance.","Hawkes, C. F. C. (Charles Francis Christopher),",1973,"6/29/96","9/13/06",1,5,0,1,"2",FALSE,495,"0",0
+"408",1303316,"X001046079","DE59 .G4 1833 v.1","ALDERMAN","Hyperboreisch-rˆmische studien f¸r arch‰ologie /","Gerhard, Eduard,",1833,"6/30/96","8/14/13",2,2,0,1,"2",TRUE,496,"0",0
+"409",673933,"X030525612","DE3 .A5 v.10 1942","ALDERMAN","Het reconstructieplan voor het mausoleum te Halikarnassos, ontworpen volgens een meetkundig systeem in gebruik van de oudste tijden tot in de XVIe eeuw,","Breen, J. van.",1942,"6/29/96","10/15/09",0,1,0,1,"2",TRUE,497,"0",0
+"410",563080,"X000538918","DE71 .C6 1958 v.1","ALDERMAN","Classical civilization,","Couch, Herbert Newell,",1958,"6/29/96","2/3/09",0,2,0,2,"2",TRUE,498,"0",0
+"411",3717890,"X006112888","DE61 .T49 V53 2001","ALDERMAN","Produzione e commercio dei tessuti nell'Occidente romano /","Vicari, Fabio.",2001,"5/15/01","11/2/01",0,1,0,1,"2",TRUE,499,"0",0
+"412",1615315,"X001682390","DE60 .A48 1988","ALDERMAN","L'Antichit‡ nell'Ottocento in Italia e Germania /","",1988,"6/30/96","11/2/07",0,1,0,1,"2",FALSE,500,"0",0
+"413",374875,"X000700007","DE5 .E7 1976","ALDERMAN","Dictionarium historicum, geographicum, poeticum : Paris [i.e. Geneva] 1596 /","Estienne, Charles,",1976,"6/28/96","10/31/06",2,4,0,1,"2",FALSE,501,"0",0
+"414",576565,"X004801480","DE5 .K5 1964 bd.1","ALDERMAN","Der Kleine Pauly; Lexikon der Antike.","",1964,"7/26/04","1/1/00",3,0,0,5,"2 14",TRUE,502,"0",0
+"415",3925194,"X004698239","DE71 .I34 2002","ALDERMAN","IdentitÈs et cultures dans le monde mÈditerranÈen antique /","",2002,"3/19/03","1/1/00",0,0,0,1,"2 14",FALSE,503,"0",0
+"416",1304510,"X002237948","DE7 .P5 1890 V.1","ALDERMAN","Plutarch's Lives of illustrious men /","Plutarch.",1890,"6/30/96","1/13/11",4,5,0,3,"2",TRUE,504,"0",0
+"417",1356463,"X001597086","DE60 .S26 1988","ALDERMAN","The promise of the West : the Greek world, Rome, and Judaism /","Samuel, Alan Edouard.",1988,"6/30/96","10/11/01",0,13,0,1,"2",FALSE,505,"0",0
+"418",2659841,"X006013140","DE3 .M48 v.22","ALDERMAN","Processi e politica nel mondo antico /","",1996,"3/6/97","12/1/05",2,2,0,1,"2",TRUE,508,"0",0
+"419",612999,"X000530498","DE7 .P5 1935","ALDERMAN","Plutarch's Lives;","Plutarch.",1935,"6/29/96","2/3/09",1,2,0,1,"2",FALSE,509,"0",0
+"420",347625,"X000045359","DE29 .H46","ALDERMAN","Atlas van de antieke wereld.","Heyden, A. A. M. van der",1958,"6/28/96","2/3/09",0,0,0,1,"2",FALSE,510,"0",0
+"421",954627,"X001134467","DE5 .L564 1822","ALDERMAN","A classical dictionary;","LempriËre, John,",1822,"6/29/96","2/2/09",1,11,0,1,"2",FALSE,512,"0",0
+"422",512846,"X000692218","DE71 .O7 1925","ALDERMAN","The heritage of Greece and the legacy of Rome,","Osborn, E. B. (Edward Bolland),",1925,"6/29/96","3/16/09",0,2,0,1,"2",FALSE,514,"0",0
+"423",3883630,"X004529654","DE60 .S96 2002","ALDERMAN","Symposium on Mediterranean Archaeology : proceedings of the fifth annual meeting of postgraduate researchers, The University of Liverpool, 23-25 February 2001 /","",2002,"9/9/02","1/1/00",0,0,0,1,"2",FALSE,515,"0",0
+"424",542339,"X000692189","DE5 .L564 1949","ALDERMAN","Classical dictionary of proper names mentioned in ancient authors, with a chronological table.","LempriËre, John,",1949,"6/29/96","2/2/09",1,0,0,1,"2",FALSE,517,"0",0
+"425",954635,"X001946568","DE5 .R52 1884","ALDERMAN","A dictionary of Roman and Greek antiquities with nearly 200 engravings on woood","Rich, Anthony,",1874,"6/29/96","1/26/11",0,2,0,1,"2",FALSE,518,"0",0
+"426",947513,"X030525614","DE3 .A5 v.12 1945","ALDERMAN","Droit matrimonial assyro-babylonien.","Praag, A. van.",1945,"6/29/96","2/2/09",0,0,0,1,"2",TRUE,520,"0",0
+"427",639344,"X030525611","DE3 .A5 v.9 1942","ALDERMAN","Over den oorsprong van de grieksche grafstele,","Hall, Elise van,",1942,"6/29/96","2/2/09",0,0,0,1,"2",TRUE,521,"0",0
+"428",233151,"X030525613","DE3 .A5 v.11 1942","ALDERMAN","Katalog der griechischen und rˆmischen skulptur, der steinernen gegenst‰nde und der stuckplastik im Allard Pierson museum zu Amsterdam,","Ponger, C. S.",1942,"6/28/96","2/2/09",0,0,0,1,"2",TRUE,522,"0",0
+"429",1787617,"X001862295","DE85.5 .A355 C66 1983 v.1","ALDERMAN","Gli interscambi culturali i socio-economici fra l'Africa settentrionale e l'Europa mediterranea : batti del Congresso internazionale di Amalfi, 5-8 dicembre 1983 /","Congresso internazionale di Amalfi",1986,"6/30/96","5/25/05",2,8,0,2,"2",TRUE,524,"0",0
+"430",954634,"X000877570","DE5 .P36 1897 V.1","ALDERMAN","Harper's dictionary of classical literature and antiquities,","Peck, Harry Thurston,",1897,"6/29/96","11/11/08",5,8,0,2,"2",TRUE,525,"0",0
+"431",954636,"X000686431","DE5 .S5 1891","ALDERMAN","A dictionary of classical antiquities,","Seyffert, Oskar,",1891,"6/29/96","2/2/09",1,4,0,1,"2",FALSE,526,"0",0
+"432",2672936,"X004440771","DE5 .P34 1997 T.2 disc","ALDERMAN","Paulys Realencyclop‰die der classischen Altertumswissenschaft.","",1997,"11/17/00","11/17/00",0,4,0,3,"2",TRUE,528,"0",0
+"433",1324243,"X001503181","DE61 .W3 E3 1987","ALDERMAN","L'Eau et les hommes en MÈditerranÈe /","",1987,"6/30/96","3/30/06",0,2,0,1,"2",FALSE,530,"0",0
+"434",390276,"X000966301","DE3 .A5 v.5 1938","ALDERMAN","Gˆtter und kulte im ptolem‰ischen Alexandrien,","Visser, C. Elizabeth (Cornelia Elizabeth)",1938,"6/28/96","2/2/09",0,0,0,1,"2",TRUE,531,"0",0
+"435",2015660,"X002152473","DE59 .T4 1991","ALDERMAN","Tesserae : Festschrift f¸r Josef Engemann.","",1991,"6/30/96","11/14/05",5,2,0,1,"2",FALSE,532,"0",0
+"436",23418,"X000938459","DE3 .H66 1983","ALDERMAN","Hommages ‡ Jean Cousin : rencontres avec l'antiquitÈ classique.","",1983,"6/28/96","9/21/04",3,5,0,1,"2",FALSE,533,"0",0
+"437",464933,"X000280173","DE71 .G7 1964","ALDERMAN","The birth of Western civilization: Greece and Rome.","Grant, Michael,",1964,"6/29/96","6/2/06",0,3,0,1,"2 14",FALSE,534,"0",0
+"438",243285,"X001099987","DE7 .P5 1932 v.2","ALDERMAN","Plutarch's Lives, the Dryden Plutarch,","Plutarch.",1932,"6/28/96","2/3/09",0,1,0,2,"2",TRUE,535,"0",0
+"439",261153,"X000056794","DE3 .M35 1976","ALDERMAN","Contributions to Mediterranean studies /","Mediterranean Symposium",1977,"6/28/96","10/17/06",0,1,0,1,"2",FALSE,536,"0",0
+"440",1309949,"X001493494","DE61 .N3 S73 1989","ALDERMAN","The influence of seapower on ancient history /","Starr, Chester G.,",1989,"6/30/96","3/27/03",2,7,0,1,"2",FALSE,539,"0",0
+"441",243294,"X002447334","DE7 .P45 1758 v.2","ALDERMAN","Plutarch's Lives,","Plutarch.",1758,"6/28/96","9/23/14",0,5,39,3,"2",TRUE,540,"0",0
+"442",947517,"X030806144","DE3 .E5 1875 v.1","ALDERMAN","Handbuch der religion und mythologie der Griechen und Rˆmer. F¸r gymnasien,","Stoll, H. W. (Heinrich Wilhelm),",1875,"6/29/96","1/26/11",0,0,0,1,"2",TRUE,541,"0",0
+"443",328382,"X000046497","DE8 .G46","ALDERMAN","Le teorie del discorso storico nel pensiero greco e la storiografia romana arcaica /","Gentili, Bruno.",1975,"6/28/96","12/29/05",0,2,0,1,"2",FALSE,542,"0",0
+"444",782160,"X001276063","DE8 .S69 1987","ALDERMAN","Past and future in ancient history /","Starr, Chester G.,",1987,"6/29/96","1/13/05",1,3,0,1,"2",FALSE,543,"0",0
+"445",3767302,"X004600563","DE94 .P57 2001","ALDERMAN","Die griechisch-rˆmische ÷kumene und die drei Kulturen des Mittelalters : Geschichte des mediterranen Weltteils zwischen Atlantik und Indischem Ozean, 270-812 /","Pitz, Ernst.",2001,"8/7/01","1/1/00",0,0,0,1,"2",FALSE,544,"0",0
+"446",3725963,"X004521686","DE100 .X46 2001","ALDERMAN","The emerging Euro-Mediterranean system /","Xenakis, Dimitris.",2001,"6/12/01","1/1/00",0,0,0,1,"2",FALSE,546,"0",0
+"447",572587,"X000349073","DE3 .M4 1972 V.2","ALDERMAN","MÈlanges Gustave Glotz.","",1972,"6/29/96","3/18/06",3,1,0,2,"2",TRUE,547,"0",0
+"448",3714486,"X004569929","DE3 .A48 2001","ALDERMAN","Althistorische Studien im Spannungsfeld zwischen Universal- und Wissenschaftsgeschichte : Festschrift f¸r Franz Hampl gedacht zum 90. Geburtstag am 8. Dezember 2000 /","",2001,"5/1/01","1/1/00",0,0,0,1,"2",FALSE,549,"0",0
+"449",2122155,"X002251759","DE3 .A9 1992","ALDERMAN","Au miroir de la culture antique : mÈlanges offerts au prÈsident RenÈ Marache--.","",1992,"6/30/96","6/5/03",1,5,0,1,"2",FALSE,550,"0",0
+"450",113170,"X000618463","DE3 .M8 1909","ALDERMAN","M¸nchener arch‰ologische studien. Dem andenken Adolf Furtw‰nglers gewidmet.","",1909,"6/28/96","2/2/09",0,0,0,1,"2",FALSE,551,"0",0
+"451",3706394,"X004504095","DE89 .W459 2000","ALDERMAN","Polis und ArchÈ : kleine Schriften zu Gesellschafts- und Herrschaftsstrukturen in der griechischen Welt /","Welwei, Karl-Wilhelm.",2000,"4/4/01","1/1/00",0,0,0,1,"2",FALSE,552,"0",0
+"452",14166,"X000875864","DE100 .W54 1984","ALDERMAN","Southern Europe transformed : political and economic change in Greece, Italy, Portugal and Spain /","Williams, Allan M.",1984,"6/28/96","5/2/97",0,18,0,1,"2",FALSE,555,"0",0
+"453",2771367,"X004228915","DE4 .O64 1997","ALDERMAN","Ilona Opelt, kleine Schriften /","Opelt, Ilona.",1997,"2/25/98","1/3/03",0,1,0,1,"2",FALSE,558,"0",0
+"454",1224955,"X030806146","DE59 .S36 v.1 pt.2 1851","ALDERMAN","Leitfaden zur Geschichte der rˆmischen Literatur.","Horrmann, G.",1851,"6/30/96","1/26/11",0,0,0,1,"2",TRUE,560,"0",0
+"455",425005,"X001099992","DE7 .P53 1871 V.2","ALDERMAN","Plutarch's Lives /","Plutarch.",1871,"6/29/96","2/3/09",0,2,0,2,"2",TRUE,561,"0",0
+"456",1351713,"X001544191","DE3 .R66 1988","ALDERMAN","Roma renascens : Beitr‰ge zur Sp‰tantike und Rezeptionsgeschichte : Ilona Opelt von ihren Freunden und Sch¸lern zum 9.7.1988 im Verehrung gewidmet /","",1988,"6/30/96","6/3/04",0,2,0,1,"2",FALSE,563,"0",0
+"457",467858,"X000692202","DE8 .L57","ALDERMAN","LittÈrature grÈco-romaine et gÈographie historique : mÈlanges offerts ‡ Roger Dion /","",1974,"6/29/96","3/10/05",3,1,0,1,"2",FALSE,566,"0",0
+"458",191423,"X001099785","DE5 .L564 1860","ALDERMAN","Bibliotheca classica: or, A dictionary of all the principal names and terms relating to the geography, topography, history, literature, and mythology of antiquity and of the ancients: with a chronological table.","LempriËre, John,",1860,"6/28/96","2/2/09",0,2,0,1,"2",FALSE,569,"0",0
+"459",83025,"X000960797","DE3 .M48 v.9","ALDERMAN","Santuari e politica nel mondo antico /","",1983,"6/28/96","8/20/04",1,1,0,1,"2",TRUE,570,"0",0
+"460",160258,"X002265698","DE3 .M385","ALDERMAN","MÈlanges d'Ètudes anciennes offerts ‡ Maurice Lebel /","",1980,"6/28/96","4/14/03",1,4,0,1,"2",FALSE,573,"0",0
+"461",3532955,"X004569188","DE71 .M88 2000","ALDERMAN","Mutations d'identitÈs en MÈditerrannÈe : Moyen Age et Èpoque contemporaine /","",2000,"5/11/00","1/1/00",2,0,0,1,"2",FALSE,574,"0",0
+"462",482636,"X000270175","DE3 .M43","ALDERMAN","MÈlanges hellÈniques offerts ‡ Georges Daux.","",1974,"6/29/96","6/15/04",3,2,0,1,"2 14",FALSE,575,"0",0
+"463",791432,"X001295823","DE71 .T72 V.1","ALDERMAN","Le trasformazioni della cultura nella tarda antichit‡ : atti del Convegno tenuto a Catania Universit‡ degli Studi, 27 sett. - 2 ott. 1982 /","",1985,"6/29/96","6/25/03",1,3,0,2,"2",TRUE,576,"0",0
+"464",1227038,"X001467171","DE86 .R53 1987","ALDERMAN","Untersuchungen zur hellenistischen Historiographie : die Vorlage des Pompeius Trogus f¸r die Darstellung der nachalexandrinischen hellenistischen Geschichte (Iust. 13-40) /","Richter, Heinz-Dietmar,",1987,"6/30/96","5/20/03",0,3,0,1,"2",FALSE,577,"0",0
+"465",3522139,"X004455163","DE9 .R678 R67 1999","ALDERMAN","Rostovtzeff e l'Italia /","",1999,"4/4/00","1/1/00",1,0,0,1,"2",TRUE,578,"0",0
+"466",954621,"X001045523","DE5 .A6 1872","ALDERMAN","A classical dictionary:","Anthon, Charles,",1857,"6/29/96","2/2/09",0,1,0,1,"2",FALSE,581,"0",0
+"467",2793617,"X004141667","DE71 .Q5 1997","ALDERMAN","Qui miscuit utile dulci : festschrift essays for Paul Lachlan MacKendrick /","",1998,"5/12/98","12/5/00",2,2,0,1,"2",FALSE,582,"0",0
+"468",1821730,"X002167021","DE9 .M65 D56 1989","ALDERMAN","Ricordo di Arnaldo Momigliano /","Dionisotti, Carlo.",1989,"6/30/96","11/8/02",1,3,0,1,"2",TRUE,584,"0",0
+"469",2413317,"X002642519","DE1 .A28 v.1","ALDERMAN","East and west : cultural relations in the ancient world /","",1988,"7/1/96","11/20/02",5,3,0,1,"2",TRUE,585,"0",0
+"470",373804,"X006114107","DE96 .M4","ALDERMAN","Il Mediterraneo nella seconda del '500 [i. e. Cinquecento] alla luce di Lepanto : [atti del convegno di studi promosso e organizzato dalla Fondazione Giorgio Cini (Venezia, 8-10 ottobre 1971)] /","",1974,"6/28/96","12/21/01",1,6,0,1,"2",FALSE,586,"0",0
+"471",583459,"X000090583","DE83 .G7","ALDERMAN","Hellenism and the rise of Rome,","Grimal, Pierre,",1968,"6/29/96","7/17/03",1,3,0,1,"2",FALSE,587,"0",0
+"472",2961968,"X004412188","DE4 .S8 1997","ALDERMAN","Scritti sul mondo antico /","Storoni Mazzolani, Lidia.",1997,"11/4/99","1/1/00",0,0,0,1,"2",FALSE,588,"0",0
+"473",2302904,"X002532024","DE3 .M48 v.19","ALDERMAN","La profezia nel mondo antico /","",1993,"7/1/96","6/27/02",1,3,0,1,"2",TRUE,589,"0",0
+"474",2265637,"X002423464","DE61 .H35 E48 1993","ALDERMAN","L'emporion /","",1993,"7/1/96","6/6/03",0,1,0,1,"2",FALSE,590,"0",0
+"475",2395835,"X004340705","DE100 .M42 1994 v.2","ALDERMAN","Mediterranean politics /","",1994,"11/17/99","1/1/00",1,0,0,2,"2",TRUE,591,"0",0
+"476",523362,"X000051526","DE7 .T6 1969","ALDERMAN","Twelve men of action in Graeco-Roman history.","Toynbee, Arnold,",1969,"6/29/96","11/19/02",1,4,0,1,"2",FALSE,593,"0",0
+"477",2255934,"X001980559","DE5 .L564 1847","ALDERMAN","Bibliotheca classica : or, A dictionary of all the principal names and terms relating to the geography, topography, history, literature, and mythology of antiquity and of the ancients : with a chronological table /","LempriËre, John,",1847,"7/1/96","2/2/09",2,1,0,1,"2",FALSE,594,"0",0
+"478",635557,"X000128488","DE71 .H3 1974","ALDERMAN","The stranger at the gate; aspects of exclusiveness and co-operation in ancient Greece and Rome, with some reference to modern times","Haarhoff, T. J. (Theodore Johannes),",1974,"6/29/96","7/17/03",0,2,0,1,"2",FALSE,595,"0",0
+"479",2918753,"X004313659","DE60 .F6 1990","ALDERMAN","Greeks and Romans in the modern world /","Forum Le Monde Le Mans",1998,"6/7/99","1/1/00",0,0,0,1,"2",FALSE,597,"0",0
+"480",2141891,"X002330259","DE61 .P42 C66 1990","ALDERMAN","Atti del Convegno nazionale di studi su la pace nel mondo antico Torino 9-10-11 Aprile 1990 /","Convegno nazionale di studi su La pace nel mondo antico",1991,"7/1/96","7/3/02",1,2,0,1,"2",TRUE,598,"0",0
+"481",347002,"X000046985","DE3 .M48 v.4","ALDERMAN","I Canali della propaganda nel mondo antico /","",1976,"6/28/96","4/6/99",3,10,0,1,"2",TRUE,599,"0",0
+"482",1224957,"X000456384","DE7 .P53 1936","ALDERMAN","Lives of illustrious men /","Plutarch.",1936,"6/30/96","9/6/04",0,1,0,1,"2",FALSE,603,"0",0
+"483",3716,"X000968614","DE3 .C66 1981 V.2","ALDERMAN","Unidad y pluralidad en el mundo antiguo : actas del VI Congreso EspaÒol de Estudios Cl·sicos (Sevilla, 6-11 de abril de 1981).","Congreso EspaÒol de Estudios Cl·sicos",1983,"6/28/96","10/31/02",0,1,0,2,"2",TRUE,604,"0",0
+"484",2847484,"X004236415","DE2.5 .M52 1998","ALDERMAN","Das Mittelmeer, die Wiege der europ‰ischen Kultur /","",1998,"10/28/98","1/1/00",0,0,0,1,"2",FALSE,605,"0",0
+"485",2837875,"X004236060","DE3 .A47 1998","ALDERMAN","Althistorisches Kolloquium aus Anlass des 70. Geburtstags von Jochen Bleicken : 29.-30. November 1996 in Gˆttingen /","",1998,"10/5/98","1/1/00",0,0,0,1,"2",FALSE,607,"0",0
+"486",954628,"X030525615","DE5 .L564 1831 v.1","ALDERMAN","Bibliotheca classica: or, A classical dictionary;","LempriËre, John,",1831,"6/29/96","2/2/09",0,0,0,1,"2",TRUE,608,"0",0
+"487",389528,"X001014145","DE57 .M7713 1976 v.1","ALDERMAN","Antiquity explained and represented in sculptures : London, 1721-1722 /","Montfaucon, Bernard de,",1976,"6/28/96","12/28/99",5,13,0,2,"2",TRUE,609,"0",0
+"488",1304762,"X001314627","DE71 .B74 1987","ALDERMAN","Clio and antiquity : history and historiography of the Greek and Roman world /","Breebaart, A. B.",1987,"6/30/96","11/14/01",2,2,0,1,"2",FALSE,610,"0",0
+"489",954647,"X000192518","DE7 .P53 1822 v.3","ALDERMAN","Plutarch's Lives,","Plutarch.",1813,"6/29/96","3/16/09",0,9,0,7,"2",TRUE,611,"0",0
+"490",593573,"X000422124","DE88 .S5 1924","ALDERMAN","Sea power in ancient history; the story of the navies of classic Greece and Rome,","Shepard, Arthur MacCartney,",1924,"6/29/96","3/10/03",0,4,0,1,"2",FALSE,614,"0",0
+"491",141425,"X000505218","DE100 .C67 1983","ALDERMAN","The Contemporary Mediterranean world /","",1983,"6/28/96","10/23/01",1,2,0,1,"2",FALSE,615,"0",0
+"492",1672157,"X001783363","DE59 .G725 1990b","ALDERMAN","The visible past : Greek and Roman history from archaeology, 1960-1990 /","Grant, Michael,",1990,"6/30/96","1/1/00",1,5,0,1,"2",FALSE,616,"0",0
+"493",2142756,"X002315232","DE96 .C52 1991","ALDERMAN","Navi mercanti e marinai nella vita mediterranea del cinque-seicento /","Ciano, Cesare.",1991,"7/1/96","11/14/00",0,3,0,1,"2",FALSE,617,"0",0
+"494",2481208,"X004232133","DE59 .M66 1995 v.2","ALDERMAN","Luci sul Mediterraneo : dai manoscritti del Mar Morto ai Cartaginesi in Italia : tre millenni di vicende storiche, di concezioni religiose, di creazioni artistiche alla luce dell'archeologia /","Moscati, Sabatino.",1995,"5/14/98","1/1/00",0,0,0,2,"2",TRUE,618,"0",0
+"495",576568,"X000194613","DE29 .C35 1949","ALDERMAN","The geographic background of Greek & Roman history.","Cary, M. (Max),",1949,"6/29/96","11/19/02",1,2,0,1,"2",FALSE,621,"0",0
+"496",427366,"X001130565","DE3 .M48 v.3","ALDERMAN","Storiografia e propaganda /","",1975,"6/29/96","4/6/99",1,7,0,1,"2",TRUE,622,"0",0
+"497",1359589,"X001596517","DE80 .L33 1989","ALDERMAN","Labor omnibus unus : Gerold Walser zum 70. Geburtstag /","",1989,"6/30/96","1/1/00",1,4,0,1,"2",FALSE,624,"0",0
+"498",2742235,"X004228513","DE61 .P5 M66 1996 v.1","ALDERMAN","Persecutio piratarum /","Monaco, Lucia.",1996,"12/8/97","1/1/00",0,0,0,1,"2",TRUE,625,"0",0
+"499",288338,"X000692181","DE5 .A4 1802","ALDERMAN","Classical biography: exhibiting alphabetically the proper names, with a short account of the several deities, heros, and other persons mentioned in the ancient classic authors; and a more particular description of the most distinguished characters among the Romans; the whole being interspersed with occasional explanations of wor","Adam, Alexander,",1802,"6/28/96","2/2/09",0,0,0,1,"2",FALSE,626,"0",0
+"500",453808,"X000692184","DE5 .F813 1974","ALDERMAN","Classics illustrated dictionary,","Fuchs, J. W. (Johan Wilhelmus)",1974,"6/29/96","5/7/01",0,2,0,1,"2 14",FALSE,627,"0",0
+"501",2718772,"X004195034","DE4 .B45 1997","ALDERMAN","Politik, Recht, Gesellschaft : Studien zur alten Geschichte /","Bellen, Heinz.",1997,"9/18/97","1/1/00",0,0,0,1,"2",FALSE,628,"0",0
+"502",2716067,"X006053776","DE84 .M658 1997","ALDERMAN","Il potere marittimo e le civilt‡ del Mediterraneo antico /","Montevecchi, Franco.",1997,"9/9/97","1/1/00",0,0,0,1,"2",FALSE,629,"0",0
+"503",446783,"X000856072","DE3.3 .O6 1969","ALDERMAN","Opus nobile. Festschrift zum 60. Geburtstag von Ulf Jantzen.","",1969,"6/29/96","7/12/00",1,4,0,1,"2",FALSE,630,"0",0
+"504",2297820,"X002480221","DE100 .C665 no.8","ALDERMAN","Balkans, l'implosion? /","",1993,"7/1/96","4/26/00",0,2,0,1,"2",TRUE,633,"0",0
+"505",1660077,"X001740357","DE5 .D5956 1988 v.2","ALDERMAN","Dizionario degli scrittori greci e latini /","",1988,"6/30/96","1/1/00",1,7,0,3,"2",TRUE,634,"0",0
+"506",2697153,"X006049122","DE3 .S93 1996","ALDERMAN","Studi in onore di Albino Garzetti /","",1996,"6/20/97","1/1/00",0,0,0,1,"2",FALSE,636,"0",0
+"507",1319451,"X001501546","DE3 .M48 v.13","ALDERMAN","Il confine nel mondo classico /","",1987,"6/30/96","1/1/00",3,3,0,1,"2",TRUE,637,"0",0
+"508",2308301,"X002528446","DE85.5 .E853 L85 1992","ALDERMAN","Storia culturale dei rapporti tra mondo romano e mondo germanico /","Luiselli, Bruno.",1992,"7/1/96","1/21/00",0,2,0,1,"2",TRUE,638,"0",0
+"509",522796,"X000029868","DE8 .A9","ALDERMAN","The Greek historians: Herodotus, Thucydides, Polybius, Plutarch; introduction and selected readings.","Austin, Norman,",1969,"6/29/96","1/1/00",0,4,0,1,"2",FALSE,640,"0",0
+"510",2136754,"X002404794","DE60 .J62 1992","ALDERMAN","Die Antike in der europ‰ischen Gegenwart : Referate gehalten auf dem Symposium der Joachim Jungius-Gesellschaft der Wissenschaften Hamburg am 23. und 24. Oktober 1992 /","Joachim Jungius-Gesellschaft der Wissenschaften. Symposium",1993,"7/1/96","1/1/00",0,2,0,1,"2",FALSE,641,"0",0
+"511",285982,"X000040831","DE3 .S77","ALDERMAN","Studi di storia antica offerti dagli allievi a Eugenio Manni.","",1976,"6/28/96","2/22/01",2,1,0,1,"2",FALSE,642,"0",0
+"512",1946708,"X002074249","DE60 .F6 1990","ALDERMAN","Les Grecs, les Romains et nous : l'antiquitÈ est-elle moderne? : deuxiËme forum Le Monde Le Mans /","Forum Le Monde Le Mans",1991,"6/30/96","1/1/00",0,2,0,1,"2",FALSE,643,"0",0
+"513",1252638,"X001335820","DE61 .U58 I56 1988","ALDERMAN","Archaeology of coastal changes : proceedings of the First International Symposium ""Cities on the Sea--Past and present"", Haifa, Israel, September 22-29, 1986 /","International Symposium ""Cities on the Sea--Past and Present""",1988,"6/30/96","8/10/99",2,3,0,1,"2",FALSE,644,"0",0
+"514",727761,"X001108622","DE87 .B4 1966","ALDERMAN","Gestaltende Kr‰fte der Antike : Aufs‰tze und Vortr‰ge zur griechischen und rˆmischen Geschichte /","Berve, Helmut,",1966,"6/29/96","6/13/00",0,3,0,1,"2",FALSE,645,"0",0
+"515",2647742,"X004045878","DE100 .C35 1996","ALDERMAN","Navigating regional dynamics in the post-cold war world : patterns of relations in the Mediterranean area /","Calleya, Stephen C.",1996,"2/4/97","1/1/00",0,0,0,1,"2",FALSE,647,"0",0
+"516",1728717,"X001937815","DE46 .F75 1988","ALDERMAN","From the archaeological collections of Cracow and Jena /","",1988,"6/30/96","1/1/00",0,2,0,1,"2",FALSE,649,"0",0
+"517",1794111,"X001841004","DE59 .M56 1988","ALDERMAN","Momenti precoloniali nel Mediterraneo antico : questioni di metodo, aree d'indagine, evidenze a confronto /","",1988,"6/30/96","1/1/00",2,2,0,1,"2",FALSE,649,"0",0
+"518",1869517,"X002041074","DE9 .M65 O4 1989","ALDERMAN","Omaggio ad Arnaldo Momigliano : storia e storiografia sul mondo antico : convegno di studio (Cuneo - Caraglio, 22-23 ottobre 1988) /","",1989,"6/30/96","11/12/99",0,2,0,1,"2",FALSE,650,"0",0
+"519",535363,"X000103093","DE83 .W43","ALDERMAN","Alexander and the Hellenistic world","Welles, C. Bradford (Charles Bradford),",1970,"6/29/96","8/9/99",3,4,0,1,"2",FALSE,651,"0",0
+"520",42261,"X000949697","DE59 .M35 1984","ALDERMAN","MÈmorial AndrÈ-Jean FestugiËre : AntiquitÈ paÔenne et chrÈtienne /","",1984,"6/28/96","1/1/00",5,2,0,1,"2",FALSE,652,"0",0
+"521",2524555,"X002752982","DE3 .M48 v.21","ALDERMAN","Coercizione e mobilit‡ umana nel mondo antico /","",1995,"7/1/96","1/1/00",1,1,0,1,"2",TRUE,653,"0",0
+"522",2436111,"X002643561","DE71 .S19 1995","ALDERMAN","Les bas-fonds de l'antiquitÈ /","Salles, Catherine,",1995,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,653,"0",0
+"523",2410574,"X002627666","DE100 .C665 no.12","ALDERMAN","GÈopolitique des mouvements islamistes en MÈditerranÈe /","",1994,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,654,"0",0
+"524",2330386,"X002536911","DE86 .A76 1994","ALDERMAN","Aspetti e problemi dell'ellenismo : atti del convegno di studi, Pisa, 6-7 novembre 1992 /","",1994,"7/1/96","1/1/00",1,1,0,1,"2",FALSE,654,"0",0
+"525",2313812,"X002519555","DE96 .R54 1994","ALDERMAN","Die Seeaktivit‰ten der muslimischen Beutefahrer als Bestandteil der staatlichen Flotte w‰hrend der osmanischen Expansion im Mittelmeer im 15. und 16. Jahrhundert /","Rieger, Andreas.",1994,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,654,"0",0
+"526",2232921,"X002303396","DE100 .G46 1993","ALDERMAN","GenËse de l'Etat moderne en MÈditerranÈe : approches historique et anthropologique des pratiques et des reprÈsentations : actes des tables rondes internationales tenues ‡ Paris les 24, 25 et 26 septembre 1987 et les 18 et 19 mars 1988.","",1993,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,655,"0",0
+"527",2370403,"X002579015","DE60 .S787 1993","ALDERMAN","Lo Studio storico del mondo antico nella cultura italiana dell'Ottocento /","",1993,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,655,"0",0
+"528",2232540,"X002328415","DE3 .M48 v.18","ALDERMAN","Autocoscienza e rappresentazione dei popoli nell'antichit‡ /","",1992,"7/1/96","1/1/00",3,1,0,1,"2",TRUE,656,"0",0
+"529",2316490,"X002526298","DE71 .C58 1992","ALDERMAN","Civilt‡ materiale e letteratura nel mondo antico : atti del seminario di studio (Macerata, 28-29 giugno 1991) /","",1992,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,656,"0",0
+"530",2151520,"X002309457","DE85.5 .U6 V35 1992","ALDERMAN","Gli Stati Uniti e il Mediterraneo da Truman a Reagan /","Valdevit, Giampaolo,",1992,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,656,"0",0
+"531",2236037,"X031871173","DE86 .B44 1992","ALDERMAN","Antipatia per Polibio : il greco storico della grandezza di Roma (200 a.C.-120 a.C.) /","Belli, Carlo,",1992,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,656,"0",0
+"532",1994349,"X002134067","DE100 .C665 no.3","ALDERMAN","Maghreb, la dÈmocratie entre parenthËses? ; Confluences culturelles /","",1992,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,657,"0",0
+"533",1989932,"X002163921","DE3 .M48 v.17","ALDERMAN","L'Immagine dell'uomo politico : vita pubblica e morale nell'antichita /","",1991,"6/30/96","1/1/00",1,1,0,1,"2",TRUE,658,"0",0
+"534",1964529,"X002116947","DE83 .G84 1991","ALDERMAN","Guerre et commerce en MÈditerranÈe : IX-XXe siËcles /","",1991,"6/30/96","1/1/00",1,1,0,1,"2",FALSE,658,"0",0
+"535",1863214,"X002035381","DE71 .W44 1990","ALDERMAN","Smog ¸ber Attika : Umweltverhalten im Altertum /","Weeber, Karl-Wilhelm.",1990,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,659,"0",0
+"536",1768105,"X001844899","DE85.5 .F8 F73 1990","ALDERMAN","La France et la MÈditerranÈe : vingt-sept siËcles d'interdÈpendance /","",1990,"6/30/96","1/1/00",1,1,0,1,"2",TRUE,659,"0",0
+"537",1827171,"X002046625","DE9 .S26 C34 1990","ALDERMAN","Antichit‡ classiche nell'Enciclopedia italiana /","Cagnetta, Mariella,",1990,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,659,"0",0
+"538",1631561,"X001710851","DE3 .H58 1989","ALDERMAN","Historia testis : mÈlanges d'Èpigraphie, d'histoire ancienne et de philologie offerts ‡ Tadeusz Zawadzki /","",1989,"6/30/96","1/1/00",3,1,0,1,"2",FALSE,660,"0",0
+"539",1821777,"X002000995","DE61 .H86 L66 1989","ALDERMAN","Le forme della predazione : cacciatori e pescatori nella Grecia antica /","Longo, Oddone.",1989,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,660,"0",0
+"540",1381015,"X001615920","DE71 .V65 1989","ALDERMAN","Vom fr¸hen Griechentum bis zur rˆmischen Kaiserzeit : Gedenk- und Jubil‰umsvortr‰ge am Heidelberger Seminar f¸r Alte Geschichte.","",1989,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,660,"0",0
+"541",1379812,"X001617343","DE100 .C76 1988","ALDERMAN","GÈopolitique de la MÈditerranÈe /","Crouzatier, Jean-Marie.",1988,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,662,"0",0
+"542",1807598,"X002029068","DE61 .I48 D67 1986","ALDERMAN","Pasti e vasellame da tavola /","Dosi, Antonietta.",1986,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,663,"0",0
+"543",714619,"X001227214","DE71 .C5 1986","ALDERMAN","Civilisation latine /","",1986,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,664,"0",0
+"544",1828412,"X002427454","DE94 .A45 1985","ALDERMAN","Tardi studi di storia arabo-mediterranea /","Amari, Michele,",1985,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,665,"0",0
+"545",20541,"X000690663","DE100 .M43 1984","ALDERMAN","The Mediterranean region : economic interdependence and the future of security /","",1984,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,666,"0",0
+"546",84196,"X000987628","DE3 .H67 1984 V.1","ALDERMAN","Hommages ‡ Lucien Lerat /","",1984,"6/28/96","1/1/00",0,1,0,2,"2",TRUE,666,"0",0
+"547",2481183,"X006054787","DE59 .K37 1995","ALDERMAN","Approche aux cultures mÈditerranÈennes des origines /","Kassis, Antoine,",1995,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,667,"0",0
+"548",2443666,"X006051017","DE86 .L48 1995","ALDERMAN","La ruche grecque et l'empire de Rome /","LÈtoublon, FranÁoise,",1995,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,667,"0",0
+"549",282045,"X000151400","DE8 .H63","ALDERMAN","Historiographia antiqua : commentationes Lovanienses in honorem W. Peremans septuagenarii editae.","",1977,"6/28/96","4/8/99",1,3,0,1,"2",FALSE,668,"0",0
+"550",2254547,"X002327776","DE71 .D33 1994","ALDERMAN","Die Antike : Griechenland und Rom von den Anf‰ngen bis zur Expansion des Islam /","Dahlheim, Werner.",1994,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,669,"0",0
+"551",2300318,"X002528450","DE61 .P8 N46 1993","ALDERMAN","Corrotti e corruttori /","Nencini, Riccardo.",1993,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,670,"0",0
+"552",638266,"X000758894","DE8 .C6 1978","ALDERMAN","Colloque histoire et historiographie : Clio : [8-9 dÈcembre 1978, Paris E.N.S.] /","Colloque histoire et historiographie",1980,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,671,"0",0
+"553",215861,"X000238409","DE100 .Z67","ALDERMAN","La MÈditerranÈe sans les Grands? /","Zorgbibe, Charles.",1980,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,672,"0",0
+"554",2389914,"X002527096","DE94 .M86 1991","ALDERMAN","T?r?kh al-Muslim?n f? al-Ba?r al-Mutawassi? : al-aw??? al-siy?s?yah wa-al-iqti??d?yah wa-al-ijtim???yah /","Mu?nis, ?usayn,",1991,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,673,"0",0
+"555",174029,"X000215507","DE71 .M49 1976 v.1","ALDERMAN","Problemy antichno? istorii i kul?tury : Doklady XIV Mezhdunarodno? konferent?sii antichnikov sot?sialisticheskikh stran ""??rene"" [18-23 mai?a 1976 g. /","Mezhdunarodnai?a konferent?sii?a antichnikov sot?sialisticheskikh stran ""??rene""",1979,"6/28/96","1/1/00",0,2,0,2,"2",TRUE,674,"0",0
+"556",1742421,"X001811248","DE5 .L58 1990","ALDERMAN","Lexikon der Antike /","",1990,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,676,"0",0
+"557",1664313,"X002021708","DE71 .L66 1989","ALDERMAN","I nomadi alla frontiera : i popoli delle steppe e l'antico mondo greco-romano /","Levi, Mario Attilio,",1989,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,677,"0",0
+"558",327319,"X000032659","DE86 .C45","ALDERMAN","La fin du monde antique ; de Stilicon ‡ Justinien (Ve siËcle et dÈbut VIe) /","Chastagnol, AndrÈ.",1976,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,678,"0",0
+"559",1750744,"X001827667","DE3 .S79 1988","ALDERMAN","Studi di storia e storiografia antiche : per Emilio Gabba.","",1988,"6/30/96","7/20/98",1,3,0,1,"2",FALSE,680,"0",0
+"560",1738442,"X001807007","DE3 .S78 1987","ALDERMAN","Studi di antichit‡ in memoria di Clementina Gatti.","",1987,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,681,"0",0
+"561",1682261,"X001359654","DE57 .G67 1987","ALDERMAN","Il carteggio di Anton Francesco Gori /","Gori, Antonio Francesco,",1987,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,681,"0",0
+"562",1674927,"X001298457","DE59 .S95 1987 v.1","ALDERMAN","Syneisphora McGill /","",1987,"6/30/96","1/1/00",2,0,0,1,"2",TRUE,681,"0",0
+"563",1327179,"X001557993","DE96 .M39 1987","ALDERMAN","La MÈditerranÈe au XVIIIe siecle : actes du colloque international tenu ‡ Aix-en-Provence les 4, 5, 6 septembre 1985.","",1987,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,681,"0",0
+"564",610080,"X000493728","DE100 .C66 1972","ALDERMAN","The Western Mediterranean: its political, economic, and strategic importance.","Conference on the Western Mediterranean",1974,"6/29/96","1/1/00",1,1,0,1,"2",FALSE,682,"0",0
+"565",1244524,"X001320080","DE3 .M48 v.12","ALDERMAN","L'Europa nel mondo antico /","",1986,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,683,"0",0
+"566",687230,"X001186322","DE25 .G72 1986","ALDERMAN","A guide to the ancient world : a dictionary of classical place names /","Grant, Michael,",1986,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,684,"0",0
+"567",699285,"X001225828","DE9 .H35 A4 1986","ALDERMAN","F. Halbherr e G. De Sanctis : nuove lettere dal carteggio De Sanctis, 1892-1932 /","Accame, Silvio.",1986,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,684,"0",0
+"568",365672,"X002077930","DE4 .S253 v.4","ALDERMAN","Scritti minori.","Sanctis, Gaetano de,",1970,"6/28/96","3/3/99",0,9,0,7,"2",TRUE,685,"0",0
+"569",707012,"X001225892","DE3 .M48 v.11","ALDERMAN","La Pace nel mondo antico /","",1985,"6/29/96","1/1/00",2,0,0,1,"2",TRUE,686,"0",0
+"570",706214,"X001225506","DE59 .M57 1985","ALDERMAN","Mondo classico : percorsi possibili /","",1985,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,686,"0",0
+"571",713659,"X001223569","DE59 .N65 1984","ALDERMAN","Nona miscellanea greca e romana.","",1984,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,687,"0",0
+"572",44128,"X000815179","DE59 .D49 1982 v.1","ALDERMAN","Early settlement in the Western Mediterranean Islands and the peripheral areas : the Deya Conference of Prehistory / edited by William H. Waldren, [et al.].","Deya Conference of Prehistory",1984,"6/28/96","1/1/00",1,3,0,4,"2",TRUE,688,"0",0
+"573",105016,"X001038119","DE71 .P47 1984","ALDERMAN","R?maioi kai Hell?nismos : mia dialektik? sches? /","Petrocheilos, Nikos.",1984,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,688,"0",0
+"574",146904,"X000939650","DE4 .D4825 1982","ALDERMAN","Kleine Schriften zur klassischen Altertumskunde /","Deubner, Ludwig,",1982,"6/28/96","1/1/00",2,0,0,1,"2",FALSE,691,"0",0
+"575",47540,"X000961677","DE9 .B67 C65 1981","ALDERMAN","Bartolomeo Borghesi, scienza e libert‡ : Colloquio internazionale AIEGL /","Colloquio internazionale AIEGL",1982,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,691,"0",0
+"576",117913,"X000545673","DE60 .D5 1981","ALDERMAN","Filologia e marxismo : contro le mistificazioni /","Di Benedetto, Vincenzo.",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,692,"0",0
+"577",640526,"X000913618","DE58 .C65","ALDERMAN","Il Comportamento dell'intellettuale nella societ‡ antica.","",1980,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,693,"0",0
+"578",222167,"X000448439","DE15.5 .F5 A34","ALDERMAN","Classical studies in Finland, 1828-1918 /","Aalto, Pentti,",1980,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,694,"0",0
+"579",183289,"X000446797","DE15.5 .S65 G47","ALDERMAN","Die Geschichte des Altertums im Spiegel der sowjetischen Forschung /","",1980,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,694,"0",0
+"580",213490,"X000308606","DE59 .W34","ALDERMAN","The Greek and Roman worlds /","Walton, Brian G.",1980,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,694,"0",0
+"581",175701,"X000397135","DE61 .P8 B73","ALDERMAN","Politik, Recht und Gesellschaft in der griechisch-rˆmischen Antike : gesammelte Aufs‰tze u. Reden /","Braunert, Horst.",1980,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,694,"0",0
+"582",162372,"X031871016","DE71 .K7","ALDERMAN","Staro?ytno?? odleg?a i bliska /","Krawczuk, Aleksander.",1980,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,694,"0",0
+"583",199090,"X000140023","DE4 .B63","ALDERMAN","Syngrammata : studies in Graeco-Roman history /","Boer, W. den (Willem),",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,696,"0",0
+"584",213983,"X000302250","DE4 .S74","ALDERMAN","Kleine Schriften /","Stier, Hans Erich,",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,696,"0",0
+"585",246333,"X000854442","DE61 .A65 B73 1979","ALDERMAN","L'archeologia classica nella cultura occidentale /","Bracco, Vittorio.",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,696,"0",0
+"586",954670,"X002178031","DE71 .B37 1966","ALDERMAN","The mask of Jove : a history of Graeco-Roman civilization from the death of Alexander to the death of Constantine /","Barr, Stringfellow,",1966,"6/29/96","1/1/00",0,1,0,1,"2 10",FALSE,697,"0",0
+"587",224199,"X031914848","DE59 .M42","ALDERMAN","La MÈditerranÈe : les hommes et l'hÈritage /","",1978,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,698,"0",0
+"588",489555,"X000412459","DE72 .C6","ALDERMAN","Les villes libres de l'Orient grÈco-romain et l'envoi au supplice par acclamations populaires.","Colin, Jean,",1965,"6/29/96","1/1/00",1,1,0,1,"2",FALSE,700,"0",0
+"589",244616,"X001100011","DE100 .M36","ALDERMAN","al-Ba?r al-Abya? al-Mutawassi? f? al-istir?tij?yah al-dawl?yah /","Miqlad, Ism???l ?abr?.",1977,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,701,"0",0
+"590",291329,"X000006279","DE59 .P38","ALDERMAN","L'antichit‡ classica /","Pavan, Massimiliano.",1977,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,701,"0",0
+"591",273309,"X000040654","DE8 .P38","ALDERMAN","Antichit‡ classica e pensiero moderno /","Pavan, Massimiliano.",1977,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,701,"0",0
+"592",377181,"X000529677","DE100 .L49","ALDERMAN","The strategic balance in the Mediterranean /","Lewis, Jesse W. (Jesse Walter),",1976,"7/1/96","1/1/00",0,0,0,1,"2 17",FALSE,702,"0",0
+"593",422540,"X000700009","DE46 .K72 1976","ALDERMAN","Zabytki archeologiczne Zak?adu Archeologii ?rodziemnomorskiej Uniwersytetu Jagiello?skiego : katalog /","Uniwersytet Jagiello?ski. Zak?ad Archeologii ?rÛdziemnomorskiej.",1976,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,703,"0",0
+"594",510312,"X004801565","DE59 .P7","ALDERMAN","The Princeton encyclopedia of classical sites /","",1976,"6/29/96","1/1/00",1,0,0,1,"2 4 14",FALSE,703,"0",0
+"595",423352,"X000700010","DE60 .M35","ALDERMAN","Egeo e Occidente alla fine del II millennio a.c. : considerazioni per l'impostazione di uno studio storico sui rapporti fra il mondo egeo e l'ambiente italico e siculo nei secoli XIII-X a.C. /","Marazzi, Massimiliano,",1976,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,703,"0",0
+"596",404009,"X000132207","DE5 .P34 Index","ALDERMAN","Index to the supplements and suppl. volumes of Pauly-Wissowa's R. E. : index to the Nachtr‰ge and Berichtigungen in vols. I-XXIV of the first series, vols. I-X of the second series, and supplementary vols. I-XIV of Pauly-Wissowa-Kroll's Realenzyklop‰die /","Murphy, John Paul,",1976,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,704,"0",0
+"597",45308,"X000320044","DE8 .G45 1983","ALDERMAN","Storia e biografia nel pensiero antico /","Gentili, Bruno.",1983,"6/28/96","3/9/99",0,1,0,1,"2",FALSE,706,"0",0
+"598",241037,"X004194003","DE3 .M48 v.2","ALDERMAN","Propaganda e persuasione occulta nell'antichit‡ /","",1974,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,707,"0",0
+"599",632206,"X000692204","DE9 .A1 S27","ALDERMAN","Praelectiones Patavinae. Raccolte da Franco Sartori.","Sartori, Franco,",1972,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,709,"0",0
+"600",754071,"X001107435","DE60 .R54 1970","ALDERMAN","Ricerche puniche nel Mediterraneo centrale. Relazioni del colloquio in Roma, 5-7 maggio 1969.","",1970,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,710,"0",0
+"601",465886,"X000197409","DE5 .W33 1969","ALDERMAN","Everyman's classical dictionary, 800 B.C.-A.D. 337.","Warrington, John.",1969,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,711,"0",0
+"602",522465,"X000090584","DE83 .A413 1969","ALDERMAN","Prolegomena to the History of the Byzantine Empire","Amantos, K?nstantinos I. (K?nstantinos I?annou),",1969,"6/29/96","1/1/00",0,0,0,2,"2",FALSE,711,"0",0
+"603",1909696,"X002072662","DE96 .M395 1990","ALDERMAN","La MÈditerranÈe occidentale au XVII ?siËcle : actes du colloque de 1989.","",1990,"6/30/96","1/29/98",0,2,0,1,"2",FALSE,712,"0",0
+"604",954632,"X001269883","DE5 .L63 1965","ALDERMAN","Lexikon der alten Welt.","",1965,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,713,"0",0
+"605",576964,"X000241556","DE98 .L6 1965","ALDERMAN","Salisbury and the Mediterranean, 1886-1896,","Lowe, C. J. (Cedric James),",1965,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,713,"0",0
+"606",308977,"X000501830","DE83 .G72 1965","ALDERMAN","Der Hellenismus und der Aufstieg Roms /","Grimal, Pierre,",1965,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,714,"0",0
+"607",2635207,"X006016818","DE15.5 .E97 D37 1994","ALDERMAN","Datenbanken in der alten Geschichte/","",1994,"12/10/96","5/20/97",0,2,0,1,"2",TRUE,715,"0",0
+"608",576566,"X004801488","DE5 .N4 1962","ALDERMAN","The New Century classical handbook.","",1962,"6/29/96","1/1/00",2,0,0,1,"2",FALSE,716,"0",0
+"609",466212,"X000692197","DE5 .W33 1961","ALDERMAN","Everyman's classical dictionary; 800 B.C.-A.D. 337.","Warrington, John.",1961,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,717,"0",0
+"610",606611,"X000531988","DE71 .H3 1938","ALDERMAN","The stranger at the gate: aspects of exclusiveness and co-operation in ancient Greece and Rome, with some reference to modern times,","Haarhoff, T. J. (Theodore Johannes),",1938,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,719,"0",0
+"611",474594,"X000880201","DE5 .T73 1950","ALDERMAN","A classical and Biblical reference book.","Treble, H. A. (Henry Arthur),",1950,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,720,"0",0
+"612",365246,"X000162345","DE59 .B6","ALDERMAN","Hellas and Rome, the civilization of classical antiquity,","Bossert, Helmuth Theodor,",1936,"6/28/96","1/1/00",0,1,0,1,"2 14",FALSE,721,"0",0
+"613",947514,"X031900161","DE3 .D3 1933 v.1 pt.2","ALDERMAN","Sculptures antiques de musÈes de province espagnols,","Poulsen, Frederik,",1933,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,724,"0",0
+"614",466069,"X000158908","DE86 .R67","ALDERMAN","The Mediterranean in the ancient world,","Rose, J. Holland (John Holland),",1933,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,724,"0",0
+"615",954652,"X031871093","DE10 .D5 1932 v.3","ALDERMAN","The legacy of Alexander; a history of the Greek world from 323 to 146 B. C.,","Cary, M. (Max),",1932,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,725,"0",0
+"616",2494399,"X002786183","DE9 .V648 K64 1995","ALDERMAN","Joseph Vogt : ein Althistoriker in der Weimarer Republik und im Dritten Reich /","Kˆnigs, Diemuth.",1995,"7/1/96","12/17/96",0,1,0,1,"2",FALSE,726,"0",0
+"617",214042,"214042-1001","DE73.2 .B55 B4","ALDERMAN","The negro in Greek and Roman civilization; a study of the Ethiopian type,","Beardsley, Grace Maynard Hadley,",1929,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,727,"0",0
+"618",789815,"X001258242","DE80 .I53 1981","ALDERMAN","L'homme mÈditerranÈen et la mer : actes du troisiËme CongrËs international d'Ètudes des cultures de la MÈditerranÈe occidentale (Jerba, avril 1981) /","International Congress of Studies on Cultures of the Western Mediterranean",1985,"6/29/96","2/21/97",0,1,0,1,"2",FALSE,728,"0",0
+"619",2259172,"X004021044","DE59 .M566 1992","ALDERMAN","Mondo classico mondo attuale /","",1992,"7/1/96","9/27/96",0,1,0,1,"2",FALSE,729,"0",0
+"620",647897,"X000265661","DE59 .G92 1902","ALDERMAN","The life of the Greeks and Romans : described from antique monuments /","Guhl, E. (Ernst),",1902,"6/29/96","1/1/00",1,1,0,1,"2",FALSE,730,"0",0
+"621",426385,"X001099790","DE5 .S6624 1898","ALDERMAN","A concise dictionary of Greek and Roman antiquities;","Smith, William,",1898,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,732,"0",0
+"622",333630,"X031871018","DE59 .T73 1905","ALDERMAN","Die Kultur der Griechen und Rˆmer : dargestellt an der Hand ihrer Gebrauchsgegenst‰nde und Bauten. Bilderatlas mit erl‰uterndem Text nach Tabulae quibus antiquitates gracae et romanae illustrantur unter Mitwirkung von Fachgelehrten /","Cybulski, Stephan,",1905,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,733,"0",0
+"623",20142,"X001099996","DE8 .V6 1880","ALDERMAN","Greek writers of Roman history. Some reflections upon the authorities used by Plutarch and Appianus.","Vollgraff, J. C. (Johann Christoph),",1880,"6/28/96","1/1/00",0,2,0,1,"2",FALSE,734,"0",0
+"624",954649,"X004916260","DE7 .P57 1901 v.1","ALDERMAN","Plutharch's Themistocles and Aristides;","Plutarch.",1901,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,735,"0",0
+"625",576983,"X000692183","DE5 .E533 1965","ALDERMAN","The Encyclopedia of the classical world","",1965,"6/29/96","10/27/96",1,1,0,1,"2",FALSE,737,"0",0
+"626",954645,"X004801562","DE5 .S7 1868 v.2","ALDERMAN","Dictionary of Greek and Roman biography and mythology.","Smith, William,",1844,"3/9/98","1/1/00",0,0,0,3,"2",TRUE,738,"0",0
+"627",364291,"X002262999","DE7 .P5 1876","ALDERMAN","Plutarch's Lives of illustrious men. Corrected from the Greek and revised","Plutarch.",1876,"6/28/96","1/1/00",0,1,0,1,"2 14",FALSE,739,"0",0
+"628",1303310,"X002330615","DE7 .P53 1874","ALDERMAN","Plutarch's lives : translated from the original Greek ; with notes, critical and historical, and a life of Plutarch /","Plutarch.",1874,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,740,"0",0
+"629",308438,"X000236956","DE10 .R6 1928","ALDERMAN","The story of Greece and Rome; their growth and their legacy to our western world,","Robertson, John Charles,",1928,"6/28/96","4/22/97",0,2,0,1,"2",FALSE,741,"0",0
+"630",954655,"X001269885","DE25 .S662 1873 v.1","ALDERMAN","A dictionary of Greek and Roman geography.","Smith, William,",1878,"6/29/96","1/1/00",0,0,0,2,"2",TRUE,742,"0",0
+"631",954662,"X000490954","DE59 .G92 1875","ALDERMAN","The life of The Greeks and Romans,","Guhl, E. (Ernst),",1875,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,743,"0",0
+"632",1303326,"1303326-1001","DE25 .S662 1869","ALDERMAN","Dictionary of Greek and Roman geography /","Smith, William,",1868,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,745,"0",0
+"633",639104,"X001099990","DE7 .P53 1837","ALDERMAN","Plutarch's Lives, translated from the original Greek: with notes, critical and historical: and a life of Plutarch.","Plutarch.",1837,"6/29/96","9/28/00",0,1,0,1,"2",FALSE,746,"0",0
+"634",215491,"X004575876","DE5 .A6 1858","ALDERMAN","A classical dictionary : containing an account of the principal proper names mentioned in ancient authors : and intended to elucidate all the important points connected with the geography, history, biography, mythology and fine arts of the Greeks and Romans : together with an account of coins, weights, and measures, with tabular","Anthon, Charles,",1858,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,748,"0",0
+"635",1303337,"X031871092","DE59 .S36 v.2 pt.1 1854","ALDERMAN","Handbuch der griechischen antiquit‰ten /","Schwalbe, Karl Friedrich Hermann.",1854,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,749,"0",0
+"636",954641,"X001023877","DE5 .S67 1850","ALDERMAN","New classical dictionary of biography, mythology, and geography,","Smith, William,",1850,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,750,"0",0
+"637",1304014,"X031915854","DE4 .C7 v.4 pt.1 1836","ALDERMAN","Zur rˆmischen geschichte und alterthumskunde /","Creuzer, Georg Friedrich,",1836,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,752,"0",0
+"638",491404,"491404-1001","DE7 .P53 1828","ALDERMAN","Plutarch's Lives.","Plutarch.",1828,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,753,"0",0
+"639",954637,"X001269873","DE5 .S5 1895","ALDERMAN","A dictionary of classical antiquities;","Seyffert, Oskar,",1895,"6/29/96","10/27/96",1,1,0,1,"2",FALSE,754,"0",0
+"640",1229887,"X030525619","DE7 .P5 n.d. b V.2","ALDERMAN","Plutarch's Lives : the translation called Dryden's.","Plutarch.",0,"2/2/09","1/26/11",0,1,9,5,"2",TRUE,755,"0",0
+"641",1304514,"X031915824","DE7 .P5 n.d. V.1","ALDERMAN","Plutarch's Lives of illustrious men /","Plutarch.",0,"11/1/17","1/1/00",0,6,0,3,"2",TRUE,756,"0",0

@@ -1,0 +1,801 @@
+"","Catalog.Id","Item.Barcode","Item.Call.Number","Item.Library.Code","Catalog.Title","Catalog.Author","Catalog.Pub.Year","Item.Created.Date","Item.Last.Checkout.Date","NumInhouseUses","NumCheckouts","NumRenewals","Duplicates","Bib.Marc.Subfield.Data","MultiVolume","modelC","MODEL","LiaisonRecommendation"
+"1",124065,"X000422787","PD2235 .V3","ALDERMAN","Old Icelandic : an introductory course /","Valfells, Sigrid.",1981,"6/28/96","5/6/18",1,79,2,1,"2",FALSE,1,"1",0
+"2",120238,"X000881249","PD5111 .M3 1969","ALDERMAN","Swedish : a grammar of the modern language /","McClean, R. J. (Reginald John),",1969,"6/28/96","8/25/18",3,80,7,1,"2",FALSE,2,"1",0
+"3",1985592,"X002118802","PD63 .K36 1992","ALDERMAN","The brothers Grimm & their critics : folktales and the quest for meaning /","Kamenetsky, Christa,",1992,"6/30/96","11/13/14",2,75,3,1,"2",FALSE,3,"1",0
+"4",1308093,"X001493038","PD63 .Z57 1988","ALDERMAN","The Brothers Grimm : from enchanted forests to the modern world /","Zipes, Jack,",1988,"6/30/96","10/31/18",8,89,0,2,"2 3",FALSE,4,"1",0
+"5",395956,"X006132196","PD5112 .H5","ALDERMAN","Swedish : an elementary grammar-reader /","Hird, Gladys,",1977,"6/28/96","5/25/18",2,64,0,1,"2",FALSE,5,"1",0
+"6",442,"X000944392","PD3111 .J66 1981 GRAMMAR","ALDERMAN","Danish : a grammar /","Jones, W. Glyn.",1981,"6/28/96","6/10/10",7,113,0,2,"2",TRUE,6,"1",0
+"7",1013131,"X002417508","PD2237 .G6 1927","ALDERMAN","An introduction to Old Norse,","Gordon, E. V. (Eric Valentine),",1927,"6/29/96","5/6/18",2,81,2,5,"2",FALSE,7,"1",0
+"8",206952,"X000843389","PD2407 .J66 1978","ALDERMAN","A course in modern Icelandic : texts, vocabulary, grammar, exercises, translations /","JÛn Fri?jÛnsson.",1978,"6/28/96","8/14/18",1,45,33,1,"2",FALSE,8,"1",0
+"9",1013193,"X000359272","PD5111 .B6 1944","ALDERMAN","Modern Swedish grammar,","Bjˆrkhagen, Im. (Immanuel),",1944,"6/29/96","5/11/14",0,55,2,1,"2",FALSE,10,"1",0
+"10",335350,"X002690988","PD5111 .F67 1921","ALDERMAN","Elementary Swedish grammar : combined with exercises, reading lessons and conversations /","Fort, Henri.",1921,"6/28/96","10/19/15",1,58,7,1,"2",FALSE,11,"1",0
+"11",2265430,"X002423922","PD3111 .J6 1993","ALDERMAN","Colloquial Danish /","Jones, W. Glyn.",1993,"7/1/96","2/22/15",0,42,2,1,"2",FALSE,12,"1",0
+"12",3940105,"X004632927","PD63 .Z57 2002","ALDERMAN","The Brothers Grimm : from enchanted forests to the modern world /","Zipes, Jack,",2002,"5/8/03","10/31/18",7,28,4,1,"2",FALSE,13,"1",0
+"13",1644883,"X001706753","PD5111 .B66 1970","ALDERMAN","Swedish for students /","Borland, Harold Howie.",1970,"6/30/96","5/21/18",2,37,2,1,"2",FALSE,14,"1",0
+"14",7372744,"X031821962","PD582 .S37 2016","ALDERMAN","Language contact and the origins of the Germanic languages /","Schrijver, Peter,",2016,"3/5/18","3/16/18",0,1,0,1,"2",FALSE,15,"1",0
+"15",7146643,"X031768470","PD2235 .B96 2013 v.1","ALDERMAN","Viking language /","Byock, Jesse L.",2013,"7/17/17","10/1/18",0,2,4,2,"2",TRUE,16,"1",0
+"16",6511595,"X031671923","PD2421 .W66 2015","ALDERMAN","Icelandic morphosyntax and argument structure /","Wood, Jim.",2015,"2/19/15","4/26/18",0,2,5,1,"2",FALSE,17,"1",0
+"17",1013127,"X001023843","PD2235 .S8 1886","ALDERMAN","An Icelandic primer with grammar, notes and glossary,","Sweet, Henry,",1886,"6/29/96","12/1/16",0,76,0,3,"2",FALSE,18,"1",0
+"18",3689002,"X004532220","PD2013 .S28 2000","ALDERMAN","The Viking-age rune stones : custom and commemoration in early medieval Scandinavia /","Sawyer, Birgit.",2000,"2/8/01","11/8/18",1,18,1,1,"2",FALSE,19,"1",0
+"19",1013796,"X000237435","PD2003 .P3","ALDERMAN","An introduction to English runes","Page, R. I. (Raymond Ian)",1973,"6/29/96","12/7/17",2,30,1,1,"2 14",FALSE,20,"1",0
+"20",134931,"X000532511","PD2237 .G6 1981","ALDERMAN","An introduction to Old Norse /","Gordon, E. V. (Eric Valentine),",1981,"6/28/96","8/5/15",3,31,0,1,"2",FALSE,21,"1",0
+"21",1013129,"X000762427","PD2237 .C7 1924","ALDERMAN","Easy readings in old Icelandic,","Craigie, William A. (William Alexander),",1924,"6/29/96","9/3/10",2,52,0,2,"2",FALSE,22,"1",0
+"22",2909314,"X004320346","PD75 .G74 1998","ALDERMAN","Language and history in the early Germanic world /","Green, D. H. (Dennis Howard),",1998,"5/4/99","4/18/18",1,18,2,1,"2",FALSE,23,"1",0
+"23",100373,"X001057621","PD5105 .C6 1984","ALDERMAN","A Concise Swedish grammar : Svensk grammatik pÂ Engelska /","",1984,"6/28/96","3/20/15",4,28,5,1,"2",FALSE,24,"1",0
+"24",4463760,"X030111916","PD64 .L3 T5613 2005","ALDERMAN","The genesis of Lachmann's method /","Timpanaro, Sebastiano.",2005,"2/1/07","5/17/17",1,8,2,1,"2",TRUE,25,"1",0
+"25",1340590,"X000595402","PD2413 .J6 1927","ALDERMAN","A primer of modern Icelandic,","SnÊbjˆrn JÛnsson,",1927,"6/30/96","2/6/07",0,49,0,1,"2",FALSE,26,"1",0
+"26",6607662,"X031649190","PD2013 .E4 1989","ALDERMAN","Runes : an introduction /","Elliott, Ralph Warren Victor.",1989,"8/10/15","12/5/17",1,1,3,1,"2",FALSE,27,"1",0
+"27",6607665,"X031649189","PD2013 .P34 1987","ALDERMAN","Runes /","Page, R. I. (Raymond Ian)",1987,"8/10/15","12/7/17",2,1,0,1,"2",FALSE,28,"1",0
+"28",402222,"X000612844","PD2413 .E48 V.1","ALDERMAN","Icelandic in easy stages : graded lessons for practice in colloquial Icelandic designed for the foreigner living in Iceland : with notes in English /","Einar P·lsson.",1975,"6/28/96","8/14/18",3,44,32,2,"2",TRUE,29,"1",0
+"29",198494,"X000167925","PD1123 .B4 1980","ALDERMAN","An introduction to the Gothic language /","Bennett, William Holmes.",1980,"6/28/96","6/24/18",1,22,3,1,"2",FALSE,30,"1",0
+"30",281174,"X000002494","PD2014 .H68","ALDERMAN","The runes : and other magical alphabets /","Howard, Michael.",1978,"6/28/96","4/5/16",5,24,1,1,"2",FALSE,31,"1",0
+"31",773372,"X001291899","PD2623 .S713 1986","ALDERMAN","Practical Norwegian grammar /","Strandskogen, ≈se-Berit.",1986,"6/29/96","4/25/18",1,19,1,1,"2",FALSE,32,"1",0
+"32",1350795,"X032020976","PD5075 .W45 1969 bd.2","ALDERMAN","Svensk spr‰khistoria.","WessÈn, Elias,",1969,"2/8/18","4/11/18",0,0,0,3,"2",TRUE,33,"1",0
+"33",4897632,"X030561788","PD380 .I54 2009","ALDERMAN","Information structure and language change : new approaches to word order variation in Germanic /","",2009,"8/5/09","4/20/17",0,1,1,1,"2",FALSE,34,"1",0
+"34",6289236,"X031646181","PD64 .L3 F53 2000","ALDERMAN","La genesi del lachmannismo /","Fiesoli, Giovanni,",2000,"6/20/14","7/24/14",2,1,0,1,"2",TRUE,35,"1",0
+"35",4627447,"X030251114","PD361 .M35 2007","ALDERMAN","The Germanic strong verbs : foundations and development of a new system /","Mailhammer, Robert,",2007,"9/11/07","4/20/17",0,3,1,1,"2",FALSE,36,"1",0
+"36",814583,"X032098315","PD25 .C6 no.18 1922","ALDERMAN","The influence of Walter Scott on the novels of Theodor Fontane.","Shears, Lambert Armour,",1966,"3/16/18","3/19/18",0,0,0,1,"2",TRUE,37,"1",0
+"37",6110382,"X031606511","PD63 .I57 2003 Bd.1","ALDERMAN","Internationales Germanistenlexikon 1800-1950 /","",2003,"8/7/13","3/20/14",0,4,5,4,"2",TRUE,38,"1",0
+"38",4078142,"X004837031","PD2409 .S73 2004","ALDERMAN","The Icelandic language /","Stef·n Karlsson.",2004,"10/26/04","4/14/16",2,7,4,1,"2",FALSE,41,"1",0
+"39",1013107,"X000237419","PD2013 .E4 1959","ALDERMAN","Runes; an introduction.","Elliot, Ralph Warren Victor.",1959,"6/29/96","4/25/14",3,28,4,1,"2",FALSE,42,"1",0
+"40",1951712,"X002110733","PD2013 .O42 1991","ALDERMAN","Old English runes and their continental background /","",1991,"6/30/96","12/5/17",2,16,3,1,"2",FALSE,43,"1",0
+"41",4293352,"X004863642","PD74.7 .L56 2005","ALDERMAN","Linguistic purism in the Germanic languages /","",2005,"7/19/05","5/2/17",1,4,1,1,"2",FALSE,44,"1",0
+"42",569779,"X031981347","PD71 .S74 1957 Index v.1 pt.3","ALDERMAN","Deutsche Philologie im Aufriss. Unter Mitarbeit zahlreicher Fachgelehrter,","Stammler, Wolfgang,",1957,"2/12/18","2/12/18",0,1,0,4,"2",TRUE,45,"1",0
+"43",592560,"X000385843","PD3105 .D52 1972","ALDERMAN","Essentials of Danish grammar.","Diderichsen, Paul,",1979,"6/29/96","12/10/08",1,29,0,1,"2",FALSE,47,"1",0
+"44",7513592,"X004618769","PD3640 .H6 v.2","ALDERMAN","Dictionary of the English and Danish languages, adapted to the use of schools and learners of both languages /","Hornbeck, Cecil.",1863,"12/8/03","2/8/18",3,50,0,2,"2",TRUE,48,"1",0
+"45",3730436,"X004559057","PD2014 .J47 2001","ALDERMAN","Ships and men in the late Viking Age : the vocabulary of runic inscriptions and skaldic verse /","Jesch, Judith,",2001,"6/27/01","6/3/16",0,9,2,1,"2",FALSE,49,"1",0
+"46",2277007,"X002532480","PD73 .G38 1994","ALDERMAN","The Germanic languages /","",1994,"7/1/96","4/21/18",1,13,1,1,"2",FALSE,50,"1",0
+"47",1013726,"X031981346","PD71 .S74 1952 index","ALDERMAN","Deutsche Philologie im Aufriss.","Stammler, Wolfgang,",1952,"2/12/18","2/12/18",0,0,0,4,"2",FALSE,51,"1",0
+"48",3806124,"X006128367","PD74 .G39 2001","ALDERMAN","Germanic texts and Latin models : medieval reconstructions /","",2001,"1/17/02","5/25/17",6,6,0,1,"2",FALSE,52,"1",0
+"49",4627380,"X030251037","PD75 .G45 2007","ALDERMAN","Germanic language histories 'from below' (1700-2000) /","",2007,"9/11/07","4/30/15",0,1,0,1,"2",FALSE,53,"1",0
+"50",1729639,"X001784489","PD63 .G77 1990","ALDERMAN","The Grimm brothers and the Germanic past /","",1990,"6/30/96","11/13/14",4,17,3,1,"2",FALSE,54,"1",0
+"51",501983,"X000714051","PD5117 .B7 1963","ALDERMAN","A Swedish reader, with introduction and notes,","Brandberg, P.",1963,"6/29/96","8/25/18",0,18,0,1,"2",FALSE,55,"1",0
+"52",276993,"X000837190","PD3112.5 .K6 1973","ALDERMAN","Danish /","Koefoed, Hans Anton.",1973,"6/28/96","10/22/15",0,19,7,1,"2",FALSE,57,"1",0
+"53",3919523,"X004657157","PD2013 .A58 2002","ALDERMAN","Runes and Germanic linguistics /","Antonsen, Elmer H.",2002,"2/25/03","10/16/14",0,6,0,1,"2",FALSE,58,"1",0
+"54",1013721,"X000099032","PD64 .G7 P4","ALDERMAN","Paths through the forest; a biography of the brothers Grimm","Peppard, Murray B.,",1971,"6/29/96","10/31/18",2,15,0,1,"2",FALSE,59,"1",0
+"55",437195,"X000361663","PD2413 .E5 1949","ALDERMAN","Icelandic: grammar, texts, glossary,","Stef·n Einarsson,",1949,"6/29/96","4/26/18",0,20,9,1,"2",FALSE,60,"1",0
+"56",2313208,"X002560688","PD2623 .S88 1994","ALDERMAN","Norwegian : a practical grammar /","Strandskogen, ≈se-Berit.",1994,"7/1/96","4/25/18",2,9,1,1,"2",FALSE,61,"1",0
+"57",2015723,"X002186727","PD75 .V68 1992","ALDERMAN","Early Germanic grammar : pre-, proto-, and post-Germanic languages /","Voyles, Joseph B.,",1992,"6/30/96","11/14/17",1,10,0,1,"2",FALSE,62,"1",0
+"58",2648353,"X030274259","PD3558 .A7116 V57 1996","ALDERMAN","Virtual muse : experiments in computer poetry /","Hartman, Charles O.,",1996,"9/17/07","1/22/09",2,14,0,2,"2",TRUE,63,"1",0
+"59",1013720,"X000179461","PD64 .G7 M5","ALDERMAN","The Brothers Grimm.","Michaelis-Jena, Ruth.",1970,"6/29/96","3/26/11",2,23,0,1,"2",FALSE,64,"1",0
+"60",4638763,"X030284772","PD21 .I5 2005 Bd.6","ALDERMAN","Akten des XI. Internationalen Germanistenkongresses Paris 2005 : ""Germanistik im Konflikt der Kulturen"" /","Internationaler Germanisten-Kongress",2007,"11/9/07","2/6/13",4,0,0,12,"2",TRUE,65,"1",0
+"61",426030,"X000758368","PD2623 .S65 1967","ALDERMAN","Norwegian : a book of self-instruction in the Norwegian RiksmÂl /","Sommerfelt, Alf,",1982,"6/29/96","4/25/18",0,11,1,1,"2",FALSE,66,"1",0
+"62",1013118,"X000361658","PD2229 .E3 1972","ALDERMAN","First grammatical treatise: the earliest Germanic phonology: an edition, translation [from the Old Norse] and commentary","",1972,"6/29/96","5/7/18",0,13,1,1,"2",FALSE,67,"1",0
+"63",623643,"X032021053","PD2485 .J35 1928 v.2","ALDERMAN","An etymological dictionary of the Norn language in Shetland.","Jakobsen, Jakob,",1928,"2/9/18","2/9/18",0,0,0,2,"2",TRUE,68,"1",0
+"64",3556359,"X006119279","PD2007 .I3 P34 1998","ALDERMAN","The Icelandic rune-poem /","Page, R. I. (Raymond Ian),",1999,"8/9/00","12/5/17",0,2,3,1,"2",FALSE,69,"1",0
+"65",1097707,"X032098319","PD25 .C6 no.17 1921","ALDERMAN","England and the Englishman in German literature of the eighteenth century,","Kelly, John Alexander,",1921,"3/19/18","3/19/18",0,0,0,2,"2 14",TRUE,70,"1",0
+"66",1013788,"X000278734","PD1543 .H3","ALDERMAN","The Scandinavian languages. Fifty years of linguistic research (1910-1968).","Haugen, Einar,",1972,"6/29/96","7/6/17",1,19,28,2,"2",FALSE,71,"1",0
+"67",7699089,"X032211792","PD155 .G63 2018","ALDERMAN","Gemination, lenition and vowel lengthening : on the history of quantity in Germanic /","Goblirsch, Kurt Gustav,",2018,"9/13/18","1/1/00",0,0,0,1,"2",FALSE,72,"1",0
+"68",4336782,"X004991857","PD2014 .M85 2005","ALDERMAN","Studien zum Runenk‰stchen von Auzon und zum Schiffsgrab von Sutton Hoo : mit besonderer Bezugnahme auf runische Inschriften und fr¸he lateinisch-runische Mischinschriften /","M¸ller-Braband, Therese.",2005,"1/5/06","7/13/10",0,3,0,1,"2",FALSE,74,"1",0
+"69",638995,"X000758324","PD1559 .H38 1982","ALDERMAN","Scandinavian language structures : a comparative historical survey /","Haugen, Einar,",1982,"6/29/96","9/3/10",1,18,0,1,"2",FALSE,75,"1",0
+"70",7487712,"X032084887","PD385 .D44 2018","ALDERMAN","Insubordination in Germanic : a typology of complement and conditional constructions /","D'Hertefelt, Sarah,",2018,"4/19/18","1/1/00",0,0,0,1,"2",FALSE,76,"1",0
+"71",354797,"X000241296","PD3111 .B7 1958","ALDERMAN","Danish : an elementary grammar and reader /","Bredsdorff, Elias.",1958,"6/28/96","7/10/08",3,26,0,1,"2",FALSE,77,"0",0
+"72",1301289,"X001284013","PD5640 .B66 1987","ALDERMAN","Bonniers engelsk-svenska ordbok = Bonnier's English-Swedish dictionary /","",1987,"6/30/96","11/6/09",0,17,0,1,"2",FALSE,78,"0",0
+"73",7244500,"X031811810","PD25 .V45 2017","ALDERMAN","Scurrilitas : das Lachen, die Komik und der Kˆrper in Literatur und Kultur des Sp‰tmittelalters und der Fr¸hen Neuzeit /","Velten, Hans Rudolf,",2017,"9/22/17","1/1/00",0,0,0,1,"2",FALSE,79,"0",0
+"74",285447,"X000540654","PD3111 .N6 1979","ALDERMAN","The way to Danish : a textbook in the Danish language /","Norlev, Erling,",1959,"6/28/96","11/15/10",0,22,0,1,"2",FALSE,80,"0",0
+"75",535035,"X000321786","PD101 .M413 1970","ALDERMAN","General characteristics of the Germanic languages.","Meillet, A. (Antoine),",1970,"6/29/96","4/21/18",1,13,1,2,"2 3",FALSE,81,"0",0
+"76",3526941,"X006090525","PD5848 .P44 1999","ALDERMAN","Guta saga : the history of the Gotlanders /","",1999,"4/19/00","1/26/16",1,2,0,1,"2",FALSE,83,"0",0
+"77",4643240,"X030338774","PD5585 .A544 2007","ALDERMAN","Equivalence et saillance dans l'expression de la localisation frontale dynamique en suÈdois et en franÁais : Ètude comparative et contrastive de fram et de (s')avancer/en avant /","Andersson, Carina.",2007,"10/24/07","11/6/09",0,0,0,1,"2",FALSE,84,"0",0
+"78",4667110,"X030343606","PD5014 .S64 2006","ALDERMAN","Hundra Âr av vitterhet : Svenska Vitterhetssamfundets verksamhet och organisation : anfˆrande vid Svenska Vitterhetssamfundets Ârsmˆte den 17 maj 2006 /","Sˆderlund, Petra.",2006,"11/26/07","11/6/09",0,0,0,1,"2",FALSE,86,"0",0
+"79",1013732,"X000377756","PD76 .C6","ALDERMAN","Toward a grammar of Proto-Germanic.","Coetsem, Frans van.",1972,"6/29/96","5/7/18",2,9,2,1,"2",FALSE,87,"0",0
+"80",1315174,"X004607454","PD2002 .J3613 1987","ALDERMAN","Runes in Sweden /","Jansson, Sven B. F. (Sven Birger Fredrik),",1987,"2/21/02","2/14/17",3,8,0,2,"2",FALSE,88,"0",0
+"81",2712664,"X004113201","PD3105 .C66 1996","ALDERMAN","Content, expression and structure : studies in Danish functional grammar /","",1996,"8/25/97","11/11/15",2,5,0,1,"2",FALSE,89,"0",0
+"82",4467959,"X030164990","PD5081 .L56 2007","ALDERMAN","Den antika skevheten : politiska ord och begrepp i det tidig-moderna Sverige /","Lindberg, Bo,",2006,"2/16/07","11/6/09",1,0,0,1,"2",FALSE,90,"0",0
+"83",738042,"X032087879","PD25 .C6 no.4 1909","ALDERMAN","The reception of Goethe's Faust in England in the first half of the nineteenth century,","Hauhart, William Frederic,",1909,"3/9/18","3/12/18",0,0,0,1,"2",TRUE,91,"0",0
+"84",235694,"X000176927","PD2421 .H6 1979","ALDERMAN","On complementation in Icelandic /","Hˆskuldur Thr·insson,",1979,"6/28/96","4/26/18",0,6,1,1,"2",FALSE,92,"0",0
+"85",2449355,"X004066445","PD361 .S78 1995 v.2","ALDERMAN","Studies in comparative Germanic syntax /","",1995,"1/16/97","4/20/17",4,5,1,2,"2",TRUE,93,"0",0
+"86",1013140,"X032020974","PD2379 .Z6 1926","ALDERMAN","A concise dictionary of old Icelandic,","Geir T. ZoÎga (Geir TÛmasson ZoÎga),",1910,"6/29/96","9/3/10",3,98,0,7,"1 2",FALSE,94,"0",0
+"87",783937,"X032020207","PD2989 .N96 1986","ALDERMAN","Nynorskordboka : definisjons- og rettskrivingsordbok /","",1986,"6/29/96","1/28/03",0,23,0,1,"2",FALSE,95,"0",0
+"88",345334,"X031981108","PD25 .V56 no.5 1904a","ALDERMAN","On Anglo-Saxon versification from the standpoint of modern-English versification.","Setzler, Edwin Boinest,",1904,"2/8/18","2/9/18",0,0,0,1,"2 10 14",TRUE,96,"0",0
+"89",7601439,"X032029654","PD25 .V56 no.4 1902","ALDERMAN","Textual notes for the Tales of Edgar Allan Poe : vols. II to VI /","Stewart, Robert Armistead,",1902,"2/13/18","2/14/18",0,0,0,3,"2",TRUE,97,"0",0
+"90",101828,"X001079482","PD271 .V47 1986","ALDERMAN","Verb second phenomena in Germanic languages /","",1986,"6/28/96","9/10/16",0,5,0,1,"2",FALSE,99,"0",0
+"91",1799165,"X001903960","PD361 .I87 1991","ALDERMAN","Issues in Germanic syntax /","",1991,"6/30/96","2/8/18",0,2,0,1,"2",FALSE,100,"0",0
+"92",1729290,"X001809407","PD2421 .J67 1989","ALDERMAN","Isl‰ndische Konjugationstabellen = Icelandic conjugation tables = Tableaux de conjugaison islandaise = Beygingatˆflur Ìslenskra sagna /","Jˆrg, Christine.",1989,"6/30/96","3/21/11",1,11,0,1,"2",FALSE,101,"0",0
+"93",1286609,"X001461596","PD139 .D3 1988","ALDERMAN","Germanic accent, grammatical change and the laws of unaccented syllables /","D'Alquen, Richard J. E.",1988,"6/30/96","9/20/17",0,3,0,1,"2",FALSE,102,"0",0
+"94",96071,"X001081790","PD21 .I5 1985 V.2","ALDERMAN","Kontroversen, alte und neue : Akten des VII. Internationalen Germanisten-Kongresses, Gˆttingen, 1985 /","Internationaler Germanisten-Kongress",1986,"6/28/96","5/15/12",4,14,1,11,"2",TRUE,103,"0",0
+"95",427108,"X000714040","PD271 .F84","ALDERMAN","Historical Germanic verb morphology /","Fullerton, Gerald Lee,",1977,"6/29/96","11/4/17",0,5,0,1,"2",FALSE,104,"0",0
+"96",3490092,"X006115584","PD25 .S8 no.47","ALDERMAN","Wie Literatur hilft, ""¸bers Leben nachzudenken"" : das ?uvre Monika Marons /","Gilson, Elke.",1999,"1/21/00","8/21/06",0,10,0,1,"2",TRUE,105,"0",0
+"97",2246580,"X002285592","PD2207 .S85 Hefti 46","ALDERMAN","Gaelic influence in Iceland : historical and literary contacts : a survey of research /","GÌsli Sigursson.",1988,"7/1/96","9/18/14",2,6,7,1,"2",FALSE,106,"0",0
+"98",1013189,"X030703075","PD5075 .B4 1947","ALDERMAN","A short history of the Swedish language,","Bergman, Gˆsta,",1947,"8/23/11","5/14/13",2,3,1,2,"2",FALSE,107,"0",0
+"99",1967438,"X000361559","PD2413 .J6 1941","ALDERMAN","A primer of modern Icelandic.","SnÊbjˆrn JÛnsson,",1941,"6/30/96","2/16/11",1,26,4,2,"2",FALSE,108,"0",0
+"100",704449,"X001186177","PD101 .K65 1986 Halbbd.1","ALDERMAN","Kontrastive Grammatik Deutsch-Serbokroatisch /","",1986,"6/29/96","2/8/18",0,3,0,2,"2",TRUE,109,"0",0
+"101",2628293,"X004005844","PD73 .G39 1996","ALDERMAN","Germanic linguistics : syntactic and diachronic /","",1996,"11/12/96","9/10/16",0,1,0,1,"2",FALSE,110,"0",0
+"102",1013130,"X000595307","PD2237 .G3 1928","ALDERMAN","An Early Norse reader,","Garmonsway, George Norman.",1928,"6/29/96","5/14/13",2,21,1,1,"2",FALSE,111,"0",0
+"103",3825248,"X006140455","PD21 .I5 2000 Bd.12","ALDERMAN","Akten des X. Internationalen Germanistenkongresses Wien 2000 : ""Zeitenwende--die Germanistik auf dem Weg vom 20. ins 21. Jahrhundert"" /","Internationaler Germanisten-Kongress",2002,"9/3/02","11/6/09",5,12,0,12,"2",TRUE,112,"0",0
+"104",2144023,"X031981150","PD25 .S8 v.13","ALDERMAN","Het misdaadverhall : twee studies /","Arents, Paul.",1988,"7/1/96","2/8/18",0,1,0,1,"2",TRUE,113,"0",0
+"105",2525801,"X000176530","PD2240 .K7 1980","ALDERMAN","Quantity in historical phonology : Icelandic and related cases /","Kristj·n ¡rnason.",1980,"7/1/96","5/4/16",0,5,0,1,"2",FALSE,115,"0",0
+"106",6124472,"X031574029","PD71 .V69 2012","ALDERMAN","Vox Germanica : essays in Germanic languages and literature in honor of James E. Cathey /","",2012,"8/26/13","1/1/00",0,0,0,1,"2",FALSE,116,"0",0
+"107",602204,"X000195423","PD26 .E4 1968","ALDERMAN","Nordica et Anglica. Studies in honor of Stef·n Einarsson.","",1968,"6/29/96","5/11/14",1,10,3,1,"2",FALSE,120,"0",0
+"108",5948936,"X031609771","PD361 .H36 2013","ALDERMAN","Symmetry breaking in syntax /","Haider, Hubert.",2013,"3/4/13","1/1/00",0,0,0,1,"2",FALSE,121,"0",0
+"109",7509968,"X031981112","PD71 .P3 1889 Bd.1 Lfg.1","ALDERMAN","Grundriss der germanischen Philologie /","",1889,"2/8/18","5/9/18",1,2,0,4,"2",TRUE,123,"0",0
+"110",5932797,"X031611564","PD3585 .L48 2012","ALDERMAN","Cultural semantics and social cognition : a case study on the Danish universe of meaning /","Levisen, Carsten.",2012,"1/28/13","1/1/00",0,0,0,1,"2",FALSE,124,"0",0
+"111",2250308,"X032403924","PD25 .S8 no.18 1989","ALDERMAN","Stijl en ideologie /","",1989,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,125,"0",0
+"112",1013183,"X000310812","PD3640 .M32 1943","ALDERMAN","Danish-English dictionary,","Magnussen, Johs. (Johannes),",1936,"6/29/96","9/26/11",3,20,0,1,"2",FALSE,127,"0",0
+"113",1360847,"X032403925","PD25 .S8 v.15 1988","ALDERMAN","Aspecten van tekstwetenschappelijk onderzoek /","",1988,"6/30/96","2/8/18",0,0,0,1,"2",TRUE,129,"0",0
+"114",362482,"X001163952","PD1125 .B53 1882","ALDERMAN","The Gospel of Saint Mark in Gothic, according to the translation made by Wulfila in the fourth century.","",1882,"2/9/18","4/21/18",1,2,1,2,"2",FALSE,130,"0",0
+"115",5720845,"X030878504","PD611 .R45 2012","ALDERMAN","Historische Lexikographie : Ideen, Verwirklichungen, Reflexionen an Beispielen des Deutschen, Niederlandischen und Englischen /","Reichmann, Oskar.",2012,"7/16/12","1/1/00",0,0,0,1,"2",FALSE,131,"0",0
+"116",3992422,"X004707710","PD5359 .V47 T65 2003","ALDERMAN","Non-projecting words : a case study of Swedish particles /","Toivonen, Ida.",2003,"12/2/03","3/23/07",0,2,0,1,"2",TRUE,132,"0",0
+"117",442272,"X000834871","PD271 .T6 1974","ALDERMAN","The origin of the Germanic dental preterit. A critical research history since 1912,","Tops, Guy A. J.",1974,"6/29/96","11/4/17",2,3,0,1,"2",FALSE,133,"0",0
+"118",2416371,"X002642406","PD2215 .O54 1994","ALDERMAN","Old Norse studies in the new world : a collection of essays to celebrate the jubilee of the teaching of Old Norse at the University of Sydney /","",1994,"7/1/96","10/8/13",1,3,0,1,"2",FALSE,134,"0",0
+"119",446885,"X000284301","PD2007 .U7 T5","ALDERMAN","Studies in Upplandic runography /","Thompson, Claiborne W.,",1975,"6/29/96","10/16/14",1,6,0,1,"2",TRUE,135,"0",0
+"120",3732124,"X006120272","PD25 .S8 no.51","ALDERMAN","Studie van de afbeeldingen op runenstenen in Zweden tot de tijd van de Vikingen : een chronologisch overzicht van het fenomeen beeldsteen /","BrigÈ, Bart.",2000,"7/4/01","11/6/09",0,1,0,1,"2",TRUE,136,"0",0
+"121",5414826,"X031192284","PD21 .S24 2011","ALDERMAN","Saggi in onore di Piergiuseppe Scardigli /","",2011,"9/13/11","1/1/00",0,0,0,1,"2",FALSE,137,"0",0
+"122",3545798,"X006119055","PD25 .S8 no.50","ALDERMAN","""A woman of old wet leaves"" : voice and identity in Seamus Heaney's Wintering out /","Flynn, Peter.",2000,"6/27/00","11/6/09",0,2,0,1,"2",TRUE,138,"0",0
+"123",5393077,"X030957461","PD306 .K66 2011","ALDERMAN","Konjugationsklassenwandel : Prinzipien des Ab-, Um- und Ausbaus verbalflexivischer Allomorphie in germanischen Sprachen /","",2011,"7/28/11","1/1/00",0,0,0,1,"2",FALSE,139,"0",0
+"124",300430,"X000004548","PD1576 .O5","ALDERMAN","On dating phonological change : a miscellany of articles /","",1978,"6/28/96","2/15/17",0,2,0,1,"2",FALSE,140,"0",0
+"125",3710830,"X006090811","PD25 .S8 no.52","ALDERMAN","English in Sierra Leone : a sociolinguistic investigation /","Maryns, Katrijn.",2000,"4/18/01","11/6/09",0,1,0,1,"2",TRUE,141,"0",0
+"126",1348847,"X031989217","PD3625 .K4 bd.5","ALDERMAN","Ordbog til det Êldre danske sprog (1300-1700)","Kalkar, Otto,",1881,"2/9/18","2/12/18",0,0,0,7,"2",TRUE,142,"0",0
+"127",74820,"X000903202","PD2415 .O74 1985","ALDERMAN","Studies in the phonology and morphology of modern Icelandic : a selection of essays /","Ore?nik, Janez.",1985,"6/28/96","5/5/13",0,5,2,1,"2",FALSE,143,"0",0
+"128",198792,"X031981330","PD1047 .R6 v.1","ALDERMAN","Nordseegermanische Studien /","Rooth, Erik,",1979,"2/9/18","1/1/00",0,0,0,3,"2",TRUE,144,"0",0
+"129",440348,"X000404575","PD5105 .T5","ALDERMAN","Svensk grammatik.","Thorell, Olof.",1973,"6/29/96","5/21/18",1,1,0,1,"2",FALSE,145,"0",0
+"130",1013752,"X000896076","PD505 .L4 1956","ALDERMAN","The development of Germanic verse form.","Lehmann, Winfred P. (Winfred Philipp),",1956,"6/29/96","3/10/18",0,5,0,1,"2",FALSE,146,"0",0
+"131",412346,"X000714042","PD582 .L5 1976","ALDERMAN","Comitatus, individual and honor : studies in north Germanic institutional vocabulary /","Lindow, John.",1976,"6/28/96","4/14/15",0,4,2,1,"2",FALSE,147,"0",0
+"132",3573679,"X006091709","PD25 .S8 no.49","ALDERMAN","Meerstemmigheid in de media /","",1999,"10/17/00","11/6/09",0,1,0,1,"2",TRUE,148,"0",0
+"133",312044,"X031981148","PD5774 .B6 1977","ALDERMAN","Studien zur altschwedischen Syntax in den ‰ltesten Gesetztexten und Urkunden /","Boor, Helmut de,",1977,"2/8/18","1/1/00",0,0,0,2,"2",FALSE,149,"0",0
+"134",2492541,"X002695378","PD2014 .P34 1995","ALDERMAN","Runes and runic inscriptions : collected essays on Anglo-Saxon and Viking runes /","Page, R. I. (Raymond Ian)",1995,"7/1/96","11/27/06",3,10,0,1,"2",FALSE,150,"0",0
+"135",6617592,"X031666222","PD2437 .I83 1988","ALDERMAN","Õslensk orabÛk : handa skÛlum og almenningi /","",1988,"8/31/15","1/1/00",0,0,0,1,"2",FALSE,151,"0",0
+"136",2650430,"X006039734","PD25 .S8 no.40","ALDERMAN","Aspects of contrastive verb valency /","",1996,"2/17/97","7/18/12",0,2,0,1,"2",TRUE,153,"0",0
+"137",417851,"X032087877","PD21 .I5 1975 Heft. 1","ALDERMAN","Akten des V. Internationalen Germanisten-Kongresses, Cambridge, 1975 /","Internationaler Germanisten-Kongress",1976,"3/9/18","1/1/00",0,0,0,4,"2",FALSE,154,"0",0
+"138",3550715,"X006119479","PD25 .S8 no.48","ALDERMAN","750 jaar 'Schepenbrief van Bochoute' /","",1999,"7/18/00","11/6/09",0,1,0,1,"2",TRUE,155,"0",0
+"139",1735963,"X001971207","PD64 .L3 W45 1989","ALDERMAN","Nur was du nie gesehn wird ewig dauern : Carl Lachmann und die Entstehung der wissenschaftlichen Edition /","Weigel, Harald.",1989,"6/30/96","1/7/15",1,1,0,1,"2",FALSE,156,"0",0
+"140",1013727,"X000936694","PD75 .B3","ALDERMAN","The determination of stages in the historical development of the Germanic languages by morphological criteria: an evaluation.","Bahnick, Karen R.",1973,"6/29/96","4/22/16",1,3,1,1,"2",FALSE,157,"0",0
+"141",3689047,"X006101780","PD5065 .B87 2000","ALDERMAN","M‰ns och kvinnors skrivande : om utgivning av tidiga 1800-talsromaner : anfˆrande vid Svenska vitterhetssamfundets Ârsmˆte den 17 maj 2000 /","Burman, Lars,",2000,"2/8/01","11/6/09",0,0,0,1,"2",FALSE,158,"0",0
+"142",5184572,"X030734603","PD64 .H37 F47 2010","ALDERMAN","""Di Fernunft siget"" : der kurpf‰lzische Universalgelehrte Johann Jakob Hemmer (1733-1790) und sein Werk /","",2010,"7/20/10","1/1/00",0,0,0,1,"2",TRUE,159,"0",0
+"143",371181,"X031981110","PD26 .K44 1975 T.2","ALDERMAN","Untersuchungen und Quellen zur germanischen und romanischen Philologie /","",1975,"2/8/18","1/1/00",0,0,0,2,"2",TRUE,160,"0",0
+"144",1013186,"X032020200","PD3817 .C6 B7 bd.1","ALDERMAN","Dansk rigsmÂl : lydudviklingen siden 1840 med sÊrligt henblik pÂ sociolekterne i K¯benhavn /","Brink, Lars.",1975,"2/8/18","1/1/00",0,0,0,2,"2",TRUE,160,"0",0
+"145",1013787,"X000278552","PD1541 .W3 1965","ALDERMAN","Introduction to the Scandinavian languages","Walshe, Maurice O'C. (Maurice O'Connell)",1965,"6/29/96","2/22/15",0,6,2,1,"2",FALSE,161,"0",0
+"146",1273526,"X031989219","PD3601 .S43 v.2","ALDERMAN","Det 16. [i.e. Sekstende] Ârhundredes danske vokabularier.","",1973,"2/9/18","1/1/00",0,0,0,2,"2",TRUE,162,"0",0
+"147",3547787,"X006119269","PD25 .S8 no.46","ALDERMAN","Laet ons voort vroylijc maken zanc : opstellen over de lyriek in het Gruuthuse-handschrift /","Reynaert, J.",1999,"7/6/00","11/6/09",0,0,0,1,"2",TRUE,163,"0",0
+"148",691685,"X001187528","PD2483 .Y6 1985","ALDERMAN","F¯roysk-ensk orabÛk = Faroese-English dictionary : with Faroese folk-lore and proverbs and a section by Professor W.B. Lockwood on Faroese pronunciation /","Young, G. V. C. (George Vaughan Chichester),",1985,"6/29/96","4/25/13",0,3,1,1,"2",FALSE,164,"0",0
+"149",1297903,"X001459056","PD2419 .T45","ALDERMAN","Islensk beygingafraei = Isl‰ndosche Formenlehre = Icelandic inflections /","Thomson, Colin D.",1987,"6/30/96","3/21/11",0,5,0,1,"2",FALSE,165,"0",0
+"150",2144020,"X002271870","PD25 .S8 v.10","ALDERMAN","The Art of biography : an analysis of two contrasting views /","",1986,"7/1/96","5/11/11",0,5,0,1,"2",TRUE,166,"0",0
+"151",1245188,"X001363464","PD21 .G468 1988","ALDERMAN","Germania : comparative studies in the old Germanic languages and literatures /","",1988,"6/30/96","3/8/10",1,6,0,1,"2",FALSE,167,"0",0
+"152",2101895,"X030698327","PD25 .P3 no.93-97","ALDERMAN","Spensers literarisches nachleben bis zu Shelley,","Bˆhme, Traugott,",1911,"7/25/11","7/6/15",0,1,0,1,"2",TRUE,168,"0",0
+"153",7356244,"X031981376","PD135 .E45 1950","ALDERMAN","Geschichtliche deutsche Lautlehre, ¸bersichtlich dargestellt.","Ehlinger, Heinrich.",1970,"2/12/18","1/1/00",0,0,0,1,"2",FALSE,169,"0",0
+"154",1013199,"X032021014","PD5580 .H42 1970 bd.1","ALDERMAN","Svensk etymologisk ordbok.","Hellquist, Elof,",1970,"2/9/18","1/1/00",0,0,0,2,"2",TRUE,170,"0",0
+"155",426641,"X000714045","PD2235 .R4 1976","ALDERMAN","A grammar of the Icelandic or Old Norse tongue /","Rask, Rasmus,",1976,"6/29/96","9/3/10",1,8,0,1,"2",FALSE,171,"0",0
+"156",2506022,"X031743885","PD25 .Q4 no.46-49","ALDERMAN","‹ber die ‰ltesten hochfr‰nkischen Sprachdenkm‰ler. Ein Beitrag zur Grammatik des Althochdeutschen,","Kossinna, Gustaf,",1881,"10/13/15","2/8/18",1,0,0,1,"2",TRUE,172,"0",0
+"157",759044,"X032201175","PD26 .R4 1969","ALDERMAN","Festschrift f¸r Konstantin Reichardt.","",1969,"6/29/96","4/24/18",0,0,0,1,"2",FALSE,173,"0",0
+"158",89587,"X000210244","PD2691 .G9 1954 v.1-2","ALDERMAN","Gyldendal's dictionary: English-Norwegian","",1954,"6/28/96","11/6/09",1,14,0,1,"2",TRUE,174,"0",0
+"159",2490873,"X002700850","PD25 .S8 no.38","ALDERMAN","Exploring feminine space : five essays on women's writings /","",1995,"7/1/96","5/13/10",0,4,0,1,"2",TRUE,175,"0",0
+"160",1757963,"X001824652","PD5640 .P74 1989","ALDERMAN","Prisma's Swedish-English and English-Swedish dictionary /","",1989,"6/30/96","7/8/01",7,16,0,1,"2",FALSE,177,"0",0
+"161",2144011,"X002271852","PD25 .S8 v.1","ALDERMAN","Aspects of the American novel : Dreiser, Bellow, Potok and Barth /","",1985,"7/1/96","7/27/12",0,3,0,1,"2",TRUE,178,"0",0
+"162",4826580,"X030470190","PD107 .K87 2008","ALDERMAN","Deklinationsklassen-Wandel : eine diachron-kontrastive Studie zur Entwicklung der Pluralallomorphie im Deutschen, Niederl‰ndischen, Schwedischen und D‰nischen /","K¸rschner, Sebastian.",2008,"3/3/09","1/1/00",0,0,0,1,"2",FALSE,179,"0",0
+"163",564661,"X000397943","PD101 .P7 1939","ALDERMAN","A comparative Germanic grammar, by E. Prokosch.","Prokosch, Eduard,",1939,"6/29/96","4/21/18",0,8,1,2,"2",FALSE,180,"0",0
+"164",6618244,"X031649214","PD1805 .V7 1977","ALDERMAN","Altnordisches etymologisches Wˆrterbuch /","Vries, Jan de,",1977,"9/1/15","1/1/00",0,0,0,1,"2",FALSE,181,"0",0
+"165",71080,"X031981107","PD27 .G813 Bd.1","ALDERMAN","Kleinere Schriften.","Grimm, Jacob,",1965,"2/8/18","1/1/00",0,8,0,8,"2",TRUE,183,"0",0
+"166",2278206,"X002455858","PD2000 .S7 1884a","ALDERMAN","Handbook of the old-Northern runic monuments of Scandinavia and England /","Stephens, George,",1993,"7/1/96","11/6/09",0,4,0,1,"2",FALSE,184,"0",0
+"167",285535,"X000163659","PD2411 .M3","ALDERMAN","Isl‰ndisch : e. ‹bersicht ¸ber d. moderne isl‰nd. Sprache mit e. kurzen Abriss d. Geschichte u. Literatur Islands /","Magn˙s PÈtursson,",1978,"6/28/96","5/5/13",1,3,2,1,"2",FALSE,185,"0",0
+"168",2105067,"X032013382","PD25 .P3 no.249 1967","ALDERMAN","Henry Crabb Robinson und seine deutschen Freunde; Br¸cke zwischen England und Deutschland im Zeitalter der Romantik.","Marquardt, Hertha,",1964,"2/26/18","1/1/00",0,0,0,2,"2",TRUE,186,"0",0
+"169",340732,"X000356296","PD2437 .A7 1975","ALDERMAN","Õslenzk-ensk orabÛk /","ArngrÌmur Sigursson,",1975,"6/28/96","11/6/09",1,8,0,1,"2",FALSE,187,"0",0
+"170",4751697,"X030462734","PD26 .H64 N67 2008","ALDERMAN","Northern voices : essays on Old Germanic and related topics, offered to professor Tette Hofstra /","",2008,"8/5/08","1/1/00",1,0,0,1,"2",FALSE,188,"0",0
+"171",2520765,"X030593398","PD2691 .N62 1995","ALDERMAN","Norwegian English dictionary = Norsk engelsk ordbok : a pronouncing and translating dictionary of modern Norwegian (bokmÂl and nynorsk), with a historical and grammatical introduction /","",1995,"7/1/96","12/9/10",2,2,0,1,"2 17",FALSE,190,"0",0
+"172",803523,"X031666226","PD2207 .G74 bd.3","ALDERMAN","Gripla /","",1975,"8/31/15","1/1/00",1,2,0,12,"2",TRUE,191,"0",0
+"173",445730,"X031981349","PD101 .K7 1963 v.2","ALDERMAN","Germanische Sprachwissenschaft.","Krahe, Hans,",1963,"2/12/18","1/1/00",0,0,0,3,"2",TRUE,193,"0",0
+"174",633730,"X032321393","PD21 .I5 1960","ALDERMAN","Sp‰tzeiten und Sp‰tzeitlichkeit; Vortr‰ge.","Internationaler Germanisten-Kongress",1962,"3/20/18","1/1/00",0,0,0,2,"2",FALSE,194,"0",0
+"175",2105065,"X004274523","PD25 .P3 no.236","ALDERMAN","Das Prometheussymbol in der Dichtung der englischen Romantik.","Kreutz, Christian,",1963,"6/30/96","2/8/18",0,0,0,1,"2",TRUE,195,"0",0
+"176",2859344,"X006080538","PD25 .S8 no.43","ALDERMAN","Alfred Kossmann : een toeschauwer vijfenvijftig jaar literatuur in het licht van een levenshouding, 1940-1995 /","Sierens, Tom.",1997,"12/2/98","11/6/09",0,0,0,1,"2",TRUE,196,"0",0
+"177",2105061,"X031988700","PD25 .P3 no.233 1962","ALDERMAN","Der Leserkontakt in den Erz‰hlungen Hugo v. Hofmannsthals /","Sch‰fer, Dorothea.",1962,"2/8/18","1/1/00",0,0,0,2,"2",TRUE,197,"0",0
+"178",4691746,"X030344171","PD2014 .D77 2008","ALDERMAN","Runenkunde /","D¸wel, Klaus.",2008,"2/25/08","1/1/00",0,0,0,1,"2",FALSE,198,"0",0
+"179",2650428,"X006039726","PD25 .S8 no.39","ALDERMAN","Verbonominale Konstruktionen als Vorl‰ufer der Funktionsverbgef¸ge : einige diachronische Beobachtungen anhand deutscher Evangelien¸bersetzungen aus dem Mittelater /","Pottelberge, Jeroen Van.",1996,"2/17/97","11/6/09",0,2,0,1,"2",TRUE,199,"0",0
+"180",263087,"X000778572","PD2623 .B4 1977","ALDERMAN","Norwegian grammar /","Berulfsen, Bjarne,",1977,"6/28/96","11/6/09",2,7,0,1,"2",FALSE,200,"0",0
+"181",2105047,"X004456991","PD25 .P3 no.222-224","ALDERMAN","Studien zur christlichen Dichtung der Nordgermanen, 1000-1200.","Lange, Wolfgang,",1958,"6/30/96","2/8/18",0,1,0,1,"2",TRUE,201,"0",0
+"182",3920939,"X004657389","PD361 .H34 2002","ALDERMAN","Features, categories and the syntax of A-positions : cross-linguistic variation in the Germanic languages /","Haeberli, Eric.",2002,"3/4/03","6/16/04",0,1,0,1,"2",FALSE,202,"0",0
+"183",2761587,"X004242724","PD64 .G7 B67 1997 Teil 2","ALDERMAN","Der Nachlass der Br¸der Grimm : Katalog /","Breslau, Ralf.",1997,"10/8/98","11/6/09",0,0,0,2,"2",TRUE,204,"0",0
+"184",2144065,"X002243206","PD9 .G45 v.97","ALDERMAN","Die Unzumutbare Wahrheit zum Schaffen von Christa Wolf /","",1992,"7/1/96","12/22/10",0,2,0,1,"2",TRUE,205,"0",0
+"185",1880986,"X031981374","PD1117 .M8 1961","ALDERMAN","ModÈles d'alphabets : la Gothique.","Munsch, RenÈ H.",1961,"2/12/18","1/1/00",0,0,0,1,"2 10",FALSE,206,"0",0
+"186",1013174,"X000462725","PD3128 .S7 1967","ALDERMAN","Moderne dansk for udlÊndinge.","Stemann, Ingeborg,",1967,"6/29/96","11/6/09",0,9,0,1,"2",FALSE,208,"0",0
+"187",3922666,"X004657821","PD74.7 .S73 2002","ALDERMAN","Standardization : studies from the Germanic languages /","",2002,"3/11/03","3/3/04",0,1,0,1,"2",FALSE,209,"0",0
+"188",1013123,"X032021001","PD2235 .N75 1923","ALDERMAN","Altisl‰ndische und altnorwegische grammatik, unter ber¸cksichtigung des urnordischen,","Noreen, Adolf, (Adolf Gotthard),",1903,"6/29/96","8/26/04",0,30,0,1,"2 14",FALSE,211,"0",0
+"189",1013157,"X032021059","PD2683 .F33 1960 v.2","ALDERMAN","Norwegisch-d‰nisches etymologisches Wˆrterbuch, mit Literaturnachweisen strittiger Etymologien sowie deutschem und altnordischem Wˆrterverzeichnis,","Falk, Hjalmar,",1960,"2/9/18","1/1/00",0,0,0,2,"2",TRUE,212,"0",0
+"190",2696641,"X006050124","PD25 .S8 no.41","ALDERMAN","Bilden av Nils Holgerssons underbara resa genam Sverige i ett urbal av Selma Lagerlˆfs brev till Sophie Elkan /","Desmidt, Isabelle.",1997,"6/19/97","11/6/09",0,1,0,1,"2",TRUE,213,"0",0
+"191",2831754,"X002653244","PD101 .I57 1995 v.1","ALDERMAN","Insights in Germanic linguistics /","",1995,"9/16/98","11/6/09",0,0,0,2,"2",TRUE,214,"0",0
+"192",2101833,"X002238079","PD25 .S8 no.31","ALDERMAN","A Shred of platinum : the aesthetics of Raymond Carver's : will you please be quiet, please ? and what we talk about when we talk about love /","Pieters, J¸rgen.",1992,"6/30/96","8/9/06",1,7,0,1,"2",TRUE,215,"0",0
+"193",1733465,"X001806955","PD2013 .I58 1985","ALDERMAN","Runor och runinskrifter : fˆredrag vid Riksantikvarie‰mbetets och Vitterhetsakademiens symposium 8-11 september 1985.","International Symposium on Runes and Runic Inscriptions",1987,"6/30/96","11/6/09",1,4,0,1,"2",FALSE,216,"0",0
+"194",1013771,"X002111798","PD1128 .M3 1973","ALDERMAN","The sounds and phonemes of Wulfila's Gothic.","Marchand, James Woodrow,",1973,"6/29/96","10/14/14",0,1,0,1,"2",FALSE,217,"0",0
+"195",2105050,"X001039683","PD25 .P3 no.225-226","ALDERMAN","Die Geisterszene in der Tragˆdie vor Shakespeare: zur Seneca-Nachfolge im englischen und lateinischen Drama des Elisabethanismus.","Dahinten, Gisela.",1958,"6/30/96","2/8/18",0,0,0,1,"2",TRUE,220,"0",0
+"196",7355309,"X031981194","PD27 .S45","ALDERMAN","Germanistische Studien /","Schirokauer, Arno,",1957,"2/9/18","1/1/00",0,0,0,1,"2",FALSE,221,"0",0
+"197",483297,"X000293025","PD1513 .I5 1973","ALDERMAN","The Nordic languages and modern linguistics 2.: proceedings of the Second International Conference of Nordic and General Linguistics, University of UmeÂ, June 14-19, 1973 /","International Conference of Nordic and General Linguistics",1975,"6/29/96","2/9/14",1,1,0,1,"2",FALSE,223,"0",0
+"198",41832,"X000910753","PD3921 .B63","ALDERMAN","Slang ordbogen. Med udf¯rligt stikordsregister.","Bom, Kaj.",1957,"6/28/96","2/8/18",0,0,0,1,"2",FALSE,224,"0",0
+"199",1737538,"X001783617","PD3460 .J33 1989","ALDERMAN","HÂndbog i nudansk /","Jacobsen, Henrik Galberg.",1989,"6/30/96","11/6/09",0,3,0,1,"2",FALSE,225,"0",0
+"200",199887,"X000166305","PD2285 .K6 1980","ALDERMAN","A case grammar of verbal predicators in old Icelandic /","Kossuth, Karen C.",1980,"6/28/96","9/3/10",0,4,0,1,"2",FALSE,226,"0",0
+"201",7358009,"X032029651","PD26 .F7","ALDERMAN","Fragen und Forschungen im Bereich und Umkreis der germanischen Philologie : Festgabe f¸r Theodor Frings zum 70. Geburtstag, 23. Juli, 1956 /","Karg-Gasterst‰dt, Elisabeth.",1956,"2/13/18","1/1/00",0,0,0,1,"2",FALSE,227,"0",0
+"202",2859345,"X006080533","PD25 .S8 no.44","ALDERMAN","Two corpus-based studies on verbs in English /","",1998,"12/2/98","11/1/06",0,2,0,1,"2",TRUE,228,"0",0
+"203",1013206,"X004274551","PD5640 .N613 1954","ALDERMAN","McKay's modern English-Swedish and Swedish-English dictionary.","Nˆjd, Ruben,",1954,"4/21/99","4/13/15",1,9,2,2,"2",FALSE,229,"0",0
+"204",496492,"X000195425","PD26 .M39","ALDERMAN","Iceland and the mediaeval world : studies in honour of Ian Maxwell /","",1974,"6/29/96","4/15/12",4,3,0,1,"2",FALSE,230,"0",0
+"205",162820,"X000215946","PD64 .G7 G417","ALDERMAN","Brat'i?a Grimm /","Gerstner, Hermann,",1980,"6/28/96","8/14/12",0,1,2,1,"2",TRUE,231,"0",0
+"206",2490874,"X002700856","PD25 .S8 no.37","ALDERMAN","Und so leben die M‰rchen noch heute : 4 sprookjesstudies ter herinnering aan Luc Gobyn (1954-1990) /","",1995,"7/1/96","11/6/09",0,1,0,1,"2",TRUE,232,"0",0
+"207",1013148,"X032021055","PD2515 .H3 1953 v.2","ALDERMAN","The Norwegian language in America; a study in bilingual behavior.","Haugen, Einar,",1953,"2/9/18","1/1/00",0,0,0,2,"2",TRUE,233,"0",0
+"208",2405022,"X002602705","PD271 .V55 1995","ALDERMAN","Verb movement and expletive subjects in the Germanic languages /","Vikner, Sten.",1995,"7/1/96","12/15/08",1,2,0,1,"2",FALSE,234,"0",0
+"209",1622355,"X001666452","PD2691 .C3 1988","ALDERMAN","Cappelens store engelsk-norsk ordbok.","",1988,"6/30/96","9/30/07",0,5,0,1,"2",FALSE,236,"0",0
+"210",2396830,"X002580023","PD25 .S8 v.36","ALDERMAN","Op voet van gelijkheid : opstellen /","Musschoot, Anne Marie.",1994,"7/1/96","11/6/09",0,1,0,1,"2",TRUE,237,"0",0
+"211",1881100,"X002037813","PD21 .I5 1990 Bd.1","ALDERMAN","Begegnung mit dem Fremden : Grenzen, Traditionen, Vergleiche : Akten des VIII. Internationalen Germanisten-Kongresses, Tokyo, 1990 /","Internationaler Germanisten-Kongress",1991,"6/30/96","3/10/11",7,0,0,7,"2",TRUE,238,"0",0
+"212",1862491,"X002001489","PD25 .S8 v.24 v. 2","ALDERMAN","De Kracht van het woord : 100 jaar germaanse filologie aan de rug (1890-1990) /","",1991,"6/30/96","3/10/11",3,0,0,2,"2",TRUE,238,"0",0
+"213",7374964,"X032087880","PD25 .C6 n.s. no.22 1952","ALDERMAN","Johann Balthasar Schupp and the baroque satire in Germany.","Wichert, Hildegarde E.",1952,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,239,"0",0
+"214",1013200,"X032021098","PD5585 .W3 bd.1","ALDERMAN","Svenska kvarntermer; studier ˆver kvarnens och malningens terminologi i svenska dialekter med s‰rskild h‰nsyn till de v‰stsvenska,","Wadstrˆm, Roger,",1952,"6/29/96","4/11/18",0,0,0,1,"2",TRUE,240,"0",0
+"215",1296366,"X001433137","PD101 .J33 1985","ALDERMAN","Jacob und Wilhelm Grimm als Sprachwissenschaftler : Geschichtlichkeit und Aktualit‰t ihres Wirkens.","",1985,"6/30/96","8/15/02",1,12,0,1,"2",FALSE,241,"0",0
+"216",1793777,"X001879117","PD2002 .C83 1989","ALDERMAN","Il tema del viaggio nelle iscrizioni runiche /","Cucina, Carla.",1989,"6/30/96","11/6/09",1,2,0,1,"2",FALSE,244,"0",0
+"217",4368937,"X030039578","PD5746 .B46 2006","ALDERMAN","L'influsso bassotedesco sulla fraseologia dello svedese tra Medioevo ed Et‡ Moderna /","Benati, Chiara.",2006,"5/24/06","1/1/00",0,0,0,1,"2",FALSE,245,"0",0
+"218",1013770,"X002124712","PD1123 .W8 1924","ALDERMAN","Grammar of the Gothic language, and the Gospel of St. Mark;","Wright, Joseph,",1910,"6/29/96","10/17/17",3,19,1,3,"2",FALSE,247,"0",0
+"219",672060,"X001085695","PD2437 .S5","ALDERMAN","Ensk-Ìslenzk orabÛk.","Sigurur ÷rn Bogason.",1966,"6/29/96","11/11/13",0,2,1,1,"2",FALSE,248,"0",0
+"220",2144067,"X002243103","PD9 .G45 v.86","ALDERMAN","J?zyk i polityka j?zykowa we Flandrii : historia i tera?niejszo?? /","Rajman, Boles?aw.",1992,"7/1/96","11/6/09",0,1,0,1,"2",TRUE,249,"0",0
+"221",2144066,"X002243101","PD9 .G45 v.94","ALDERMAN","Gerhart Hauptmann w krytyce polskiej, 1945-1990 /","",1992,"7/1/96","11/6/09",0,1,0,1,"2",TRUE,249,"0",0
+"222",2106555,"X002218737","PD9 .G45 v.90","ALDERMAN","Paul Celan : metody i problemy ""liryki esencji"" /","Przybylak, Feliks.",1992,"6/30/96","11/6/09",0,1,0,1,"2",TRUE,250,"0",0
+"223",7354745,"X032020209","PD3826 .M6","ALDERMAN","Ordforraadsstudier isaer paa grundlag af en sammenligning mellem en ¯stjysk dialekt of det danske rigssprog.","M¯ller, Kristen,",1950,"2/8/18","1/1/00",0,0,0,1,"2",FALSE,251,"0",0
+"224",1769691,"X001840899","PD1513 .C6 1987b","ALDERMAN","Proceedings of the seventh biennial Conference of Teachers of Scandinavian Studies in Great Britain and Northern Ireland held at University College London, March 23-25 1987 /","Conference of Teachers of Scandinavian Studies in Great Britain and Northern Ireland",1987,"6/30/96","11/6/09",1,2,0,1,"2",FALSE,252,"0",0
+"225",1883725,"X002028386","PD73 .S96 1985","ALDERMAN","Staefcraeft : studies in Germanic linguistics : selected papers from the First and the Second Symposium on Germanic Linguistics, University of Chicago, 24 April 1985 and University of Illinois at Urbana-Champaign, 3-4 October 1986 /","Symposium on Germanic Linguistics",1991,"6/30/96","9/18/06",2,5,0,1,"2",FALSE,253,"0",0
+"226",1966124,"X002086073","PD25 .S8 v.26","ALDERMAN","Werbung : ein Spiel mit Werten und Worten ; zwei Beitr‰ge zur sprachlichen Erforschung von deutschen (und niederl‰ndischen) Reklameanzeigen /","Dreike, Beata.",1991,"6/30/96","11/6/09",0,1,0,1,"2",TRUE,255,"0",0
+"227",1810346,"X002257252","PD5175 .H65 1991","ALDERMAN","Uppkomsten av de neutrala verbalabstrakterna p‰ -ande /","Holm, Gˆsta.",1991,"6/30/96","11/6/09",0,1,0,1,"2",FALSE,255,"0",0
+"228",7374942,"X032087872","PD25 .C6 n.s. no.20 1949","ALDERMAN","The dream in Gerhart Hauptmann.","Weisert, John Jacob.",1949,"3/9/18","1/1/00",0,0,0,2,"2",TRUE,256,"0",0
+"229",7374958,"X032087871","PD25 .C6 n.s. no.21 1949","ALDERMAN","Gerhart Hauptmann and Goethe.","Muller, Siegfried H. (Siegfried Hermann),",1949,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,256,"0",0
+"230",511977,"X000293020","PD75 .H88","ALDERMAN","Die germanischen Sprachen : ihre Geschichte in Grundz¸ngen /","Hutterer, Claus J¸rgen.",1975,"6/29/96","8/14/12",0,1,2,1,"2",FALSE,257,"0",0
+"231",7374960,"X032087868","PD25 .C6 n.s. no.19 1948","ALDERMAN","The German woman in the age of enlightenment : a study in the drama from Gottsched to Lessing.","Schreiber, Sara Etta,",1948,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,258,"0",0
+"232",7374949,"X032087869","PD25 .C6 new ser. no.18 1948","ALDERMAN","The proverb in Goethe.","Pfeffer, J. Alan (Jay Alan),",1948,"3/9/18","1/1/00",0,0,0,2,"2",TRUE,258,"0",0
+"233",409632,"X000714047","PD3591 .K3 1976","ALDERMAN","Synonymordbogen : danske synonymer i skrift og tale fra Holberg til i dag /","Karker, Allan.",1976,"6/28/96","11/6/09",0,4,0,1,"2",FALSE,259,"0",0
+"234",2325357,"X002536960","PD26 .L63 E83 1993","ALDERMAN","Essays in Germanic studies : Carl Lofmark memorial volume /","",1993,"7/1/96","11/6/09",0,0,0,1,"2",FALSE,261,"0",0
+"235",1746353,"X002059341","PD2007 .A5 M45 1988","ALDERMAN","Alamannia runica : rune e cultura nell'alto Medioevo /","Meli, Marcello.",1988,"6/30/96","11/6/09",0,1,0,1,"2",FALSE,262,"0",0
+"236",1860746,"X001808047","PD64 .G7 M84 1985","ALDERMAN","Br¸der Grimm : Leben, Werk und Wirkung /","M¸ck, Hans-Dieter.",1985,"6/30/96","3/10/11",0,0,0,1,"2",FALSE,263,"0",0
+"237",7375431,"X032011195","PD25 .C6 n.s. no.17 1946","ALDERMAN","The lyric cycle in German literature /","Mustard, Helen M. (Helen Meredith),",1946,"3/12/18","1/1/00",0,0,0,1,"2",TRUE,264,"0",0
+"238",670534,"X000745801","PD159 .A43 1983","ALDERMAN","Fortis and Lenis in Germanic /","Alexander, Gerda I. (Gerda Isolde),",1983,"6/29/96","11/6/09",0,2,0,1,"2",FALSE,266,"0",0
+"239",517619,"X000361657","PD2235 .B8 1925","ALDERMAN","An elementary grammar of Old Icelandic /","Buckhurst, Helen McMillan.",1925,"6/29/96","4/14/16",0,7,1,1,"2",FALSE,268,"0",0
+"240",7355525,"X032021099","PD2623 .S3 1945","ALDERMAN","Norsk grammatikk /","Seip, Didrik Arup,",1945,"2/9/18","1/1/00",0,0,0,1,"2",FALSE,270,"0",0
+"241",433085,"X000361561","PD2415 .G37","ALDERMAN","Quantity in Icelandic : production and perception /","Garnes, Sara.",1976,"6/29/96","2/25/10",1,3,0,1,"2",FALSE,271,"0",0
+"242",1257092,"X001282022","PD2623 .C6 1986","ALDERMAN","RiksmÂlsgrammatikk : med en sproghistorisk innledning og en rettskrivningslÊre /","Coward, Gorgus.",1986,"6/30/96","11/6/09",0,1,0,1,"2",FALSE,272,"0",0
+"243",7375429,"X032011194","PD25 .C6 n.s. no.16 1944","ALDERMAN","Henry von Heiseler : a Russo-German writer.","Von Gronicka, AndrÈ,",1944,"3/12/18","1/1/00",0,0,0,1,"2",TRUE,274,"0",0
+"244",2511411,"X004618354","PD25 .Q4 no.110-114","ALDERMAN","Das Verh‰ltnis der zweiten zur ersten Ausgabe von Werthers Leiden.","Lauterbach, Martin,",1910,"12/17/03","2/8/18",0,0,0,1,"2",TRUE,275,"0",0
+"245",2414334,"X002580682","PD63 .A12 1985 Bd. 3 T.2","ALDERMAN","Die Br¸der Grimm in ihrer amtlichen und politischen T‰tigkeit /","",1985,"7/1/96","11/6/09",0,1,0,2,"2",TRUE,276,"0",0
+"246",1967716,"X001986885","PD25 .S8 v.28","ALDERMAN","Scandinavistiek in Vlaanderen en Nederland : colloquium naar aanleiding van de 100-jarige jubileumviering Faculteit Letteren en Wijsbegeerte RUGent /","",1991,"6/30/96","11/30/07",0,2,0,1,"2",TRUE,277,"0",0
+"247",7356240,"X031981375","PD599 .H4 H3","ALDERMAN","'Heil' und 'heilig' im Nordischen altertum : eine wortkundliche untersuchung /","Hartman, ",1943,"2/12/18","1/1/00",0,0,0,1,"2",FALSE,278,"0",0
+"248",702500,"X001186614","PD2483 .S55 1977","ALDERMAN","Donsk-f¯roysk or?abÛk /","Skari, JÛhannes av.",1984,"6/29/96","11/6/09",0,1,0,1,"2",FALSE,279,"0",0
+"249",75516,"X001046987","PD1118 .R47 1984","ALDERMAN","Goti, Tedeschi, Longobardi : rapporti di cultura e di lingua /","Restelli, Giuseppe.",1984,"6/28/96","11/6/09",0,1,0,1,"2",FALSE,280,"0",0
+"250",85028,"X000824038","PD25 .S33 Heft 4-5","ALDERMAN","Deutsche Schriften /","Eyb, Albrecht von,",1984,"6/28/96","11/6/09",0,1,0,1,"2",FALSE,280,"0",0
+"251",7375421,"X032011191","PD25 .C6 n.s. no.13 1942","ALDERMAN","Magic and natural science in German baroque literature : a study in the prose form of the later seventeenth century /","Wagman, Frederick Herbert,",1942,"3/12/18","1/1/00",0,0,0,1,"2",TRUE,281,"0",0
+"252",1624047,"X001663198","PD5115 .N93 1988","ALDERMAN","Nyaste bilder ABC bok fˆr sn‰lla barn : [det flitiga barnets fˆrsta bilder ABC-bok].","",1988,"6/30/96","11/6/09",0,0,0,1,"2",FALSE,282,"0",0
+"253",1013793,"X032021039","PD2002 .J3 1941 Registre","ALDERMAN","Danmarks runeindskrifter ved Lis Jacobsen og Erik Moltke,","Jacobsen, Lis,",1942,"2/9/18","1/1/00",0,0,0,3,"2",TRUE,283,"0",0
+"254",445731,"X001056460","PD505 .S4","ALDERMAN","Germanische Verskunst.","See, Klaus von.",1967,"6/29/96","5/11/10",0,4,0,1,"2 3",FALSE,284,"0",0
+"255",7375242,"X032011192","PD25 .C6 n.s no.14 1941","ALDERMAN","The legendary character of Kaiser Maximilian /","Waas, Glenn Elwood,",1941,"3/12/18","1/1/00",0,0,0,2,"2",TRUE,285,"0",0
+"256",7375419,"X032011190","PD25 .C6 n.s. no.12 1941","ALDERMAN","The Nuremberg Schembart carnival /","Sumberg, Samuel Leslie,",1941,"3/12/18","1/1/00",0,0,0,1,"2",TRUE,285,"0",0
+"257",7375415,"X032011189","PD25 .C6 new ser. no.11 1941","ALDERMAN","Natural science in German romanticism /","Gode, Alexander,",1941,"3/12/18","1/1/00",0,0,0,1,"2",TRUE,285,"0",0
+"258",1292536,"X001397657","PD131 .M36 1987","ALDERMAN","Frequenzbedingter unregelm‰ssiger Lautwandel in den germanischen Sprachen /","Ma?czak, Witold.",1987,"6/30/96","11/6/09",0,0,0,1,"2",FALSE,286,"0",0
+"259",1256671,"X001396392","PD5670 .S45 1987","ALDERMAN","Svengelsk ordbok /","SeltÈn, Bo.",1987,"6/30/96","11/6/09",0,0,0,1,"2",FALSE,286,"0",0
+"260",7375413,"X032011188","PD25 .C6 n.s. no.10 1940","ALDERMAN","Nature in the German novel of the late eighteenth century, 1770-1800 /","Hornaday, Clifford Lee,",1940,"3/12/18","1/1/00",0,0,0,1,"2",TRUE,288,"0",0
+"261",1379999,"X001614874","PD2013 .M67 1988","ALDERMAN","Runic and Mediterranean epigraphy /","Morris, Richard Lee,",1988,"6/30/96","1/30/03",1,8,0,1,"2",FALSE,290,"0",0
+"262",671827,"X001084348","PD2927.3 .H35 1983","ALDERMAN","Norwegian, Nynorsk : an introduction for foreign students /","HallarÂker, Peter,",1983,"6/29/96","2/24/07",0,4,0,1,"2",FALSE,292,"0",0
+"263",7389740,"X032319670","PD25 .C6 new ser. no.7 1939","ALDERMAN","German criticism of Gustave Flaubert. 1857-1930 /","Freienmuth von Helms, Ernst Eduard Paul,",1939,"3/16/18","1/1/00",0,0,0,1,"2",TRUE,293,"0",0
+"264",7389741,"X032319671","PD25 .C6 new ser. no.8 1939","ALDERMAN","Louis-SÈbastien Mercier in Germany : his vogue and influence in the eighteenth century /","Pusey, William W. (William Webb),",1939,"3/16/18","1/1/00",0,0,0,1,"2",TRUE,293,"0",0
+"265",7375412,"X032011187","PD25 .C6 n.s. no.9 1939","ALDERMAN","Mark Twain in Germany /","Hemminghaus, Edgar H. (Edgar Hugo),",1939,"3/12/18","1/1/00",0,0,0,1,"2",TRUE,294,"0",0
+"266",234044,"X000228430","PD5806 .S74 1977","ALDERMAN","Finlandsvenska ord och uttryck /","Stenmark, Harry,",1977,"6/28/96","3/10/11",0,0,0,1,"2",FALSE,295,"0",0
+"267",85959,"X001000129","PD5175 .T44 1984","ALDERMAN","Att bilda ord /","Thorell, Olof.",1984,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,296,"0",0
+"268",1806900,"X001963907","PD2214 .V53 U7 1989","ALDERMAN","Ur Dˆlum til Dala : Gu?brandur Vigf˙sson Centenary Essays /","",1989,"6/30/96","12/6/04",0,5,0,1,"2",FALSE,297,"0",0
+"269",7390901,"X032319686","PD25 .C6 new ser. no.5 1937","ALDERMAN","The treatment of ancient legend and history in Bodmer /","Scenna, Anthony,",1937,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,298,"0",0
+"270",7389739,"X032319687","PD25 .C6 new ser. no.6 1937","ALDERMAN","Literary criticism and romantic theory in the work of Achim von Arnim /","Liedke, Herbert R.,",1937,"3/19/18","1/1/00",0,0,0,2,"2",TRUE,298,"0",0
+"271",142694,"X000404079","PD2621 .N3 1979","ALDERMAN","Norsk grammatikk : elementÊre strukturer og syntax /","NÊs, Olav,",1979,"6/28/96","11/6/09",0,1,0,1,"2",FALSE,299,"0",0
+"272",197775,"X000397484","PD2207 .S55 V.1","ALDERMAN","SjˆtÌu ritgerir : helgaar Jakobi Benediktssyni 20. j˙lÌ 1977 /","",1977,"6/28/96","3/17/10",2,2,0,2,"2",TRUE,301,"0",0
+"273",1013750,"X001199845","PD175 .V6 1974","ALDERMAN","West Germanic inflection, derivation and compounding,","Voyles, Joseph B.,",1974,"6/29/96","5/1/08",0,4,0,1,"2",FALSE,302,"0",0
+"274",68487,"X000999822","PD2297 .V47 1983 V.1","ALDERMAN","Verbwˆrterbuch zur altisl‰ndischen Gr·g·s (KonungsbÛk) /","",1983,"6/28/96","11/6/09",0,0,0,2,"2",TRUE,303,"0",0
+"275",100057,"X001063380","PD64 .G7 S36 1983","ALDERMAN","""Wollzeilergesellschaft"" und ""Kette"" : Impulse der fr¸hen Volkskunde und Germanistik /","Schupp, Volker.",1983,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,303,"0",0
+"276",3766992,"X004541673","PD271 .A85 2000","ALDERMAN","Aspektualit‰t in germanischen und slawischen Sprachen /","",2000,"8/6/01","8/22/01",0,1,0,1,"2",FALSE,304,"0",0
+"277",2105052,"X031988693","PD25 .P3 no.226 1968","ALDERMAN","S‰kularisation als sprachbildende Kraft / Studien zur Dichtung deutscher Pfarrersˆhne /","Schˆne, Albrecht.",1968,"6/30/96","5/6/09",0,4,0,1,"2",TRUE,306,"0",0
+"278",7390878,"X032319682","PD25 .C6 new ser. no.1 1936","ALDERMAN","The proverb in Ibsen : proverbial sayings and citations as elements in his style /","Anstensen, Ansten,",1936,"3/19/18","1/1/00",0,0,0,2,"2",TRUE,307,"0",0
+"279",7390892,"X032319684","PD25 .C6 new ser. no.3 1936","ALDERMAN","Lessing's relation to the English language and literature /","Vail, Curtis C. D. (Churchill Doughty),",1936,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,307,"0",0
+"280",7390897,"X032319685","PD25 .C6 new ser. no.4 1936","ALDERMAN","Women in the life and art of Conrad Ferdinand Meyer /","Dahme, Lena F. (Lena Friedrich),",1936,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,307,"0",0
+"281",7389742,"X032319672","PD25 .C6 new ser. no.2 1936","ALDERMAN","Max Dauthendey, poet-philosopher /","Wendt, Herman George,",1936,"3/16/18","1/1/00",0,0,0,1,"2",TRUE,308,"0",0
+"282",665117,"X000888832","PD21 .G47 1982","ALDERMAN","Gebrauchsliteratur, Interferenz, Kontrastivit‰t : Beitr‰ge zur polnischen und deutschen Literatur- und Sprachwissenschaft : Materialien des Germanistisch-Polonistischen Symposiums, Regensburg, 22.-27. Oktober 1979 /","Germanistisch-Polonistisches Symposium",1982,"6/29/96","11/6/09",0,0,0,1,"2",FALSE,309,"0",0
+"283",1338126,"X032021051","PD2413 .K8 1936","ALDERMAN","Lehrbuch der isl‰ndischen sprache /","Kvaran, Eiur Sigursson,",1936,"2/9/18","1/1/00",0,0,0,2,"2",FALSE,310,"0",0
+"284",1013182,"X004078547","PD3640 .M3 1936","ALDERMAN","Dansk-engelsk ordbog,","Magnussen, Johs. (Johannes),",1936,"6/29/96","9/12/11",4,16,0,2,"2",FALSE,311,"0",0
+"285",1742942,"X001506615","PD64 .S34 J64 1988","ALDERMAN","Johann Andreas Schmeller und der Beginn der Germanistik /","",1988,"6/30/96","10/23/07",0,1,0,1,"2",FALSE,312,"0",0
+"286",656605,"X000358379","PD5693 .C65 1981","ALDERMAN","Fˆrkortningsordbok : sextusen svenska och internationella fˆrkortningar med fˆrklaringar /","Collinder, Bjˆrn,",1981,"6/29/96","11/6/09",0,0,0,1,"2",FALSE,313,"0",0
+"287",81385,"X000354237","PD5571 .S735 1981","ALDERMAN","Analfabeter till ˆversÂtar : kÂserier om ord /","Stolpe, Birger.",1981,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,314,"0",0
+"288",206330,"X002551851","PD2207 .S85 hefti 35","ALDERMAN","ﬁjÛfÈlagsmynd Ìslenskra barnabÛka : athugun · barnabÛkum Ìslenskra hˆfunda · ·runum 1960-70 /","Silja AalsteinsdÛttir.",1976,"6/28/96","11/6/09",0,1,0,1,"2",FALSE,315,"0",0
+"289",306805,"X000714037","PD74 .W318 V.2","ALDERMAN","Nuestros idiomas: comparables e incomparables. /","Wandruszka, Mario.",1976,"6/28/96","11/6/09",0,1,0,2,"2",TRUE,315,"0",0
+"290",2105019,"X001045992","PD25 .P3 no.198-201","ALDERMAN","Bedas metrische Vita Sancti Cuthberti,","Bede,",1935,"6/30/96","2/8/18",2,0,0,1,"2",TRUE,316,"0",0
+"291",150665,"X000495837","PD21 .I5 1980 V.1","ALDERMAN","Akten des VI. Internationalen Germanisten-Kongresses, Basel, 1980 /","Internationaler Germanisten-Kongress",1980,"6/28/96","11/6/09",0,1,0,4,"2",TRUE,317,"0",0
+"292",7356227,"X031989368","PD3111 .W5 1934 key","ALDERMAN","Schl¸ssel zur D‰nische konversations-grammatik /","Wied, Karl, (Franz Karl Ludwig),",1934,"2/12/18","1/1/00",0,0,0,1,"2",FALSE,318,"0",0
+"293",219239,"X000367368","PD131 .A5","ALDERMAN","Dal germanico alle lingue germaniche /","Andreotti Saibene, Maria Grazia,",1979,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,322,"0",0
+"294",3914336,"X004312493","PD221 .D45 2002","ALDERMAN","IstoriÌ‡ amerykans?koÔ literatury XX stolittÌ‡ /","Denisova, T. N. (Tamara Naumovna)",2002,"1/31/03","1/1/00",0,0,0,1,"2",FALSE,323,"0",0
+"295",1013799,"X001931433","PD2007 .F75 B4","ALDERMAN","Franks Casket; zu den Bildern und Inschriften des Runenk‰stchens von Auzon.","Becker, Aldred,",1972,"6/29/96","10/14/07",0,4,0,1,"2",FALSE,325,"0",0
+"296",119480,"X000843393","PD1139 .V69 1981","ALDERMAN","Gothic, Germanic, and Northwest Germanic /","Voyles, Joseph B.,",1981,"6/28/96","5/5/05",1,5,0,1,"2",FALSE,326,"0",0
+"297",287063,"X000034837","PD5625 .P3","ALDERMAN","Konsten att veta b‰st frÂn ABBA till ˆvre slummen : svenskt kulturlexikon /","Palm, Gˆran.",1978,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,327,"0",0
+"298",7355531,"X032021101","PD2413 .j6 1932","ALDERMAN","A primer of modern icelandic","Jonsson, Snaebjorn",1932,"2/9/18","1/1/00",0,0,0,1,"2",FALSE,328,"0",0
+"299",2105078,"X001839551","PD25 .P3 no.245","ALDERMAN","Jean Pauls ""Flegeljahre.""","Neumann, Peter Horst.",1966,"6/29/96","3/10/11",0,1,0,1,"2",TRUE,329,"0",0
+"300",7390918,"X032319689","PD25 .C6 no.28 1931","ALDERMAN","German criticism of Zola, 1875-1893, with special reference to the Rougon-Macquart cycle and the roman expÈrimental /","Root, Winthrop H. (Winthrop Hegeman),",1931,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,330,"0",0
+"301",2104966,"X000937970","PD25 .P3 no.181","ALDERMAN","Johann Beer;","Alewyn, Richard,",1932,"6/30/96","8/26/15",0,3,16,1,"2",TRUE,331,"0",0
+"302",245842,"X000008862","PD2988 .H4 1977","ALDERMAN","Nynorsk ordliste /","Hellevik, Alf.",1977,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,332,"0",0
+"303",497212,"X000714039","PD131 .B3","ALDERMAN","A diachronic phonology from Proto-Germanic to Old English stressing West-Saxon conditions /","Barrack, Charles Michael,",1975,"6/29/96","12/1/06",1,4,0,1,"2",FALSE,333,"0",0
+"304",7390914,"X032319688","PD25 .C6 no.27 1930","ALDERMAN","Gozzi in Germany : a survey of the rise and decline of the Gozzi vogue in Germany and Austria, with especial reference to the German romanticists /","Rusack, Hedwig (Hoffmann),",1930,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,334,"0",0
+"305",1013707,"X000374478","PD26 .M6 G4","ALDERMAN","Getempert und gemischet; f¸r Wolfgang Mohr zum 65.","",1972,"6/29/96","11/6/09",1,1,0,1,"2",TRUE,335,"0",0
+"306",1341865,"X030702501","PD3625 .D28 1966 v.1","ALDERMAN","Ordbog over det danske sprog,","Danske sprog- og litteraturselskab.",1966,"5/27/10","1/1/00",10,0,0,28,"1 2",TRUE,336,"0",0
+"307",298026,"X000403808","PD2686 .G8 1976","ALDERMAN","Norsk synonymordbok /","Gundersen, Dag,",1976,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,338,"0",0
+"308",390029,"X000714046","PD3027 .S5","ALDERMAN","Dansk sprog og kultur : udvalgte afhandlinger og artikler 1921-1971 /","Skautrup, Peter,",1976,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,338,"0",0
+"309",1013792,"X030593460","PD1805 .V7 1961","ALDERMAN","Altnordisches etymologisches Wˆrterbuch.","Vries, Jan de,",1957,"6/29/96","4/10/13",1,0,0,1,"2",FALSE,339,"0",0
+"310",1013141,"X030697711","PD2381 .B3 Bd.1","ALDERMAN","Wˆrterbuch zur altnordischen Prosaliteratur.","Baetke, Walter,",1965,"5/25/10","1/1/00",2,0,0,2,"2",TRUE,340,"0",0
+"311",2639594,"X004068539","PD261 .H69 1996","ALDERMAN","The personal pronouns in the Germanic languages : a study of personal pronoun morphology and change in the Germanic languages from the first records to the present day /","Howe, Stephen,",1996,"1/8/97","10/9/00",0,6,0,1,"2",FALSE,342,"0",0
+"312",7390847,"X032098486","PD25 .C6 no.26 1928","ALDERMAN","Max Kretzer : a study in German naturalism /","Keil, G¸nther.",1928,"3/23/18","1/1/00",0,0,0,2,"2",TRUE,344,"0",0
+"313",7390855,"X032098328","PD25 .C6 no.25 1928","ALDERMAN","The early German theatre in New York, 1840-1872 /","Leuchs, Fritz A. H.,",1928,"3/19/18","1/1/00",0,0,0,2,"2",TRUE,345,"0",0
+"314",2104654,"X004456653","PD25 .P3 no.146-148","ALDERMAN","Beitr‰ge zur geschichte der visionenliteratur im mittelalter I-II.","Voigt, Max,",1924,"6/30/96","2/8/18",0,1,0,1,"2",TRUE,346,"0",0
+"315",368026,"X031981332","PD1123 .B7 1928","ALDERMAN","Gotische Grammatik, mit Lesest¸cken und wortverzeichnis,","Braune, Wilhelm,",1928,"6/28/96","2/12/18",0,0,0,1,"2",FALSE,347,"0",0
+"316",333250,"X001164008","PD5625 .D27 1973","ALDERMAN","Glossarium ˆfver fˆrÂldrade eller ovanliga crd och tales‰tt i svenska sprÂket. FrÂn och med 1500-talets andra Ârtionde.","Dahlgren, Fredrik August,",1973,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,349,"0",0
+"317",563911,"X000329985","PD5640 .H3 1964","ALDERMAN","Svensk-Engelsk ordbok.","Harlock, Walter E. (Walter Ernest),",1964,"6/29/96","11/6/09",0,2,0,1,"2",FALSE,350,"0",0
+"318",7390793,"X032098323","PD25 .C6 no.22 1926","ALDERMAN","America in imaginative German literature in the first half of the nineteenth century /","Weber, Paul Carl,",1926,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,352,"0",0
+"319",7390833,"X032098322","PD25 .C6 no.23 1926","ALDERMAN","Gottfried Kinkel as political and social thinker /","De Jonge, Alfred Robert Willy,",1926,"3/19/18","1/1/00",0,0,0,2,"2",TRUE,352,"0",0
+"320",7355529,"X032021100","PD2437 .J6 1926","ALDERMAN","Dˆnsk orabÛk med Ìslenzkum ˛˝ingum : orabÛk JÛnasar JÛnassonar og Bjˆrns JÛnasonar aukin og breytt /","Freysteinn Gunnarsson,",1926,"2/9/18","1/1/00",0,0,0,1,"2",FALSE,353,"0",0
+"321",1013162,"X000982161","PD2691 .G9 1941 V.2","ALDERMAN","Gyldendal's English-Norwegian and Norwegian-English dictionary ...","",1941,"6/29/96","11/6/09",0,7,0,2,"2",TRUE,354,"0",0
+"322",5087,"X000909194","PD74 .G4 1984","ALDERMAN","Das Germanische und die Rekonstruktion der indogermanischen Grundsprache : Akten des Freiburger Kolloquiums der Indogermanischen Gesellschaft, Freiburg, 26-27 Februar 1981 /","",1984,"6/28/96","10/16/06",0,1,0,1,"2",FALSE,355,"0",0
+"323",542999,"X000405494","PD2625 .C47","ALDERMAN","Basic Norwegian reader,","Chapman, Kenneth G.,",1966,"6/29/96","11/13/06",1,5,0,1,"2",FALSE,356,"0",0
+"324",1013188,"X000462293","PD5073 .C6","ALDERMAN","Svenska.","Collinder, Bjˆrn,",1971,"6/29/96","11/6/09",0,0,0,1,"2",FALSE,358,"0",0
+"325",7363780,"X032030078","PD26 .S5 1925","ALDERMAN","Germanica : eduard sievers, zum 75. geburtstage, 25. november 1925","Sievers, Eduard",1925,"2/15/18","1/1/00",0,0,0,2,"2",FALSE,359,"0",0
+"326",2511416,"X004309438","PD25 .Q4 no.115-118 1912","ALDERMAN","Die englische Lautentwicklung nach franzˆsischen Grammatiker-Zeugnissen.","Spira, Theodor,",1912,"5/10/99","2/8/18",0,0,0,1,"2",TRUE,360,"0",0
+"327",7390775,"X032098324","PD25 .C6 no.21 1924","ALDERMAN","Woman in the life and work of Gutzkow /","Schinnerer, Otto P. (Otto Paul),",1924,"3/19/18","1/1/00",0,0,0,2,"2",TRUE,361,"0",0
+"328",7390923,"X032098277","PD25 .C6 no.24 1924","ALDERMAN","Shelley in Germany /","Liptzin, Solomon,",1924,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,361,"0",0
+"329",2246610,"X030833265","PD2207 .S85 Hefti 22","ALDERMAN","Olafr ÿÛrdarson HvÌtask·ld, Kn˝tlinga saga och Laxdaela saga. Ett ff?rsˆk till sprÂklig fˆrfattarbest‰mning.","Hallberg, Peter.",1963,"7/1/96","3/10/11",0,0,0,1,"2",FALSE,362,"0",0
+"330",7356248,"X031981377","PD131 .K3 1924","ALDERMAN","De Germaansche en de Hoogduitsche klankverschuiving : feiten en hypothesen : rede uitgesproken bij de aanvaarding van het AMBT van hoogleeraar aan de Rijks-Universiteit te Gronigen op 4 October 1924 /","Kapteyn, J. M. N. (Johannes Marie Neele),",1924,"2/12/18","1/1/00",0,0,0,1,"2",FALSE,363,"0",0
+"331",700925,"X001206789","PD1193 .L44 1986","ALDERMAN","A Gothic etymological dictionary /","Lehmann, Winfred P. (Winfred Philipp),",1986,"6/29/96","4/20/05",1,2,0,1,"2",FALSE,364,"0",0
+"332",1315955,"X001502785","PD26 .B36 S4 1988","ALDERMAN","Semper idem et novus : Festschrift for Frank Banta /","",1988,"6/30/96","7/5/02",1,5,0,1,"2",FALSE,366,"0",0
+"333",3715732,"X006112810","PD2014 .D77 2001","ALDERMAN","Runenkunde.","D¸wel, Klaus.",2001,"5/7/01","1/1/00",0,0,0,1,"2",FALSE,367,"0",0
+"334",2302974,"X002513109","PD64 .L3 T56 1985","ALDERMAN","La genesi del metodo del Lachmann /","Timpanaro, Sebastiano.",1985,"7/1/96","4/28/01",0,7,0,1,"2",TRUE,368,"0",0
+"335",70867,"X032021041","PD2007 .G25 R66 1984","ALDERMAN","Das Runenhorn von Gallehus /","Rooth, Erik,",1984,"6/28/96","4/20/06",1,1,0,1,"2",TRUE,369,"0",0
+"336",3716876,"X004521700","PD2077 .S74 2000","ALDERMAN","StafkrÛkar : ritgerir eftir Stef·n Karlsson gefnar ˙t Ì tilefni af sjˆtugsafmÊli hans, 2. Desember 1998 /","Stef·n Karlsson.",2000,"5/10/01","1/1/00",0,0,0,1,"2",FALSE,370,"0",0
+"337",7389662,"X032098326","PD25 .C6 no.19 1922","ALDERMAN","Wieland's attitude toward woman and her cultural and social relations /","Bach, Matthew G. (Matthew Gruenberg),",1922,"3/19/18","1/1/00",0,0,0,2,"2",TRUE,371,"0",0
+"338",416627,"X000450227","PD2627 .H32","ALDERMAN","Spoken Norwegian /","Haugen, Einar,",1947,"6/29/96","2/24/07",0,8,0,1,"2",FALSE,373,"0",0
+"339",1013164,"X004373097","PD2691 .M9 1936","ALDERMAN","Engelsk-norsk, norsk-engelsk.","Myklestad, J. Meyer (Johannes Meyer),",1936,"6/29/96","11/6/09",0,8,0,2,"2",FALSE,374,"0",0
+"340",1746468,"X001971756","PD64 .S34 A3 1990","ALDERMAN","Lauter gem‰hte Wiesen f¸r die Reaktion : die erste H‰lfte des 19. Jahrhunderts in den Tageb¸chern Johann Andreas Schmellers /","Schmeller, Johann Andreas,",1990,"6/30/96","12/10/03",1,2,0,1,"2",FALSE,375,"0",0
+"341",561041,"X000528696","PD25 .C6 no.8","ALDERMAN","The history of the chorus in the German drama /","Helmrich, Elsie Winifred,",1966,"6/29/96","11/6/09",0,0,0,1,"2",TRUE,376,"0",0
+"342",1013150,"X000595080","PD2623 .H32 1938","ALDERMAN","Beginning Norwegian,","Haugen, Einar,",1944,"6/29/96","6/6/07",0,8,0,1,"2",FALSE,377,"0",0
+"343",3568119,"X004457567","PD64 .R64 R86 2000 T.1","ALDERMAN","Regesten zum Briefwechsel zwischen Gustav Roethe und Edward Schrˆder /","Ruprecht, Dorothea.",2000,"9/25/00","1/1/00",0,0,0,2,"2",TRUE,378,"0",0
+"344",238074,"X000762219","PD2623 .H32 1950","ALDERMAN","Beginning Norwegian, a grammar and reader.","Haugen, Einar,",1950,"6/28/96","11/13/03",1,11,0,1,"2",FALSE,379,"0",0
+"345",3556408,"X004435650","PD2628 .K75 2000","ALDERMAN","The phonology of Norwegian /","Kristoffersen, Gjert,",2000,"8/10/00","1/1/00",0,0,0,1,"2",FALSE,380,"0",0
+"346",1013201,"X032020998","PD5625 .O4 1919 v.1","ALDERMAN","Nusvensk ordbok,","÷stergren, Olof,",1919,"2/9/18","1/1/00",0,0,0,10,"2",TRUE,381,"0",0
+"347",2489600,"X002681650","PD1701 .H65 1995","ALDERMAN","The role of inflection in Scandinavian syntax /","Holmberg, Anders.",1995,"7/1/96","12/4/01",0,3,0,1,"2",FALSE,382,"0",0
+"348",7389753,"X032098316","PD25 .C6 no.16 1918","ALDERMAN","The Holy Roman Empire in German literature.","Zeydel, Edwin H.,",1918,"3/19/18","1/1/00",0,0,0,2,"2",TRUE,384,"0",0
+"349",502065,"X030506957","PD3640 .V5 1954 v.2","ALDERMAN","Dansk-engelsk ordbog","Vinterberg, Hermann,",1954,"5/27/10","1/1/00",3,0,0,2,"2",TRUE,385,"0",0
+"350",506562,"X030697551","PD2381 .F7 1954 v.1","ALDERMAN","Ordbog over det gamle norske sprog.","Fritzner, Johan,",1954,"5/25/10","1/1/00",4,0,0,4,"2",TRUE,386,"0",0
+"351",7390759,"X032098317","PD25 .C6 no.15 1917","ALDERMAN","The unmarried mother in german literature : with special reference to the period 1770-1800","Werner, Oscar Helmuth",1917,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,387,"0",0
+"352",2101679,"X000364043","PD25 .P3 no.33-37","ALDERMAN","Caesar in der deutschen literatur /","Gundolf, Friedrich,",1904,"6/30/96","2/8/18",0,3,0,1,"2",TRUE,388,"0",0
+"353",7390867,"X032098331","PD25 .C6 no.13 1916","ALDERMAN","Gottfried Keller as a democratic idealist /","Hauch, Edward Franklin,",1916,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,389,"0",0
+"354",7390765,"X032098318","PD25 .C6 no.14 1916","ALDERMAN","Theodor Fontane as a critic of the drama /","Trebein, Bertha E. (Eleanor),",1916,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,389,"0",0
+"355",2101744,"X004619125","PD25 .P3 no.65-69","ALDERMAN","Das mittelenglische streitgedicht Eule und nachtigall","",1909,"7/30/02","8/9/13",1,1,0,1,"2",TRUE,391,"0",0
+"356",230489,"X001164452","PD5704 .R5 1962","ALDERMAN","Svenskt dialekt-lexikon, Ordbok ˆfver svenska allmogesprÂket;","Rietz, Johan Ernst,",1962,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,392,"0",0
+"357",92450,"X000902404","PD63 .B7 1985","ALDERMAN","Briefwechsel der Br¸der Grimm mit Hans Georg von Hammerstein-Equord /","",1985,"6/28/96","1/5/04",0,2,0,1,"2",FALSE,393,"0",0
+"358",2505979,"X004840697","PD25 .Q4 no.13-15 1876","ALDERMAN","Die nominalsuffixe a and ‚ in den germanischen Sprachen.","Zimmer, Heinrich,",1876,"3/3/05","2/8/18",1,0,0,1,"2",TRUE,394,"0",0
+"359",7389650,"X032098312","PD25 .C6 no.12 1915","ALDERMAN","The soliloquy in German drama /","Roessler, Erwin W. (Erwin William),",1915,"3/16/18","1/1/00",0,0,0,1,"2",TRUE,395,"0",0
+"360",89583,"X030833268","PD2691 .B4 1954","ALDERMAN","Gyldendal's English-Norwegian dictionary,","Berulfsen, Bjarne,",1954,"6/28/96","3/10/11",0,0,0,1,"2",FALSE,396,"0",0
+"361",68148,"X000887092","PD2207 .S85 hefti 19","ALDERMAN","TvÊr ritgerir um kveskap Stephans G. Stephanssonar.","",1961,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,397,"0",0
+"362",7389655,"X032098313","PD25 .C6 no.11 1914","ALDERMAN","The old norse element in swedish romanticism","Benson, Adolph Burnett",1914,"3/16/18","1/1/00",0,0,0,1,"2",TRUE,398,"0",0
+"363",2511422,"X031743918","PD25 .Q4 no.122-123","ALDERMAN","Die lyrischen Dichtungen Jakob Baldes /","Henrich, Anton,",1915,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,399,"0",0
+"364",1013115,"X000535161","PD2017 .D4","ALDERMAN","Runica manuscripta ; the English tradition","Derolez, RenÈ Lodewijk Maurit.",1954,"6/29/96","10/14/07",0,4,0,1,"2",FALSE,400,"0",0
+"365",1360142,"X000462599","PD3121 .D4 1947 V.1","ALDERMAN","Spoken Danish /","Dearden, Jeannette.",1947,"6/30/96","11/6/09",0,3,0,2,"2",TRUE,401,"0",0
+"366",17683,"X000602542","PD2207 .S85 hefti 18","ALDERMAN","Nokkrar athuganir · rithÊtti ˛jÛ?sagnahandrita Ì safni JÛns ¡rnasonar /","Bˆ?varsson, ¡rni.",1960,"6/28/96","11/6/09",0,0,0,1,"2",FALSE,402,"0",0
+"367",357229,"X000056650","PD26 .D34 A5","ALDERMAN","Altgermanistische Beitr‰ge : Jan van Dam zum 80. Geburtstag gewidmet /","",1977,"6/28/96","2/18/05",0,2,0,1,"2",FALSE,403,"0",0
+"368",1013690,"X000596216","PD25 .H5 no.9 1917","ALDERMAN","The attitude of Heinrich von Kleist toward the problems of life,","Blankenagel, John Carl.",1917,"6/29/96","12/3/11",0,7,0,1,"2",TRUE,404,"0",0
+"369",7357995,"X032029643","PD1125 .S5 1913","ALDERMAN","Die Skeireins /","",1913,"2/13/18","1/1/00",0,0,0,1,"2",FALSE,405,"0",0
+"370",66160,"X000865101","PD64 .G7 S45 1984","ALDERMAN","Die Br¸der Grimm : Leben, Werk, Zeit /","Seitz, Gabriele,",1984,"6/28/96","1/22/02",0,4,0,1,"2",FALSE,406,"0",0
+"371",2105064,"X031988682","PD25 .P3 no.235","ALDERMAN","C. M. Wielands Entwicklungsbegriff und die Geschichte des Agathon.","Buddecke, Wolfram,",1966,"6/30/96","9/4/07",0,1,0,1,"2",TRUE,407,"0",0
+"372",7389645,"X032098311","PD25 .C6 no.7 1912","ALDERMAN","The Gongu-HrÛlfssaga : a study in Old Norse philology /","Hartmann, Jacob Wittmer,",1912,"3/16/18","1/1/00",0,0,0,1,"2",TRUE,408,"0",0
+"373",2511419,"X031743919","PD25 .Q4 no.119-121 1913","ALDERMAN","Die ballade vom Grafen und der magd; ein rekonstruktionsversuch und beitrag zur charakterisierung der volkspoesie.","Thietz, Rudolf.",1913,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,409,"0",0
+"374",1013171,"X001892954","PD3111 .K5 1938","ALDERMAN","Introduction to the Danish language,","Knudsen, Johannes,",1935,"6/29/96","6/24/04",0,12,0,1,"2",FALSE,410,"0",0
+"375",2101685,"X000329298","PD25 .P3 no.38-42","ALDERMAN","Grobianus in England. Nebst neudruck der ersten ¸bersetzung 'The schoole of slovenrie' (1605) und erster herausgabe des schwankes 'Grobiana's nuptials' (c. 1640) aus ms. 30. Bodl. Oxf.","Dedekind, Friedrich,",1904,"6/30/96","2/8/18",0,2,0,1,"2",TRUE,411,"0",0
+"376",1013724,"1013724-5001","PD71 .P3","ALDERMAN","Grundriss der Germanischen Philologie,","Paul, Hermann,",1911,"4/24/18","1/1/00",0,0,0,1,"2",FALSE,412,"0",0
+"377",1013151,"X000212027","PD2623 .N6 1937","ALDERMAN","Norwegian simplified. An easy and rapid self-instructor.","",1937,"6/29/96","3/10/11",0,4,0,2,"2",FALSE,413,"0",0
+"378",7390813,"X032098321","PD25 .C6 no.6 1911","ALDERMAN","Karl Lebrecht Immermann : a study in German romanticism /","Porterfield, Allen Wilson,",1911,"3/19/18","1/1/00",0,0,0,1,"2",TRUE,414,"0",0
+"379",2101836,"X031743797","PD25 .P3 no.98-100","ALDERMAN","Englische romankunst. Die technik des englischen romans im achtzehnten und zu anfang des neunzehnten jahrhunderts ...","Dibelius, Wilhelm,",1922,"9/28/15","1/1/00",0,0,0,1,"2",TRUE,415,"0",0
+"380",2105029,"X004061819","PD25 .P3 no.206-208","ALDERMAN","Studien zu Eichendorffs Prosastil,","J‰hn, Gisela.",1937,"10/19/99","11/6/09",0,1,0,1,"2",TRUE,416,"0",0
+"381",2104659,"X004390471","PD25 .P3 no.149-153","ALDERMAN","D. Defoes und J. Swifts belesenheit und literarische kritik.","G¸ckel, W.,",1925,"5/16/02","11/6/09",2,1,0,1,"2",TRUE,417,"0",0
+"382",418062,"X032021060","PD5108 .L5","ALDERMAN","J. Th. Bureus, den svenska grammatikens fader,","Lindroth, Hjalmar,",1911,"6/29/96","2/9/18",0,0,0,1,"2",FALSE,418,"0",0
+"383",7374951,"X032087878","PD25 .C6 no.5 1910","ALDERMAN","Grillparzer as a poet of nature /","De Walsh, Faust Charles,",1910,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,419,"0",0
+"384",2859346,"X006080507","PD25 .S8 no.45","ALDERMAN","""Ostdeutschland ein M‰rchen?"" : zur Vergangenheitsbew‰ltigung in der j¸ngsten ostdeutschen Literatur : eine thematische Analyse /","Cubber, Geert de.",1998,"12/2/98","1/1/00",0,0,0,1,"2",TRUE,421,"0",0
+"385",2863353,"X006077776","PD5201 .B67 1998","ALDERMAN","Feature distribution in Swedish noun phrases /","Bˆrjars, Kersti.",1998,"12/15/98","2/25/99",0,1,0,1,"2",FALSE,422,"0",0
+"386",409029,"X000714041","PD361 .C6","ALDERMAN","A semantic syntax of grammatical negation in the older Germanic dialects /","Coombs, Virginia Mae,",1976,"6/28/96","2/17/05",0,1,0,1,"2",FALSE,423,"0",0
+"387",1013753,"X000669118","PD509 .S6","ALDERMAN","Altgermanische metrik,","Sievers, Eduard,",1893,"6/29/96","11/3/17",2,8,0,2,"2",FALSE,424,"0",0
+"388",2511407,"X031743916","PD25 .Q4 no.106-109","ALDERMAN","Das Rittertum in der Darstellung des Johannes Rothe.","Petersen, Julius,",1909,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,425,"0",0
+"389",2101877,"X004123423","PD25 .P3 no.74-76","ALDERMAN","Rede und redeszene in der deutschen erz‰hlung bis Wolfram von Eschenbach.","Schwartzkopff, Werner,",1909,"6/30/96","2/8/18",1,0,0,1,"2",TRUE,426,"0",0
+"390",2101880,"X031743798","PD25 .P3 no.77-80","ALDERMAN","Beitr‰ge zur geschichte der neulateinischen poesie Deutschlands und Hollands, von Adalbert Schroeter. Aus seinem nachlass hrsg. mit unterst¸tzung der Kˆniglich preussischen akademie der wissenschaften.","Schroeter, Adalbert,",1909,"6/30/96","2/8/18",0,0,0,1,"2",TRUE,426,"0",0
+"391",2246620,"X004347989","PD2207 .S85 Hefti 30","ALDERMAN","Legendary fiction in medieval Iceland","Hermann P·lsson,",1970,"7/1/96","4/24/05",0,2,0,1,"2",FALSE,427,"0",0
+"392",2101707,"X031768799","PD25 .P3 no.48-52","ALDERMAN","Die variationen in der altgermanischen allitterationspoesie.","Paetzel, Walther,",1913,"6/30/96","3/20/17",0,0,0,1,"2",TRUE,428,"0",0
+"393",1348706,"X032020202","PD3625 .K4 bd.5 tillaeg.1 A-O","ALDERMAN","Ordbog til det Êldre danske Sprog (1300-1700).","Kalkar, Otto,",1908,"6/30/96","2/9/18",0,0,0,1,"2",TRUE,429,"0",0
+"394",7374977,"X032087881","PD25 .C6 v.3 no.2 1907","ALDERMAN","The nature sense in the writings of Ludwig Tieck /","Danton, George H. (George Henry),",1907,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,430,"0",0
+"395",204572,"X000824782","PD2623 .M34 1944","ALDERMAN","Teach yourself Norwegian a book of self-instruction in the Norwegian riksm?l,","Marm, Ingvald.",1944,"6/28/96","7/8/03",1,10,0,1,"2",FALSE,431,"0",0
+"396",1013152,"X000210760","PD2623 .N6 1940","ALDERMAN","Norwegian simplified. An easy and rapid self-instructor.","",1937,"6/29/96","3/10/11",0,2,0,1,"2",FALSE,432,"0",0
+"397",2298447,"X002450129","PD75 .L36 1994","ALDERMAN","Language change and language structure : older Germanic languages in a comparative perspective /","",1994,"7/1/96","10/9/00",0,2,0,1,"2",FALSE,433,"0",0
+"398",1013204,"X000307918","PD5640 .K3 1953","ALDERMAN","Engelsk-svensk ordbok, skolupplaga,","K‰rre, Karl,",1953,"6/29/96","11/6/09",0,0,0,1,"2",FALSE,434,"0",0
+"399",1013149,"X000613038","PD2615 .H3 1969","ALDERMAN","The Norwegian language in America; a study in bilingual behavior","Haugen, Einar,",1969,"6/29/96","2/11/06",1,1,0,1,"2",FALSE,435,"0",0
+"400",267663,"X000035362","PD76 .M3 V.3","ALDERMAN","Germanic and its dialects : a grammar of proto-Germanic /","Markey, Thomas L.",1900,"6/28/96","11/14/17",0,2,0,1,"2",TRUE,436,"0",0
+"401",7374994,"X032087883","PD25 .C6 v.2 no.3 1906","ALDERMAN","Edward Young in Germany : historical surveys, influence upon German literature, bibliography /","Kind, John Louis,",1906,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,437,"0",0
+"402",7374991,"X032087882","PD25 .C6 v.3 no.1 1906","ALDERMAN","Hebbel's Nibelungen : its sources, method, and style /","Danton, Annina Periam,",1906,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,437,"0",0
+"403",1357824,"X004349516","PD2002 .N69 v.1 1891-1903","ALDERMAN","Norges Indskrifter med de Êldre Runer /","Bugge, Sophus,",1891,"12/1/99","2/8/18",0,0,0,4,"2",TRUE,438,"0",0
+"404",129532,"X000597585","PD2201 .B6","ALDERMAN","Elements de grammaire de l'Islandais ancien /","Boyer, RÈgis.",1981,"6/28/96","12/18/02",0,2,0,1,"2",FALSE,439,"0",0
+"405",2100661,"X004840819","PD25 .P3 no.13-17","ALDERMAN","Die aufnahme des Don Quijote in die englische literatur (1605-c. 1770).","Becker, Gustav,",1906,"6/30/96","2/8/18",1,0,0,1,"2",TRUE,440,"0",0
+"406",2101715,"X004576640","PD25 .P3 no.53-58","ALDERMAN","Sir Eglamour. Eine englische romanze des 14. jahrhunderts auf grund der gesamten ¸berlieferung","",1906,"6/30/96","2/8/18",0,0,0,1,"2",TRUE,440,"0",0
+"407",7375001,"X032087884","PD25 .C6 v.2 no.1 1905","ALDERMAN","Laurence Sterne in Germany : a contribution to the study of the literary relations of England and Germany in the eighteenth century /","Hewett-Thayer, Harvey W. (Harvey Waterman),",1905,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,441,"0",0
+"408",1013161,"X000774892","PD2691 .C5 1954","ALDERMAN","Norsk-engelsk [ordbok]","Christophersen, R.",1954,"6/29/96","9/30/07",0,2,0,1,"2",FALSE,442,"0",0
+"409",2080852,"X002193558","PD95 .O5 1992","ALDERMAN","On Germanic linguistics : issues and methods /","",1992,"6/30/96","1/1/00",1,3,0,1,"2",FALSE,444,"0",0
+"410",34332,"X000897009","PD2237 .G6 1938","ALDERMAN","An introduction to Old Norse.","Gordon, E. V. (Eric Valentine),",1938,"6/28/96","11/6/09",0,3,0,1,"2",FALSE,445,"0",0
+"411",2022003,"X002153240","PD64 .M37 R56 1992","ALDERMAN","Hans Ferdinand Massmann : altdeutscher Patriotismus im 19. Jahrhundert /","Richter, Joachim Burkhard.",1992,"6/30/96","8/2/01",0,1,0,1,"2",TRUE,446,"0",0
+"412",2511396,"X031988747","PD25 .Q4 no.95-98","ALDERMAN","The interpretation of nature in English poetry from Beowulf to Shakespeare.","Moorman, Frederic William,",1905,"2/8/18","1/1/00",0,0,0,1,"2",TRUE,447,"0",0
+"413",513238,"X001024052","PD1123 .W7 1899","ALDERMAN","A primer of the Gothic language... /","Wright, Joseph,",1899,"6/29/96","4/27/10",0,11,0,1,"2",FALSE,448,"0",0
+"414",1013128,"X001023943","PD2237 .C4","ALDERMAN","Graded readings and exercises in Old Icelandic,","Chapman, Kenneth G.,",1964,"6/29/96","8/11/05",1,2,0,1,"2",FALSE,449,"0",0
+"415",1775393,"X031981149","PD25 .S8 v.21","ALDERMAN","Virginia Stephen versus Virginia Woolf /","",1990,"6/30/96","1/1/00",0,3,0,1,"2",TRUE,451,"0",0
+"416",2101697,"X004914733","PD25 .P3 no.43 v.1","ALDERMAN","Angels‰chsische palaeographie. Die schrift der Angelsachsen mit besonderer r¸cksicht auf die denkm‰ler in der volkssprache.","Keller, Wolfgang,",1906,"10/20/05","11/6/09",0,0,0,2,"2",TRUE,452,"0",0
+"417",1013156,"X032021057","PD2683 .F3 bd.2","ALDERMAN","Etymologisk ordbog over det norske og det danske sprog;","Falk, Hjalmar,",1903,"2/9/18","1/1/00",0,0,0,2,"2",TRUE,453,"0",0
+"418",68280,"X000886744","PD2207 .S85 hefti 39","ALDERMAN","⁄r hugmyndaheimi Hrafnkels sˆgu og Grettlu /","Hermann P·lsson,",1981,"6/28/96","5/12/02",0,2,0,1,"2",FALSE,454,"0",0
+"419",1775394,"X002044987","PD25 .S8 v.20","ALDERMAN","Second language acquisition /","",1990,"6/30/96","11/16/99",0,3,0,1,"2",TRUE,455,"0",0
+"420",79085,"X004456563","PD361 .F67 1985","ALDERMAN","Die deutsche Satzgleidlehre, 1780-1830 : zur Entwicklung der traditionellen Syntax im Spiegel einiger allgemeiner und deutscher Grammatiken /","Forsgren, Kjell-≈ke,",1985,"6/28/96","5/7/02",0,1,0,1,"2",FALSE,456,"0",0
+"421",2694019,"X004096954","PD271 .S9 1997","ALDERMAN","Modality in Germanic languages : historical and comparative perspectives /","",1997,"6/10/97","1/1/00",0,0,0,1,"2",FALSE,458,"0",0
+"422",2100673,"X004065602","PD25 .P3 no.23-28","ALDERMAN","The Constance saga.","Gough, Alfred Bradly,",1902,"6/30/96","2/8/18",0,0,0,1,"2",TRUE,459,"0",0
+"423",7374969,"X032087875","PD25 .C6 v.1 no.2 1901","ALDERMAN","Ossian in Germany : bibliography, general survey. Ossian's influence upon Klopstock and the bards.","Tombo, Rudolf,",1901,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,460,"0",0
+"424",7374972,"X032087874","PD25 .C6 v.1 no.3 1901","ALDERMAN","The influence of Old Norse literature upon English literature /","Nordby, Conrad Hjalmar,",1901,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,460,"0",0
+"425",219125,"X001163970","PD2691 .G9 1942","ALDERMAN","Gyldendal's English-Norwegian & Norwegian-English dictionary.","",1942,"6/28/96","11/6/09",1,1,0,1,"2",FALSE,461,"0",0
+"426",7374976,"X032087876","PD25 .C6 v.1 no.1 1900","ALDERMAN","Scandinavian influence on Southern Lowland Scotch : A contribution to the study of the linguistic relations of English and Scandinavian ...","Flom, George T. (George Tobias),",1900,"3/9/18","1/1/00",0,0,0,1,"2",TRUE,462,"0",0
+"427",477558,"X000284300","PD76 .H6 1975","ALDERMAN","The syntax of the simple sentence in proto-germanic /","Hopper, Paul J.",1975,"6/29/96","12/2/02",0,2,0,1,"2",FALSE,463,"0",0
+"428",617935,"X032021045","PD2209 .T8","ALDERMAN","Nine Norse studies / by Gabriel Turville-Petre.","Turville-Petre, Gabriel.",1972,"6/29/96","1/28/04",0,1,0,1,"2",FALSE,464,"0",0
+"429",2323953,"X002497241","PD25 .S8 no.34","ALDERMAN","Jeroen Brouwers' De zondvloed : de schrijver en zijn schrijverschap : beeld in het muzikale spiegelbeeld /","Verhoeven, Karel.",1994,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,465,"0",0
+"430",2323959,"X002497243","PD25 .S8 no.35","ALDERMAN","Fernsehkrimis ""made in Germany"" : eine inhaltliche und sprachlich-stilistische Analyse /","Zwaenepoel, Tom.",1994,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,465,"0",0
+"431",1013747,"X000618775","PD175 .C3","ALDERMAN","Nominal compounds in Germanic,","Carr, C. T. (Charles Telford)",1939,"6/29/96","5/1/08",0,3,0,1,"2",FALSE,466,"0",0
+"432",1991552,"X002119667","PD2671 .S9 1989","ALDERMAN","Syntaks/syntax /","",1989,"6/30/96","1/1/00",0,2,0,1,"2",FALSE,467,"0",0
+"433",1054531,"X000459760","PD64 .G7 G43","ALDERMAN","Br¸der Grimm in Selbstzeugnissen und Bilddokumenten /","Gerstner, Hermann,",1973,"6/29/96","1/22/02",0,3,0,1,"2",TRUE,468,"0",0
+"434",2244404,"X002286149","PD25 .S8 no.32","ALDERMAN","Focalisatie : theorie en analyse : twee studies /","Strynckx, Mieke.",1993,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,469,"0",0
+"435",1858324,"X002001137","PD25 .S8 v.25","ALDERMAN","Stimmen aus dem Volk? : Volks- und Kunstdichtung bei Johann Karl August Mus‰us und Gottfried August B¸rger /","Lox, Harlinde.",1990,"6/30/96","9/21/99",0,2,0,1,"2",TRUE,471,"0",0
+"436",516620,"X000293021","PD131 .K5","ALDERMAN","Historische Laut- und Formenlehre des Deutschen.","Kienle, Richard von,",1969,"6/29/96","9/18/02",0,3,0,1,"2",FALSE,472,"0",0
+"437",2104952,"X004274306","PD25 .P3 no.172-174","ALDERMAN","Der Satzbau in der Prosa des jungen Goethe.","Heun, Hans Georg.",1930,"3/15/99","11/6/09",0,0,0,1,"2",TRUE,473,"0",0
+"438",2056882,"X002194600","PD25 .S8 v.29","ALDERMAN","Tweespraak : vier opstellen over Paul Celan = Zweisprache : vier Beitr‰ge zu Paul Celan /","",1992,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,474,"0",0
+"439",2056881,"X002194598","PD25 .S8 v.30","ALDERMAN","Tekstsoorten : een selectie uit het werk /","Gobyn, Luc.",1992,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,474,"0",0
+"440",2033726,"X002175437","PD2667 .A54 1992","ALDERMAN","A pragmatic analysis of Norwegian modal particles /","Andvik, Erik E.",1992,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,474,"0",0
+"441",1013138,"X000444587","PD2379 .C5","ALDERMAN","An Icelandic-English dictionary,","Cleasby, Richard,",1874,"6/29/96","9/29/15",1,9,3,2,"2",FALSE,475,"0",0
+"442",2056906,"X002153073","PD25 .S8 v.27","ALDERMAN","""Ich schlage sozusagen mit der Axt drein"" : stilistische, wirkungs‰sthetische und thematische Betrachtungen zu Elfriede Jelineks Roman Die Klavierspielerin /","Arteel, Inge.",1991,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,476,"0",0
+"443",77093,"X001153677","PD2235 .I94 1937","ALDERMAN","Norr¯n grammatikk /","Iversen, Ragnvald,",1937,"6/28/96","11/6/09",1,1,0,1,"2",FALSE,477,"0",0
+"444",2437058,"X002651034","PD2013 .B57 1995","ALDERMAN","Von ≈gdal bis Malt : die skandinavischen Runeninschriften vom Ende des 5. bis Ende des 9. Jahrhunderts /","Birkmann, Thomas.",1995,"7/1/96","1/1/00",2,0,0,1,"2",FALSE,478,"0",0
+"445",2434408,"X002618228","PD64 .S3 H37 1995","ALDERMAN","Daniel Sanders : aufgekl‰rte Germanistik im 19. Jahrhundert /","Hass, Ulrike.",1995,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,478,"0",0
+"446",2447432,"X002593710","PD64 .S34 S34 1995","ALDERMAN","Zum philologischen Werk J.A. Schmellers und seiner wissenschaftlichen Rezeption : eine Studie zur Wissenschaftsgeschichte der Germanistik /","Scheuerer, Franz Xaver.",1995,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,478,"0",0
+"447",1013754,"X001056374","PD511 .B4","ALDERMAN","Altdeutsche Verskunst in Grundz¸gen.","Beyschlag, Siegfried,",1969,"6/29/96","2/20/03",0,2,0,1,"2",FALSE,480,"0",0
+"448",7355534,"X032021103","PD2235 .H65 1895","ALDERMAN","Altisl‰ndisches Elementarbuch /","Holthausen, Ferdinand,",1895,"2/9/18","1/1/00",0,0,0,1,"2",FALSE,481,"0",0
+"449",2506071,"X031988750","PD25 .Q4 no.76-79","ALDERMAN","Huchown's Pistel of swete Susan.","Huchown.",1895,"2/8/18","1/1/00",0,0,0,1,"2",TRUE,482,"0",0
+"450",1809782,"X002194533","PD25 .S8 v.23","ALDERMAN","Meta : Kritik der Erkenntnis des Sprachlichen /","Willems, Klaas.",1990,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,484,"0",0
+"451",1991555,"X002119685","PD2685 .V3 1990","ALDERMAN","RadiosprÂket talt eller skrevet? : syntaktiske og pragmatiske tilnÊrminger i semiotisk perspektiv /","Vagle, Wenche.",1990,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,484,"0",0
+"452",2446306,"X002664108","PD159 .C637 1994","ALDERMAN","The vocalism of the Germanic parent language : systemic evolution and sociohistorical context /","Coetsem, Frans van.",1994,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,485,"0",0
+"453",2396259,"X002601203","PD2013 .R85 1994","ALDERMAN","Runische Schriftkultur in kontinental-skandinavischer und -angels‰chsischer Wechselbeziehung : internationales Symposium in der Werner-Reimers-Stiftung vom 24.-27. Juni 1992 in Bad Homburg /","",1994,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,485,"0",0
+"454",2713699,"X006053006","PD25 .S8 no.42","ALDERMAN","Het Nederlands van migranten : foutenanalyses over de mondelinge Nederlandse taalvaardigheid van Turkse en Marokkaanse migranten /","",1997,"8/29/97","9/3/97",0,1,0,1,"2",TRUE,486,"0",0
+"455",2506067,"X031988749","PD25 .Q4 no.74-75","ALDERMAN","Studien ¸ber das deutsche Volksbuch Lucidarius und seine Bearbeitungen in fremden Sprachen,","Schorbach, Karl,",1894,"2/8/18","1/1/00",0,0,0,1,"2",TRUE,487,"0",0
+"456",2144012,"X002271854","PD25 .S8 v.2","ALDERMAN","Subordinating conjunctions and x?-syntax /","Haegeman, Liliane M. V.",1985,"7/1/96","1/1/00",0,2,0,1,"2",TRUE,488,"0",0
+"457",2144014,"X002271858","PD25 .S8 v.4","ALDERMAN","An den Grenzen der Sprache : Interpretationen moderner deutscher Lyrik /","",1985,"7/1/96","1/1/00",0,2,0,1,"2",TRUE,488,"0",0
+"458",1682809,"X001957513","PD2224 .A37 1989","ALDERMAN","Altnordistik : Vielfalt und Einheit : Erinnerungsband f¸r Walter Baetke (1884-1978) /","",1989,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,489,"0",0
+"459",1991554,"X002119707","PD2672 .L625 1989","ALDERMAN","Norske hypotagmer : en LFG-beskrivelse av ikke-verbale hypotagmer /","L¯drup, Helge,",1989,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,489,"0",0
+"460",264830,"X001163945","PD1123 .D6","ALDERMAN","An introduction, phonological, morphological, syntactic to the Gothic of Ulfilas.","Douse, Thomas Le Marchant.",1886,"6/28/96","1/4/17",0,3,0,1,"2",FALSE,490,"0",0
+"461",2072811,"X002192048","PD95 .R43 1992","ALDERMAN","Recent developments in Germanic linguistics /","",1992,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,491,"0",0
+"462",445728,"X000604278","PD64 .G7 S37","ALDERMAN","Die Br¸der Grimm in Bildern ihrer Zeit","Schulte-Kemminghausen, Karl,",1963,"6/29/96","1/22/02",0,4,0,1,"2",FALSE,492,"0",0
+"463",2144021,"X002271872","PD25 .S8 v.11","ALDERMAN","Aspects of American poetry /","",1987,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,493,"0",0
+"464",2144022,"X002271874","PD25 .S8 v.12","ALDERMAN","Deutsch-Niederl‰ndisch kontrastiv : zwei Aspekte aus dem syntaktischen und lexikalischen Bereich /","Hinderdael, M.",1987,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,493,"0",0
+"465",1991557,"X002119663","PD2619 .F6 1987","ALDERMAN","Norske grammatikker pÂ 1800-tallet /","Fossest¯l, Bernt,",1987,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,494,"0",0
+"466",2144019,"X002271868","PD25 .S8 v.9","ALDERMAN","Aspects of style in British newspapers /","",1986,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,496,"0",0
+"467",1223775,"X001108315","PD5625 .M3 1986","ALDERMAN","Bonniers svenska ordbok /","Malmstrˆm, Sten,",1986,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,497,"0",0
+"468",1729358,"X001809114","PD25 .S8 v.19","ALDERMAN","Betekenis en produktiviteit : gentse bijdragen tot de studie van de nederlandse woordvorming /","",1990,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,499,"0",0
+"469",1809779,"X002115517","PD25 .S8 v.22","ALDERMAN","Abrikozen, kersen, Perziken : een arabeske eksploratie van Ivo Michiels' schrijven /","Maertens, Erik.",1990,"6/30/96","1/1/00",1,0,0,1,"2",TRUE,499,"0",0
+"470",1991561,"X032020206","PD2696 .S76 1990","ALDERMAN","Den Store dialektboka /","",1990,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,499,"0",0
+"471",499494,"X000039362","PD2014 .B32","ALDERMAN","MÂlruner og troldruner; runemagiske studier.","BÊksted, Anders,",1952,"6/29/96","4/20/05",0,2,0,1,"2",FALSE,500,"0",0
+"472",2144013,"X002271876","PD25 .S8 v.3","ALDERMAN","Leksikaal-semantische aspekten van de Nederlandse woordvorming /","CaluwÈ, Jacques de.",1985,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,501,"0",0
+"473",2144015,"X002271860","PD25 .S8 v.5","ALDERMAN","Vertellen en focaliseren /","Caluwe, Gert de.",1985,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,501,"0",0
+"474",2144016,"X002271862","PD25 .S8 v.6","ALDERMAN","(Nog maar) pas : twee semantische studies op historische en woordgeografische basis /","Devos, Magda.",1985,"7/1/96","1/1/00",0,1,0,1,"2",TRUE,501,"0",0
+"475",1827571,"X001809100","PD3066 .D35 1985","ALDERMAN","Dansk som fremmedsprog /","",1985,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,502,"0",0
+"476",1991553,"X002119729","PD2672 .F58 1987","ALDERMAN","Possessor chains in Norwegian /","Fiva, Toril,",1987,"6/30/96","10/27/98",0,2,0,1,"2",FALSE,503,"0",0
+"477",1013795,"X031768839","PD2002 .W5 1893 bd.1 pt.2","ALDERMAN","De danske runemindesmÊrker /","Wimmer, Ludv. F. A. (Ludvig Frands Adalbert),",1893,"4/28/17","1/1/00",0,0,0,6,"2",TRUE,504,"0",0
+"478",1607102,"X001648778","PD1193 .K594 1989","ALDERMAN","Gotisches Wˆrterbuch /","Kˆbler, Gerhard,",1989,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,505,"0",0
+"479",2013923,"X002187149","PD2437 .A84 1989","ALDERMAN","Õslensk orsifjabÛk /","¡sgeir Blˆndal Magn˙sson,",1989,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,505,"0",0
+"480",1374002,"X001615409","PD25 .S8 v.17","ALDERMAN","Feit en fictie in de negentiende-eeuwse engelse roman /","",1989,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,505,"0",0
+"481",1753604,"X001813205","PD700 .C35 1989 Bd.1","ALDERMAN","Neue Sprachschranken im ""Land ohne Grenzen""? : zum Einfluss politischer Grenzen auf die germanischen Mundarten in der belgisch-niederl‰ndisch-deutsch-luxemburgischen Euregio /","Cajot, JosÈ.",1989,"6/30/96","1/1/00",2,0,0,2,"2",TRUE,505,"0",0
+"482",2144024,"X001476292","PD25 .S8 v.14","ALDERMAN","Zu den Bezeichnungen f¸r das Kultgeb‰ude im Deutsch des 11. und 12. Jahrhunderts /","Cubber, Walter de.",1988,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,506,"0",0
+"483",2144500,"X002301875","PD95 .G43 1988","ALDERMAN","Gedenkschrift f¸r Ingerid Dal /","",1988,"7/1/96","1/1/00",1,0,0,1,"2",FALSE,506,"0",0
+"484",1360848,"X001596495","PD25 .S8 v.16","ALDERMAN","Huldenummer prof. dr. Ada Deprez aangeboden bij haar zestigste verjaardag.","",1988,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,507,"0",0
+"485",1312509,"X001505549","PD5066 .H36 1988","ALDERMAN","Studien zur Phonologie des Zweitsprachenerwerbs /","Hammarberg, Bjˆrn,",1988,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,507,"0",0
+"486",2104645,"X000676540","PD25 .P3 no.141-145","ALDERMAN","Die Religion Lessings,","Fittbogen, Gottfried,",1923,"6/29/96","6/3/05",0,8,0,1,"2",TRUE,508,"0",0
+"487",1357473,"X001596568","PD2207 .S85 hefti 42","ALDERMAN","FrÛ·rundur Ì Eyrbyggju /","Kjartan G. OttÛsson.",1983,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,509,"0",0
+"488",1013181,"X000335874","PD3640 .L3 1897","ALDERMAN","Dansk-norsk-engelsk ordbog","Larsen, A. (Anton),",1897,"6/29/96","8/24/15",0,2,0,2,"2",FALSE,510,"0",0
+"489",1291284,"X001397926","PD1193 .A57 1987","ALDERMAN","R¸ckl‰ufiges Wˆrterbuch des Bibelgotischen : ein Entwurf /","Anreiter, Peter P.",1987,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,511,"0",0
+"490",1223380,"X001465240","PD1581.7 .N68 1987","ALDERMAN","Nordic prosody IV : papers from a symposium /","",1987,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,511,"0",0
+"491",1289717,"X001396991","PD2207 .S85 hefti 45","ALDERMAN","Undarleg t·kn · tÌmans b·rum : ljÛ og fagurfrÊi Benedikts Grˆndals /","ﬁÛrir ”skarsson.",1987,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,511,"0",0
+"492",1358481,"X001452438","PD2679 .V5 1987","ALDERMAN","Moderne norsk : rÂd og regler for praktisk sprÂkbruk /","Vinje, Finn-Erik,",1987,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,511,"0",0
+"493",7355532,"X032021102","PD1536 .N59 1887","ALDERMAN","De nordiska spraken : kartfattad oversikt","Noreen, Adolf",1887,"2/9/18","1/1/00",0,0,0,1,"2",FALSE,512,"0",0
+"494",690205,"X001161115","PD63 .S76 1984","ALDERMAN","Die Br¸der Grimm, Erbe und Rezeption : Stockholmer Symposium 1984 /","Stockholmer Symposium",1985,"6/29/96","9/17/98",1,2,0,1,"2",FALSE,513,"0",0
+"495",50171,"X032021043","PD2207 .S85 hefti 40","ALDERMAN","BÊkur og lesendur : um lestrarvenjur /","”lafur JÛnsson.",1982,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,514,"0",0
+"496",2144017,"X002271864","PD25 .S8 v.7","ALDERMAN","Die Todesgestaltung in den Kinder- und Hausm‰rchen der Br¸der Grimm /","Lox, Harlinde.",1986,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,515,"0",0
+"497",2144018,"X031981156","PD25 .S8 v.8","ALDERMAN","""Vom Lesen und Schreiben"" : Aufs‰tze zur deutschen Literatur von der Romantik bis zur Gegenwart : Prof. Dr. Edward Verhofstadt zum 60. Geburtstag /","",1986,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,515,"0",0
+"498",1238032,"X001296643","PD2381 .K62 1986","ALDERMAN","Altnordisch-neuhochdeutsches und neuhochdeutsch-altnordisches Wˆrterbuch /","Kˆbler, Gerhard,",1986,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,516,"0",0
+"499",1303021,"X000993255","PD5075 .A55 1986","ALDERMAN","Svenska akademien och svenska sprÂket : tre studier /","AllÈn, Sture,",1986,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,516,"0",0
+"500",709062,"X001209586","PD1514 .B3 F4 1986","ALDERMAN","Festschrift f¸r Oskar Bandle : zum 60. Geburtstag am 11. Januar 1986 /","",1986,"6/29/96","1/1/00",1,0,0,1,"2",TRUE,517,"0",0
+"501",792550,"X001311470","PD2207 .S85 hefti 44","ALDERMAN","¡st og ˙tleg : form og hugmyndafrÊdi Ì Ìslenskri sagnager 1850-1920 /","MatthÌas Viar SÊmundsson.",1986,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,517,"0",0
+"502",714058,"X001226716","PD2675 .M6 1986","ALDERMAN","Sjanger /","Moe, Karin.",1986,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,517,"0",0
+"503",769484,"X001158631","PD2688 .B6 1986","ALDERMAN","BokmÂlsordboka : definisjons- og rettskrivningsordbok /","",1986,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,517,"0",0
+"504",789024,"X001296677","PD64 .G7 B78 1986","ALDERMAN","Die Br¸der Grimm in Gˆttingen 1829-1837 /","",1986,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,517,"0",0
+"505",686632,"X001225472","PD66 .E54 1986","ALDERMAN","Germanisten und Germanen : Germanenideologie und Theoriebildung in der deutschen Germanistik und Nordistik von den Anf‰ngen bis 1945 in exemplarischer Darstellung /","Engster, Hermann,",1986,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,517,"0",0
+"506",102360,"X030591598","PD25 .G38 1986","ALDERMAN","Germanic dialects : linguistic and philological investigations /","",1986,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,518,"0",0
+"507",1013142,"X032021048","PD2381 .F7 1886 v.2","ALDERMAN","Ordbog over det gamle norske sprog,","Fritzner, Johan,",1886,"2/9/18","1/1/00",0,0,0,3,"2",TRUE,519,"0",0
+"508",2451762,"X006041739","PD1123 .V64 1995","ALDERMAN","Minimalgrammatik des Gotischen : mit einer ausf¸hrlichen Einleitung /","Vogel, Petra Maria.",1995,"7/1/96","7/9/97",0,1,0,1,"2",FALSE,521,"0",0
+"509",1013110,"X001269290","PD2013 .M85 1965","ALDERMAN","Introduction ‡ la runologie,","Musset, Lucien.",1965,"6/29/96","12/10/02",1,1,0,1,"2",FALSE,522,"0",0
+"510",2414332,"X001081443","PD63 .A12 1985 Bd. 1","ALDERMAN","Die Br¸der Grimm : Dokumente ihres Lebens und Wirkens /","",1985,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,523,"0",0
+"511",695135,"X001057816","PD25 .A2 1985","ALDERMAN","Abhandlungen zur germanischen Philologie : Festgabe f¸r Richard Heinzel.","",1985,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,524,"0",0
+"512",705231,"X001239976","PD5505 .M35 1985","ALDERMAN","Meter, rytm och ljudgestaltning i bunden vers : exemplet Karlfeldt /","Malm, Ulf.",1985,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,524,"0",0
+"513",711567,"X001209255","PD63 .B3 1985","ALDERMAN","Jacob Grimm und Lorenz Diefenbach im Briefwechsel : Begleitheft zu einer Ausstellung in der Universit‰tsbibliothek Giessen vom 2. bis 24. Dezember 1985 /","Bader, Bernd,",1985,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,524,"0",0
+"514",768221,"X001247107","PD64 .B58 N37 1985","ALDERMAN","Narziss mit Brille : Kapitel einer Autobiographie /","Blume, Bernhard,",1985,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,524,"0",0
+"515",682406,"X001205405","PD64 .G7 A4 1985","ALDERMAN","Jacob Grimm ¸ber seine Entlassung.","Grimm, Jacob,",1985,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,524,"0",0
+"516",690331,"X001160985","PD64 .G7 L42 1985","ALDERMAN","Leben und Werk der Br¸der Grimm von Gˆttingen aus gesehen : eine Ausstellung der Nieders‰chsischen Staats- und Universit‰tsbibliothek im Foyer der Bibliothek, 24.6.-20.7.1985 /","",1985,"6/29/96","1/1/00",1,0,0,1,"2",TRUE,524,"0",0
+"517",707407,"X001183519","PD64 .S34 J6 1985","ALDERMAN","Johann Andreas Schmeller, 1785-1852 : Ged‰chtnisausstellung zum 200. Geburtsjahr /","",1985,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,524,"0",0
+"518",104339,"X001057751","PD2014 .J36 1983","ALDERMAN","TvÂ runstenar i H‰lsingland, Malsta och SunnÂ /","Jansson, Sven B. F. (Sven Birger Fredrik),",1985,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,525,"0",0
+"519",91527,"X001019112","PD2014 .R8 1985","ALDERMAN","Runen, Tamgas und Graffiti aus Asien und Osteuropa /","",1985,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,525,"0",0
+"520",92139,"X001144021","PD2207 .S85 hefti 43","ALDERMAN","¡hrif Hugsvinnsm·la · arar fornbÛkmenntir /","Hermann P·lsson,",1985,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,525,"0",0
+"521",101600,"X001062921","PD505 .N34 1985","ALDERMAN","Das Reimproblem in der deutschen Dichtung : vom Otfridvers zum freien Vers /","Nagel, Bert.",1985,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,525,"0",0
+"522",101126,"101126-1001","PD63 .A12 1985","ALDERMAN","200 Jahre Br¸der Grimm.","",1985,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,525,"0",0
+"523",2105092,"X004461331","PD25 .P3 no.257","ALDERMAN","A. W. Schlegels Shakespeare-‹bersetzung. Untersuchungen zu seinem ‹bersetzungsverfahren am Beisp. d. Hamlet.","Gebhardt, Peter.",1970,"6/30/96","1/19/01",0,2,0,1,"2",TRUE,526,"0",0
+"524",1013169,"X000462726","PD3111 .G8 1894","ALDERMAN","A Danish and Dano-Norwegian grammar /","Groth, Peter Olsen,",1894,"6/29/96","8/24/15",0,1,0,1,"2",FALSE,527,"0",0
+"525",417093,"X001153668","PD2376 .H2 1930","ALDERMAN","Gamalnorsk ordbok med nynorsk tyding /","HÊgstad, Marius,",1930,"6/29/96","11/6/09",0,0,0,1,"2",FALSE,528,"0",0
+"526",53153,"X000920245","PD1581.7 .N67 1984","ALDERMAN","Nordic prosody III : papers from a symposium /","",1984,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,529,"0",0
+"527",68304,"X000918698","PD2213 .J45 1984","ALDERMAN","Jenseits von Index und Konkordanz : Beitra‰ge zur Auswertung maschinenlesbarer altnordischer Texte /","",1984,"6/28/96","1/1/00",1,0,0,1,"2",FALSE,529,"0",0
+"528",81685,"X001012332","PD2271 .F59 1984","ALDERMAN","Wortschatz der JÛnsbÛk /","Fix, Hans,",1984,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,529,"0",0
+"529",62581,"X000904647","PD3691 .P48 1984","ALDERMAN","Nye ord i dansk 1955-75 /","Petersen, Pia Riber.",1984,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,529,"0",0
+"530",91050,"X001019096","PD64 .G7 G74 1984","ALDERMAN","Selbstbiographie : Ausgew‰hlte Schriften, Reden und Abhandlungen /","Grimm, Jacob,",1984,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,529,"0",0
+"531",2506076,"X031988753","PD25 .Q4 no.80 1898","ALDERMAN","Quellen des weltlichen Dramas in England vor Shakespeare. Ein Erg‰nzungsband zu Dodsley's Old English plays.","Brandl, Alois,",1898,"7/1/96","8/24/15",0,0,0,1,"2",TRUE,530,"0",0
+"532",1782721,"X002060490","PD1115 .S28 1987","ALDERMAN","Goti e Longobardi : studi di filologia germanica /","Scardigli, Piergiuseppe.",1987,"6/30/96","10/17/97",0,2,0,1,"2",FALSE,531,"0",0
+"533",1729286,"X001809411","PD64 .G7 J33 1989","ALDERMAN","Jacob und Wilhelm Grimm : fachwissenschaftliche und fachdidaktische Beitr‰ge zur Werk- und Wirkungsgeschichte /","",1989,"6/30/96","3/5/98",1,1,0,1,"2",FALSE,532,"0",0
+"534",1338155,"X030833267","PD2483 .E84 1922","ALDERMAN","LesibÛk : LesibÛk fyri eldri b¯rn /","Evensen, A. C. (Andreas Christian),",1922,"6/30/96","3/10/11",0,0,0,1,"2",FALSE,533,"0",0
+"535",2105024,"X004762051","PD25 .P3 no.202-205","ALDERMAN","Die religiosit‰t des Johann Jakob Christoffel von Grimmelshausen,","Fuchs, K‰te,",1935,"12/6/06","1/1/00",0,0,0,1,"2",TRUE,534,"0",0
+"536",1230442,"X001463532","PD2005 .N5 1983","ALDERMAN","Danske runeindskrifter : et udvalg med kommentarer /","Nielsen, Niels ≈ge,",1983,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,535,"0",0
+"537",39724,"X000935930","PD2014 .J335 1983","ALDERMAN","De stavlˆsa runornas tydning /","Jansson, Sven B. F. (Sven Birger Fredrik),",1983,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,536,"0",0
+"538",7355267,"X031981187","PD5645 .G3 H45 1883","ALDERMAN","Neues vollst‰ndiges schwedisch-deutsches und deutsch-schwedisches Wˆrterbuch, nebst einem kurzen Abrisse der Formenlehre beider Sprachen /","Helms, Svenn Henrik.",1883,"2/9/18","1/1/00",0,0,0,1,"2",FALSE,537,"0",0
+"539",221843,"X000402660","PD139.7 .L5 1982 V.1","ALDERMAN","Germanic accentology /","Liberman, Anatoly.",1982,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,538,"0",0
+"540",94095,"X032021044","PD2207 .S85 hefti 41","ALDERMAN","Mynd n˙tÌmamannsins : um tilvistarleg vihorf Ì sˆgum Gunnars Gunnarssonar /","MatthÌas Viar SÊmundsson.",1982,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,538,"0",0
+"541",36344,"X000887258","PD3445 .L8 1982","ALDERMAN","Sprog og sprogbrug i dag : 6 kapitler om det danske sprog i det 20. Ârhundrede /","Lund, J¯rn.",1982,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,538,"0",0
+"542",16488,"X000862063","PD3921 .A5 1982","ALDERMAN","Politikens slangordbog /","Anker-M¯ller, S¯ren.",1982,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,538,"0",0
+"543",327772,"X000056295","PD26 .A25 S8","ALDERMAN","Studi di filologia germanica e di letteratura tedesca in onore di Nicola Accolti Gil Vitale /","",1977,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,539,"0",0
+"544",2104932,"X004893741","PD25 .P3 no.158-162","ALDERMAN","Clemens Brentano und Goethe /","Scholz, Felix.",1927,"6/30/96","11/6/09",1,0,0,1,"2",TRUE,541,"0",0
+"545",639331,"X032021029","PD1538 .G47 A73 1981","ALDERMAN","Akten der Vierten Arbeitstagung der Skandinavisten des deutschen Sprachgebiets : 1. bis 5. Oktober 1979 in Bochum /","Arbeitstagung der Skandinavisten des deutschen Sprachgebiets",1981,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,542,"0",0
+"546",660624,"X000358376","PD5837 .S3 O353 1981","ALDERMAN","SkÂnsk-svenskt dialektlexikon /","Ohlmarks, ≈ke,",1981,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,542,"0",0
+"547",54399,"X001017608","PD1350 .A5 1981","ALDERMAN","Tre glossari Longobardo-latini /","Albano Leoni, Federico.",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,543,"0",0
+"548",117812,"X000458945","PD1544.8 .I57","ALDERMAN","Internordisk sprÂkfˆrstÂelse : fˆredrag och diskussioner vid ett symposium pÂ Rungstedgaard utanfˆr Kˆpenhamn den 24-26 mars 1980, anordnat av Sekretariatet fˆr nordiskt kulturellt samarbete vid Nordiska ministerrÂdet /","",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,543,"0",0
+"549",25855,"X000168644","PD582 .W6 1981","ALDERMAN","Wˆrter und Sachen im Lichte der Bezeichnungsforschung /","",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,543,"0",0
+"550",16069,"X000683186","PD64 .S32 A34 1981","ALDERMAN","Dal diario di un critico : memorie di un germanista (1937-1958) /","Santoli, Vittorio.",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,543,"0",0
+"551",435006,"X001059502","PD3580 .N5 1976","ALDERMAN","Dansk etymologisk ordbog : ordenes historie /","Nielsen, Niels ≈ge,",1976,"6/29/96","1/1/00",1,1,0,1,"2",FALSE,546,"0",0
+"552",326836,"X000032645","PD64 .S5 M6 1976","ALDERMAN","Karl Simrock : Universit‰tslehrer u. Poet, Germanist u. Erneuerer von ""Volkspoesie"" u. ‰lterer ""Nationalliteratur"" : ein St¸ck Literatur-, Bildungs- u. Wiss.- Geschichte d. 19. Jahrhunderts /","Moser, Hugo,",1976,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,547,"0",0
+"553",2506016,"X031743884","PD25 .Q4 no.43-45","ALDERMAN","Die kindheit Jesu,","Konrad,",1881,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,548,"0",0
+"554",1325959,"X001455547","PD63 .V3 1987","ALDERMAN","B. Kopitars Briefwechsel mit Jakob Grimm /","Vasmer, Max,",1987,"6/30/96","1/27/97",0,2,0,1,"2",FALSE,550,"0",0
+"555",2506008,"X031743882","PD25 .Q4 no.37-39","ALDERMAN","‹ber den einfluss des reimes auf die sprache Otfrids besonders in bezug aufl?aut- unf f?rmenlehre","Ingenbleek, Theodor.",1880,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,552,"0",0
+"556",2506011,"X031743883","PD25 .Q4 no.40-42","ALDERMAN","Das deutsche Ritterdrama das achtzehnten Jahrhunderts.","Brahm, Otto,",1880,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,552,"0",0
+"557",190551,"X000603798","PD2621 .V54","ALDERMAN","Norsk sprÂk--tilstand og vekst : aktuelle sprÂkproblemer, grammatikk og sprÂkhistorie /","Vinje, Finn-Erik,",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,553,"0",0
+"558",219549,"X000222046","PD3591 .A6 1979","ALDERMAN","Dansk synonymordbog /","Albeck, Ulla.",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,553,"0",0
+"559",180949,"X000502027","PD64 .G7 A28 1979","ALDERMAN","Jacob und Wilhelm Grimm ¸ber ihre Entlassung : Faksimile des Druckmanuskripts ihrer Rechtfertigungsschrift von 1838 aus dem Nachlass Grimm der Staatsbibliothek Preussischer Kulturbesitz Berlin / mit einem Nachwort herausgegeben von Dieter Hennig.","Grimm, Jacob,",1979,"6/28/96","1/1/00",1,0,0,1,"2",FALSE,553,"0",0
+"560",1013743,"X002196750","PD131 .R8 1974","ALDERMAN","Proto-Germanic /r/; the pronunciation of /r/ throughout the history of the Germanic languages,","Runge, Richard M.,",1974,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,554,"0",0
+"561",2506006,"X031743877","PD25 .Q4 no.34-36","ALDERMAN","Aus Goethes fr¸hzeit. Bruchst¸cke eines commentares zum jungen Goethe","Scherer, Wilhelm,",1879,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,555,"0",0
+"562",240434,"X000014324","PD5625 .B4","ALDERMAN","Olika lika ord : svenskt homograflexikon /","Berg, Sture,",1978,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,556,"0",0
+"563",245177,"X000528280","PD5802 .F5","ALDERMAN","Finlandssvenskan : Fakta och debatt /","",1978,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,556,"0",0
+"564",631154,"X001153676","PD2621 .B5","ALDERMAN","RiksmÂl og moderat bokmÂl. En sammenlignende oversikt.","Bleken, Brynjulv.",1973,"6/29/96","1/1/00",1,1,0,1,"2",FALSE,558,"0",0
+"565",2505994,"X030685070","PD25 .Q4 no.25-27","ALDERMAN","Kleinere lateinische Denkm‰ler der Thiersage aus dem zwˆlften bis vierzehnten Jahrhundert.","Voigt, Ernst,",1878,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,559,"0",0
+"566",2505998,"X004576170","PD25 .Q4 no.28-30","ALDERMAN","Willirams deutsche Paraphrase des Hohen Liedes,","Williram,",1878,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,559,"0",0
+"567",132381,"X000779858","PD64 .B38 G6 1981","ALDERMAN","Wolf Heinrich Graf Baudissin : Leben und Werk eines grossen ‹bersetzers /","Goldmann, Bernd.",1981,"6/28/96","9/19/97",1,2,0,1,"2",TRUE,560,"0",0
+"568",97385,"X001153652","PD2014 .M4","ALDERMAN","Skandinavskie runicheskie nadpisi : teksty, perevod, kommentari? /","Mel?nikova, E. A. (Elena Aleksandrovna)",1977,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,561,"0",0
+"569",332341,"X000272659","PD25 .G3 1977","ALDERMAN","Die Bindungen im LjÛdah·ttr : ein Beitrag zur Lehre vom altnordischen Strophenbau /","Alexander, Gerhard.",1977,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,561,"0",0
+"570",335830,"X030507285","PD2688 .R5","ALDERMAN","RiksmÂlsordboken /","",1977,"6/28/96","1/1/00",1,0,0,1,"2",FALSE,561,"0",0
+"571",336337,"X000401967","PD5591 .O7 1977","ALDERMAN","Ord fˆr ord : svenska synonymer och uttryck /","",1977,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,561,"0",0
+"572",2505988,"X031988748","PD25 .Q4 no.19-21 1877","ALDERMAN","Eilhart von Oberge /","Eilhart,",1877,"2/8/18","1/1/00",0,0,0,1,"2",TRUE,562,"0",0
+"573",20059,"X000210221","PD5111 .B64 1936","ALDERMAN","Elementary Swedish grammar,","Borland, Harold Howie.",1936,"6/28/96","12/18/04",0,3,0,1,"2",FALSE,563,"0",0
+"574",2101873,"X030574520","PD25 .P3 no.70-73","ALDERMAN","‹ber die nachgestellten pr‰positionen im angels‰chsischen.","Wende, Fritz,",1915,"6/30/96","3/10/11",0,0,0,1,"2",TRUE,564,"0",0
+"575",427507,"X000534050","PD1543 .M38 1976","ALDERMAN","NaborsprÂksforstÂelse i Skandinavia : en unders¯kelse om gjensidig forstÂelse av tale- og skriftsprÂk i Danmark, Norge og Sverige /","Maurud, ÿivind.",1976,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,565,"0",0
+"576",427464,"X000466682","PD5111 .L5","ALDERMAN","Beskrivande svensk grammatik /","Lindberg, Ebba,",1976,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,565,"0",0
+"577",1013733,"X032004224","PD95 .V663","ALDERMAN","Voprosy romano-germansko? filologii.","",1976,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,565,"0",0
+"578",276151,"X000011809","PD1513 .I5 1976","ALDERMAN","The Nordic languages and modern linguistics/3 : proceedings /","International Conference of Nordic and General Linguistics",1976,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,566,"0",0
+"579",398384,"398384-1001","PD1545 .H3","ALDERMAN","The Scandinavian languages : an introduction to their history /","Haugen, Einar,",1976,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,566,"0",0
+"580",309105,"X000773570","PD23 .M37","ALDERMAN","A North Sea germanic reader /","Markey, Thomas L.",1976,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,566,"0",0
+"581",336926,"X032020203","PD3828 .B4 1976 d.1","ALDERMAN","Udvalgte jydske digte /","Berntsen, Anton,",1976,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,566,"0",0
+"582",327095,"X030507319","PD5640 .S9 1976","ALDERMAN","Svensk-engelsk ordbok /","",1976,"6/28/96","1/1/00",0,0,0,1,"1 2",FALSE,566,"0",0
+"583",1013767,"X030833264","PD1123 .J3 1914","ALDERMAN","Gotische sprachdenkm‰ler, mit grammatik,","Jantzen, Hermann,",1914,"6/29/96","3/10/11",0,0,0,1,"2",FALSE,567,"0",0
+"584",2505984,"X031743879","PD25 .Q4 no.16-18 1876","ALDERMAN","King Horn. Untersuchungen zur mittelenglischen Sprach und Litteraturgeschichte,","Wissmann, Theodor.",1876,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,568,"0",0
+"585",1335464,"X002267171","PD2313 .N9 1905","ALDERMAN","Norr¯n syntax,","Nygaard, M. (Marius),",1905,"6/30/96","3/10/11",0,2,0,1,"2",FALSE,569,"0",0
+"586",1013786,"X032021015","PD1514 .W43 N6","ALDERMAN","Nordiske studier : festskrift til Chr. WestergÂrd-Nielsen pÂ 65-Ârsdagen den 24. november 1975 /","",1975,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,571,"0",0
+"587",340476,"X000228429","PD1850 .N6 1975","ALDERMAN","GrannsprÂk och minoritetssprÂk i Norden = Pohjoismaiset naapuri- ja v‰hemmistˆkielet /","Nordiskt sprÂkseminarium",1975,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,572,"0",0
+"588",380714,"X000293023","PD201 .W519","ALDERMAN","Die altnordischen und westgermanischen Nomina postverbalia /","Wissmann, Wilhelm,",1975,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,572,"0",0
+"589",343066,"X000049810","PD2207 .S85 hefti 34","ALDERMAN","Lˆng er fˆr : ˛rÌr ˛Êttir um Ìrskar og Ìslenzkar sˆgur og kvÊi /","Einar ”l. Sveinsson,",1975,"6/28/96","1/1/00",1,0,0,1,"2",FALSE,572,"0",0
+"590",402220,"X000317771","PD2607 .V5","ALDERMAN","The New Morse language movement /","Vik¯r, Lars S.,",1975,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,572,"0",0
+"591",386608,"X000224545","PD27 .S6","ALDERMAN","Arbeiten zur germanischen Philologie und zur Literatur des Mittelalters /","Springer, Otto,",1975,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,572,"0",0
+"592",2105075,"X031988689","PD25 .P3 no.243","ALDERMAN","Studien zum Bild des Orients in vorhˆfischen deutschen Epen.","Szklenar, Hans.",1966,"6/30/96","1/1/00",0,2,0,1,"2",TRUE,573,"0",0
+"593",1013756,"X001533426","PD576 .S5","ALDERMAN","Die Personennamen der Germanen.","Siebs, Benno Eide,",1970,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,574,"0",0
+"594",2505976,"X031743880","PD25 .Q4 no.10-12 1875","ALDERMAN","‹ber den stil der altgermanischen poesie,","Heinzel, Richard,",1875,"7/1/96","2/8/18",0,0,0,1,"2",TRUE,575,"0",0
+"595",4198,"X000670037","PD361 .O5 1983","ALDERMAN","On the formal syntax of the Westgermania : papers from the ""3rd Groningen Grammar Talks,"" Groningen, January 1981 /","",1983,"6/28/96","7/31/97",0,1,0,1,"2",FALSE,576,"0",0
+"596",2105097,"X031988711","PD25 .P3 no.261","ALDERMAN","Studien zur Aufnahme und Kritik der Rokokolyrik zwischen 1740 und 1760 /","Perels, Christoph.",1974,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,577,"0",0
+"597",419546,"X000003937","PD3921 .B63 1974","ALDERMAN","Slang ordbogen : Dansk slang fra Ruder konges tid til ca. 1950 /","Bom, Kaj.",1974,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,578,"0",0
+"598",232351,"X032021017","PD2207 .S85 hefti 33","ALDERMAN","BlÛma m·l Ì rÌmum /","DavÌ Erlingsson.",1974,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,579,"0",0
+"599",2505964,"X031988751","PD25 .Q4 no.7-9","ALDERMAN","Geistliche Poeten der deutschen Kaiserzeit.","Scherer, Wilhelm,",1874,"2/8/18","1/1/00",0,0,0,2,"2",TRUE,580,"0",0
+"600",2246624,"X032021018","PD2207 .S85 Hefti 32","ALDERMAN","Myndm·l PassÌus·lmanna og arar athuganir um stÌl /","Helgi Sk˙li Kjartansson.",1973,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,581,"0",0
+"601",2105095,"X031988710","PD25 .P3 no.260","ALDERMAN","Die Gedichte des Wandsbecker Boten/","Kranefuss, Annelen.",1973,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,582,"0",0
+"602",1013762,"X031981331","PD1115 .S315","ALDERMAN","Die Goten: Sprache und Kultur.","Scardigli, Piergiuseppe.",1973,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,583,"0",0
+"603",623330,"X001163963","PD2001 .K5","ALDERMAN","Runenschrift, Schriftdenken, Runeninschriften/","Klingenberg, Heinz.",1973,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,583,"0",0
+"604",1013717,"X000382723","PD64.G7 B68 1973 V.1","ALDERMAN","Briefwechsel zwischen Jacob und Wilhelm Grimm, Dahlmann und Gervinus.","",1973,"6/29/96","1/1/00",0,0,0,2,"2",TRUE,583,"0",0
+"605",2246622,"X032021016","PD2207 .S85 Hefti 31","ALDERMAN","On the character of the old northern poetry /","Thomsen, GrÌmur Porgrimsson,",1972,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,585,"0",0
+"606",2105094,"X031988709","PD25 .P3 no.259","ALDERMAN","Mitternacht, Zeidler, Weise; das protestantische Schultheater nach 1648 im Kampf gegen hˆfische Kultur und absolutistisches Regiment.","Kaiser, Marianne.",1972,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,586,"0",0
+"607",617375,"X000155663","PD1514 .H6 W4","ALDERMAN","Saga og sprÂk; studies in language and literature.","Weinstock, John M.,",1972,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,587,"0",0
+"608",2105057,"X031988712","PD25 .P3 no.229 1971","ALDERMAN","Die Dramaturgie des sp‰ten Brecht.","Hinck, Walter.",1971,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,588,"0",0
+"609",2246619,"X032020940","PD2207 .S85 Hefti 29","ALDERMAN","Gumundur Kamban : Êskuverk og ·deilur /","Helga Kress.",1970,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,590,"0",0
+"610",2105046,"X031988692","PD25 .P3 no.220 1941","ALDERMAN","Fr¸hgeschichte des deutschen Reims /","Pretzel, Ulrich,",1970,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,591,"0",0
+"611",2105093,"X031988715","PD25 .P3 no.258","ALDERMAN","Adam Olearius' Persianischer Rosenthal.","Behzad, Faramarz.",1970,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,591,"0",0
+"612",661169,"X000311761","PD5075 .B39 1970","ALDERMAN","Kortfattad svensk sprÂkhistoria /","Bergman, Gˆsta,",1970,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,592,"0",0
+"613",1013192,"1013192-1001","PD5111 .B36 1970","ALDERMAN","Basic Swedish grammar","Beite, Ann-Mari.",1970,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,592,"0",0
+"614",1013719,"X004576878","PD64 .G7 G4 1970","ALDERMAN","Die Br¸der Grimm.","Gerstner, Hermann,",1970,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,592,"0",0
+"615",543057,"X000084370","PD71 .S3 V.1","ALDERMAN","Kurzer Grundriss der germanischen Philologie bis 1500.","Schmitt, Ludwig Erich,",1970,"6/29/96","1/1/00",0,0,0,2,"2",TRUE,592,"0",0
+"616",200945,"X000480872","PD5073 .W46 1970","ALDERMAN","VÂra folkmÂl /","WessÈn, Elias,",1970,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,593,"0",0
+"617",2101823,"X004763652","PD25 .P3 no.86-89","ALDERMAN","Der deutsche Facetus.","",1911,"6/30/96","11/6/09",0,1,0,1,"2",TRUE,594,"0",0
+"618",112747,"X000965481","PD1581.7 .N62","ALDERMAN","Nordic prosody II : papers from a symposium /","",1981,"6/28/96","1/23/97",2,1,0,1,"2",FALSE,596,"0",0
+"619",382518,"X000714038","PD101 .A5","ALDERMAN","A concise grammar of the older Runic inscriptions /","Antonsen, Elmer H.",1975,"6/28/96","4/26/97",0,2,0,1,"2",FALSE,597,"0",0
+"620",2246618,"X032020939","PD2207 .S85 Hefti 28","ALDERMAN","¡stakveskapur Bjarna Thorarensens og JÛnasar HallgrÌmssonar /","P·ll Bjarnason,",1969,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,598,"0",0
+"621",2105086,"X031988701","PD25 .P3 no.252 1969","ALDERMAN","Das fremde Kunstwerk; Aspekte der literarischen ‹bersetzung.","Wuthenow, Ralph-Rainer.",1969,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,599,"0",0
+"622",2105087,"X031988696","PD25 .P3 no.253 1969","ALDERMAN","Zur Geschichte der Kapitel¸berschrift im deutschen Roman vom 15. Jahrhundert bis zum Ausgang des Barock.","Wieckenberg, Ernst-Peter.",1969,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,599,"0",0
+"623",2105088,"X031988697","PD25 .P3 no.254","ALDERMAN","Die Stilprinzipien in den deutschen Briefstellern des 17. und 18. Jahrhunderts. Mit e. Bibliographie u. Briefschreiblehre &lt;1474-1800&gt;.","Nickisch, Reinhard M. G. (Reinhard Martin Georg),",1969,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,599,"0",0
+"624",2105090,"X031988698","PD25 .P3 no.255","ALDERMAN","Carl Einstein. Beitr‰ge zu einer Monographie.","Penkert, Sibylle.",1969,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,599,"0",0
+"625",2105091,"X031988699","PD25 .P3 no.256","ALDERMAN","Zur Darstellungsweise von Goethes Wilhelm Meisters Wanderjahre.","Gidion, Heidi.",1969,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,599,"0",0
+"626",2101728,"X000985216","PD25 .P3 no.59-64","ALDERMAN","Die Stellung des Verbums in der ‰lteren althoch-deutschen Prosa.","Diels, Paul,",1906,"6/29/96","11/6/09",1,2,0,1,"2",TRUE,600,"0",0
+"627",2246616,"X032020938","PD2207 .S85 Hefti 27","ALDERMAN","Endurteknar myndir Ì kveskap Bjarna Thorarensens /","ﬁorleifur Hauksson,",1968,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,601,"0",0
+"628",1764376,"X001841059","PD2013 .N53 1968","ALDERMAN","Runestudier.","Nielsen, Niels ≈ge,",1968,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,602,"0",0
+"629",2105082,"X031988707","PD25 .P3 no.248 1968","ALDERMAN","Klang und Bild in den Dichtungen Georg Trakls.","Wetzel, Heinz.",1968,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,602,"0",0
+"630",2105085,"X031988703","PD25 .P3 no.251 1968","ALDERMAN","Henrik Ibsen in Deutschland. Rezeption und Revision.","George, David E. R.",1968,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,602,"0",0
+"631",1013768,"X031981333","PD1123 .K77 1968","ALDERMAN","Handbuch des Gotischen.","Krause, Wolfgang,",1968,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,603,"0",0
+"632",1013114,"X032021042","PD2014 .D77 1968","ALDERMAN","Runenkunde.","D¸wel, Klaus.",1968,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,603,"0",0
+"633",1013708,"X000299487","PD26 .S4 1968","ALDERMAN","Germanic studies in honor of Edward Henry Sehrt, presented by his colleagues, students, and friends on the occasion of his eightieth birthday, March 3, 1968.","",1968,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,603,"0",0
+"634",616781,"X030506977","PD3640 .V52 1968","ALDERMAN","Engelsk-dansk ordbog.","Vinterberg, Hermann,",1968,"6/29/96","1/1/00",2,0,0,1,"2",FALSE,603,"0",0
+"635",1013196,"X001083381","PD5117 .M2 1968","ALDERMAN","A book of Swedish verse;","McClean, R. J. (Reginald John),",1968,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,603,"0",0
+"636",1013184,"X001405836","PD3640 .N5 1906","ALDERMAN","A New pocket-dictionary of the English and Dano-Norwegian languages.","",1909,"6/29/96","11/6/09",0,1,0,1,"2",FALSE,604,"0",0
+"637",2246615,"X032020937","PD2207 .S85 Hefti 26","ALDERMAN","Um Kjalnesinga sˆgu : nokkrar athuganir /","Helgi Gu?mundsson,",1967,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,605,"0",0
+"638",2105161,"X031988691","PD25 .P3 no.219 1940","ALDERMAN","Das englische Schrifttum in Deutschland von 1518-1600.","Wiem, Irene.",1967,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,606,"0",0
+"639",2105076,"X031988690","PD25 .P3 no.244 1967","ALDERMAN","A. W. Schegels Sommernachtstraum in der ersten Fassung vom Jahre 1789.","Shakespeare, William,",1967,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,606,"0",0
+"640",2105080,"X031988705","PD25 .P3 no.246 1967","ALDERMAN","Exemplarische Romanzen im Mittelenglischen.","Schelp, Hanspeter.",1967,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,606,"0",0
+"641",2105081,"X031988706","PD25 .P3 no.247 1967","ALDERMAN","Das Stimmungsbild. Musikmetaphorik und Naturgef¸hl in der dichterischen Prosaskizze 1721-1780.","Lecke, Bodo.",1967,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,606,"0",0
+"642",2105083,"X031988702","PD25 .P3 no.250 1967","ALDERMAN","Gliederungsmittel und ihre erz‰hlerischen Funktionen im Willehalm von Orlens des Rudolf von Ems.","Lenschen, Walter.",1967,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,606,"0",0
+"643",2246613,"X032020934","PD2207 .S85 Hefti 24","ALDERMAN","HelgafellsbÊkur fornar /","”lafur HalldÛrsson.",1966,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,607,"0",0
+"644",1308201,"X032020935","PD2207 .S85 Hefti 25","ALDERMAN","Raud˙lfs, p·ttr, a study.","Faulkes, Anthony.",1966,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,608,"0",0
+"645",2105073,"X031988687","PD25 .P3 no.241","ALDERMAN","Zeichensetzung. Stiluntersuchungen an deutscher Prosadichtung.","Stenzel, J¸rgen.",1966,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,608,"0",0
+"646",1013782,"X031981317","PD1194 .S7","ALDERMAN","Gotische Literaturdenkm‰ler","Stutz, Elfriede,",1966,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,609,"0",0
+"647",422424,"X032098310","PD25 .C6 no.9","ALDERMAN","Wieland and Shaftesbury.","Elson, Charles,",1966,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,609,"0",0
+"648",561373,"X032087885","PD25 .C6 v.3 no.3","ALDERMAN","Bayard Taylor's translation of Goethe's Faust.","Haskell, Juliana Catherine Shields,",1966,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,609,"0",0
+"649",381190,"X030697566","PD2376 .J5 1966","ALDERMAN","Lexicon poeticum antiquÊ linguÊ septentrionalis. Ordbog over det norsk-islandske skjaldesprog.","Finnur JÛnsson,",1966,"6/28/96","1/1/00",1,0,0,1,"2",FALSE,610,"0",0
+"650",248486,"X000390437","PD26 .W44 1962","ALDERMAN","Festschrift f¸r Ludwig Wolff zum 70. Geburtstag.","",1962,"6/28/96","5/30/97",1,4,0,1,"2",FALSE,611,"0",0
+"651",2105069,"X031988686","PD25 .P3 no.239","ALDERMAN","Gestalt und Funktion der Bilder im Drama Thomas Otways.","Fried, Gisela.",1965,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,613,"0",0
+"652",2105074,"X031988688","PD25 .P3 no.242","ALDERMAN","Das Wortspiel bei Karl Kraus /","Wagenknecht, Christian.",1965,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,613,"0",0
+"653",1013785,"X001197555","PD1514 .L4","ALDERMAN","Scandinavian studies; essays presented to Dr. Henry Goddard Leach on the occasion of his eighty-fifth birthday.","American-Scandinavian Foundation.",1965,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,614,"0",0
+"654",1013755,"X001533425","PD576 .S28 1965","ALDERMAN","Namenforschung; Festschrift f¸r Adolf Bach zum 75. Geburtstog am 31.","Sch¸tzeichel, Rudolf",1965,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,614,"0",0
+"655",1013759,"X030593458","PD660 .S4 1965","ALDERMAN","Wˆrterbuch der altgermanischen Personen- und Vˆlkernamen,","Schˆnfeld, Moritz,",1965,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,614,"0",0
+"656",73636,"X000311759","PD5073 .W4 1960","ALDERMAN","Riktig svenska : en handledning i svenska sprÂkets vÂrd /","Wellander, Erik Ludvig,",1965,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,615,"0",0
+"657",431801,"X000885177","PD60 .G3 R2","ALDERMAN","Geschichte der germanischen philologie vorzugsweise in Deutschland,","Raumer, Rudolf von,",1870,"6/29/96","9/9/15",0,2,0,1,"2",TRUE,616,"0",0
+"658",2105071,"X031988684","PD25 .P3 no.240","ALDERMAN","Sangverslyrik; ¸ber Gestalt und Geschichtlichkeit mittelhochdeutscher Lyrik am Beispiel des Leichs.","Bertau, Karl Heinrich.",1964,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,617,"0",0
+"659",555593,"X000459759","PD64 .G7 D36","ALDERMAN","Jacob Grimm und sein Bruder Wilhelm.","Denecke, Ludwig.",1971,"6/29/96","11/24/97",0,1,0,1,"2 3",TRUE,618,"0",0
+"660",2246609,"X032020964","PD2207 .S85 Hefti 21","ALDERMAN","Vanir og ∆sir /","”lafur Briem.",1963,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,619,"0",0
+"661",1345707,"X030697544","PD2437 .B64 1963","ALDERMAN","Õslenzk orabÛk, handa skÛlum og almenningi.","",1963,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,620,"0",0
+"662",2105062,"X031988695","PD25 .P3 no.234 1963","ALDERMAN","Paul Flemings Liebeslyrik; zur Geschichte des Petrarkismus.","Pyritz, Hans Werner,",1963,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,620,"0",0
+"663",2105068,"X031988685","PD25 .P3 no.238","ALDERMAN","Kˆning Arthur in der englischen Literatur des sp‰ten Mittelalters.","Gˆller, Karl Heinz.",1963,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,620,"0",0
+"664",2506027,"X004198628","PD25 .Q4 no.50-52","ALDERMAN","Eraclius. Deutsches gedicht des dreizehnten Jahrhunderts.","Otte,",1883,"3/5/99","11/6/09",0,3,0,1,"2",TRUE,622,"0",0
+"665",407381,"X000501675","PD2621 .S6","ALDERMAN","The written and spoken word in Norway,","Sommerfelt, Alf,",1942,"6/28/96","5/8/01",0,3,0,1,"2",FALSE,623,"0",0
+"666",2506079,"X001308835","PD25 .Q4 no.81-85","ALDERMAN","William Browne; his Britannia's pastorals and the pastoral poetry of the Elizabethan age.","Moorman, Frederic William,",1897,"12/21/98","11/6/09",2,0,0,1,"2",TRUE,624,"0",0
+"667",2246608,"X032020945","PD2207 .S85 Hefti 20","ALDERMAN","Snorri Sturluson och Egils saga SkallagrÌmssonar : ett fˆrsˆk till sprÂklig fˆrfattarbest‰mning /","Hallberg, Peter.",1962,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,625,"0",0
+"668",2104964,"2104964-1001","PD25 .P3 no.179","ALDERMAN","Die Klangmalerei bei Harsdˆrffer; ein Beitrag zur Geschichte der Literatur, Poetik und Sprachgeschichte der Barockzeit.","Kayser, Wolfgang,",1962,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,626,"0",0
+"669",2105060,"X031988714","PD25 .P3 no.232 1962","ALDERMAN","Laurence Sterne und der deutsche Roman des achtzehnten Jahrhunderts.","Michelsen, Peter.",1962,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,626,"0",0
+"670",437404,"X032020201","PD3640 .V48 1977","ALDERMAN","Dansk-engelsk ordbog /","Vinterberg, Hermann,",1975,"6/29/96","8/25/96",0,1,0,1,"1 2",FALSE,628,"0",0
+"671",1013159,"X001688779","PD2684 .S7 1945","ALDERMAN","English loan-words in modern Norwegian; a study of linguistic borrowing in the process.","Stene, Aasta,",1945,"6/29/96","4/25/01",1,2,0,1,"2",FALSE,629,"0",0
+"672",2506055,"X004347854","PD25 .Q4 no.68-69","ALDERMAN","‹ber die sprache der Ostgoten in Italien ...","Wrede, Ferdinand.",1891,"11/22/99","11/6/09",0,0,0,1,"2",TRUE,630,"0",0
+"673",2105059,"X031988713","PD25 .P3 no.231 1960","ALDERMAN","Studien zu Gerstenbergs Poetik. Ein Beitrag zur Umschichtung der ‰sthetischen und poetischen Grundbegriffe im 18. Jahrhundert.","Gerth, Klaus,",1960,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,632,"0",0
+"674",1341823,"1341823-1001","PD3640 .M34 1960","ALDERMAN","McKay's modern Danish-English, English-Danish dictionary /","Magnussen, Johs. (Johannes),",1960,"6/30/96","1/1/00",0,0,0,1,"1 2",FALSE,632,"0",0
+"675",311397,"X001163999","PD3817 .L3 G6","ALDERMAN","Langelandsk grammatik i hovedlinier.","Gotfredsen, Laurits Peder,",1955,"6/28/96","1/1/00",0,1,0,1,"2",TRUE,634,"0",0
+"676",2105053,"X031834088","PD25 .P3 no.227-230","ALDERMAN","Tristitia; Wortschatz und Vorstellung in den althochdeutschen Sprachdenkm‰lern.","Ruprecht, Dietrich.",1959,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,636,"0",0
+"677",225586,"X000915980","PD101 .D45","ALDERMAN","Synkretismus, ein Beitrag zur germanischen Kasuslehre /","Delbr¸ck, Berthold,",1907,"6/28/96","11/16/07",0,2,0,1,"2",FALSE,637,"0",0
+"678",2246605,"X031834155","PD2207 .S85 Hefti 16-17 1957-58","ALDERMAN","JÛn ˛orl·ksson, Icelandic translator of Pope and Milton.","Beck, Richard,",1957,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,638,"0",0
+"679",1013194,"X000428784","PD5111 .M4 1849","ALDERMAN","A practical grammar of the Swedish language, with reading and writing-exercises,","May, Alfred,",1849,"6/29/96","9/7/15",0,5,7,1,"2",FALSE,640,"0",0
+"680",328523,"X002307247","PD2223 .H4 1921","ALDERMAN","Altisl‰ndisches Elementarbuch,","Heusler, Andreas,",1921,"6/28/96","5/5/03",0,4,0,1,"2 14",FALSE,641,"0",0
+"681",1013126,"X000361560","PD2235 .R4 1843","ALDERMAN","A grammar of the Icelandic or Old Norse tongue,","Rask, Rasmus,",1843,"6/29/96","8/24/15",0,6,0,1,"2",FALSE,644,"0",0
+"682",1013119,"X000762216","PD2229 .E3 1974","ALDERMAN","First grammatical treatise;","Edda Snorra Sturlusonar. Norr?n staffr?i.",1951,"6/29/96","9/25/96",0,5,0,1,"2",FALSE,645,"0",0
+"683",2100639,"X000418441","PD25 .P3 no.9-12","ALDERMAN","Untersuchungen ¸ber die namen des nordhumbrischen Liber vitae.","M¸ller, Rudolf.",1901,"6/29/96","11/6/09",1,0,0,1,"2",TRUE,646,"0",0
+"684",309177,"X000535172","PD2013 .S72 1868","ALDERMAN","The Runic Hall in the Danish Old-Northern Museum /","Stephens, George,",1868,"6/28/96","4/1/14",2,2,0,1,"2",FALSE,647,"0",0
+"685",1336534,"X002264280","PD611 .H5","ALDERMAN","Modern lexikografi; nÂgra anteckningar om de historiska ordbˆckerna i Tyskland, Holland och England.","Hjelmqvist, Theodor,",1896,"6/30/96","11/6/09",0,1,0,1,"2",FALSE,648,"0",0
+"686",424411,"X001163943","PD1123 .B7 1883","ALDERMAN","Gothic grammar : with selections for reading and a glossary /","Braune, Wilhelm,",1883,"6/29/96","3/10/11",0,2,0,1,"2",FALSE,649,"0",0
+"687",2246600,"X031834154","PD2207 .S85 Hefti 13-15 1953-56","ALDERMAN","Studies in the manuscript tradition of Nj·lssaga /","Einar ”l. Sveinsson,",1953,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,650,"0",0
+"688",2052394,"X002182064","PD3818 .K86 1991","ALDERMAN","Spredte Traek af Landbolivet : optegnede i jysk mundart /","Kvolsgaard, Christian Martinus Christensen.",1891,"6/30/96","3/10/11",1,0,0,1,"2",FALSE,652,"0",0
+"689",804458,"X031981334","PD75 .K56 1952","ALDERMAN","Die Entwicklung neuer germanischer Kultursprachen von 1800 bis 1950.","Kloss, Heinz.",1952,"6/29/96","1/1/00",0,0,0,1,"2 14",FALSE,653,"0",0
+"690",2506031,"X004309513","PD25 .Q4 no.53-59","ALDERMAN","Der zusammengesetzte satz bei Berthold","Roetteken, Hubert,",1884,"5/25/99","11/6/09",0,0,0,1,"2",TRUE,654,"0",0
+"691",1013794,"X001038655","PD2002 .J34 1947","ALDERMAN","The runic inscriptions of Denmark,","Jacobsen, Lis,",1947,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,655,"0",0
+"692",2104972,"X000676945","PD25 .P3 no.184-188","ALDERMAN","Coleridge und die kantische Philosophie : erste Einwirkungen des deutschen Idealismus in England /","Winkelmann, Elisabeth.",1933,"6/30/96","9/26/01",0,2,0,1,"2",TRUE,656,"0",0
+"693",1013144,"X030697556","PD2431 .J6 1956","ALDERMAN","Isl‰ndisches etymologisches Wˆrterbuch.","Alexander JÛhannesson,",1951,"6/29/96","1/1/00",2,0,0,1,"2",FALSE,657,"0",0
+"694",101563,"X001163991","PD3640 .M3 1937","ALDERMAN","Engelsk-dansk ordbog /","Magnussen, Johs. (Johannes),",1937,"6/28/96","7/2/98",2,5,0,1,"2",FALSE,658,"0",0
+"695",1013146,"X001198088","PD2437 .Z7 1932","ALDERMAN","Ensk-Ìslensk orabÛk,","Zog?a, Geir TÛmasson,",1932,"6/29/96","7/7/02",1,1,0,3,"2",FALSE,659,"0",0
+"696",1013125,"X000193801","PD2235 .R3 1838","ALDERMAN","A compendious grammar of the old Northern or Icelandic language:","Rask, Rasmus,",1838,"6/29/96","8/24/15",0,6,0,1,"2",FALSE,660,"0",0
+"697",1013691,"X002417379","PD25 .H5 no.14","ALDERMAN","Vollst‰ndiges wˆrterbuch zum Heliand und zur alts‰chsischen Genesis,","Sehrt, Edward Henry,",1925,"6/29/96","1/11/02",0,3,0,1,"2",TRUE,661,"0",0
+"698",2246597,"X031834153","PD2207 .S85 Hefti 10-12 1949-51","ALDERMAN","Um Kerfisbundnar hljÛbreytingar Ì Õslenzku, with a summary in English.","Stef·n Einarsson,",1949,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,662,"0",0
+"699",1013774,"X031981318","PD1129 .K7 1948","ALDERMAN","Historische Laut- und Formenlehre des Gotischen, zugleich eine einf¸hrung in die germanische Sprachwissenschaft.","Krahe, Hans,",1948,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,663,"0",0
+"700",1013135,"X004466065","PD2361 .H6 1948","ALDERMAN","Vergleichendes und etymologisches Wˆrterbuch des Altwestnordischen, Altnorwegisch-isl‰ndischen, einschliesslich der Lehn- und Fremdwˆrter sowie der Eigennamen.","Holthausen, Ferdinand,",1948,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,663,"0",0
+"701",1013163,"X000374539","PD2691 .J6","ALDERMAN","Norwegian-English school dictionary,","Jorgenson, Theodore,",1943,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,664,"0",0
+"702",2246612,"X032020936","PD2207 .S85 Hefti 23","ALDERMAN","M·ll˝zkur.","",1946,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,666,"0",0
+"703",1054513,"1054513-1001","PD2413 .E5 1949","ALDERMAN","Icelandic: grammar, texts, glossary,","Stef·n Einarsson,",1945,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,668,"0",0
+"704",1013147,"X000374462","PD2483 .K7","ALDERMAN","Fˆroyische sprachlehre,","Krenn, Ernst.",1940,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,669,"0",0
+"705",1344879,"X002313321","PD2413 .G79 1939 1939","ALDERMAN","Islenzk m·lfrÊi : handa skÛlum og ˙tvarpi /","Bjˆrn Gufinnsson,",1939,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,670,"0",0
+"706",305030,"X030697730","PD2437 .Z7 1942","ALDERMAN","Õslenzk-ensk orabÛk,","Geir T. ZoÎga (Geir TÛmasson ZoÎga),",1942,"6/28/96","1/1/00",1,0,0,1,"2",FALSE,672,"0",0
+"707",2246593,"X031834152","PD2207 .S85 Hefti 7-9 1940-44","ALDERMAN","Hrafnkatla /","Sigurur Nordal,",1940,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,673,"0",0
+"708",1013154,"X000595084","PD2625 .H35 1940","ALDERMAN","Reading Norwegian,","Haugen, Einar,",1940,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,674,"0",0
+"709",2105042,"X031834092","PD25 .P3 no.216-218","ALDERMAN","Ulrichs von Lichtenstein 'Frauendienst'; untersuchungen ¸ber den hˆfischen sprachstil,","Arens, Hans.",1939,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,675,"0",0
+"710",1013779,"X031981362","PD1193 .F4 1939","ALDERMAN","Vergleichendes wˆrterbuch der gotischen sprache mit einschluss des krimgotischen und sonstiger zerstreuter ¸berreste des gotischen,","Feist, Sigmund,",1939,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,676,"0",0
+"711",172780,"X001131550","PD27 .L3 1876 V.2","ALDERMAN","Kleinere Schriften,","Lachmann, Karl,",1876,"6/28/96","11/6/09",3,3,0,2,"2",TRUE,677,"0",0
+"712",2246590,"X031834151","PD2207 .S85 Hefti 4-6 1938-39","ALDERMAN","Sturla ﬁorarson og Grettis saga /","Sigurur Nordal,",1938,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,678,"0",0
+"713",2105038,"X031834096","PD25 .P3 no.212-215","ALDERMAN","Die vierundzwanzig alten Ottos von Passau,","Schmidt, Wieland,",1938,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,679,"0",0
+"714",421914,"X001163960","PD1541 .O4 1938","ALDERMAN","Norr¯ne studier /","Olsen, Magnus Bernhard,",1938,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,680,"0",0
+"715",1360140,"X000855151","PD3117 .U56 1933","ALDERMAN","A Danish Phonetic reader /","Uldall, Hans J¯rgen,",1933,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,681,"0",0
+"716",2246582,"X031834150","PD2207 .S85 Hefti 1-3 1937","ALDERMAN","Sagnaritun Oddaverja : nokkrar athuganir /","Einar ”l. Sveinsson,",1937,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,682,"0",0
+"717",2105034,"X031834097","PD25 .P3 no.209-211","ALDERMAN","Der Sprachgebrauch der Dialektgegend von Aberdeen Dargestellt auf Grund von Sprechplatten und Dialektschreibungen.","Nehls, Werner,",1937,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,683,"0",0
+"718",1013133,"X032021002","PD2353 .C7","ALDERMAN","The art of poetry in Iceland,","Craigie, William A. (William Alexander),",1937,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,684,"0",0
+"719",151232,"X000535632","PD2014 .L45 V.1","ALDERMAN","Religiˆsa runtexter,","Lindquist, Ivar,",1932,"6/28/96","1/1/00",0,1,0,1,"2",TRUE,685,"0",0
+"720",2104925,"X002400398","PD25 .P3 no.154-157","ALDERMAN","John Wilmot earl of Rochester his life and writings, with his lordship's private correspondence, various other documents, and a bibliography of his works and of the literature on him,","Prinz, Johannes,",1927,"6/30/96","6/11/98",0,4,0,1,"2",TRUE,686,"0",0
+"721",1013208,"X004655770","PD5640 .W5 1935","ALDERMAN","Svensk-engelsk ordbok, skolupplaga,","Wenstrˆm, O. Edmund (Oscar Edmund),",1935,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,688,"0",0
+"722",1013797,"X006143480","PD2003 .V5 1895","ALDERMAN","Die northumbrischen runensteine.","ViÎtor, Wilhelm,",1895,"6/29/96","1/12/04",0,4,0,1,"2",FALSE,689,"0",0
+"723",273071,"X000981339","PD2301 .D3 1930","ALDERMAN","Ursprung und Verwendung der altnordischen ""Expletivpartikel"" of, um,","Dal, Ingerid,",1930,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,691,"0",0
+"724",2104978,"X031834093","PD25 .P3 no.189-193","ALDERMAN","Neuenglisch ou (ow) und seine geschichte; ein beitrag zur modernenglischen aussprachslehre und zur englischen sprachgeschichte,","Reinhold, C. A.",1934,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,692,"0",0
+"725",2105014,"X031834085","PD25 .P3 no.194-197","ALDERMAN","Das fr¸hmittelenglische ""Poema morale"";","",1934,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,692,"0",0
+"726",1013781,"X000669126","PD1193 .H6","ALDERMAN","Gotisches etymologisches wˆrterbuch mit einschluss der eigennamen und der gotischen lehnwˆrter im romanischen,","Holthausen, Ferdinand,",1934,"6/29/96","1/1/00",0,0,0,2,"2",FALSE,693,"0",0
+"727",2100627,"X031834215","PD25 .P3 no.1-8","ALDERMAN","The Gast of Gy. Eine englische Dichtung des 14. Jahrhunderts nebst ihrer lateinischen Quelle De spiritu Guidonis,","",1898,"6/30/96","8/3/01",1,6,0,1,"2",TRUE,694,"0",0
+"728",106268,"X000310814","PD3121 .T44 1911","ALDERMAN","Danish conversation-grammar.","Thomas, E. J. (Edward Joseph),",1911,"6/28/96","4/13/98",0,7,0,1,"2",FALSE,695,"0",0
+"729",2104962,"X031988704","PD25 .P3 no.179-183 1962","ALDERMAN","Die Klangmalerei bei Harsdˆrffer; ein Beitrag zur Geschichte der Literatur, Poetik und Sprachtheorie der Barockzeit,","Kayser, Wolfgang,",1932,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,696,"0",0
+"730",2104951,"X031988708","PD25 .P3 no.171","ALDERMAN","Das problem des todes in der deutschen lyrik des 17. jahrhunderts,","Wentzlaff-Eggebert, Friedrich-Wilhelm,",1931,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,698,"0",0
+"731",2104956,"X004763351","PD25 .P3 no.175-178","ALDERMAN","Matthew Arnolds politische grundanschauungen.","Elias, Otto.",1931,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,698,"0",0
+"732",1013137,"X032021000","PD2376 .J5 1913","ALDERMAN","Lexicon poeticum antiquÊ linguÊ septentrionalis.","Finnur JÛnsson,",1931,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,699,"0",0
+"733",208840,"X001164451","PD5640 .W5 1931","ALDERMAN","Engelsk-svensk ordbok,","Wenstrˆm, O. Edmund (Oscar Edmund),",1931,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,700,"0",0
+"734",2104939,"X031834086","PD25 .P3 no.163-166","ALDERMAN","Die reform des englischen hˆheren schulwesens im 19. jahrhundert,","Meissner, Paul,",1929,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,701,"0",0
+"735",2104947,"X031834087","PD25 .P3 no.167-170","ALDERMAN","Ludwig Uhlands Volksliedersammlung.","Heiske, Wilhelm.",1929,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,701,"0",0
+"736",1268056,"X001174722","PD3645 .G3 M7 1930","ALDERMAN","Taschenwˆrterbuch der d‰nischen und deutschen sprache : mit angabe der d‰nischen aussprache nach dem phonetischen system der Methode Toussaint-Langenscheidt. (Bearbeiter: Anker Jensen) /","Mohr, F. A.",1929,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,701,"0",0
+"737",268950,"X000980805","PD26 .S76 L4 1924","ALDERMAN","Streitberg Festgabe,","Universit‰t Leipzig. Vereinigte Sprachwissenschaftliche Institute.",1924,"6/28/96","1/1/00",0,1,0,1,"2",TRUE,702,"0",0
+"738",1013751,"X004203128","PD197 .S5 1874","ALDERMAN","Paradigmen zur deutschen grammatik. Gotisch, altnordisch, angels‰chsisch, alts‰chsisch, althochdeutsch, mittelhochdeutsch.","Sievers, Eduard,",1874,"6/29/96","11/6/09",0,0,0,2,"2",FALSE,703,"0",0
+"739",643342,"X000359273","PD5111 .W3 1928","ALDERMAN","Schwedische konversations-grammatik zum schul= und privatunterricht.","Walter, Eduard Theodor,",1928,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,704,"0",0
+"740",316105,"X001163951","PD1125 .B5 K5 1928","ALDERMAN","Chrestomathie nebst Glossar zur vergleichenden gotischen Grammatik /","",1928,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,705,"0",0
+"741",387672,"X001163969","PD2691 .B8 1927","ALDERMAN","Norsk-engelsk ordbok.","Brynildsen, J. (John),",1927,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,706,"0",0
+"742",1013143,"X000273988","PD2413 .G8 1922","ALDERMAN","Islandsk grammatik, islandsk nutidssprog,","Valt˝r Gumundsson,",1922,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,707,"0",0
+"743",1348848,"1348848-1001","PD3625 .K4 Tillaeg.2","ALDERMAN","Ordbog til det Êldre danske sprog (1300-1700) Kilde-fortegnelse og Forkortelsesliste til 1.-5. bind.","Kalkar, Otto,",1925,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,709,"0",0
+"744",428832,"X000369715","PD25 .B8 V.1 PT.1","ALDERMAN","Vorspiel; gesammelte Schriften zur Geschichte des deutshen Geistes.","Burdach, Konrad,",1925,"6/29/96","1/1/00",0,0,0,2,"2",TRUE,710,"0",0
+"745",2101916,"X031743801","PD25 .P3 no.110-116","ALDERMAN","Dame Nature in der englishen Literatur bis Herab zu Shakespeare /","Berndt, Elsa.",1923,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,711,"0",0
+"746",449862,"X000444598","PD2437 .Z7 1922","ALDERMAN","Õslenzk-ensk orabÛk,","Geir T. ZoÎga (Geir TÛmasson ZoÎga),",1922,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,713,"0",0
+"747",1933199,"X002330582","PD2325 .N94 1917","ALDERMAN","Bemerkninger, rettelser og supplementer til min Norr¯n syntax (Kristiana 1905) /","Nygaard, M. (Marius),",1917,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,714,"0",0
+"748",2104631,"X004215492","PD25 .P3 no.137-140","ALDERMAN","""Jim an' Nell""","Wiegert, Hans,",1921,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,715,"0",0
+"749",1013689,"X002243813","PD25 .H5 no.7","ALDERMAN","The attitude of Gustav Freytag and Julian Schmidt toward English literature (1848-1862),","Price, Lawrence Marsden,",1915,"6/29/96","1/1/00",0,1,0,1,"2",TRUE,716,"0",0
+"750",2104552,"X031834094","PD25 .P3 no.131-136","ALDERMAN","Die me. Thomas Beket-legende des Gloucesterlegendars kritisch hrsg. mit einleitung.","Thomas,",1919,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,717,"0",0
+"751",1013158,"X031743719","PD2683 .T6 1919","ALDERMAN","Nynorsk etymologisk ordbok,","Torp, Alf.",1919,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,718,"0",0
+"752",2511424,"X032029646","PD25 .Q4 no.124 1918","ALDERMAN","Sidneys Arcadia; eine studie zur englischen renaissance, von dr. Friedrich Brie ..","Brie, Friedrich W. D.,",1918,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,720,"0",0
+"753",1336878,"X002307245","PD2235 .N7 1913","ALDERMAN","Abriss der altisl‰ndischen Grammatik.","Noreen, Adolf,",1913,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,721,"0",0
+"754",428945,"X000745061","PD660 .S4","ALDERMAN","Wˆrterbuch der altgermanischen Personen-und Vˆlkernamen; nach der ‹berlieferung des klassischen Altertums","Schˆnfeld, Moritz,",1911,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,722,"0",0
+"755",2104539,"X031743799","PD25 .P3 no.126-130","ALDERMAN","Gustav Schwab als balladendichter.","Schulze, Werner,",1914,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,723,"0",0
+"756",2101943,"X031743802","PD25 .P3 no.122-125","ALDERMAN","Der ""Sonnenwirt"" von Hermann Kurz. Eine Quellenstudie","Heynen, Walter,",1913,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,724,"0",0
+"757",2101816,"X031834090","PD25 .P3 no.81-85","ALDERMAN","Das Marienleben des Schweizers Wernher. Mit nachtr‰gen zu Vˆgtlins ausgabe der Vita Marie rhythmica.","P‰pke, Max,",1913,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,724,"0",0
+"758",2103170,"X002181906","PD1525 .P48 1908","ALDERMAN","Brevvexling mellem N.M. Petersen og Carl S‰ve, et bidrag til skandinavismens og den nordiske filologis historie,","Petersen, N. M. (Niels Matthias),",1908,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,725,"0",0
+"759",2101937,"X031834089","PD25 .P3 no.117-121","ALDERMAN","Die englischen schwankb¸cher bis herab zu ""Dobson's drie bobs"" (1607)","Schulz, Ernst,",1912,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,726,"0",0
+"760",2101894,"X031743963","PD25 .P3 no.90 Suppl.","ALDERMAN","34 lieds‰tze aus dem Pinzgau und 10 l‰ndlerweisen/","Rotter, Curt,",1912,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,726,"0",0
+"761",2101830,"X031743795","PD25 .P3 no.90-92","ALDERMAN","Der schnaderh¸pfl-rhythmus, vers- und periodenbau des ost‰lpischen tanzlieds, nebst einem anhang selbstgesammelter lieder; eine formuntersuchung,","Rotter, Curt,",1912,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,726,"0",0
+"762",2101904,"X031834095","PD25 .P3 no.101-106","ALDERMAN","Daniel, eine Deutschordensdichtung.","H¸bner, Arthur,",1911,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,727,"0",0
+"763",2101911,"X031743800","PD25 .P3 no.107-109","ALDERMAN","Studien zur Philosophie der Meisters‰nger; Gedankengang und Terminologie.","L¸tcke, Heinrich.",1911,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,727,"0",0
+"764",2511403,"X004061279","PD25 .Q4 no.102-105","ALDERMAN","Studien ¸ber die Namengebung im deutschen Seit dem Anfang des XVI. Jahrhunderts. --","Heinrichs, Karl Otto Daniel Ludwig,",1908,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,729,"0",0
+"765",2511400,"X031743917","PD25 .Q4 no.99-101 1907","ALDERMAN","Die Entwicklungsgeschichte von Hˆlderlins Hyperion.","Zinkernagel, Franz,",1907,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,730,"0",0
+"766",2101699,"X031834091","PD25 .P3 no.44-47","ALDERMAN","Carl Friedrich Cramer bis zu seiner Amtsenthebung.","Kr‰he, Ludwig,",1907,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,731,"0",0
+"767",2101704,"X031988746","PD25 .P3 no.46 1907","ALDERMAN","Seneca und das deutsche renaissancedrama. Studien zur literatur- und stilgeschichte des 16. und 17. jahrhunderts.","Stachel, Paul,",1907,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,731,"0",0
+"768",2229919,"X001131271","PD2671 .F3","ALDERMAN","Dansk-norskens syntax i historisk fremstilling,","Falk, Hjalmar,",1900,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,732,"0",0
+"769",1360137,"X000734530","PD3121 .L7 1904","ALDERMAN","Danish, Norwegian and English idiomatic phrases and dialogues : including classified vocabularies of words in frequent use ... /","Lund, H.",1904,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,733,"0",0
+"770",2100666,"X031834135","PD25 .P3 no.18-22","ALDERMAN","The gentle craft,","Deloney, Thomas,",1903,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,734,"0",0
+"771",2100680,"X031743796","PD25 .P3 no.29-32","ALDERMAN","Die gedruckten englischen liederb¸cher, bis 1600. Ein beitrag zur geschichte der sangbaren lyrik in der zeit Shakespeares.","Bolle, Wilhelm,",1903,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,734,"0",0
+"772",187205,"X001163983","PD3111 .P6 1898","ALDERMAN","Lehrbuch der d‰nischen Sprache f¸r den Selbstunterricht : mit zahlreichen Beispielen unter den Regeln und Lesest¸cken /","Poestion, J. C. (Josef Calasanz),",1898,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,736,"0",0
+"773",2506095,"X031743873","PD25 .Q4 no.92-94","ALDERMAN","Beitr‰ge zur kenntnis des Teuerdank,","Burger, Otto.",1902,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,737,"0",0
+"774",2506090,"X031743872","PD25 .Q4 no.89-91","ALDERMAN","Spelling-Pronunciations : Bemerkungen ¸ber den Einfluss des Schriftbildes auf den Laut im Englischen /","Koeppel, Emil,",1901,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,739,"0",0
+"775",2506087,"X031743876","PD25 .Q4 no.86-88","ALDERMAN","Arigo, der ¸bersetzer des Decamerone und des Fiore di virtu. Eine Untersuchung","Drescher, Karl,",1900,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,740,"0",0
+"776",1356319,"X000196971","PD5640 .N5 1890","ALDERMAN","A new pocket-dictionary of the English and Swedish languages.","",1890,"6/30/96","1/1/00",0,2,0,1,"2",FALSE,741,"0",0
+"777",79322,"X001153645","PD271 .L6","ALDERMAN","‹ber das schwache Pr‰teritum des Germanischen und verwandte Bildungen der Schwestersprachen; eine sprachwissenschaftliche Untersuchung.","Lorentz, Friedrich,",1894,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,742,"0",0
+"778",506672,"X001153639","PD101 .S75 1892","ALDERMAN","Zur germanischen Sprachgeschichte /","Streitberg, Wilhelm,",1892,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,743,"0",0
+"779",256216,"X001163996","PD3761 .J4 1893","ALDERMAN","Dansk etmologisk Ordbog /","Jessen, E. (Edwin),",1893,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,745,"0",0
+"780",2506057,"2506057-1001","PD25 .Q4 no.70","ALDERMAN","Studien zur Geschichte der italienischen Novelle in der englischen Litteratur des sechzehnten Jahrhunderts,","Koeppel, Emil,",1892,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,746,"0",0
+"781",2506061,"X031743871","PD25 .Q4 no.71-73","ALDERMAN","Judith; studies in metre, language and style, with a view to determining the date of the Oldenglish fragment and the home of its author.","Foster, T. Gregory (Thomas Gregory),",1892,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,746,"0",0
+"782",1334249,"X031787604","PD1514 .C45 W5 1892","ALDERMAN","S¯nderjyllands historiske runemindesmaerker.","Wimmer, Ludv. F. A. (Ludvig Frands Adalbert),",1892,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,747,"0",0
+"783",2506054,"X031988752","PD25 .Q4 no.67 1891","ALDERMAN","Ulrichs von Hutten deutsche Schriften. Untersuchungen nebst einer Nachlese;","SzamatÛlski, Siegfried,",1891,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,748,"0",0
+"784",2506046,"X031743721","PD25 .Q4 no.63 1889","ALDERMAN","Geschichte des ablauts der starken zeitwˆrter innerhalb des s¸denglischen.","B¸lbring, Karl D. (Karl Daniel),",1889,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,750,"0",0
+"785",2506049,"X031743875","PD25 .Q4 no.65-66","ALDERMAN","Neue fragmente des gedichts Van den vos Reinaerde und das bruchst¸ck Van bere Wisselauwe,","",1889,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,750,"0",0
+"786",1360814,"X031831610","PD3455 .R4 1889","ALDERMAN","Retskrivnings¯velser og stilopgaver for borger- og almueskoler : udarbejdede af en laererforening, 54de tusinde /","",1889,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,751,"0",0
+"787",1013798,"X031787606","PD2005 .H5 1889","ALDERMAN","Die deutschen runendenkm‰ler;","Henning, Rud. (Rudolf),",1889,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,752,"0",0
+"788",2506048,"X031743722","PD25 .Q4 no.64 1888","ALDERMAN","Zur Lautlehre der griechischen, lateinischen und romanischen Lehnworte im Altenglishcen,","Pogatscher, Alois,",1888,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,753,"0",0
+"789",2506043,"X031743720","PD25 .Q4 no.60 1887","ALDERMAN","Die poetik Gottscheds und der Schweizer. Litterarhistorich Untersucht","Servaes, Franz,",1887,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,754,"0",0
+"790",1013776,"X001180856","PD1193 .B3","ALDERMAN","A comparative glossary of the Gothic language with especial reference to English and German,","Balg, G. H. (Gerhard Hubert),",1887,"6/29/96","1/1/00",2,0,0,1,"2",FALSE,755,"0",0
+"791",501332,"X031787605","PD2002 .S7 1884","ALDERMAN","Handbook of the old-northern runic monuments of Scandinavia and England /","Stephens, George,",1884,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,757,"0",0
+"792",2506002,"X031743878","PD25 .Q4 no.31-33","ALDERMAN","Nibelungenstudien,","Henning, Rud. (Rudolf),",1883,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,758,"0",0
+"793",2505991,"X004763482","PD25 .Q4 no.22-24","ALDERMAN","Ludwig Philipp Hahn; ein Beitrag zur Geschichte der Sturm- und Drangzeit.","Werner, Richard Maria,",1877,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,761,"0",0
+"794",2505974,"X031988754","PD25 .Q4 no.8","ALDERMAN","Ecbasis captivi, das ‰lteste thierepos des mittelalters.","",1875,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,762,"0",0
+"795",2505970,"X000381796","PD25 .Q4 no.4-6","ALDERMAN","Reinmar von Hagenau und Heinrich von Rugge. Eine litterarhistorische untersuchung,","Schmidt, Erich,",1874,"7/1/96","1/1/00",0,0,0,1,"2",TRUE,763,"0",0
+"796",1013728,"X002196610","PD75 .B6 1848","ALDERMAN","The origin of the English, Germanic, and Scandinavian languages, and nations;","Bosworth, Joseph,",1848,"6/29/96","11/30/01",0,3,0,1,"2",FALSE,764,"0",0
+"797",1013132,"X001198598","PD2237 .V5 1879","ALDERMAN","An Icelandic prose reader, with notes, grammar, and glossary,","Gukbrandur Vigf˙sson,",1879,"6/29/96","9/10/96",0,1,0,1,"2",FALSE,765,"0",0
+"798",404403,"X032021050","PD2381 .J6 1863","ALDERMAN","Oldnordisk ordbog ved det Kongelige nordiske oldskrift-selskab","EirÌkur JÛnsson,",1863,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,766,"0",0
+"799",1359875,"X001790448","PD3645.G3 G7 1836 V.2","ALDERMAN","Tydsk-dansk og dansk-tydsk haand-ordbog /","Gr¯nberg, Bendt Christian,",1836,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,767,"0",0
+"800",350944,"X001153657","PD2225 .R3 1818","ALDERMAN","Undersˆgelse om det gamle nordiske eller islandske sprogs oprindelse /","Rask, Rasmus,",1818,"6/28/96","1/1/00",0,2,0,1,"2",FALSE,768,"0",0

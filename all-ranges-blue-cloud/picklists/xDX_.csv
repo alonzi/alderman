@@ -1,0 +1,191 @@
+"","Catalog.Id","Item.Barcode","Item.Call.Number","Item.Library.Code","Catalog.Title","Catalog.Author","Catalog.Pub.Year","Item.Created.Date","Item.Last.Checkout.Date","NumInhouseUses","NumCheckouts","NumRenewals","Duplicates","Bib.Marc.Subfield.Data","MultiVolume","modelC","MODEL","LiaisonRecommendation"
+"1",6995934,"X031839012","DX145 .M39 2017","ALDERMAN","Romaphobia : the last acceptable form of racism /","McGarry, Aidan,",2017,"3/3/17","4/23/18",1,0,0,1,"2",FALSE,1,"1",0
+"2",4025115,"X004772155","DX251 .C48 2004","ALDERMAN","The Spanish Gypsy : the history of a European obsession /","Charnon-Deutsch, Lou.",2004,"5/13/04","4/12/15",3,26,0,1,"2",FALSE,2,"1",0
+"3",2478156,"X002693620","DX115 .F66 1995","ALDERMAN","Bury me standing : the Gypsies and their journey /","Fonseca, Isabel.",1995,"7/1/96","11/27/18",2,52,4,2,"2 3",FALSE,3,"1",0
+"4",6424848,"X031715712","DX251 .M37 2014","ALDERMAN","Los gitanos y las gitanas de EspaÒa a mediados del siglo XVIII","MartÌnez MartÌnez, Manuel,",2014,"10/31/14","11/20/14",0,1,0,1,"2",FALSE,4,"1",0
+"5",6135323,"X031618751","DX241 .O54 2013","ALDERMAN","New Soviet gypsies : nationality, performance, and selfhood in the early Soviet Union /","O'Keeffe, Brigid,",2013,"9/27/13","2/1/16",0,1,1,1,"2",FALSE,5,"1",0
+"6",2939785,"X006006549","DX251 .B57 1999","ALDERMAN","Gypsies in Madrid : sex, gender and the performance of identity /","Gay y Blasco, Paloma.",1999,"8/25/99","4/12/15",2,32,0,1,"2",FALSE,6,"1",0
+"7",3976934,"X004742457","DX211 .M43 2004","ALDERMAN","Gypsy identities, 1500-2000 : from Egipcyans and moon-men to the ethnic Romany /","Mayall, David.",2004,"1/22/04","9/12/17",2,17,0,1,"2",FALSE,7,"1",0
+"8",4457564,"X004834926","DX251 .P96 2007","ALDERMAN","The gypsies of early modern Spain, 1425-1783 /","Pym, Richard.",2007,"1/23/07","11/17/14",1,12,1,1,"2",FALSE,8,"1",0
+"9",1792504,"X001879161","DX251 .C25 1990","ALDERMAN","EspaÒa racista? : voces payas sobre los gitanos /","Calvo Buezas, Tom·s,",1990,"6/30/96","4/12/15",3,34,0,1,"2",FALSE,9,"1",0
+"10",3791648,"X004555248","DX145 .B37 2002","ALDERMAN","The East European gypsies : regime change, marginality, and ethnopolitics /","Barany, Zoltan D.",2002,"11/12/01","3/22/13",7,22,6,1,"2",FALSE,10,"1",0
+"11",2103536,"X002254717","DX145 .G95 1991","ALDERMAN","The Gypsies of Eastern Europe /","",1991,"6/30/96","11/18/13",4,34,0,1,"2",FALSE,11,"1",0
+"12",2677320,"X006036292","DX115 .R67 1997","ALDERMAN","Romani culture and gypsy identity /","",1997,"4/2/97","3/9/15",6,27,0,1,"2",FALSE,12,"1",0
+"13",2109236,"X002266535","DX251 .C43 1992","ALDERMAN","Marginalidad de la poblaciÛn gitana espaÒola /","Cebri·n Abell·n, Aurelio.",1992,"6/30/96","1/25/17",2,26,1,1,"2",FALSE,13,"1",0
+"14",1914364,"X002591833","DX115 .F72 1992","ALDERMAN","The gypsies /","Fraser, Angus M.",1992,"6/30/96","11/29/10",6,47,0,2,"2 3",FALSE,14,"1",0
+"15",685783,"X001107411","DX115 .L6313 1986b","ALDERMAN","Gypsies : an illustrated history /","LiÈgeois, Jean-Pierre.",1986,"6/29/96","11/29/11",5,35,0,1,"2",FALSE,15,"1",0
+"16",260931,"X000058677","DX251 .S27","ALDERMAN","Los gitanos espaÒoles /","S·nchez, MarÌa Helena.",1977,"6/28/96","11/17/14",1,33,0,1,"2",FALSE,16,"1",0
+"17",4597052,"X030103063","DX241 .C76 2007","ALDERMAN","A history of the gypsies of Eastern Europe and Russia /","Crowe, David.",2007,"6/6/07","11/7/11",0,5,0,1,"2",FALSE,17,"1",0
+"18",1341045,"X001518946","DX157 .T66 1989","ALDERMAN","Gypsy folktales /","Tong, Diane,",1989,"6/30/96","9/28/12",2,30,0,1,"2",FALSE,18,"1",0
+"19",2677326,"X006036309","DX211 .G96 1997","ALDERMAN","Gypsy politics and Traveller identity /","",1997,"4/2/97","2/21/18",4,18,1,1,"2",FALSE,19,"1",0
+"20",1325291,"X006025625","DX118 .T66 1988","CLEMONS","Gypsies of the world /","Toma?evi?, Neboj?a.",1988,"6/30/96","3/26/14",10,43,4,2,"2 3",FALSE,20,"1",0
+"21",4057938,"X004771721","DX115 .R64 2004","ALDERMAN","The role of the Romanies : images and counter-images of ""Gypsies""/Romanies in European cultures /","",2004,"9/10/04","4/6/12",0,10,0,1,"2",FALSE,21,"1",0
+"22",7210853,"X031777907","DX247 .A26 A24 2014","ALDERMAN","al-J?l?y?t f? ?Adan 1839-1967 M : dir?sah tar?kh?yah /","?Abd All?h, Han?? ?Abd al-Kar?m Fa?l,",2014,"7/25/17","1/1/00",0,0,0,1,"2",FALSE,22,"1",0
+"23",460447,"X000527746","DX251 .R35","ALDERMAN","Vida gitana.","RamÌrez Heredia, Juan de Dios,",1973,"6/29/96","11/17/14",0,30,0,1,"2",FALSE,23,"1",0
+"24",774210,"X006132053","DX251 .M35 1987","ALDERMAN","Proud outcasts : the Gypsies of Spain /","McLane, Merrill F.",1987,"6/29/96","4/12/15",3,24,1,1,"2",FALSE,24,"1",0
+"25",4390531,"X004897552","DX145 .L33 2006","ALDERMAN","Patterns of exclusion : constructing Gypsy ethnicity and the making of an underclass in transitional societies of Europe /","Lad·nyi, J·nos.",2006,"8/22/06","11/7/11",2,3,0,1,"2",FALSE,25,"0",0
+"26",6641718,"X031787373","DX145 .N53 2013","ALDERMAN","We are the Roma! : one thousand years of discrimination /","Nicolae, Valeriu,",2013,"11/18/15","1/1/00",1,0,0,1,"2",FALSE,26,"0",0
+"27",2865410,"X004289688","DX145 .L83 1998","ALDERMAN","Gypsies and other itinerant groups : a socio-historical approach /","Lucassen, Leo,",1998,"4/12/99","9/21/12",1,18,0,1,"2",FALSE,27,"0",0
+"28",1743316,"X001827556","DX115 .S48 1990","ALDERMAN","Roma, the gypsy world /","Shashi, Shyam Singh,",1990,"6/30/96","11/29/11",2,27,0,1,"2",FALSE,28,"0",0
+"29",2492243,"X006026701","DX145 .L53 1995","ALDERMAN","Roma/gypsies : a European minority /","LiÈgeois, Jean-Pierre.",1995,"7/1/96","11/29/11",2,25,0,1,"2",FALSE,30,"0",0
+"30",549575,"X000458204","DX251 .Q55","ALDERMAN","!QuÈ gitano! Gypsies of Southern Spain,","Quintana, Bertha B.,",1971,"6/29/96","4/12/15",3,27,0,1,"2 14",FALSE,31,"0",0
+"31",974603,"X000298353","DX145 .K45","ALDERMAN","The destiny of Europe's gypsies,","Kenrick, Donald.",1972,"6/29/96","4/4/11",0,32,0,1,"2",FALSE,32,"0",0
+"32",3897201,"X004633600","DX229 .M3713 2002","ALDERMAN","Germany and its gypsies : a post-Auschwitz ordeal /","Margalit, Gilad.",2002,"11/19/02","5/2/15",5,4,2,1,"2",FALSE,33,"0",0
+"33",19181,"X000832879","DX251 .P46 1982","ALDERMAN","Los gitanos, herreros de Sevilla /","PÈrez de Guzm·n, Torcuato.",1982,"6/28/96","11/17/14",2,23,1,1,"2",FALSE,34,"0",0
+"34",7716131,"X032209106","DX251 .S275 1988","ALDERMAN","La InquisiciÛn y los gitanos /","S·nchez Ortega, MarÌa Helena.",1988,"9/17/18","1/1/00",0,0,0,1,"2",FALSE,35,"0",0
+"35",3733303,"X004523752","DX217 .H45 2000","ALDERMAN","Irish Travellers : racism and the politics of culture /","Helleiner, Jane Leslie,",2000,"7/10/01","4/3/16",2,5,0,1,"2",FALSE,36,"0",0
+"36",6220893,"X031628110","DX115 .T39 2014","ALDERMAN","Another darkness, another dawn : a history of Gypsies, Roma and travellers /","Taylor, Becky",2014,"2/28/14","1/1/00",0,0,0,1,"2",FALSE,37,"0",0
+"37",347987,"X000060952","DX251 .S3","ALDERMAN","DocumentaciÛn selecta sobre la situaciÛn de los gitanos espaÒoles en el siglo XVIII /","S·nchez Ortega, MarÌa Helena.",1976,"6/28/96","11/17/14",1,24,0,1,"2",FALSE,38,"0",0
+"38",4042403,"X004774348","DX115 .K45 2004","ALDERMAN","Gypsies, from the Ganges to the Thames /","Kenrick, Donald.",2004,"7/22/04","3/2/11",1,5,0,1,"2",FALSE,39,"0",0
+"39",4510178,"X030115498","DX223 .R64 2005","ALDERMAN","Roma of Hungary /","",2005,"4/17/07","11/30/09",0,1,0,1,"2",FALSE,40,"0",0
+"40",709655,"X001239354","DX115 .H35","ALDERMAN","The pariah syndrome : an account of Gypsy slavery and persecution /","Hancock, Ian F.",1987,"6/29/96","11/3/11",0,23,0,1,"2",FALSE,41,"0",0
+"41",2756860,"X004151064","DX217 .O66 1997","ALDERMAN","People of the road : the Irish travellers /","Oppersdorff, Mathias T.,",1997,"1/14/98","4/3/16",4,10,0,1,"2",FALSE,42,"0",0
+"42",974591,"X001038485","DX115 .R35 1972","ALDERMAN","Nosotros, los gitano.","RamÌrez Heredia, Juan de Dios,",1972,"6/29/96","3/21/12",3,26,0,1,"2",FALSE,43,"0",0
+"43",5826609,"X030852817","DX300 .K33 2010","ALDERMAN","al-Ghajar f? al-?Ir?q : a?luhum, w?qi?hum, mi?natahum /","Ka?b?, D?w?d.",2010,"11/8/12","1/1/00",0,0,0,1,"2",FALSE,44,"0",0
+"44",5561039,"X031196324","DX127 .W35 A3 2012","ALDERMAN","Gypsy boy : my life in the secret world of the Romany Gypsies /","Walsh, Mikey.",2012,"2/24/12","1/1/00",1,0,0,1,"2",FALSE,45,"0",0
+"45",4356777,"X004995903","DX227 .E34 2006","CLEMONS","Little money street : in search of Gypsies and their music in the south of France /","Eberstadt, Fernanda,",2006,"3/23/06","9/26/06",0,3,0,1,"3",FALSE,47,"0",0
+"46",615002,"X000085382","DX211 .W66","ALDERMAN","In the life of a Romany gypsy;","Wood, Manfri Frederick.",1973,"6/29/96","9/29/16",0,17,0,1,"2",FALSE,48,"0",0
+"47",5394898,"X031195989","DX815 .K56 2011","ALDERMAN","Yoku wakaru kodai nihon no zentaiz? : chishiki zero kara manabu nihonshi no genten /","Kinoshita, Masashi,",2011,"8/3/11","1/1/00",0,0,0,1,"2",FALSE,49,"0",0
+"48",2331614,"X002560224","DX241 .C76 1994","ALDERMAN","A History of the gypsies of Eastern Europe and Russia /","Crowe, David.",1994,"7/1/96","11/7/11",1,17,0,1,"2",FALSE,50,"0",0
+"49",211946,"X000710215","DX145 .P88 1980","ALDERMAN","Roma, Europe's gypsies /","Puxon, Gratton.",1980,"6/28/96","11/29/11",3,21,0,1,"2",FALSE,51,"0",0
+"50",2686994,"X004143589","DX223 .S75 1997","ALDERMAN","The time of the gypsies /","Stewart, Michael,",1997,"7/22/97","8/30/11",4,14,0,1,"2 14",FALSE,52,"0",0
+"51",2239017,"X002529274","DX217 .I75 1994","ALDERMAN","Irish travellers : culture and ethnicity /","",1994,"7/1/96","4/3/16",1,10,0,1,"2",FALSE,53,"0",0
+"52",2857232,"X004290099","DX145 .W5513 1997","ALDERMAN","In search of the true gypsy : from Enlightenment to Final Solution /","Willems, Wim.",1997,"11/25/98","10/29/13",1,8,0,1,"2",FALSE,54,"0",0
+"53",2528285,"X004004808","DX145 .A47 1996","ALDERMAN","Weeping violins : the Gypsy tragedy in Europe /","Alt, Betty Sowers.",1996,"7/1/96","11/18/13",0,12,0,1,"2",FALSE,55,"0",0
+"54",974587,"X031918723","DX115 .K6 1963 pt.2","ALDERMAN","Gypsy studies.","Kochanowski, Jan,",1963,"1/16/18","1/1/00",0,0,0,2,"2",TRUE,56,"0",0
+"55",974612,"X000312087","DX201 .S97","ALDERMAN","Gypsies : the hidden Americans /","Sutherland, Anne,",1975,"6/29/96","8/2/18",0,10,0,1,"2",FALSE,58,"0",0
+"56",974605,"X000827706","DX151 .T74 1973","ALDERMAN","Gypsy demons and divinities; the magic and religion of the gypsies","Trigg, Elwood B.",1973,"6/29/96","4/23/09",1,23,0,1,"2",FALSE,59,"0",0
+"57",645531,"X000526440","DX251 .G57 1981","ALDERMAN","Los Gitanos en Murcia, hoy, 1980.","",1981,"6/29/96","4/17/12",0,16,0,1,"2",FALSE,60,"0",0
+"58",4883944,"X030560925","DX145 .H49 2008","ALDERMAN","al-Ghajar : dh?kirat al-asf?r wa-s?rat al-adh?b /","?aydar, Jam?l.",2008,"6/15/09","1/1/00",0,0,0,1,"2",FALSE,61,"0",0
+"59",2842625,"X004153700","DX229 .S53 1998","ALDERMAN","Sinti and Roma : gypsies in German-speaking society and literature /","",1998,"11/23/98","11/7/11",0,5,0,1,"2",FALSE,62,"0",0
+"60",129069,"X000536729","DX211 .O34 1983","ALDERMAN","The traveller-gypsies /","Okely, Judith,",1983,"6/28/96","6/27/10",1,16,0,1,"2",FALSE,63,"0",0
+"61",578341,"X000869196","DX115 .Y6","ALDERMAN","The gypsies.","Yoors, Jan.",1967,"6/29/96","10/2/12",1,17,0,1,"2",FALSE,64,"0",0
+"62",296544,"X000009637","DX131 .P7","ALDERMAN","Los gitanos /","Prat Vallribera, Jaime.",1978,"6/28/96","4/23/09",4,17,0,1,"2",FALSE,65,"0",0
+"63",1935894,"X002073249","DX127 .S76 A3 1989","ALDERMAN","Wir leben im Verborgenen : Erinnerungen einer Rom-Zigeunerin /","Stojka, Ceija,",1989,"6/30/96","10/17/17",1,1,0,1,"2",FALSE,66,"0",0
+"64",432769,"X000325816","DX157 .G7 1977","ALDERMAN","Gypsy folk-tales /","Groome, Francis Hindes,",1977,"6/29/96","4/23/06",2,21,0,1,"2",FALSE,67,"0",0
+"65",1663875,"X002428577","DX229 .F45 1988","ALDERMAN","Feinderkl‰rung und Pr‰vention : Kriminalbiologie, Zigeunerforschung und Asozialenpolitik /","",1988,"6/30/96","6/25/15",0,4,0,1,"2",FALSE,68,"0",0
+"66",374683,"X000047682","DX145 .G96","ALDERMAN","Gypsies, tinkers and other travellers /","",1975,"6/28/96","5/10/07",0,20,0,1,"2",FALSE,69,"0",0
+"67",4487037,"X030007650","DX289 .J53 2006","ALDERMAN","?Ash??ir al-Nawar f? bil?d al-Sh?m : al-Qarb?t - al-Qaraj - al-?abb?lah - al-Rayy?s - al-?ujayy?t - al-Bahlaw?n - al-Sha??r - al-?uy?gh - al-Mubayyi??n - wa-tujj?r al-?am?r wa-al-khuy?l, dir?sah antr?b?l?j?yah mayd?n?yah /","Jib?w?, ?Al?.",2006,"3/26/07","1/1/00",1,0,0,1,"2",FALSE,70,"0",0
+"68",2404706,"X002601017","DX227 .P478 1994","ALDERMAN","Les Tsiganes en France : 1939-1946 /","Peschanski, Denis.",1994,"7/1/96","3/24/14",0,3,5,1,"2",FALSE,71,"0",0
+"69",3559169,"X004439796","DX241 .L46 2000","ALDERMAN","Between two fires : Gypsy performance and Romani memory from Pushkin to postsocialism /","Lemon, Alaina,",2000,"8/22/00","10/18/07",0,2,0,1,"2",FALSE,72,"0",0
+"70",4735356,"X030405005","DX135 .K85 1994","ALDERMAN","al-Zu? wa-al-u??l al-?l· li-t?r?kh al-Ghajar /","Ku?aylah, ?Ub?dah.",1994,"6/18/08","1/1/00",0,0,0,1,"2",FALSE,73,"0",0
+"71",1940395,"X002110451","DX229 .F75 1991","ALDERMAN","Zwischen Erziehung und Ausgrenzung : zur w¸rttembergischen Geschichte der Sinti und Roma im 19. Jahrhundert /","Fricke, Thomas,",1991,"6/30/96","3/3/15",1,1,0,1,"2",FALSE,74,"0",0
+"72",1669630,"X002238752","DX235 .Z54 1988","ALDERMAN","Zigeuners in Nederland : cultuur, geschiedenis en beleid /","",1988,"6/30/96","11/4/14",0,1,0,1,"2",FALSE,75,"0",0
+"73",165454,"X000383786","DX229 .I5","ALDERMAN","In Auschwitz vergast, bis heute verfolgt : zur Situation d. Roma (Zigeuner) in Deutschland u. Europa /","",1979,"6/28/96","1/26/16",1,1,0,1,"2",FALSE,76,"0",0
+"74",974604,"X001532822","DX155 .L4 1963","ALDERMAN","Gypsy sorcery and fortune telling.","Leland, Charles Godfrey,",1963,"6/29/96","3/18/09",2,16,0,1,"2",FALSE,77,"0",0
+"75",221033,"X000222137","DX115 .M39 1979","ALDERMAN","El gitanismo : historia, costumbres, y dialecto de los gitanos /","Mayo, Francisco de Sales.",1979,"6/28/96","11/29/11",0,7,0,1,"2",FALSE,78,"0",0
+"76",195379,"X000160248","DX201 .M33","ALDERMAN","Gypsy lifestyles /","McLaughlin, John B. (John Bruce),",1980,"6/28/96","6/25/04",2,17,0,1,"2",FALSE,79,"0",0
+"77",97493,"X001115375","DX251 .L43 1985","ALDERMAN","Les gitans d'Espagne : le prix de la diffÈrence /","Leblon, Bernard.",1985,"6/28/96","4/18/08",1,8,0,1,"2",FALSE,80,"0",0
+"78",1248207,"X001363675","DX201 .S98 1988","ALDERMAN","Familiar strangers : gypsy life in America /","Sway, Marlene,",1988,"6/30/96","4/30/01",0,17,0,1,"2 3",FALSE,81,"0",0
+"79",650722,"X000601975","DX115 .H36","ALDERMAN","Land of pain : five centuries of Gypsy slavery /","Hancock, Ian F.",1982,"6/29/96","5/1/06",0,11,0,1,"2",FALSE,82,"0",0
+"80",1303045,"X001397327","DX115 .Z525 1979","ALDERMAN","Zigeuner und wir /","",1979,"6/30/96","5/27/14",0,0,0,1,"2",FALSE,83,"0",0
+"81",2961475,"X006121112","DX211 .K64 1999","ALDERMAN","Moving on : the gypsies and travellers of Britain /","Kenrick, Donald.",1999,"11/3/99","5/2/02",1,5,0,1,"2",FALSE,84,"0",0
+"82",672331,"X030143369","DX145 .S58 1982","ALDERMAN","Gypsies, Indians in exile /","Singhal, Damodar P.",1982,"10/3/06","1/1/00",0,0,0,1,"2",FALSE,85,"0",0
+"83",405926,"X000703541","DX217 .G58 1976","ALDERMAN","Tinkers and travellers /","Gmelch, Sharon.",1976,"6/28/96","11/4/07",2,10,0,1,"2",FALSE,86,"0",0
+"84",359149,"X000068139","DX161 .H34","ALDERMAN","The social and linguistic development of Angloromani /","Hancock, Ian F.",1977,"6/28/96","5/3/10",0,4,0,1,"2",FALSE,87,"0",0
+"85",231076,"X001039605","DX135 .R57","ALDERMAN","Roma : the Panjabi emigrants in Europe, central and middle Asia, the USSR, and the Americas /","Rishi, W. R. (Weer Rajendra),",1976,"6/28/96","10/12/06",1,9,0,1,"2",FALSE,88,"0",0
+"86",974596,"X000298352","DX115 .S69 1954","ALDERMAN","In Sara's tents.","Starkie, Walter,",1954,"6/29/96","3/18/09",1,12,0,1,"2",FALSE,89,"0",0
+"87",57496,"X000924978","DX115 .M37 1983","ALDERMAN","Zur mythischen Figur des Zigeuners in der deutschen Zigeunerforschung /","Martins-Heuss, Kirsten.",1983,"6/28/96","2/9/11",0,0,0,1,"2",FALSE,90,"0",0
+"88",218716,"X000272657","DX229 .H63","ALDERMAN","Zigeuner und Zigeunerwissenschaft : e. Beitr. zur Grundlagenforschung u. Dokumentation d. Vˆlkermords im ""Dritten Reich"" /","Hohmann, Joachim S. (Joachim Stephan)",1980,"6/28/96","8/30/11",0,0,0,1,"2",FALSE,91,"0",0
+"89",2314394,"X002513116","DX115 .R66 1994","ALDERMAN","Roma : das unbekannte Volk : Schicksal und Kultur /","",1994,"7/1/96","4/23/06",2,3,0,1,"2",FALSE,92,"0",0
+"90",656778,"X000358958","DX211 .V4 1951","ALDERMAN","Gypsies of Britain, an introduction to their history,","Vesey-FitzGerald, Brian Seymour,",1951,"6/29/96","3/18/09",1,12,0,1,"2",FALSE,93,"0",0
+"91",181862,"X000594622","DX161 .C3 1980","ALDERMAN","Orijen, usos y costumbres de los jitanos y diccionario de su dialecto : con las voces equivalentes del castellano y sus definiciones /","Campuzano, RamÛn.",1980,"6/28/96","4/23/09",3,2,0,1,"2",FALSE,94,"0",0
+"92",1243643,"X001273169","DX157 .C53 1985","ALDERMAN","Cig·ny nyelvj·r·si nÈpmesÈk /","",1985,"6/30/96","3/18/09",0,0,0,1,"2",FALSE,95,"0",0
+"93",974599,"X001818385","DX118 .S7 1933","ALDERMAN","Raggle-taggle; adventures with a fiddle in Hungary and Roumania,","Starkie, Walter,",1933,"6/29/96","10/22/17",1,3,0,1,"2",FALSE,96,"0",0
+"94",1240682,"X001464271","DX293 .H33 1983","ALDERMAN","al-Bin?? al-ijtim??? wa-al-thaq?fah f? mujtama? al-Ghajar : dir?sah anthr?b?l?j?yah li-ta?th?r al-bin?? wa-al-thaq?fah wa-al-shakh??yah ?al· al-tak?mul al-ijtim??? /","?ann?, Nab?l ?ub??.",1983,"6/30/96","3/18/09",0,0,0,1,"2",FALSE,97,"0",0
+"95",1767996,"X002116047","DX145 .G765 1987","ALDERMAN","Zigeuner im Spiegel fr¸her Chroniken und Abhandlungen : Quellen vom 15. bis zum 18. Jahrhundert /","Gronemeyer, Reimer,",1987,"6/30/96","7/5/06",0,2,0,1,"2",FALSE,98,"0",0
+"96",4667613,"X030339854","DX118 .B59","ALDERMAN","Les Tsiganes.","Bloch, Jules,",1953,"11/28/07","1/1/00",0,0,0,1,"2",FALSE,99,"0",0
+"97",116923,"X000447727","DX157 .G4 v.1","ALDERMAN","Spartakus : e. Gegengeschichte d. Altertums nach d. Legenden d. Zigeuner /","Genner, Michael.",1979,"6/28/96","3/27/09",0,0,0,2,"2",TRUE,100,"0",0
+"98",2101413,"X002244315","DX222 .T75 1992","ALDERMAN","Struggling for ethnic identity : Czechoslovakia's endangered gypsies /","Tritt, Rachel.",1992,"6/30/96","11/20/01",0,6,0,1,"2",FALSE,101,"0",0
+"99",2945087,"X004350663","DX145 .T79 1999","ALDERMAN","T?Sygane : sbornik state? /","",1999,"9/14/99","1/1/00",0,0,0,1,"2",FALSE,102,"0",0
+"100",974614,"X001912362","DX213 .R4 1958","ALDERMAN","Smoke in the lanes.","Reeve, Dominic.",1958,"6/29/96","10/27/10",0,3,0,1,"2",FALSE,103,"0",0
+"101",2927469,"X006027628","DX145 .W34 1999","ALDERMAN","Wege zur Verbesserung der Lage der Roma in Mittel- und Osteuropa : Beitr‰ge aus ÷sterreich und Slowenien /","",1999,"7/15/99","1/1/00",0,0,0,1,"2",FALSE,104,"0",0
+"102",347718,"X000442974","DX211 .W4 1960","ALDERMAN","Gypsies, the secret people.","Webb, Godfrey Edward Charles.",1960,"6/28/96","3/18/09",3,4,0,1,"2",FALSE,105,"0",0
+"103",652388,"X000530479","DX161 .S3","ALDERMAN","The dialect of the gypsies of Wales, being the older form of British Romani preserved in the speech of the clan of Abram Wood.","Sampson, John,",1968,"6/29/96","3/18/09",0,0,0,1,"2",FALSE,106,"0",0
+"104",974586,"X002454726","DX115 .B4","ALDERMAN","The story of the Gypsies,","Bercovici, Konrad,",1928,"6/29/96","4/19/10",2,10,0,1,"2",FALSE,107,"0",0
+"105",2279312,"X002455762","DX145 .E44 1993","ALDERMAN","Geboren bin ich vor Jahrtausenden-- Bilderwelten in der Literatur der Roma und Sinti /","Eder, Beate,",1993,"7/1/96","3/6/01",0,3,0,1,"2",FALSE,108,"0",0
+"106",1911713,"X002074043","DX229 .H619 1991","ALDERMAN","Robert Ritter und die Erben der Kriminalbiologie : ""Zigeunerforschung"" in Nationalsozialismus und in Westdeustschland im Zeichen des Rassismus /","Hohmann, Joachim S. (Joachim Stephan)",1991,"6/30/96","11/6/01",0,2,0,1,"2",FALSE,109,"0",0
+"107",1739509,"X001808013","DX145 .G76 1988","ALDERMAN","Die Zigeuner : Reisende in Europa : Roma, Sinti, Manouches, Gitanos, Gypsies, Kalderasch, Vlach und andere /","Gronemeyer, Reimer,",1988,"6/30/96","9/28/99",1,6,0,1,"2",FALSE,110,"0",0
+"108",2475740,"X002689566","DX145 .S59 1994","ALDERMAN","Sinti, Roma und wir anderen : Beitr‰ge zu problembesetzten Beziehungen /","",1994,"7/1/96","2/28/01",1,2,0,1,"2",FALSE,111,"0",0
+"109",974590,"X000357014","DX115 .P2","ALDERMAN","Historia y costumbres de los gitanos,","PabanÛ, F. M.",1915,"6/29/96","3/18/09",7,21,0,2,"2",FALSE,112,"0",0
+"110",1656882,"X002114533","DX261 .Z87 1989","ALDERMAN","Nomades parmi les sÈdentaires : problËmes posÈs par un autre mode de vie /","Z¸rcher-Berther, Maria-Luisa.",1989,"6/30/96","1/1/00",0,4,0,1,"2",FALSE,113,"0",0
+"111",1350733,"X001544228","DX115 .V67 1983","ALDERMAN","Zigeuner : Roma, Sinti, Gitanos, Gypsies zwischen Verfolgung und Romantisierung : Katalog zur Ausstellung ""Zigeuner zwischen Romantisierung und Verfolgung--Roma, Sinti, Manusch, CalÈ in Europa"" des Hamburgischen Museums f¸r Vˆlkerkunde /","Vossen, R¸diger,",1983,"6/30/96","12/3/01",1,3,0,1,"2",FALSE,114,"0",0
+"112",450689,"X000289626","DX201 .G76 1975","ALDERMAN","Gypsies in the city : culture patterns and survival /","Gropper, Rena C.",1975,"6/29/96","6/5/97",1,12,0,1,"2 3",FALSE,115,"0",0
+"113",1607801,"X001663972","DX227 .F67 1986","ALDERMAN","Tsiganes et sÈdentaires : la reproduction culturelle d'une sociÈtÈ /","Formoso, Bernard,",1986,"6/30/96","10/12/01",0,2,0,1,"2",FALSE,116,"0",0
+"114",2080586,"X002213337","DX211 .G73 1991","ALDERMAN","Counting Gypsies /","Green, Hazel.",1991,"6/30/96","1/1/00",0,2,0,1,"2",FALSE,117,"0",0
+"115",2460579,"X002677541","DX241 .G55 1994","ALDERMAN","Russlands Zigeuner : ihre Gegenwart und Geschichte /","Gilsenbach, Reimar.",1994,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,118,"0",0
+"116",974600,"X001474436","DX118 .S7 1947","ALDERMAN","Raggle-taggle; adventures with a fiddle in Hungary and Roumania.","Starkie, Walter,",1947,"6/29/96","3/18/09",1,2,0,1,"2",FALSE,119,"0",0
+"117",974619,"X001132642","DX251 .B7 1922","ALDERMAN","Nights and days on the gypsy trail through Andalusia and on other Mediterranean shores.","Brown, Irving Henry,",1922,"6/29/96","4/19/10",0,8,0,1,"2",FALSE,120,"0",0
+"118",2449825,"X002652226","DX221.5 .M37 1993","ALDERMAN","T?Siganite v B?lgarii?a /","Marushiakova, Elena.",1993,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,121,"0",0
+"119",2321381,"X002498302","DX271 .D78 1993","ALDERMAN","Dru?tvene promene i polo?aj Roma : zbornik radova sa nau?nog skupa odr?anog 10. i 11. decembra 1992. godine /","",1993,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,121,"0",0
+"120",2288280,"X002479383","DX145 .G5 1994 T.1","ALDERMAN","Weltchronik der Zigeuner : 2500 Ereignisse aus der Geschichte der Roma und Sinti, der Luri, Zott und Boz?a, der Athinganer, Tattern, Heiden und Sarazenen, der BohÈmiens, Gypsies und Gitanos und aller anderen Minderheiten, die ""Zigeuner"" genannt werdern /","Gilsenbach, Reimar.",1994,"7/1/96","1/29/99",0,2,0,1,"2",TRUE,122,"0",0
+"121",179733,"X000500516","DX227 .V38 1981","ALDERMAN","Les BohÈmiens en France au 19e siËcle /","Vaux de Foletier, FranÁois de,",1981,"6/28/96","10/19/01",1,2,0,1,"2",FALSE,123,"0",0
+"122",706147,"X001148217","DX227 .W55 1984","ALDERMAN","Mariage tsigane : une cÈrÈmonie de fianÁailles chez les Rom de Paris /","Williams, Patrick,",1984,"6/29/96","10/19/01",0,1,0,1,"2",FALSE,124,"0",0
+"123",1287003,"X001432934","DX229 .H44 1987","ALDERMAN","Die ""Bek‰mpfung des Zigeunerunwesens"" im Wilhelminischen Deutschland und in der Weimarer Republik, 1871-1933 /","Hehemann, Rainer.",1987,"6/30/96","2/12/01",0,1,0,1,"2",FALSE,125,"0",0
+"124",2339974,"X002522611","DX271 .R398 1992","ALDERMAN","Razvitak Roma u Jugoslaviji : problemi i tendencije : zbornik radova sa nau?nog skupa odr?anog 12. i 13. januara 1989. godine : primljeno na VIII skupu Odeljenja dru?tvenih nauka od 16. oktobra 1990 g. /","",1992,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,126,"0",0
+"125",2482856,"X004080648","DX229 .K73 1995","ALDERMAN","Wo sind sie hingekommen? : die unterschlagene Vˆlkermord an den Sinti und Roma /","Krausnick, Michail,",1995,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,127,"0",0
+"126",1951243,"X002108061","DX223 .S93 1991","ALDERMAN","Die Roma in Ungarn : ein Beitrag zur Sozialgeschichte einer Minderheit in Ost- und Mitteleuropa /","SzabÛ, Gyˆrgy,",1991,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,128,"0",0
+"127",2471351,"X006056231","DX222 .N43 1994","ALDERMAN","?eskosloven?tÌ romovÈ v letech 1938-1945 /","Ne?as, Ctibor.",1994,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,129,"0",0
+"128",2625360,"X004062362","DX229 .D3 1983","ALDERMAN","""Da wollten wir frei sein!"" : eine Sinti-Familie erz‰hlt /","",1983,"11/18/96","5/30/00",1,2,0,1,"2",FALSE,130,"0",0
+"129",484936,"X000282413","DX127 .T46 M3 1975","ALDERMAN","King of the gypsies /","Maas, Peter,",1975,"6/29/96","11/1/97",0,9,0,1,"2",FALSE,131,"0",0
+"130",2023518,"X031918696","DX213 .K46 1990","ALDERMAN","On the verge : the gypsies of England /","Kenrick, Donald.",1990,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,132,"0",0
+"131",974602,"X000298351","DX127 .P4 A3 1936","ALDERMAN","A Romany life,","Petulengro,",1936,"6/29/96","2/6/09",1,4,0,1,"2",FALSE,133,"0",0
+"132",289626,"X006114709","DX251 .B6 1888","ALDERMAN","The Zincali. An account of the gypsies of Spain.","Borrow, George,",1888,"6/28/96","2/9/11",2,16,0,1,"2",FALSE,134,"0",0
+"133",680519,"X001203507","DX157 .S5517 1985","ALDERMAN","Skazki i pesni rozhdennye v doroge : t?syganski? fol?klor /","",1985,"6/29/96","1/1/00",0,2,0,1,"2",FALSE,135,"0",0
+"134",1653578,"X001941293","DX127 .W57 W57 1990","ALDERMAN","Beitr?ge zur Zigeunerkunde /","Wittich, Engelbert,",1990,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,136,"0",0
+"135",1751160,"X001827862","DX229 .H375 1990","ALDERMAN","Du kriegst auch einen schˆnen Wohnwagen : Zwangslager f¸r Sinti und Roma w‰hrend des Nationalsozialismus in Frankfurt am Main /","Hase-Mihalik, Eva von,",1990,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,136,"0",0
+"136",1649509,"X001937586","DX229 .H62 1990","ALDERMAN","Verfolgte ohne Heimat : Geschichte der Zigeuner in Deutschland /","Hohmann, Joachim S. (Joachim Stephan)",1990,"6/30/96","1/1/00",2,0,0,1,"2",FALSE,136,"0",0
+"137",1606259,"X001664329","DX145 .K6 1989","ALDERMAN","Sinti und Roma unter dem Nationalsozialismus /","Kˆnig, Ulrich,",1989,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,137,"0",0
+"138",1375116,"X001607986","DX145 .R35 1988","ALDERMAN","Interethnik : Beziehungen von Zigeunern und Nichtzigeunern /","Rakelmann, Georgia A.",1988,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,138,"0",0
+"139",1378149,"X001616909","DX229 .S5 1988","ALDERMAN","Sinti in der Grafschaft Lippe : Studien zur Geschichte der ""Zigeuner"" im 18 Jahrhundert /","",1988,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,138,"0",0
+"140",974607,"X002241508","DX161 .S32","ALDERMAN","Romane gilia John Sampsoneste; poems in Romani with English renderings.","Sampson, John.",1931,"6/29/96","3/18/09",0,4,0,1,"2",FALSE,139,"0",0
+"141",1258199,"X001337022","DX229 .M39 1987","ALDERMAN","Dorfzigeuner : Kultur und Geschichte der Burgenland-Roma von der Ersten Republik bis zur Gegenwart /","Mayerhofer, Claudia.",1987,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,140,"0",0
+"142",1294232,"X001397822","DX242 .F52 1986","ALDERMAN","Cyganie na polskich drogach /","Ficowski, Jerzy.",1986,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,141,"0",0
+"143",95466,"X000978668","DX145 .C47 1983","ALDERMAN","Populations nomades et pauvretÈ /","Charlemagne, Jacqueline.",1983,"6/28/96","11/21/99",0,1,0,1,"2",FALSE,142,"0",0
+"144",1822829,"X001932037","DX229 .Z54","ALDERMAN","Zigeunerleben : Beitr. zur Sozialgeschichte e. Verfolgung /","",1979,"6/30/96","1/1/00",1,2,0,1,"2",FALSE,143,"0",0
+"145",974595,"X006114349","DX115 .S69 1953","ALDERMAN","In Sara's tents.","Starkie, Walter,",1953,"6/29/96","1/8/02",1,7,0,1,"2",FALSE,144,"0",0
+"146",698253,"X001147887","DX229 .R56 1985","ALDERMAN","Wer wirft den Stein? : Zigeuner sein in Deutschland : eine Anklage /","Rinser, Luise,",1985,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,145,"0",0
+"147",701708,"X001224085","DX229 .W34 1985","ALDERMAN","Zigeuner : bew‰ltigen 1/2 Million /","Walendy, Udo.",1985,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,145,"0",0
+"148",680924,"X031916330","DX8 .C87 1985b","ALDERMAN","Travels with a superior person /","Curzon of Kedleston, George Nathaniel Curzon,",1985,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,145,"0",0
+"149",2502895,"X004039029","DX229 .S556 1995","ALDERMAN","Sinti und Roma in Deutschland : Versuch einer Bilanz /","",1995,"7/1/96","1/15/97",0,1,0,1,"2",FALSE,146,"0",0
+"150",134371,"X000357173","DX229 .H6","ALDERMAN","Geschichte der Zigeunerverfolgung in Deutschland /","Hohmann, Joachim S. (Joachim Stephan)",1981,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,147,"0",0
+"151",974620,"X001132641","DX251 .S75 1937","ALDERMAN","Don Gypsy;","Starkie, Walter,",1937,"6/29/96","3/18/09",0,1,0,1,"2",FALSE,148,"0",0
+"152",693486,"X001184099","DX145 .E54 1983","ALDERMAN","Eigensinn und Hilfe : Zigeuner in der Sozialpolitik heutiger Leistungsgesellschaften /","",1983,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,149,"0",0
+"153",251028,"X000161694","DX217 .D45","ALDERMAN","The Irish itinerants : some demographic, economic, and educational aspects /","Dempsey, M. (Mary)",1979,"6/28/96","1/1/00",4,1,0,1,"2",FALSE,150,"0",0
+"154",170843,"X000413909","DX229 .G44","ALDERMAN","Zigeuner heute : Verfolgung und Diskriminierung in d. BRD : e. Anklageschrift /","Geigges, Anita.",1979,"6/28/96","1/1/00",2,1,0,1,"2",FALSE,150,"0",0
+"155",768696,"X001278580","DX766 .I33 1984","ALDERMAN","Ide?no-politicheskai?a i organizat?sionnai?a rabota bol?shevikov Sibiri i Dal?nego Vostoka v period revoli?ut?sionno? bor?by s samoderzhaviem, 1903 - fevr. 1917 gg /","",1984,"6/29/96","7/23/97",0,3,0,1,"2",FALSE,151,"0",0
+"156",1323978,"X001505325","DX229 .H85 1982","ALDERMAN","Soziale Situation der Sinti in der Bundesrepublik Deutschland : Lebensverh‰ltnisse Deutscher Sinti unter besonderer Ber¸cksichtigung der eigenen Aussagen und Meinungen der Betroffenen : Endbericht /","Hundsalz, Andreas.",1982,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,152,"0",0
+"157",18014,"X000943616","DX229 .R65 1982","ALDERMAN","Roma-Weltkongress und Sinti-Alltag : Pressespiegel III, Presseberichterstattung zum Thema Sinti und Roma im Jahr 1981 : erstellt im Projekt ""Sinti in der Bundesrepublik,"" Universit‰t Bremen, Fachbereich 6, Diplom-Studiengang Sozialp‰dagogik /","",1982,"6/28/96","1/1/00",1,0,0,1,"2",FALSE,153,"0",0
+"158",2445066,"X031918703","DX229 .S354 1994","ALDERMAN","Rassismus gegen Sinti und Roma : zur Kontinuit‰t der Zigeunerverfolgung innerhalb der deutschen Gesellschaft von der Weimarer Republik bis in die Gegenwart /","Schenk, Michael,",1994,"7/1/96","10/8/96",0,1,0,1,"2",FALSE,154,"0",0
+"159",277640,"X006132048","DX251 .B6 1893","ALDERMAN","The Zincali : an account of the Gypsies of Spain /","Borrow, George,",1893,"6/28/96","4/4/11",2,11,0,1,"2",FALSE,155,"0",0
+"160",974585,"X002548142","DX101 .G7 no.5 1928","ALDERMAN","Romani versions,","MacAlister, Donald,",1928,"6/29/96","3/18/09",0,3,0,1,"2",TRUE,156,"0",0
+"161",242487,"X000225349","DX229 .S63","ALDERMAN","Zigeuner zwischen Verfolgung und Integration : Geschichte, Lebensbedingungen u. Eingliederungsversuche /","Soest, George von,",1979,"6/28/96","1/1/00",1,0,0,1,"2",FALSE,157,"0",0
+"162",444183,"X000282414","DX211 .A27","ALDERMAN","Gypsy politics and social change; the development of ethnic ideology and pressure politics among British gypsies from Victorian reformism to Romany nationalism","Acton, T. A. (Thomas Alan)",1974,"6/29/96","4/6/97",2,5,0,1,"2",FALSE,158,"0",0
+"163",263159,"X031918697","DX115 .Z53 Bd.1","ALDERMAN","Zigeunerkundliche Forschungen /","",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,159,"0",0
+"164",974601,"X000458187","DX127 .B47 A3","ALDERMAN","Dromengro: man of the road.","Berlin, Sven.",1971,"6/29/96","11/21/99",0,2,0,1,"2",FALSE,160,"0",0
+"165",974611,"X000946816","DX201 .B7","ALDERMAN","Gypsy fires in America;","Brown, Irving Henry,",1924,"6/29/96","4/12/05",0,8,0,1,"2",FALSE,162,"0",0
+"166",974597,"X031918698","DX115 .S73","ALDERMAN","Les Tsiganes : leur ordre social /","Stoyanovitch, Constantin.",1974,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,163,"0",0
+"167",417058,"X031918701","DX245 .S8 1974","ALDERMAN","Fante- eller landstrygerfolket i Norge /","Sundt, Eilert Lund,",1974,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,163,"0",0
+"168",974593,"X031999187","DX115 .S27","ALDERMAN","Jipas?ra p??e p??e.","Sarak?ra, Nikhila.",1973,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,164,"0",0
+"169",974617,"X002548144","DX229 .M6 1968","ALDERMAN","Zigeuner; der Weg eines Volkes in Deutschland","Mode, Heinz Adolf,",1968,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,165,"0",0
+"170",1315805,"X000442507","DX127 .S54 A3 1924","ALDERMAN","The adventures of a gipsy boy : and other stories /","Smith, Simon.",1924,"6/30/96","3/18/09",0,1,0,1,"2",FALSE,166,"0",0
+"171",475218,"X030754131","DX115 .L5 1882","ALDERMAN","The Gypsies,","Leland, Charles Godfrey,",1882,"10/6/10","1/1/00",0,5,0,2,"2",FALSE,167,"0",0
+"172",974622,"X031918700","DX271 .S54","ALDERMAN","Cigani; minulost v sedanjosti.","?iftar, Vanek.",1970,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,168,"0",0
+"173",974589,"X031918699","DX115 .L6 1968","ALDERMAN","Die Zigeuner in ihrem Wesen und ihrer Sprache;","Liebich, Richard.",1968,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,169,"0",0
+"174",974615,"X000472211","DX227 .C6 1968","ALDERMAN","Les Gitans.","Colinon, Maurice,",1968,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,169,"0",0
+"175",974618,"X031918702","DX241 .K38","ALDERMAN","Po?egnanie taboru.","Kazimierczuk, Zdzis?aw,",1968,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,169,"0",0
+"176",974609,"X031919037","DX161 .V4 1964","ALDERMAN","T?Syganski? i?azyk.","Ventt?sel?, T. V. (Tat?i?ana Vladimirovna),",1964,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,170,"0",0
+"177",974616,"X000472210","DX227 .V3 1961","ALDERMAN","Les Tsiganes dans l'ancienne France.","Vaux de Foletier, FranÁois de,",1961,"6/29/96","11/21/99",1,1,0,1,"2",FALSE,171,"0",0
+"178",224555,"X001125506","DX213 .L4 1893","ALDERMAN","The English Gipsies and their language /","Leland, Charles Godfrey,",1893,"6/28/96","5/10/07",0,11,0,1,"2",FALSE,172,"0",0
+"179",5225881,"X001125417","DX115 .L5 1898","ALDERMAN","The Gypsies /","Leland, Charles Godfrey,",1898,"6/29/96","6/19/01",2,18,0,1,"2",FALSE,174,"0",0
+"180",974608,"X000458203","DX161 .S5 1968","ALDERMAN","The dialect of the English gypsies,","Smart, Bath Charles.",1968,"6/29/96","6/4/97",3,2,0,1,"2",FALSE,175,"0",0
+"181",974610,"X030197770","DX161 .W6","ALDERMAN","Grosses Wˆrterbuch der Zigeunersprache (romani ts?iw) Wortschatz deutscher und anderer europ‰ischer Zigeunerdialekte.","Wolf, Siegmund A.",1960,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,176,"0",0
+"182",974613,"X000591508","DX211 .Y3 1953","ALDERMAN","My Gypsy days; recollections of A Romani rawnie.","Yates, Dora Esther,",1953,"6/29/96","5/20/97",0,3,0,1,"2",FALSE,177,"0",0
+"183",801577,"X001216661","DX161 .P6","ALDERMAN","Zigeunerisches.","Ascoli, Graziadio Isaia,",1865,"6/29/96","11/2/15",0,1,0,1,"2",FALSE,178,"0",0
+"184",974598,"X002588963","DX118 .P5","ALDERMAN","To gipsyland,","Pennell, Elizabeth Robins,",1893,"6/29/96","9/21/08",0,2,0,1,"2",FALSE,180,"0",0
+"185",305102,"305102-1001","DX251 .B6 1914","ALDERMAN","The Zincali: an account of the Gypsies of Spain,","Borrow, George,",1935,"6/28/96","1/1/00",0,0,0,1,"2 14",FALSE,181,"0",0
+"186",305045,"X001125505","DX213 .C8 1916","ALDERMAN","Romany life : experienced and observed during many years of friendly intercourse with the gypsies /","Cuttriss, Frank,",1916,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,182,"0",0
+"187",974592,"X001475955","DX115 .R6 1836","ALDERMAN","The gypsies: their origin, continuance, and destination.","Roberts, Samuel,",1836,"6/29/96","10/6/08",1,13,0,1,"2",FALSE,183,"0",0
+"188",984257,"X001850471","DX115 .S5 1871","ALDERMAN","A history of the Gipsies: with specimens of the Gipsy language.","Simson, Walter.",1878,"6/29/96","3/9/06",1,3,0,1,"2",FALSE,184,"0",0
+"189",974606,"X002537532","DX161 .F5","ALDERMAN","Lehrbuch des dialekts der deutschen zigeuner.","Finck, Franz Nikolaus,",1903,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,185,"0",0
+"190",974621,"X004762743","DX255 .C6","ALDERMAN","Os ciganos de Portugal;","Coelho, Francisco Adolpho,",1892,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,186,"0",0

@@ -1,0 +1,691 @@
+"","Catalog.Id","Item.Barcode","Item.Call.Number","Item.Library.Code","Catalog.Title","Catalog.Author","Catalog.Pub.Year","Item.Created.Date","Item.Last.Checkout.Date","NumInhouseUses","NumCheckouts","NumRenewals","Duplicates","Bib.Marc.Subfield.Data","MultiVolume","modelC","MODEL","LiaisonRecommendation"
+"1",4026811,"X004790450","DH801 .F462 A13 2002","ALDERMAN","1302, le dÈsastre de Courtrai : mythe et rÈalitÈ de la bataille des Èperons d'or /","",2002,"4/29/04","5/2/12",0,137,11,1,"2",FALSE,1,"1",0
+"2",2461053,"X006136605","DH179 .I773 1995","ALDERMAN","The Dutch republic : its rise, greatness, and fall, 1477-1806 /","Israel, Jonathan I. (Jonathan Irvine),",1995,"7/1/96","5/11/17",10,51,1,1,"2",FALSE,2,"1",0
+"3",2057878,"X002214903","DH801 .F462 N53 1992","ALDERMAN","Medieval Flanders /","Nicholas, David,",1992,"6/30/96","12/11/18",2,44,19,1,"2",FALSE,3,"1",0
+"4",339065,"X006113848","DH186.5 .P283","ALDERMAN","The Dutch revolt /","Parker, Geoffrey,",1977,"6/28/96","12/1/17",4,50,14,2,"2 3",FALSE,4,"1",0
+"5",2922281,"X004295236","DH179 .I87 1998","ALDERMAN","The Dutch Republic : its rise, greatness and fall, 1477-1806 /","Israel, Jonathan I. (Jonathan Irvine),",1998,"6/21/99","4/11/18",3,26,36,1,"2",FALSE,5,"1",0
+"6",4340554,"X004903858","DH131 .A73 2006","ALDERMAN","A history of the Low Countries /","Arblaster, Paul.",2006,"1/20/06","5/12/18",1,19,9,1,"2",FALSE,6,"1",0
+"7",949923,"X002419032","DH521 .P57 1922 v.2","ALDERMAN","Histoire de Belgique.","Pirenne, Henri,",1900,"8/20/96","2/8/11",0,144,0,7,"2",TRUE,7,"1",0
+"8",573957,"X000232609","DH186.5 .P28","ALDERMAN","The Army of Flanders and the Spanish road, 1567-1659; the logistics of Spanish victory and defeat in the Low Countries' Wars.","Parker, Geoffrey,",1972,"6/29/96","5/9/13",4,40,3,2,"2 3",FALSE,10,"1",0
+"9",7281567,"X031810184","DH71 .C47 2017","ALDERMAN","The fullness of time : temporalities of the fifteenth-century Low Countries /","Champion, Matthew S.,",2017,"11/10/17","11/28/17",1,0,0,1,"2",FALSE,11,"1",0
+"10",6260916,"X031630412","DH689 .V36 A3 2014","ALDERMAN","Through the day, through the night : a Flemish Belgian boyhood and World War II /","Vansina, Jan",2014,"5/17/14","10/28/18",0,1,2,1,"2",FALSE,12,"1",0
+"11",6530100,"X031705392","DH175 .A76 2015","ALDERMAN","Honor, vengeance, and social trouble : pardon letters in the Burgundian Low Countries /","Arnade, Peter J.,",2015,"3/25/15","9/22/16",0,1,0,1,"2",FALSE,13,"1",0
+"12",6248053,"X031626784","DH186.5 .H37 2014","ALDERMAN","The Dutch wars of independence : warfare and commerce in the Netherlands 1570-1680 /","Hart, Marjolein C. 't",2014,"5/8/14","4/20/15",0,3,1,1,"2",FALSE,14,"1",0
+"13",5725321,"X031214727","DH569 .C7 V26 2012","ALDERMAN","Belgium and the Congo, 1885-1980 /","Vanthemsche, Guy",2012,"8/10/12","11/10/18",0,1,0,1,"2",TRUE,15,"1",0
+"14",4721178,"X030259104","DH186.5 .T73 2008","ALDERMAN","The founding of the Dutch Republic : war, finance, and politics in Holland, 1572-1588 /","Tracy, James D.",2008,"5/21/08","4/19/14",0,9,1,1,"2",FALSE,16,"1",0
+"15",3823706,"X004628643","DH645 .W5713 2000","ALDERMAN","Political history of Belgium from 1830 onwards /","Witte, Els.",2000,"3/26/02","8/28/13",3,16,0,1,"2",FALSE,17,"1",0
+"16",2259394,"X031225043","DH811 .A6 A57 1993","ALDERMAN","Antwerp, story of a metropolis, 16th-17th century /","",1993,"10/16/12","5/31/17",2,4,4,1,"2",FALSE,18,"1",0
+"17",1342495,"X001104822","DH430 .M87 1988","ALDERMAN","The regional dynamics of language differentiation in Belgium : a study in cultural-political geography /","Murphy, Alexander B.,",1988,"6/30/96","4/23/15",1,20,0,1,"2",FALSE,19,"1",0
+"18",6148911,"X031603614","DH186.5 .D86 2013","ALDERMAN","Britain and the Dutch revolt, 1560-1700 /","Dunthorne, Hugh.",2013,"10/26/13","4/20/15",0,1,0,1,"2",FALSE,20,"1",0
+"19",554691,"X000057165","DH689 .S6 A3132 1971","ALDERMAN","The continuing battle; memoirs of a European, 1936-1966","Spaak, Paul-Henri,",1971,"6/29/96","12/17/18",1,18,317,1,"2",FALSE,21,"1",0
+"20",47289,"X000822150","DH687 .K49 1984","ALDERMAN","Outrageous fortune : the tragedy of Leopold III of the Belgians, 1901-1941 /","Keyes, Roger,",1984,"6/28/96","10/22/12",1,22,0,1,"2",FALSE,22,"1",0
+"21",116563,"X000349934","DH186.5 .I85 1982","ALDERMAN","The Dutch Republic and the Hispanic world, 1606-1661 /","Israel, Jonathan I. (Jonathan Irvine),",1982,"6/28/96","2/13/09",3,26,0,1,"2",FALSE,23,"1",0
+"22",5949222,"X031613072","DH186.5 .S74 2012","ALDERMAN","Habsburg communication in the Dutch revolt /","Stensland, Monica,",2012,"3/6/13","4/20/15",0,1,0,1,"2",FALSE,24,"1",0
+"23",6147959,"X031576648","DH189 .S74 2013","ALDERMAN","Margaret of Parma : a life /","Steen, Charlie R.",2013,"10/22/13","3/10/15",0,0,0,1,"2",FALSE,25,"1",0
+"24",2931486,"X004323079","DH175 .B57 1999","ALDERMAN","The promised lands : the Low Countries under Burgundian rule, 1369-1530 /","Blockmans, Wim,",1999,"7/27/99","1/8/16",1,13,2,1,"2",FALSE,26,"1",0
+"25",254926,"X000374516","DH186.5 .P285 1979","ALDERMAN","Spain and the Netherlands, 1559-1659 : ten studies /","Parker, Geoffrey,",1979,"6/28/96","10/14/10",2,24,0,1,"2",FALSE,27,"1",0
+"26",5764829,"X030845521","DH602 .I8 I7313 2011","ALDERMAN","Isabel Clara Eugenia : female sovereignty in the courts of Madrid and Brussels /","",2011,"9/6/12","2/2/15",0,1,0,1,"2",FALSE,28,"1",0
+"27",751765,"X031949548","DH403 .A23 v.5 pt.1","ALDERMAN","De oorkonden der graven van Vlaanderen (1191-aanvang 1206)","Flanders. Counts.",1964,"12/15/17","12/18/17",0,0,0,2,"2",TRUE,29,"1",0
+"28",4796035,"X030472635","DH187.5 .A76 2008","ALDERMAN","Beggars, iconoclasts, and civic patriots : the political culture of the Dutch Revolt /","Arnade, Peter J.",2008,"11/26/08","8/19/15",1,3,2,1,"2",FALSE,30,"1",0
+"29",4248391,"X004835061","DH188 .W7 J37 2005","ALDERMAN","The awful end of Prince William the silent : the first assassination of a head of state with a handgun /","Jardine, Lisa.",2005,"5/26/05","5/10/11",0,10,0,1,"2",FALSE,31,"1",0
+"30",4467668,"X030280244","DH645 .H69 2005","ALDERMAN","How can one not be interested in Belgian history : war, language and consensus in Belgium since 1830 /","",2005,"2/15/07","6/26/17",1,2,2,1,"2",FALSE,32,"1",0
+"31",220154,"X000707009","DH491 .I78","ALDERMAN","The Flemings and Walloons of Belgium /","Irving, R. E. M. (Ronald Eckford Mill)",1980,"6/28/96","5/7/09",3,23,0,1,"2 17",FALSE,33,"1",0
+"32",344028,"X000084650","DH801 .F43 C3 1974","ALDERMAN","The fair face of Flanders /","Carson, Patricia.",1974,"6/28/96","12/14/15",0,17,0,1,"2",TRUE,34,"1",0
+"33",773320,"X001275306","DH71 .I57 1984","ALDERMAN","Papers from the Second Interdisciplinary Conference on Netherlandic Studies held at Georgetown University, 7-9 June 1984 /","Interdisciplinary Conference on Netherlandic Studies",1987,"6/29/96","11/3/17",1,13,0,1,"2",FALSE,35,"1",0
+"34",2028441,"X002187242","DH186.5 .G37 1992","ALDERMAN","The political thought of the Dutch revolt, 1555-1590 /","Gelderen, Martin van.",1992,"6/30/96","2/8/16",1,14,27,1,"2",FALSE,36,"1",0
+"35",537527,"X000472738","DH418 .L9 1971","ALDERMAN","Belgium,","Lyon, Margot,",1971,"6/29/96","4/23/15",1,18,0,1,"2",FALSE,37,"1",0
+"36",4606034,"X030261350","DH801 .F443 D35 2007","ALDERMAN","Flanders : a cultural history /","De Vries, AndrÈ,",2007,"7/4/07","5/14/15",0,3,2,1,"2",TRUE,38,"1",0
+"37",512060,"X000779304","DH471 .W37 1975 v.1 pt.1","ALDERMAN","The Flemish nobility before 1300 /","Warlop, E.",1975,"6/29/96","7/10/12",1,56,0,3,"2",TRUE,39,"1",0
+"38",3529051,"X006108246","DH186.5 .K67 2000","ALDERMAN","Political thought in the Dutch Republic : three studies /","Kossmann, E. H. (Ernst Heinrich),",2000,"4/26/00","2/8/16",4,9,25,1,"2",FALSE,40,"1",0
+"39",4814500,"X030568836","DH180 .H345 2009","ALDERMAN","For the common good? : state power and urban revolts in the reign of Mary of Burgundy (1477-1482) /","Haemers, Jelle.",2009,"1/22/09","1/28/16",0,0,0,1,"2",FALSE,41,"1",0
+"40",4228904,"X004864707","DH146 .R69 2004","ALDERMAN","Ethnic identity and imperial power : the Batavians in the early Roman Empire /","Roymans, Nico.",2004,"5/5/05","5/12/18",1,1,3,1,"2",FALSE,42,"1",0
+"41",2293018,"X002480914","DH71 .F765 1993","ALDERMAN","From revolt to riches : culture and history of the Low Countries, 1500-1700 : international and interdisciplinary perspectives /","",1993,"7/1/96","3/27/12",4,16,0,1,"2",FALSE,44,"1",0
+"42",2753420,"X004140338","DH186 .E94 1997","ALDERMAN","Exercise of arms : warfare in the Netherlands, 1568-1648 /","",1997,"12/22/97","4/22/13",0,13,0,1,"2",FALSE,45,"1",0
+"43",1952146,"X002121445","DH491 .F48 1992","ALDERMAN","The Flemish movement : a documentary history 1780-1990 /","",1992,"6/30/96","5/7/09",4,19,0,1,"2",FALSE,46,"1",0
+"44",3837201,"X004589991","DH801 .F462 F44 2002","ALDERMAN","The golden spurs of Kortrijk : how the knights of France fell to the foot soldiers of Flanders in 1302 /","Fegley, Randall,",2002,"5/30/02","6/27/09",0,12,0,1,"2",TRUE,48,"1",0
+"45",4448818,"X030145206","DH682 .S3314 2004","ALDERMAN","La Belgique et la PremiËre Guerre mondiale /","Schaepdrijver, Sophie de.",2004,"12/14/06","4/30/15",0,1,0,1,"2",FALSE,49,"1",0
+"46",1613533,"X031869720","DH186 .L56 1989","ALDERMAN","The Dutch revolt, 1559-1648 /","Limm, Peter.",1989,"6/30/96","1/22/15",2,12,11,1,"2 3",FALSE,50,"1",0
+"47",5312762,"X030925607","DH186.5 .R65 2010","ALDERMAN","Disputation by decree : the public disputations between Reformed ministers and Dirck Volckertszoon Coornhert as instruments of religious policy during the Dutch Revolt (1577-1583) /","Roobol, Marianne.",2010,"3/23/11","8/25/11",0,0,0,1,"2",FALSE,51,"1",0
+"48",7328782,"X031870322","DH16 .W36 1930","ALDERMAN","Handbook to Holland, with general and railway maps of Holland ; plans of Middelburg, Dordrecht, Delft, Rotterdam, the Hague, Leiden, Haarlem, Amsterdam, Utrecht, Nijmegen, Kampen, Leeuwarden, Arnhem, the Isle of Walcheren, the Isle of Marken, etc. /","Ward, Lock & Co.",1930,"11/7/17","11/9/17",0,0,0,1,"2",FALSE,52,"1",0
+"49",2645900,"X006041632","DH71 .N488 1996","ALDERMAN","Tournois, joutes, pas d'armes dans les villes de Flandre ‡ la fin du Moyen Age (1300-1486) /","Neste, Evelyne van den.",1996,"1/28/97","2/26/15",0,10,0,1,"2",FALSE,53,"1",0
+"50",3916707,"X004680225","DH801 .F465 B934 2002","ALDERMAN","Quand les femmes gouvernent : droit et politique au XIVe siËcle : Yolande de Flandre /","Bubenicek, Michelle.",2002,"2/11/03","10/10/18",1,0,0,1,"2",FALSE,54,"1",0
+"51",4010504,"X004825878","DH689 .S73 A3 2003","ALDERMAN","MÈmoires sur la RÈgence et la question royale : ""tout cela a passÈ comme une ombre"" /","Staercke, AndrÈ de,",2003,"2/24/04","11/2/15",0,2,0,1,"2",FALSE,55,"1",0
+"52",28003,"X000870089","DH908 .N48 1984","ALDERMAN","The Grand Duchy of Luxembourg : the evolution of nationhood, 963 A.D. to 1983 /","Newcomer, James.",1984,"6/28/96","2/29/12",2,15,0,1,"2",FALSE,56,"1",0
+"53",520902,"X031942098","DH403 .A2 v.46 t.1","ALDERMAN","DÈnombrements des feux des duchÈ de Luxembourg et comtÈ de Chiny ...","Grob, Jacques,",1921,"12/12/17","12/14/17",0,0,0,2,"2",TRUE,57,"1",0
+"54",2088837,"X002253924","DH185 .D88 1993","ALDERMAN","The Dutch revolt /","",1993,"6/30/96","12/1/17",2,7,11,1,"2",FALSE,58,"1",0
+"55",7322807,"X031900262","DH682 .M37 1918","ALDERMAN","The secret press in Belgium /","Massart, Jean,",1918,"11/3/17","11/6/17",0,0,0,1,"2",FALSE,59,"1",0
+"56",1760253,"X001813602","DH652 .F57 1988","ALDERMAN","Diplomacy and revolution : the London conference of 1830 and the Belgian revolt /","Fishman, J. S.",1988,"6/30/96","2/13/15",1,10,0,1,"2",FALSE,60,"1",0
+"57",453943,"X000288794","DH801 .F45 G28 1949","ALDERMAN","La Flandre sous les premiers comtes,","Ganshof, F. L. (FranÁois Louis),",1943,"6/29/96","9/22/17",2,14,0,1,"2",TRUE,61,"1",0
+"58",2870358,"X004290287","DH36 .S77 1998","ALDERMAN","Touring the low contries : accounts of British travellers, 1660-1720 /","Strien, C. D. van.",1998,"1/18/99","6/23/09",4,12,0,1,"2",FALSE,62,"1",0
+"59",528636,"X000748827","DH418 .M25 1970","ALDERMAN","Belgium.","Mallinson, Vernon.",1970,"6/29/96","4/23/15",1,12,0,1,"2",FALSE,63,"1",0
+"60",4183754,"X004846391","DH801 .B77 B677 2001","ALDERMAN","Enlightened innovation and the ancient constitution : the intellectual justifications of revolution in Brabant (1787-1790) /","Bossche, Geert van den.",2001,"11/23/04","5/7/15",0,0,0,1,"2",FALSE,64,"1",0
+"61",502853,"X031915017","DH403 .R4 P3 t.2","ALDERMAN","Recueil des ordonnances des Pays-Bas : Regne d'Albert et Isabelle. 1597-1621 /","Belgium. Commission royale pour la publication des anciennes des anciennes lois et ordonnances de la Belgique.",1909,"11/9/17","11/10/17",0,0,0,2,"2",TRUE,65,"1",0
+"62",574541,"X000376012","DH186.5 .H33 1972","ALDERMAN","The Dutch in the seventeenth century","Haley, Kenneth Harold Dobson.",1972,"6/29/96","4/22/13",3,13,0,1,"2",FALSE,66,"1",0
+"63",4453028,"X030613876","DH403 .D62 1998 t.5","ALDERMAN","Documents diplomatiques belges 1941-1960: De l'indÈpendance ‡ l'interdÈpendance /","",1998,"10/8/09","2/8/11",0,6,0,9,"2",TRUE,67,"1",0
+"64",619745,"X031900249","DH689 .D4 A52 t.1","ALDERMAN","Ainsi parla LÈon Degrelle.","Degrelle, LÈon,",1973,"9/17/04","11/6/17",0,13,0,13,"2",TRUE,68,"1",0
+"65",4813647,"X030506123","DH175 .F65 2006","ALDERMAN","Im Schatten der Niederlande : die politisch-konfessionellen Beziehungen zwischen Ostfriesland und dem niederl‰ndischen Raum vom sp‰ten Mittelalter bis zum 18. Jahrhundert /","Foken, Jens,",2006,"1/19/09","3/26/09",0,1,0,1,"2",FALSE,69,"1",0
+"66",2079850,"X002213374","DH186.5 .H37 1993","ALDERMAN","The making of a bourgeois state : war, politics and finance during the Dutch revolt /","Hart, Marjolein C. 't.",1993,"6/30/96","4/20/15",0,7,0,1,"2",FALSE,70,"1",0
+"67",576630,"X000142277","DH521 .M423","ALDERMAN","History of the Belgians.","Mee¸s, Adrien de,",1962,"6/29/96","12/6/15",3,11,2,1,"2 14 21",FALSE,71,"1",0
+"68",1662035,"X001361555","DH811 .A6 A58 1986","ALDERMAN","Antwerp : twelve centuries of history and culture /","",1986,"6/30/96","4/3/13",4,10,0,1,"2",FALSE,72,"1",0
+"69",2952351,"X004255176","DH131 .G4713 1999","ALDERMAN","History of the Low Countries /","",1999,"10/4/99","5/9/15",0,3,5,1,"2",FALSE,73,"1",0
+"70",4607001,"X030260751","DH101 .H88 2007","ALDERMAN","Historical dictionary of the Netherlands /","Koopmans, Joop W.",2007,"7/10/07","12/8/07",0,3,0,1,"2",FALSE,74,"1",0
+"71",4508279,"X030200391","DH681 .Y74 2006","ALDERMAN","Le roi Albert : histoire d'un mythe /","Ypersele, Laurence van.",2006,"4/12/07","2/8/11",0,0,0,1,"2",FALSE,75,"1",0
+"72",236303,"X000073175","DH671 .E47 1979","ALDERMAN","Leopold II of the Belgians : King of colonialism /","Emerson, Barbara.",1979,"6/28/96","12/8/14",1,9,0,1,"2",FALSE,76,"1",0
+"73",1644550,"X001730087","DH186.5 .I86 1990","ALDERMAN","Empires and entrepÙts : the Dutch, the Spanish monarchy, and the Jews, 1585-1713 /","Israel, Jonathan I. (Jonathan Irvine),",1990,"6/30/96","4/30/11",2,11,0,1,"2",FALSE,77,"1",0
+"74",2261413,"X002335482","DH689 .D4 C66 1993","ALDERMAN","Collaboration in Belgium : LÈon Degrelle and the Rexist movement, 1940-1944 /","Conway, Martin,",1993,"7/1/96","10/10/12",1,9,0,1,"2",TRUE,78,"1",0
+"75",370031,"X000075443","DH811 .B82 L4 1926","ALDERMAN","Bruges and its past /","Letts, Malcolm,",1926,"6/28/96","5/10/17",1,14,2,1,"2",TRUE,79,"1",0
+"76",387682,"X000152807","DH188 .W7 W4 1967","CLEMONS","William the Silent, William of Nassau, prince of Orange, 1533-1584","Wedgwood, C. V. (Cicely Veronica),",1967,"6/28/96","2/4/11",0,14,0,1,"3",FALSE,80,"1",0
+"77",2731908,"X004115352","DH671 .S17 1997","ALDERMAN","A house divided : Catholics, Socialists, and Flemish nationalists in nineteenth-century Belgium /","Strikwerda, Carl.",1997,"11/5/97","5/4/08",3,11,0,1,"2",FALSE,81,"1",0
+"78",2246284,"X002310785","DH801 .F46 T43 1993","ALDERMAN","A plague of insurrection : popular politics and peasant revolt in Flanders, 1323-1328 /","TeBrake, William H. (William Henry),",1993,"7/1/96","9/18/15",0,5,0,1,"2",TRUE,82,"1",0
+"79",24724,"X000953872","DH566 .T47 1983","ALDERMAN","The guarantee of Belgian independence and neutrality in European diplomacy, 1830's-1930's /","Thomas, Daniel H.",1983,"6/28/96","5/13/11",3,11,0,1,"2",FALSE,83,"1",0
+"80",7269597,"X031778080","DH676 .B67 A3 2015","ALDERMAN","The diary of …mile de Borchgrave : recollections of a Belgian diplomat in Ottoman Istanbul (1885-1892) /","Borchgrave, Emile de,",2015,"10/30/17","1/1/00",0,0,0,1,"2",FALSE,84,"0",0
+"81",450474,"X000065382","DH185 .K67","ALDERMAN","Texts concerning the revolt of the Netherlands /","Kossmann, E. H. (Ernst Heinrich),",1974,"6/29/96","5/12/15",0,8,0,1,"2",FALSE,86,"0",0
+"82",4012142,"X004779699","DH187.5 .W45 2003","ALDERMAN","Les Pays-Bas espagnols et les Etats du Saint Empire, 1559-1579 : prioritÈs et enjeux de la diplomatie en temps de troubles /","Weis, Monique.",2003,"3/2/04","8/25/11",0,1,0,1,"2",FALSE,87,"0",0
+"83",2791761,"X004083865","DH677 .M33 1997","ALDERMAN","Histoire politique de la Belgique : facteurs et acteurs de changement /","Mabille, Xavier.",1997,"5/5/98","12/28/11",0,6,0,1,"2",FALSE,88,"0",0
+"84",4025114,"X004768840","DH188 .W7 S83 2003","ALDERMAN","William of Orange and the revolt of the Netherlands, 1572-84 /","Swart, K. W. (Koenraad Wolter)",2003,"5/6/04","1/31/10",0,2,0,1,"2",FALSE,89,"0",0
+"85",2066335,"X002214484","DH690 .Z99 G38 1992","ALDERMAN","Beknopte bibliografie van de politieke en sociaal-economische evolutie van BelgiÎ 1945-1992 /","Gaus, Helmut,",1992,"6/30/96","11/2/17",0,2,0,1,"2",TRUE,90,"0",0
+"86",6832545,"X031783929","DH186.5 .M84 2016","ALDERMAN","Exile memories and the Dutch Revolt : the narrated diaspora, 1550-1750 /","M¸ller, Johannes (Johannes M.),",2016,"8/25/16","1/1/00",0,0,0,1,"2",FALSE,91,"0",0
+"87",1681177,"X002250682","DH186.5 .C65 1988","ALDERMAN","1585, op gescheiden wegen : handelingen van het Colloquium over de Scheiding der Nederlanden, gehouden op 22-23 november 1985, te Brussel /","Colloquium over de Scheiding der Nederlanden",1988,"6/30/96","4/30/18",0,2,0,1,"2",FALSE,92,"0",0
+"88",6786190,"X031758274","DH101 .H88 2016","ALDERMAN","Historical dictionary of the Netherlands /","Koopmans, Joop W.,",2016,"7/11/16","1/1/00",0,0,0,1,"2",FALSE,93,"0",0
+"89",1740322,"X002180757","DH545 .C7 1987","ALDERMAN","Le roi et la dÈfense du pays : de 1831 ‡ nos jours /","Crahay, Albert.",1987,"6/30/96","4/30/18",0,2,1,1,"2",FALSE,94,"0",0
+"90",2514073,"X004029168","DH811 .A67 T3 1993","ALDERMAN","Taking sides, Antwerp's 19th-century belt : elements for a culture of the city = En marge des rives : La ceinture du XIXe siËcle ‡ Anvers, ÈlÈments pour une culture de la ville /","",1993,"7/1/96","4/30/18",2,1,1,1,"2",TRUE,95,"0",0
+"91",7364195,"X031937885","DH188 .O4 M7 1879 v.1","ALDERMAN","The life and death of John of Barneveld, advocate of Holland; with a view of the primary causes and movements of the Thirty Years' War.","Motley, John Lothrop,",1879,"12/22/17","1/2/18",0,0,0,2,"2",TRUE,96,"0",0
+"92",6622571,"X031755794","DH186.5 .S73 2015","ALDERMAN","Memory wars in the low countries, 1566-1700 /","Steen, Jasper van der,",2015,"9/15/15","1/1/00",0,0,0,1,"2",FALSE,97,"0",0
+"93",4019982,"X004825254","DH687 .E75 2001","ALDERMAN","LÈopold III, mon pËre /","Esmeralda,",2001,"4/2/04","2/8/11",0,0,0,1,"2",FALSE,98,"0",0
+"94",337493,"X000073831","DH811 .T76 L4","ALDERMAN","Le journal d'un bourgeois de Tournai : le second livre des chroniques de Pasquier de le Barre (1500-1565)","Le Barre, Pasquier de,",1975,"6/28/96","9/24/01",0,20,0,1,"2",TRUE,99,"0",0
+"95",537761,"X000748845","DH671 .M3 1970","ALDERMAN","King Leopold II, his rule in Belgium and the Congo.","MacDonnell, John de Courcy,",1970,"6/29/96","11/6/13",0,8,0,1,"2",FALSE,100,"0",0
+"96",2320172,"X002512759","DH677 .M33 1992","ALDERMAN","Histoire politique de la Belgique : facteurs et acteurs de changement /","Mabille, Xavier.",1992,"7/1/96","12/28/11",0,6,0,1,"2",FALSE,101,"0",0
+"97",2306159,"X002519887","DH162 .W44 1993","ALDERMAN","The Low Countries in the early modern world /","Wee, Herman van der.",1993,"7/1/96","4/22/13",1,4,0,1,"2",FALSE,103,"0",0
+"98",1291189,"X001462018","DH685 .C37 A3 1981 t.2","ALDERMAN","Souvenirs politiques /","Carton de Wiart, Henry,",1981,"6/30/96","11/2/17",0,1,0,1,"2",TRUE,104,"0",0
+"99",43339,"X001105989","DH175 .B45 1984 d.1","ALDERMAN","Les pays de par deÁ‡ : de Bourgondische Nederlanden /","Belle, Juliaan van.",1984,"6/28/96","11/8/17",0,1,0,4,"2",TRUE,107,"0",0
+"100",3709136,"X006111631","DH188 .G73 G73 2000","ALDERMAN","Les Granvelle et les anciens Pays-Bas /","",2000,"4/13/01","8/25/11",0,0,0,1,"2 14",TRUE,108,"0",0
+"101",4072422,"X004771820","DH801 .B79 B64 2004","ALDERMAN","Warfare in medieval Brabant, 1356-1406 /","Boffa, Sergio,",2004,"9/30/04","4/24/07",0,1,0,1,"2",FALSE,109,"0",0
+"102",427302,"X000701016","DH801 .F49 W46","ALDERMAN","Een Vlaamse graaf van Europees formaat : Filips van de Elzas /","Werveke, Hans van.",1976,"6/29/96","11/10/17",1,1,0,1,"2",FALSE,110,"0",0
+"103",4077341,"X004843577","DH682 .G68 2004","ALDERMAN","Gouverner en Belgique occupÈe : Oskar von der Lancken-Wakenitz : rapports d'activitÈ, 1915-1918 /","",2004,"10/21/04","1/2/07",0,1,0,1,"2",FALSE,112,"0",0
+"104",5932954,"X031611589","DH801 .F465 O47 2012","ALDERMAN","Flanders and the Anglo-Norman world, 1066-1216 /","Oksanen, Eljas.",2012,"1/29/13","1/1/00",0,0,0,1,"2",FALSE,113,"0",0
+"105",476218,"X001045715","DH811 .A58 V613","ALDERMAN","Antwerp, the golden age. The rise and glory of the metropolis in the sixteenth century.","Voet, LÈon,",1973,"6/29/96","4/3/13",3,6,0,1,"2 3",TRUE,114,"0",0
+"106",2791730,"X004083993","DH651 .B45 1996","ALDERMAN","Belgique : la force de la dÈsunion /","",1996,"5/5/98","5/7/09",1,5,0,1,"2",FALSE,115,"0",0
+"107",709227,"X031867545","DH188 .G8 N45 1985","ALDERMAN","Hugo de Groot, 1583-1645 : de loopbaan van een geleerd staatsman /","Nellen, Henk J. M.,",1985,"11/10/17","1/1/00",0,0,0,2,"2",FALSE,116,"0",0
+"108",83840,"X032050379","DH651 .L63 1980","ALDERMAN","1830 : de la rÈgionalisation ‡ l'indÈpendance /","Logie, Jacques.",1980,"6/28/96","11/6/17",0,0,0,1,"2",FALSE,117,"0",0
+"109",7277692,"X031900256","DH681 .S32 1984","ALDERMAN","Albert & Elisabeth, 1914-1918 : albums de la reine, notes du roi /","Schepens, Luc,",1984,"11/3/17","1/1/00",0,0,0,1,"2",FALSE,118,"0",0
+"110",2532898,"X000370596","DH189 .I59 1981","ALDERMAN","Madama : Margaretha van Oostenrijk, Hertogin van Parma en Piancenza, 1522-1586 /","Iongh, Jane de.",1981,"7/1/96","7/28/17",0,0,0,1,"2",FALSE,119,"0",0
+"111",4514025,"X030209944","DH651 .N35 1979","ALDERMAN","Bel?gi?skai?a revoli?ut?sii?a 1830 goda /","Namazova, Alla Sergeevna.",1979,"5/4/07","2/18/09",0,0,0,1,"2",FALSE,120,"0",0
+"112",47911,"X000994431","DH172 .P7414 1983","ALDERMAN","Les Pays-Bas bourguignons /","Prevenier, Walter.",1983,"6/28/96","5/4/14",1,3,2,1,"2",FALSE,121,"0",0
+"113",651488,"X000480309","DH651 .R66","ALDERMAN","Revolt in the Netherlands : Brussels, 1830 /","Rooney, John W.",1982,"6/29/96","6/30/10",1,7,0,1,"2",FALSE,122,"0",0
+"114",949924,"X004508769","DH521 .P57 1948 v.3","ALDERMAN","Histoire de Belgique des origines ‡ nos jours.","Pirenne, Henri,",1948,"11/12/01","11/6/17",0,2,0,4,"2",TRUE,123,"0",0
+"115",1990824,"X002135255","DH97 .G84 L54 1991","ALDERMAN","Lodovico Guicciardini, 1521-1589 : actes du Colloque international des 28, 29 et 30 mars 1990 /","",1991,"6/30/96","12/1/14",1,1,0,1,"2",TRUE,124,"0",0
+"116",262420,"X030806177","DH185 .S6 v.1-2 1858","ALDERMAN","MÈmoires de FÈry de Guyon /","Guyon, FÈry de,",1977,"6/28/96","11/3/17",0,0,0,1,"2",TRUE,125,"0",0
+"117",262472,"X030806178","DH185 .S6 v.3, 7 1859-60","ALDERMAN","MÈmoires anonymes sur les troubles des Pays-Bas, 1565-1580 /","",1977,"6/28/96","11/3/17",0,0,0,1,"2",TRUE,125,"0",0
+"118",262443,"X030806175","DH185 .S6 v.9-11 1860-61","ALDERMAN","MÈmoires sur le siËge de Tournay, 1581 /","Warny, Philippe,",1977,"6/28/96","11/3/17",0,0,0,1,"2",TRUE,125,"0",0
+"119",1944073,"X030528043","DH471 .L38 1967","ALDERMAN","La culture islamique dans le sud des Pays-Bas (Wallonie) /","Laurent, Paul E.",1967,"2/17/09","2/17/09",0,0,0,1,"2",FALSE,126,"0",0
+"120",1782717,"X002060475","DH687 .O94 1986","ALDERMAN","LÈopold III prisonnier /","Overstraeten, Raoul Francis Casimir van,",1986,"6/30/96","7/16/14",1,2,0,1,"2",FALSE,127,"0",0
+"121",1291280,"X030725683","DH206 .A55 V47 1985","ALDERMAN","De val van Antwerpen in 1585 /","Verhoef, C. E. H. J.",1985,"6/30/96","7/20/16",0,0,0,1,"2",TRUE,128,"0",0
+"122",1284856,"X031870265","DH186.5 .M7 1859 v.1","ALDERMAN","The rise of the Dutch republic : a history /","Motley, John Lothrop,",1858,"11/7/17","11/8/17",0,0,0,2,"2 14",TRUE,129,"0",0
+"123",4334164,"X004991445","DH492 .W3 H387 2004","ALDERMAN","Les sÈparatistes wallons et le gouvernement de Vichy (1940-1943) : une histoire d'omerta /","Hasquin, HervÈ,",2004,"12/16/05","12/28/05",0,0,0,1,"2",FALSE,130,"0",0
+"124",591033,"X000188512","DH131 .R68 1972","ALDERMAN","The Low Countries in early modern times.","Rowen, Herbert Harvey",1972,"6/29/96","5/12/15",2,3,0,1,"2 3",FALSE,131,"0",0
+"125",109601,"X001014094","DH801 .F48 C56 1984","ALDERMAN","Tussen twee wereldoorlogen : journalistieke beschouwingen tussen 1918 en 1938 /","Claes, Ernest,",1984,"6/28/96","6/19/15",0,1,0,1,"2",TRUE,132,"0",0
+"126",842455,"X031870263","DH186.5 .M7 1856 v.1","ALDERMAN","The rise of the Dutch republic. A history.","Motley, John Lothrop,",1856,"11/7/17","11/7/17",0,0,0,3,"2 10",TRUE,133,"0",0
+"127",488033,"X000309457","DH403 .M4 no.166","ALDERMAN","The Belgian constitution : commentary /","Senelle, Robert,",1974,"6/29/96","2/8/11",0,7,0,1,"2",TRUE,134,"0",0
+"128",634278,"X030353135","DH261 .A77 H14 fasc.2","ALDERMAN","Excavations in the Barbouna area at Asine.","H‰gg, Inga.",1973,"4/29/08","5/6/08",3,0,0,3,"2",TRUE,135,"0",0
+"129",262464,"X031858500","DH185 .S6 v.44a","ALDERMAN","ConsidÈrations sur le gouvernement des Pays-Bas /","",1977,"11/14/17","1/1/00",0,0,0,2,"2",TRUE,136,"0",0
+"130",7285170,"X031868421","DH185 .S6 v.44b 1876","ALDERMAN","Collection de mÈmoires relatifs ‡ l'histoire de Belgique.","",1977,"11/14/17","1/1/00",0,0,0,1,"2",TRUE,136,"0",0
+"131",7285173,"X031868422","DH185 .S6 v.45 1876","ALDERMAN","Collection de mÈmoires relatifs ‡ l'histoire de Belgique.","",1977,"11/14/17","1/1/00",0,0,0,1,"2",TRUE,136,"0",0
+"132",1381459,"X031869706","DH185 .S6 v.12,20 1861/64","ALDERMAN","Collection de mÈmoires relatifs ‡ l'histoire de Belgique /","SociÈtÈ de l'histoire de Belgique, Brussels.",1977,"11/3/17","1/1/00",0,0,0,5,"2",TRUE,137,"0",0
+"133",323156,"X031869703","DH185 .S6 v.16","ALDERMAN","MÈmoires de Francisco de Enzinas : texte latin inÈdit, avec la traduction franÁaise du XVIe siËcle en regard 1543-1545 /","Enzinas, Francisco de,",1977,"11/3/17","1/1/00",0,0,0,2,"2",TRUE,137,"0",0
+"134",262458,"X031869687","DH185 .S6 v.32-33 1869-70","ALDERMAN","ConsidÈrations d'estat sur le traictÈ de la paix avec les SÈrÈnissimes archiducz d'Austriche : manuscrit de 1607 /","",1977,"11/3/17","1/1/00",0,0,0,1,"2",TRUE,137,"0",0
+"135",531935,"X004796010","DH185 .W53 1969","ALDERMAN","The apologie of prince William of Orange against the proclamation of the king of Spaine.","William",1969,"6/29/96","5/13/10",1,8,0,1,"2",FALSE,138,"0",0
+"136",337489,"X031876128","DH572 .O4","ALDERMAN","L'Obituaire de la CollÈgiale Notre-Dame ‡ Huy /","",1975,"11/3/17","1/1/00",0,0,0,2,"2",FALSE,139,"0",0
+"137",165594,"X000442864","DH193 .F67","ALDERMAN","MarÌa de Mendoza : soluciÛn a un enigma amoroso /","FÛrmica, Mercedes.",1979,"6/28/96","6/17/16",0,0,0,1,"2",FALSE,140,"0",0
+"138",513435,"X031900255","DH685 .H85 A33 v.1","ALDERMAN","Camille Huysmans geschriften en documenten /","Huysmans, Camille,",1974,"11/3/17","1/1/00",0,1,0,6,"2",TRUE,141,"0",0
+"139",2465927,"X004308251","DH492 .G4 H47 1993 Bd.1","ALDERMAN","Quellen zur Geschichte der deutschsprachigen Gemeinschaft in ausl‰ndischen Archiven /","Herrebout, Els.",1993,"4/22/99","2/8/11",0,2,0,2,"2",TRUE,142,"0",0
+"140",470332,"X006113788","DH188 .W7 W4 1944","ALDERMAN","William the Silent, William of Nassau, prince of Orange, 1533-1584,","Wedgwood, C. V. (Cicely Veronica),",1944,"8/9/01","5/28/15",1,5,0,2,"2",FALSE,143,"0",0
+"141",2809138,"X004218967","DH503 .H36 1996","ALDERMAN","Historiographie et politique en Belgique /","Hasquin, HervÈ,",1996,"6/30/98","5/7/09",0,3,0,1,"2",FALSE,145,"0",0
+"142",949946,"X031900263","DH657 .W57 v.2","ALDERMAN","Politieke machtsstrijd in en om de voornaamste Belgische steden.","Witte, Els.",1973,"11/3/17","1/1/00",0,0,0,1,"2 14",TRUE,146,"0",0
+"143",670637,"X000354744","DH107 .S66 1981","ALDERMAN","Spectrum atlas van historische plaatsen in de Lage Landen /","",1981,"6/29/96","2/8/11",1,5,0,1,"2",FALSE,147,"0",0
+"144",7277820,"X031869766","DH186 .T7 1591a","ALDERMAN","The english experience : its records in early printed books published in facsimile.","Companie, Fraunces Veres",1972,"11/6/17","1/1/00",0,0,0,1,"2",FALSE,148,"0",0
+"145",418259,"X031876145","DH801 .F43 T85 v.10","ALDERMAN","Twintig eeuwen Vlaanderen /","",1972,"11/3/17","1/1/00",0,8,0,15,"2",TRUE,149,"0",0
+"146",1240948,"X001338430","DH566 .M32 1986","ALDERMAN","Histoire politique de la Belgique : facteurs et acteurs de changement /","Mabille, Xavier.",1986,"6/30/96","12/28/11",0,3,0,1,"2",FALSE,150,"0",0
+"147",1308937,"X001597681","DH403 .R3 F78 t.1","ALDERMAN","Coutumes du pays et comtÈ de Flandre : Privileges et chartes de franchises de la Flandre /","Commission royale pour la publication des anciennes lois et ordonnances de la Belgique",1959,"6/30/96","11/3/17",1,2,0,2,"2",TRUE,151,"0",0
+"148",333138,"X000701007","DH645 .V44 v.1","ALDERMAN","Cent ans d'histoire nationale en Belgique /","Vercauteren, Fernand.",1959,"6/28/96","11/2/17",0,1,0,1,"2",TRUE,152,"0",0
+"149",326267,"X000315151","DH403 .M4 no.147","ALDERMAN","Basic facts about Belgium /","",1972,"6/28/96","2/8/11",0,6,0,1,"2",TRUE,153,"0",0
+"150",122637,"X000298518","DH403 .R4 P315 Section1 v.1","ALDERMAN","Recueil des ordonnances des Pays-Bas : premiËre sÈrie, 1381-1506 = Verzameling van de verordeningen der Nederlanden : eerste reeks, 1381-1506 /","Belgium.",1965,"6/28/96","11/3/17",0,1,0,2,"2",TRUE,154,"0",0
+"151",692526,"X001209702","DH471 .I58 1980","ALDERMAN","Belgium and Europe : proceedings of the International Francqui-Colloquium, Brussels-Ghent, 12-14 November /","International Francqui-Colloquium",1981,"6/29/96","12/3/03",2,12,0,1,"2",FALSE,155,"0",0
+"152",2477981,"X006056359","DH811 .B73 O7 1995 d.2","ALDERMAN","Toponymie van Brasschaat / door Ward van Osta.","Osta, Ward van.",1995,"1/6/98","2/8/11",0,1,0,2,"2",TRUE,156,"0",0
+"153",5127158,"X030625534","DH685 .H9 M37 2010","ALDERMAN","Paul Hymans, Belgium /","Marks, Sally.",2010,"4/14/10","1/1/00",0,0,0,1,"2",FALSE,157,"0",0
+"154",949968,"X000315863","DH801 .F46 G313","ALDERMAN","The murder of Charles the Good, count of Flanders.","Galbert,",1960,"6/29/96","5/14/15",0,3,0,1,"2",TRUE,158,"0",0
+"155",1666906,"X002238710","DH631 .V54 1989","ALDERMAN","la Vie culturelle dans nos provinces a l'Èpoque franÁaise.","",1989,"6/30/96","2/8/11",0,3,0,1,"2",FALSE,159,"0",0
+"156",2148007,"X002310245","DH186 .H46 1992","ALDERMAN","The Irish military community in Spanish Flanders, 1586-1621 /","Henry, Gr·inne.",1992,"7/1/96","10/5/07",1,6,0,1,"2",FALSE,160,"0",0
+"157",334367,"X030527992","DH3 .U8 v.32","ALDERMAN","Gemeinsame Probleme deutsch-niederl‰ndischer Landes- und Volksforschung;","Petri, Franz,",1962,"6/28/96","11/3/17",0,0,0,1,"2",TRUE,161,"0",0
+"158",1913609,"X002048672","DH690 .H75 1991","ALDERMAN","A leap in the dark : nationalist conflict and federal reform in Belgium /","Hooghe, Liesbet.",1991,"6/30/96","11/29/04",1,9,0,1,"2",FALSE,162,"0",0
+"159",1661572,"X001651767","DH805 .R44 1989","ALDERMAN","La RÈgion de Bruxelles : des villages d'autrefois ‡ la ville d'aujourd'hui/","",1989,"6/30/96","12/2/11",1,2,0,1,"2",FALSE,163,"0",0
+"160",605257,"X000210666","DH188 .O4 T4813 v.2","ALDERMAN","Oldenbarnevelt.","Tex, Jan den.",1973,"6/29/96","5/11/11",0,7,0,2,"2",TRUE,164,"0",0
+"161",1737726,"X001937649","DH689 .D4 F73 1987","ALDERMAN","LÈon Degrelle, le dernier fasciste /","FrÈrotte, Jean-Marie.",1987,"6/30/96","2/8/11",0,3,0,1,"2",TRUE,166,"0",0
+"162",4560913,"X030236842","DH645 .G66 1960","ALDERMAN","Belgium and the prospective sale of Cuba in 1837 /","Gooch, Brison Dowling,",1960,"5/15/07","2/18/09",0,0,0,1,"2",FALSE,167,"0",0
+"163",949947,"X031900264","DH659 .V3 B4","ALDERMAN","Inventaire des papiers de Sylvain van de Weyer,","Archives gÈnÈrales du Royaume (Belgium)",1960,"6/29/96","11/6/17",0,0,0,1,"2",FALSE,168,"0",0
+"164",2511307,"X006041725","DH811 .C4 S33 1995","ALDERMAN","Charleroi, 1830-1994 : histoire d'une mÈtropole /","Schaeffer, Pierre-Jean.",1995,"7/1/96","9/23/11",1,1,0,1,"2",FALSE,169,"0",0
+"165",2387710,"X031876142","DH801 .F46 G3 1994","ALDERMAN","De multro, traditione, et occisione gloriosi Karoli, comitis Flandriarum /","Galbert,",1994,"7/1/96","10/26/11",0,1,0,1,"2",TRUE,170,"0",0
+"166",360991,"X000050104","DH403 .M4 no.154-155","ALDERMAN","Stability through co-operation /","Harmel, Pierre,",1972,"6/28/96","2/8/11",0,5,0,1,"2",TRUE,171,"0",0
+"167",37761,"X000896210","DH811 .L5 B34 1982","ALDERMAN","Les sources de l'histoire de LiËge au Moyen Age : Ètude critique /","Balau, Sylv,",1982,"6/28/96","5/21/14",0,0,0,1,"2",FALSE,172,"0",0
+"168",2638723,"X006016284","DH676 .D48 J85 1995","ALDERMAN","Jules DestrÈe : le multiple /","",1995,"1/6/97","2/8/11",1,1,0,1,"2",FALSE,173,"0",0
+"169",525346,"X000748977","DH801 .F45 G34 1969","ALDERMAN","Flemish cities; their history and art.","Gaunt, William,",1969,"6/29/96","6/27/09",2,7,0,1,"2",TRUE,174,"0",0
+"170",217850,"X031869601","DH3 .U8 v.31 tables","ALDERMAN","Ministerialiteit en ridderschap in Gelre en Zutphen.","Winter, J. M. van (Johanna Maria)",1962,"11/3/17","1/1/00",0,0,0,2,"2",TRUE,175,"0",0
+"171",177814,"X000538423","DH574 .T48 1978","ALDERMAN","De Belgische kustvlakte in de Romeinse tijd : bijdrage tot de studie van de landelijke bewoningsgeschiedenis /","Thoen, Hugo.",1978,"6/28/96","10/4/13",0,1,0,1,"2",FALSE,176,"0",0
+"172",42062,"X000959628","DH687 .B55 1983","ALDERMAN","Les plus belles annÈes d'une gÈnÈration : l'Ordre Nouveau en Belgique avant, pendant et aprËs la Seconde Guerre mondiale /","Bock, Walter de.",1983,"6/28/96","2/8/11",0,3,0,1,"2",FALSE,177,"0",0
+"173",690533,"X030196166","DH201 .G76 1985","ALDERMAN","De bruid in de schuit : de consolidatie van de Republiek, 1609-1650 /","Groenveld, S.",1985,"6/29/96","10/18/09",0,4,0,1,"2",FALSE,178,"0",0
+"174",1675563,"X001971391","DH801 .E8 T55 1989","ALDERMAN","Zur nationalen Integration fremdnationaler ethnischer Minderheiten  und ihren soziopolitischen Konsequenzen, dargestellt am Beispiel der            deutschsprachigen gesellschaften Gruppen Eupen-Malmedys zwischen den beiden     Weltkriegen : eine soziologische Untersuchung /","Timmermann, Raphael,",1989,"6/30/96","2/8/11",1,2,0,1,"2",TRUE,179,"0",0
+"175",1622078,"X001685059","DH645 .W5714 1987","ALDERMAN","La Belgique politique de 1830 ‡ nos jours : les tensions d'une dÈmocratie bourgeoise /","Witte, Els.",1987,"6/30/96","6/1/07",2,6,0,1,"2",FALSE,180,"0",0
+"176",1682885,"X002250674","DH186.5 .T88 1988","ALDERMAN","Tussen twee culturen : de Nederlanden en de iberische wereld, 1550-1800 /","",1988,"6/30/96","2/8/11",0,2,0,1,"2",FALSE,181,"0",0
+"177",1763281,"X002127120","DH421 .M38 1988","ALDERMAN","Belgoscopie : de Belgen, de Vlamingen en de Walen : wie ze zijn, waar ze wonen en hoe ze leven /","Matthijs, Koenraad.",1988,"6/30/96","2/8/11",0,2,0,1,"2",FALSE,181,"0",0
+"178",1647717,"X001729054","DH186 .K35 1980","ALDERMAN","De opvattingen over onze oudere vaderlandsche geschiedenis : bij de hollandsche historici der XVIe en XVIIe eeuw /","Kampinga, Herman.",1980,"6/30/96","2/8/11",0,3,0,1,"2",FALSE,182,"0",0
+"179",2359642,"X002576808","DH801 .H27 C67 1993","ALDERMAN","Le Gouvernement central et les communautÈs rurales hainuyËres (1714-1794) : Ètude d'histoire de l'administration /","Coutiez, Yannick.",1993,"7/1/96","2/8/11",0,1,0,1,"2",TRUE,183,"0",0
+"180",2149137,"X002309260","DH804.9 .B67 1993","ALDERMAN","Brussel en het fin-de-siËcle : 100 jaar van nu en straks /","",1993,"7/1/96","2/8/11",0,1,0,1,"2",FALSE,183,"0",0
+"181",4781587,"X030406970","DH628 .S73 T45 2008","ALDERMAN","Goswin, baron de Stassart, 1780-1854 : politique et franc-maÁonnerie /","Thielemans, Marie Rose.",2008,"10/13/08","1/1/00",0,0,0,1,"2",TRUE,184,"0",0
+"182",949911,"X000316128","DH418 .H83 1969","ALDERMAN","Modern Belgium","Huggett, Frank Edward.",1969,"6/29/96","11/15/04",0,11,0,1,"2",FALSE,185,"0",0
+"183",1766615,"X002116202","DH492 .I8 I45 1985","ALDERMAN","L'Immigration italienne en Belgique : histoire, langues, identitÈ /","",1985,"6/30/96","2/8/11",0,2,0,1,"2",FALSE,186,"0",0
+"184",1798560,"X002045772","DH687 .C528 1985","ALDERMAN","LÈopold III en l'an 40 /","Cleeremans, Jean.",1985,"6/30/96","2/8/11",0,2,0,1,"2",FALSE,186,"0",0
+"185",698567,"X001224841","DH907.7 .A93 1985","ALDERMAN","La traversÈe du Luxembourg : Paris, 20 Juillet 1984 : ethno-roman d'une journÈe franÁaise considerÈe sous l'angle des m?urs, de la thÈorie et du bonheur /","AugÈ, Marc.",1985,"6/29/96","11/30/10",0,2,0,1,"2",FALSE,187,"0",0
+"186",4735581,"X030375107","DH677 .M35 2007","ALDERMAN","Occupations et logiques policiËres : la police bruxelloise en 1914-1918 et 1940-1945 /","Majerus, BenoÓt.",2007,"6/19/08","1/1/00",0,0,0,1,"2",FALSE,188,"0",0
+"187",242541,"X000335050","DH908.6 .F8 R44","ALDERMAN","Les Relations franco-luxembourgeoises de Louis XIV ‡ Robert Schuman : actes du colloque de Luxembourg, 17-19 novembre 1977 /","",1978,"6/28/96","11/12/12",1,1,0,1,"2",TRUE,189,"0",0
+"188",1677908,"X002628956","DH801 .F78 G46 1989","ALDERMAN","Fourons : de l'erreur ‡ l'erreur /","Gheude, Jules,",1989,"6/30/96","2/8/11",1,1,0,1,"2",TRUE,190,"0",0
+"189",1660879,"X001986805","DH545 .D4 1988","ALDERMAN","De Brialmont ‡ l'Union de l'Europe occidentale : mÈlanges d'histoire militaire offerts ‡ Albert Duchesne, Jean Lorette et Jean-LÈon Charles /","",1988,"6/30/96","2/8/11",0,1,0,1,"2",FALSE,192,"0",0
+"190",1786428,"X002166956","DH569 .I75 B47 1988","ALDERMAN","La Terre trop promise : Belgique-IsraÎl, 1947-1950 /","Berny, Catherine.",1988,"6/30/96","2/8/11",0,1,0,1,"2",FALSE,192,"0",0
+"191",1762505,"X002127078","DH656 .K57 1988","ALDERMAN","LÈopold avant LÈopold 1er : la jeunesse romantique d'un prince ambitieux /","Kirschen, Gilbert,",1988,"6/30/96","2/8/11",0,1,0,1,"2",FALSE,192,"0",0
+"192",7278049,"X031870258","DH107 .G7 1830","ALDERMAN","The Netherlands /","Grattan, Thomas Colley,",1830,"11/7/17","11/16/17",0,0,0,1,"2",FALSE,193,"0",0
+"193",402448,"X000060771","DH811 .A67 G45 1975","ALDERMAN","Antwerpen in de XVIde eeuw.","Genootschap voor Antwerpse Geschiedenis.",1975,"6/28/96","1/6/10",0,4,0,1,"2",TRUE,194,"0",0
+"194",1664278,"X002305139","DH471 .D39 1987","ALDERMAN","Quand les Belges Ètaient Gaulois/","Daxhelet, Marie JosËphe.",1987,"6/30/96","2/8/11",0,1,0,1,"2",FALSE,195,"0",0
+"195",1798623,"X001735564","DH95 .H58 1987","ALDERMAN","Historische databestanden Nederland 1987 /","Guchteneire, P. F. A. de (Paul F. A.)",1987,"6/30/96","2/8/11",0,1,0,1,"2",FALSE,195,"0",0
+"196",374681,"X000309450","DH403 .M4 no.157","ALDERMAN","Statement by the tripartite government; political, economical and cultural chronicles.","",1973,"6/28/96","2/8/11",0,3,0,1,"2",TRUE,196,"0",0
+"197",1820231,"X002028475","DH687 .M44 1986","ALDERMAN","Le lÈopoldisme /","Meire, Robert,",1986,"6/30/96","2/8/11",0,1,0,1,"2",FALSE,197,"0",0
+"198",1283944,"X002086540","DH811 .V45 D87 1986 d.2","ALDERMAN","Toponymie van Velzeke-Ruddershove en Bochoute /","Durme, L. van.",1986,"6/30/96","2/8/11",0,1,0,2,"2",TRUE,197,"0",0
+"199",1817610,"X001945986","DH908 .H35 1986","ALDERMAN","‹berlegungen zu einigen Aspekten der Geschichte Luxemburgs /","Hamer, Pierre.",1986,"6/30/96","2/8/11",0,1,0,1,"2",FALSE,197,"0",0
+"200",539480,"X000748982","DH811 .T76 C78","ALDERMAN","The English occupation of Tournai, 1513-1519,","Cruickshank, Charles,",1971,"6/29/96","4/18/11",1,3,0,1,"2",TRUE,198,"0",0
+"201",374682,"X000309356","DH403 .M4 no.151-152","ALDERMAN","Regionalised Belgium-transition from the nation-state to the multinational state.","Tindemans, LÈo.",1972,"6/28/96","2/8/11",0,3,0,1,"2",TRUE,199,"0",0
+"202",1820238,"X002027734","DH631 .G48 1985","ALDERMAN","NapolÈon, Empereur des Belges /","GÈrard, Jo.",1985,"6/30/96","2/8/11",0,1,0,1,"2",FALSE,200,"0",0
+"203",1817926,"X001923528","DH801 .A74 B76 1985","ALDERMAN","Hemingway et Jean Racine, reporters de guerre en Ardenne /","Bronne, Carlo,",1985,"6/30/96","2/8/11",0,1,0,1,"2",FALSE,200,"0",0
+"204",949619,"X031870275","DH107 .A6 V.1","ALDERMAN","Algemene geschiedenis der Nederlanden;","",1949,"11/7/17","1/1/00",0,1,0,12,"2",TRUE,201,"0",0
+"205",66575,"X000920971","DH188 .A97 P67 1983","ALDERMAN","Viglius van Aytta als humanist en diplomaat (1507-1549) /","Postma, Folkert.",1983,"6/28/96","2/14/12",0,0,0,1,"2",FALSE,203,"0",0
+"206",67189,"X000959709","DH807.5 .H65 1982","ALDERMAN","Morfologie van de politieke machtsposities te Brussel en het Vlaamse randgebied : een politiek-ruimtelijke studie /","Holvoet, L.",1982,"6/28/96","5/7/09",0,3,0,1,"2",FALSE,204,"0",0
+"207",36540,"X000835372","DH186.5 .L33 1983","ALDERMAN","De Lage Landen van 1500 tot 1780 /","",1983,"6/28/96","2/8/11",0,1,0,1,"2",FALSE,206,"0",0
+"208",153696,"X000506198","DH925 .L8 L382","ALDERMAN","Chronik der Stadt Luxemburg 1444-1684 /","Lascombes, FranÁois.",1976,"6/28/96","2/9/11",0,2,0,1,"2",TRUE,207,"0",0
+"209",401915,"X000700986","DH403 .M4 no.172","ALDERMAN","Animated cartoons in Belgium /","Maelstaf, Raoul.",1976,"6/28/96","2/8/11",0,2,0,1,"2",TRUE,208,"0",0
+"210",1306096,"X001493461","DH811 .G46 N54 1988","ALDERMAN","The van Arteveldes of Ghent : the varieties of vendetta and the hero in history /","Nicholas, David,",1988,"6/30/96","6/25/05",0,6,0,1,"2",FALSE,209,"0",0
+"211",4471837,"X030167092","DH801 .B76 G635 2006","ALDERMAN","La lÈgislation ducale en Brabant sous le rËgne de Philippe le Bon (1430-1467) /","Godding, Philippe.",2006,"3/6/07","1/1/00",0,0,0,1,"2",TRUE,210,"0",0
+"212",15646,"X000949881","DH491 .R65 1981","ALDERMAN","De Vlaamse kwestie : ""pamflet"" over een onbegrepen probleem /","Roosens, Antoon,",1981,"6/28/96","5/7/09",0,3,0,1,"2",FALSE,211,"0",0
+"213",109722,"X001076696","DH652 .C65 1980","ALDERMAN","Jean-Baptiste Nothomb et les dÈbuts de la Belgique ind?endante : actes du Colloque international de Habay-la-Neuve, 5 juillet 1980 /","Colloque international de Habay-la-Neuve",1982,"6/28/96","2/8/11",0,1,0,1,"2",FALSE,212,"0",0
+"214",331919,"X000701000","DH451 .L43","ALDERMAN","Les sculptures gallo-romaines de MusÈe d'Arlon /","LefËbvre, L.",1975,"6/28/96","2/8/11",0,2,0,1,"2",FALSE,213,"0",0
+"215",2498839,"X001825372","DH471 .F53 1988","ALDERMAN","Les Fifties en Belgique /","",1988,"7/1/96","2/8/11",0,0,0,1,"2",FALSE,214,"0",0
+"216",1323634,"X000744318","DH191.7 V47 1981","ALDERMAN","Le Conseil des troubles /","Verheyden, A. L. E.",1981,"6/30/96","2/8/11",0,1,0,1,"2",TRUE,215,"0",0
+"217",1808217,"X001276380","DH188 .W7 V47 1987","ALDERMAN","Wilhelm von Oranien : eine Biographie /","Vetter, Klaus.",1987,"6/30/96","2/8/11",0,0,0,1,"2",TRUE,216,"0",0
+"218",157396,"X000981485","DH805 .H57 1979","ALDERMAN","Histoire de Bruxelles /","",1979,"6/28/96","5/7/09",0,3,0,1,"2",FALSE,217,"0",0
+"219",323159,"X004135866","DH185 .S6 v.38","ALDERMAN","MÈmoires de Martin Antoine Del Rio sur les troubles des Pays-Bas durant l'administration de Don Juan d'Autriche 1576-1578 : texte latin inÈdit /","Del Rio, Martin Antoine,",1977,"3/30/98","2/8/11",0,0,0,2,"2",TRUE,218,"0",0
+"220",949991,"X000598056","DH905 .C3","ALDERMAN","The land of haunted castles,","Casey, Robert J. (Robert Joseph),",1921,"6/29/96","10/21/15",0,5,1,1,"2",FALSE,219,"0",0
+"221",790889,"X001281251","DH687 .T4314 1986","ALDERMAN","1950, Denouement de la question royale : cinq mois qui ÈbranlËrent la Belgique /","Theunissen, Paul,",1986,"6/29/96","2/8/11",0,0,0,1,"2",FALSE,220,"0",0
+"222",2702350,"X004148459","DH906 .L4 1980","ALDERMAN","ItinÈraire du Luxembourg germanique : ou, Voyage historique et pittoresque dans le Grand-DuchÈ /","L'…vÍque de la Basse Mo˚turie, Louis Charlemagne Joseph L'…vÍque,",1980,"7/16/97","2/8/11",0,0,0,1,"2",FALSE,221,"0",0
+"223",4410140,"X030154557","DH671 .D86 2005","ALDERMAN","LÈopold II : un roi gÈnocidaire? /","Dumoulin, Michel.",2005,"10/25/06","1/1/00",0,0,0,1,"2",FALSE,222,"0",0
+"224",682224,"X001162625","DH95 .M97 1979","ALDERMAN","Mythe & werkelijkheid /","",1979,"6/29/96","2/8/11",0,1,0,1,"2",FALSE,223,"0",0
+"225",1294264,"X001461755","DH631 .G47 1985","ALDERMAN","La guerre des paysans, 1797-1798 /","GÈrard, Jo.",1985,"6/30/96","2/8/11",0,0,0,1,"2",FALSE,224,"0",0
+"226",116423,"X000491700","DH186.5 .G7","ALDERMAN","Hooft als historieschrijver : twee studies /","Groenveld, S.",1981,"6/28/96","9/7/11",0,0,0,1,"2",FALSE,225,"0",0
+"227",168080,"X000506059","DH918 .T47 1978","ALDERMAN","Thron und Dynastie : Aufs‰tze aus drei Jahrzehnten /","",1978,"6/28/96","2/9/11",0,1,0,1,"2",FALSE,226,"0",0
+"228",2295562,"X030528093","DH188 .G8 A4 d.10","ALDERMAN","Briefwisseling","Grotius, Hugo,",1928,"2/20/09","2/26/09",1,1,0,16,"2",TRUE,227,"0",0
+"229",373862,"X000503455","DH811 .B82 L4 1924","ALDERMAN","Bruges and its past,","Letts, Malcolm,",1924,"6/28/96","5/31/07",0,13,0,1,"2",TRUE,228,"0",0
+"230",217578,"X030527988","DH3 .U8 v.12","ALDERMAN","Die ‰lteren Urkunden des Klosters Blandinium und die Anf‰nge der Stadt Gent,","Oppermann, Otto Alexander,",1928,"2/16/09","2/16/09",0,1,0,2,"2",TRUE,229,"0",0
+"231",1644109,"X001735497","DH492 .M8 D38 1984","ALDERMAN","L'Islam transplantÈ : vie et organisation des minoritÈs musulmanes de Belgique /","Dassetto, Felice.",1984,"6/30/96","2/8/11",1,0,0,1,"2",TRUE,230,"0",0
+"232",792481,"X001228772","DH681 .G432 1984","ALDERMAN","Albert Ier, insolite, 1934-1984 /","GÈrard, Jo.",1984,"6/29/96","2/8/11",0,0,0,1,"2",FALSE,231,"0",0
+"233",706472,"X001184327","DH811 .T22 D43 1984","ALDERMAN","Histoire et dÈmographie d'un village condruzien : Tavier, 1775-1830 /","Deckers, Joseph.",1984,"6/29/96","2/8/11",0,0,0,1,"2",TRUE,231,"0",0
+"234",4360666,"X030024035","DH801 .F46 G38 2006","ALDERMAN","Walteri Archidiaconi Tervanensis Vita Karoli Comitis Flandrie ; et Vita domni Ioannis Morinensis episcopi ; quibus subiunguntur poemata aliqua de morte Comitis Karoli conscripta et quaestio de eadem facta /","Gautier,",2006,"4/13/06","1/1/00",0,0,0,1,"2",TRUE,232,"0",0
+"235",262427,"X000055556","DH185 .S6 v.8,17","ALDERMAN","Commentaires de Bernardino de MendoÁa sur les ÈvËnements de la guerre des Pays-Bas, 1567-1577 /","Mendoza, Bernardino de,",1977,"6/28/96","2/8/11",0,1,0,1,"2",TRUE,233,"0",0
+"236",296647,"X000140884","DH491 .G46","ALDERMAN","Een halve eeuw Vlaams idealisme : de IJzerbedevaarten in de archieven van het IJzerbedevaartcomitÈ en De standaard en haar lezers /","Ghein, Rik de.",1977,"6/28/96","2/8/11",0,1,0,1,"2",FALSE,233,"0",0
+"237",279449,"X000176392","DH107 .A58 V.4","ALDERMAN","Algemene geschiedenis der Nederlanden /","",1970,"6/28/96","1/18/13",1,7,0,15,"2",TRUE,234,"0",0
+"238",700862,"X001076638","DH492 .W3 J67 1983","ALDERMAN","Les wallons et la reforme de l'Etat, 1890-1971 /","Joris, Freddy.",1983,"6/29/96","2/8/11",0,0,0,1,"2",FALSE,235,"0",0
+"239",332120,"X000032833","DH801 .A74 D38","ALDERMAN","Ardenne bien aimÈe /","Dauchot, Edmond,",1976,"6/28/96","2/8/11",0,1,0,1,"2",TRUE,236,"0",0
+"240",691372,"X001162572","DH689 .D4 A5 1985","ALDERMAN","LÈon Degrelle, persiste et signe : interviews /","Degrelle, LÈon,",1985,"6/29/96","11/20/06",0,4,0,1,"2",FALSE,237,"0",0
+"241",628476,"X004230990","DH916 .C3 1971 v.4","ALDERMAN","Histoire contemporaine du Grand-DuchÈ de Luxembourg.","Calmes, Albert,",1971,"6/26/98","2/9/11",0,1,0,2,"2",TRUE,238,"0",0
+"242",36824,"X000847309","DH910 .R89 1982 V.2","ALDERMAN","Le DuchÈ de Luxembourg ‡ la fin de l'ancien rÈgime : atlas de gÈographie historique / Joseph Ruwet, Claude Bruneel.","Ruwet, Joseph,",1982,"6/28/96","2/9/11",0,0,0,3,"2",TRUE,239,"0",0
+"243",576629,"X000962621","DH657 .G6","ALDERMAN","Belgium and the February Revolution.","Gooch, Brison Dowling,",1963,"6/29/96","1/22/09",0,5,0,1,"2",FALSE,240,"0",0
+"244",2527938,"X004017131","DH801 .H262 H45 1994","ALDERMAN","Abbayes, ÈvÍques et laÔques : une politique du pouvoir en Hainaut au Moyen Age (VIIe-XIe siËcle) /","HelvÈtius, Anne-Marie.",1994,"7/1/96","5/30/07",0,2,0,1,"2",FALSE,241,"0",0
+"245",4360479,"X030036982","DH598 .D45 V47 2004","ALDERMAN","Louis del Rio, 1537-1578 : reflets d'une pÈriode troublÈe /","Versele, Julie.",2004,"4/12/06","1/1/00",0,0,0,1,"2",TRUE,242,"0",0
+"246",7277778,"X031869627","DH185 .F322 t.1","ALDERMAN","Correspondance de Philippe II sur les affaires des Pays-Bas.","Philip",1940,"11/3/17","1/1/00",0,0,0,4,"2",TRUE,243,"0",0
+"247",313443,"X000315129","DH403 .M4 no.168","ALDERMAN","The Belgian monetary system.","",1975,"6/28/96","2/8/11",0,1,0,1,"2",TRUE,244,"0",0
+"248",196204,"X000082782","DH811 .A6 M5 1975 v.4","ALDERMAN","Geschiedenis van Antwerpen sedert de stichting der stad tot onze tyden /","Mertens, F. H. (Frans Hendrik),",1975,"6/28/96","2/8/11",0,2,0,8,"2",TRUE,244,"0",0
+"249",333958,"X000062073","DH620 .K67","ALDERMAN","The low countries, 1780-1940 /","Kossmann, E. H. (Ernst Heinrich),",1978,"6/28/96","11/14/04",0,7,0,1,"2 14 17",FALSE,245,"0",0
+"250",1315795,"X000983733","DH186 .M595 1602 1968ed.","ALDERMAN","A True discourse historicall of the succeeding governours in the Netherlands.","Meteren, Emmanuel van,",1968,"6/30/96","2/8/11",0,2,0,1,"2",FALSE,246,"0",0
+"251",638365,"X000687966","DH571 .V36 1981 V.1","ALDERMAN","La formation territoriale des principautÈs belges au moyen age /","Vanderkindere, LÈon,",1981,"6/29/96","2/8/11",0,0,0,2,"2",TRUE,248,"0",0
+"252",11704,"X000938255","DH186.5 .G73 1981","ALDERMAN","Weg met de koning : 's konings zegel gebroken, het ontstaan van de Nederlandse staat in 1581 : met de volledige tekst van het Plakkaat van verlatinge en de Eed van afzwering /","Grolle, J. J.,",1981,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,249,"0",0
+"253",146174,"X000773424","DH471 .O87 1981","ALDERMAN","Preadvies over gezag over de politie in BelgiÎ /","Outrive, Lode van.",1981,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,249,"0",0
+"254",123038,"X000319054","DH811 .A6 P65 1974","ALDERMAN","Antwerpen door de eeuwen heen /","Prims, Floris,",1974,"6/28/96","2/8/11",0,1,0,1,"2",FALSE,250,"0",0
+"255",159069,"X000396109","DH652 .N3","ALDERMAN","De Tiendaagse veldtocht : de Belgische opstand 1830/1831 /","Nater, Johan P. (Johan Pieter)",1980,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,251,"0",0
+"256",181725,"X000423400","DH690 .H88","ALDERMAN","De gewapende vrede : politiek in BelgiÎ tussen 1945 en 1980 /","Huyse, Lucien,",1980,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,251,"0",0
+"257",452770,"X000288781","DH403 .M4 no.156","ALDERMAN","International life in Belgium.","Speeckaert, Georges Patrick.",1973,"6/29/96","2/8/11",0,1,0,1,"2",TRUE,252,"0",0
+"258",506548,"X000307471","DH403 .M4 no.161","ALDERMAN","The Open society of the future : report of a seminar to reflect on the network of international associations.","",1973,"6/29/96","2/8/11",0,1,0,1,"2",TRUE,252,"0",0
+"259",444679,"X000315124","DH403 .M4 no.162","ALDERMAN","A Belgian contribution to the world's historical inheritance: the deciphering of Mayan hieroglyphic writing,","Vollemaere, Antoon LÈon.",1973,"6/29/96","2/8/11",0,1,0,1,"2",TRUE,252,"0",0
+"260",7277376,"X031888396","DH811 .A55 A5 1938","ALDERMAN","Anvers ‡ vol d'oiseau /","",1938,"11/2/17","1/1/00",0,0,0,1,"2",FALSE,253,"0",0
+"261",2512243,"X000074004","DH811 .A58 C38 1979","ALDERMAN","Gids voor oud Antwerpen /","Cauwenbergh, George van.",1979,"7/1/96","2/8/11",0,0,0,1,"2",TRUE,254,"0",0
+"262",242431,"X000014729","DH186.5 .K63","ALDERMAN","De Kogel door de kerk? : de opstand in de Nederlanden en de rol van de Unie van Utrecht, 1559-1609 /","",1979,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,255,"0",0
+"263",257342,"X030806179","DH187.5 .V9 1979","ALDERMAN","De motiveering van onzen opstand : de theorieÎn van het verzet der Nederlandsche opstandelingen tegen Spanje in de jaren 1565-1581 /","Vrankrijker, A. C. J. de,",1979,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,255,"0",0
+"264",192561,"X030806180","DH195 .B3","ALDERMAN","Van opstand tot onafhankelijkheid : de Unie van Utrecht en het ontstaan van een zelfstandige staat 1559-1609 /","Baalbergen, J.",1979,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,255,"0",0
+"265",7281822,"X031867544","DH188 .G8 V7","ALDERMAN","De staatsleer van Hugo de Groot en zijn Nederlandsche tijdgenooten /","Vrankrijker, A. C. J. de,",1937,"11/10/17","1/1/00",0,0,0,1,"2",TRUE,256,"0",0
+"266",342207,"X000031611","DH403 .M4 no.148","ALDERMAN","Limburg, province in expansion.","",1972,"6/28/96","2/8/11",0,1,0,1,"2",TRUE,257,"0",0
+"267",353868,"X000048798","DH403 .M4 no.153","ALDERMAN","European monetary union /","Vlerick, A. J.",1972,"6/28/96","2/8/11",0,1,0,1,"2",TRUE,257,"0",0
+"268",243231,"X000005840","DH186.5 .G4 1978","ALDERMAN","De Nederlandse opstand in de pamfletten, 1566-1584 /","Geurts, Pieter Antoon Marie.",1978,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,258,"0",0
+"269",224764,"X000666989","DH645 .I8 V.2","ALDERMAN","Mijn land in de kering : 1830-1980 /","Isacker, Karel van.",1978,"6/28/96","2/8/11",0,0,0,2,"2",TRUE,258,"0",0
+"270",607695,"X000282071","DH416 .B4 1971","ALDERMAN","Belgique, Luxembourg.","",1971,"6/29/96","2/8/11",0,1,0,1,"2",FALSE,259,"0",0
+"271",1975323,"X002120732","DH471 .H49 1992","ALDERMAN","Ceci n'est pas la Belgique /","Heusch, Luc de.",1992,"6/30/96","2/26/04",0,5,0,1,"2",FALSE,260,"0",0
+"272",629099,"X000350015","DH193 .P4 1967","ALDERMAN","Don John of Austria","Petrie, Charles,",1967,"6/29/96","8/19/11",0,1,0,1,"2",FALSE,261,"0",0
+"273",3694031,"X004504834","DH146 .G47 2001","ALDERMAN","Germania inferior : Besiedlung, Gesellschaft und Wirtschaft an der Grenze der rˆmisch-germanischen Welt /","",2001,"2/24/01","12/6/02",0,1,0,1,"2",FALSE,262,"0",0
+"274",262446,"X030806176","DH185 .S6 v.15","ALDERMAN","MÈmoires sur Emmanuel de Lalaing, baron de Montigny /","",1977,"6/28/96","2/8/11",0,0,0,1,"2",TRUE,263,"0",0
+"275",300113,"X000151755","DH414 .B43 1977","ALDERMAN","Liste alphabÈtique des communes : fusions de 1963 ‡ 1977 = Alfabetische lijst van de gemeenten : fusies van 1963 tot 1977.","Institut national de statistique (Belgium)",1977,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,263,"0",0
+"276",94623,"X000480835","DH491 .V47 1977","ALDERMAN","Der Nationalismus in Flandern /","Vinks, Jos,",1977,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,263,"0",0
+"277",280761,"X030806181","DH491 .W76","ALDERMAN","De Vlaamse beweging in het kader van de nationale bewegingen /","Wils, Lode.",1977,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,263,"0",0
+"278",329222,"X000503452","DH811 .B78 D79 1910","ALDERMAN","Bruges : histoire et souvenirs /","Duclos, Adolphe Julien,",1910,"6/28/96","5/31/07",0,14,0,1,"2",TRUE,264,"0",0
+"279",276529,"X000064843","DH186.5 .N38","ALDERMAN","Aard van de opstand in de Nederlanden der zestiende eeuw /","Nauta, D.",1976,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,265,"0",0
+"280",309929,"X000700987","DH403 .M4 no.174","ALDERMAN","The Turnhout playing card industry (1826-1976) /","Autenboer, Eugeen van.",1976,"6/28/96","2/8/11",0,0,0,1,"2",TRUE,265,"0",0
+"281",414044,"X000037199","DH491 .V6","ALDERMAN","Dat volk moet herleven : het studententijdschrift ""de Vlaamsche Vlagge"" 1875-1933 /","Vos, Louis,",1976,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,265,"0",0
+"282",176762,"X000535518","DH908.6 .F8 D64 1976","ALDERMAN","Les Luxembourgeois et la France, de PoincarÈ ‡ Pompidou /","Dollar, Jacques.",1976,"6/28/96","2/8/11",0,0,0,1,"2",TRUE,265,"0",0
+"283",7277780,"X031869628","DH180 .L5","ALDERMAN","ItinÈraires de Marie de Bourgogne et de Maximilien d'Autriche (1477-1482) /","Linden, H. vander (Herman vander),",1934,"11/3/17","1/1/00",0,0,0,1,"2",FALSE,266,"0",0
+"284",2753169,"X006172197","DH403 .M4 no.122-124","ALDERMAN","The political, economic and social structures of Belgium.","Senelle, Robert,",1970,"12/19/97","12/22/04",1,6,0,1,"2",TRUE,267,"0",0
+"285",276464,"X000008561","DH188 .W7 S95","ALDERMAN","William the Silent and the revolt of the Netherlands /","Swart, K. W. (Koenraad Wolter)",1978,"6/28/96","9/28/09",0,1,0,1,"2",FALSE,268,"0",0
+"286",435185,"X000958504","DH566 .P5","ALDERMAN","Belgian democracy, its early history,","Pirenne, Henri,",1915,"6/29/96","1/11/16",0,4,0,1,"2",FALSE,269,"0",0
+"287",477576,"X000700984","DH403 .M4 no.167","ALDERMAN","The science of polemology at the University of Brussels /","Willequet, Jacques.",1975,"6/29/96","2/8/11",0,0,0,1,"2",TRUE,270,"0",0
+"288",415886,"X000701013","DH687 .W5","ALDERMAN","Het beleid van het ComitÈ van de Secretarissen-Generaal in BelgiÎ tijdens de duitse bezetting 1940-1944 : with an English summary /","Wijngaert, Mark van den,",1975,"6/28/96","2/8/11",0,0,0,1,"2",FALSE,271,"0",0
+"289",100147,"X001106515","DH92 .B4 P73 1984","ALDERMAN","Negers in de Nederlanden, 1500-1863 /","Preedy, S. E.,",1984,"6/28/96","10/13/09",2,0,0,1,"2",FALSE,272,"0",0
+"290",3585933,"X004545375","DH141 .G76 2000","ALDERMAN","The antiquity of the Batavian Republic : with the notes by Petrus Scriverius /","Grotius, Hugo,",2000,"11/29/00","12/6/02",0,1,0,1,"2",FALSE,273,"0",0
+"291",262419,"X000055551","DH185 .S6 v.6","ALDERMAN","MÈmoires de FrÈdÈric Perrenot, sieur de Champagney, 1573-1590 /","Champagney, FrÈdÈric Perrenot de Granvelle,",1977,"6/28/96","10/8/10",0,0,0,1,"2",TRUE,274,"0",0
+"292",690438,"X001224034","DH806.7 .P65 1987","ALDERMAN","Revolution in Brussels, 1787-1793 /","Polasky, Janet L.",1987,"6/29/96","4/17/07",0,2,0,1,"2",FALSE,276,"0",0
+"293",388376,"X000700983","DH403 .M4 no.164","ALDERMAN","Organization of external cultural relations.","",1974,"6/28/96","2/8/11",0,0,0,1,"2",TRUE,277,"0",0
+"294",4078781,"X004843355","DH801 .H262 I534 2004","ALDERMAN","Image et mÈmoire du Hainaut mÈdiÈval /","",2004,"10/27/04","1/1/00",0,0,0,1,"2",FALSE,278,"0",0
+"295",1829452,"X031870259","DH186.5 .M7 1906 v.3","ALDERMAN","The rise of the Dutch Republic : a history /","Motley, John Lothrop,",1906,"6/30/96","12/1/17",0,8,2,3,"2",TRUE,279,"0",0
+"296",3680486,"X004600163","DH801 .L7 G4 v.1 pt.2","ALDERMAN","Geschiedenis der graven Van Limburg Stirum.","",1961,"1/11/01","2/18/09",0,0,0,1,"2",TRUE,280,"0",0
+"297",1782606,"X002060506","DH492 .W3 G44 1986","ALDERMAN","La Wallonie : un passe pour un avenir /","Genicot, LÈopold.",1986,"6/30/96","2/28/07",0,2,0,1,"2",TRUE,281,"0",0
+"298",344130,"X000033224","DH403 .M4 no.149-150","ALDERMAN","An ""ombudsman"" or parliamentary commissioner : an appointed being considered in Belgium /","Impe, Herman van.",1972,"6/28/96","2/8/11",2,0,0,1,"2",TRUE,282,"0",0
+"299",269093,"X000108046","DH491 .E4 1971 V.2","ALDERMAN","Vijfentwintig jaar Vlaamse beweging 1914/1939 /","Elias, Hendrik J.",1971,"6/28/96","2/8/11",0,0,0,4,"2",TRUE,284,"0",0
+"300",520629,"X000288767","DH185 .V4","ALDERMAN","Le Conseil des troubles; liste des condamnÈs (1567-1573)","Verheyden, A. L. E.",1961,"6/29/96","8/16/10",0,2,0,1,"2",FALSE,285,"0",0
+"301",576628,"X000748843","DH671 .A8 1964","ALDERMAN","The King incorporated; Leopold II in the age of trusts.","Ascherson, Neal.",1964,"6/29/96","4/20/06",1,6,0,1,"2",FALSE,286,"0",0
+"302",4021964,"X004765660","DH687 .S74 2003","ALDERMAN","Les dessous de la rÈgence 1944-1950 /","StÈphany, Pierre.",2003,"4/14/04","1/1/00",0,0,0,1,"2",FALSE,287,"0",0
+"303",949922,"X000392896","DH492 .W3 G7 1923","ALDERMAN","The story of the Walloons, at home, in lands of exile and in America,","Griffis, William Elliot,",1923,"6/29/96","12/18/15",0,2,0,1,"2",TRUE,288,"0",0
+"304",2952901,"X006006885","DH689 .S6 D86 1999","ALDERMAN","Spaak /","Dumoulin, Michel.",1999,"10/6/99","3/26/02",0,2,0,1,"2",TRUE,289,"0",0
+"305",279447,"X031869615","DH186.5 .H63 1977","ALDERMAN","De 80 [i.e. Tachtig]-jarige oorlog in prenten /","Hogenberg, Frans,",1977,"6/28/96","1/22/08",0,2,0,1,"2",FALSE,290,"0",0
+"306",304975,"X000748972","DH671 .R36 1910","ALDERMAN","Leopold the Second, King of the Belgians,","Rappoport, A. S. (Angelo Solomon),",1910,"6/28/96","11/6/13",0,6,0,1,"2",FALSE,291,"0",0
+"307",3968922,"X004723760","DH925 .L8 H658 2003","ALDERMAN","Luxemburgische Skriptstudien : Edition und Untersuchung der altfranzˆsischen Urkunden Gr‰fin Ermesindes (1226-1247) und Graf Heinrichs V. (1247-1281) von Luxemburg /","Holtus, G¸nter.",2003,"9/22/03","1/1/00",0,0,0,1,"2",FALSE,293,"0",0
+"308",48843,"X001042071","DH905 .L89 1984","ALDERMAN","Luxembourg /","",1984,"6/28/96","9/16/04",1,4,0,1,"2",FALSE,294,"0",0
+"309",263130,"X000060327","DH805 .W44","ALDERMAN","Brussels : grote markt to Common Market /","Weightman, Christine B.",1976,"6/28/96","11/22/04",0,5,0,1,"2",FALSE,295,"0",0
+"310",653811,"X000788434","DH191.7 .G7 1982","ALDERMAN","Alva en de tiende penning /","Grapperhaus, F. H. M.",1982,"6/29/96","11/1/07",0,1,0,1,"2",FALSE,296,"0",0
+"311",777994,"X001295562","DH811 .G46 N53 1987","ALDERMAN","The metamorphosis of a medieval city : Ghent in the Age of the Arteveldes, 1302-1390 /","Nicholas, David,",1987,"6/29/96","2/9/06",1,2,0,1,"2",FALSE,297,"0",0
+"312",2505649,"X006054701","DH905 .S6414 1995","ALDERMAN","La nation luxembourgeoise : GenËse et structure d'une identitÈ /","Spizzo, Daniel.",1995,"7/1/96","10/16/05",0,1,0,1,"2",FALSE,298,"0",0
+"313",949982,"X000925937","DH811 .B82 B7 1965 v.1","ALDERMAN","De rekeningen van de stad Brugge, 1280-1319.","Bruges (Belgium)",1965,"6/29/96","2/8/11",0,0,0,1,"2",TRUE,299,"0",0
+"314",599965,"X000061485","DH101 .S5","ALDERMAN","The Netherlands, 57 B.C.-1971 a chronology and factbook,","Smit, Pamela.",1973,"6/29/96","1/7/08",0,2,0,1,"2",FALSE,300,"0",0
+"315",572856,"X000458873","DH687 .K53","ALDERMAN","Belgium's return to neutrality; an essay in the frustration of small power diplomacy.","Kieft, David Owen.",1972,"6/29/96","4/23/01",0,9,0,1,"2 3",FALSE,301,"0",0
+"316",949617,"X001171633","DH18 .G6 1945","ALDERMAN","Belgium;","Gijsen, Marnix,",1945,"6/29/96","10/7/11",0,2,0,1,"2",FALSE,303,"0",0
+"317",4780294,"X030474765","DH521 .A9","ALDERMAN","Nouvelle histoire de Belgique /","Avermaete, Roger,",1971,"10/8/08","1/1/00",0,0,0,1,"2",FALSE,304,"0",0
+"318",308970,"X000700958","DH3 .U8 v.37","ALDERMAN","Studies over het Zeeuwse en het Leidse burggraafschap /","Lenselink, W. H.",1976,"6/28/96","2/16/09",0,0,0,1,"2",TRUE,305,"0",0
+"319",3910330,"X004667892","DH801 .F462 S64 2002","ALDERMAN","De rentmeesters van de graaf van Vlaanderen : Beheer en beheerders van het grafelijk domein in de late middeleeuwen /","Soens, Tim.",2002,"1/14/03","1/1/00",0,0,0,1,"2",FALSE,306,"0",0
+"320",7277372,"X031888394","DH801 .L56 C3 t.2","ALDERMAN","Documents concernant la principaute de liege (1230-1532) : specialement au debut du XVIe siecle : extraits des papiers du cardinal jerome aleandre","Aleandre, Jerome",1920,"11/2/17","1/1/00",0,0,0,1,"2",TRUE,307,"0",0
+"321",2509991,"X004117185","DH492 .R87 L3617 1995","ALDERMAN","Strana sine? ptit?sy : russkie v Bel?gii /","",1995,"7/1/96","3/22/05",0,1,0,1,"2",TRUE,308,"0",0
+"322",3575340,"X006091017","DH571 .S43 1999","ALDERMAN","Secretum scriptorum : liber alumnorum Walter Prevenier /","",1999,"10/24/00","2/26/01",0,1,0,1,"2",FALSE,309,"0",0
+"323",949634,"X000210661","DH188 .O4 T48 v.2","ALDERMAN","Oldenbarnevelt.","Tex, Jan den.",1960,"6/29/96","2/8/11",0,0,0,5,"2",TRUE,310,"0",0
+"324",3881005,"X004626798","DH676 .S343 B658 2002","ALDERMAN","Van literaire avant-garde tot raswetenschap Gustaaf Schamelhout (1869-1944) /","Bont, Raf de,",2002,"8/21/02","1/1/00",0,0,0,1,"2",FALSE,311,"0",0
+"325",365685,"X000288770","DH196 .V48","ALDERMAN","Commentario del coronel Francisco Verdugo de la guerra de Frisa, en XIIII aÒos que fue governador y capitan general de aquel estado y exercito por el rey D. Phelippe II, nuestro senor.","Verdugo, Francisco,",1899,"6/28/96","4/30/10",0,10,0,1,"2",FALSE,312,"0",0
+"326",467791,"X030527994","DH3 .U8 v.35","ALDERMAN","Crisis. Studie over een structuur- en normverandering in het Frankrijk van 1150-1250.","Teunis, H. B.",1973,"6/29/96","2/16/09",0,0,0,1,"2",TRUE,313,"0",0
+"327",1306265,"X000827724","DH566 .M5 1913","ALDERMAN","Rapport prÈsentÈ au ComitÈ de patronage /","Mission Commerciale Belge en Russie.",1913,"6/30/96","11/2/17",0,0,0,1,"2",FALSE,314,"0",0
+"328",1918162,"X002066779","DH681 .A3 1991","ALDERMAN","Carnets et correspondance de guerre, 1914-1918 /","Albert",1991,"6/30/96","7/31/03",0,3,0,1,"2",FALSE,315,"0",0
+"329",949611,"X030527995","DH16 .B13 1901","ALDERMAN","Belgium and Holland, including the grand-duchy of Luxembourg; handbook for travellers,","Karl Baedeker (Firm)",1901,"2/16/09","2/16/09",0,0,0,1,"2",FALSE,316,"0",0
+"330",18974,"X000485106","DH581 .A7 C37 1980","ALDERMAN","James van Artevelde, the man from Ghent /","Carson, Patricia.",1980,"6/28/96","10/19/04",2,3,0,1,"2",TRUE,317,"0",0
+"331",331285,"X030527993","DH3 .U8 v.34","ALDERMAN","Jan van Arkel, Bisschop van Utrecht.","Rutgers, Carel Arnold.",1970,"6/28/96","2/16/09",0,0,0,1,"2",TRUE,318,"0",0
+"332",949627,"X030528004","DH186.5 .M6 1900 v.11","ALDERMAN","The writings of John Lothrop Motley.","Motley, John Lothrop,",1900,"2/17/09","2/17/09",0,0,0,16,"2 14",TRUE,320,"0",0
+"333",492231,"X000282075","DH656 .S5","ALDERMAN","LÈopold Ier /","Simon, AloÔs,",1963,"6/29/96","2/18/09",0,1,0,1,"2",FALSE,322,"0",0
+"334",3814351,"X004608626","DH687 .L46 2001","ALDERMAN","LÈopold III /","",2001,"2/14/02","1/1/00",0,0,0,1,"2",FALSE,323,"0",0
+"335",730554,"X000969313","DH403 .U54 1903 v.1","ALDERMAN","Matricule de l'UniversitÈ de Louvain, publiÈe","UniversitÈ de Louvain (1425-1797)",1903,"6/29/96","11/3/17",1,1,0,1,"2",TRUE,324,"0",0
+"336",3811461,"X004592029","DH801 .F46 R53 2001","ALDERMAN","God's scribe : the historiographical art of Galbert of Bruges /","Rider, Jeff,",2001,"2/5/02","1/1/00",0,0,0,1,"2",TRUE,325,"0",0
+"337",3810928,"X006128521","DH645 .J36 2001","ALDERMAN","De Belgische natie viert : de Belgische nationale feesten, 1830-1914 /","Janssens, Jeroen.",2001,"2/4/02","1/1/00",0,0,0,1,"2",FALSE,326,"0",0
+"338",576655,"X000748828","DH424 .E4 1916","ALDERMAN","Vanished towers and chimes of Flanders,","Edwards, George Wharton,",1916,"6/29/96","10/21/15",1,1,0,1,"2 14",FALSE,328,"0",0
+"339",262846,"X000964653","DH424 .P444 1948","ALDERMAN","Do you know Belgium /","Peeters, EugËne.",1948,"6/28/96","2/17/09",1,3,0,1,"2",FALSE,330,"0",0
+"340",95565,"X000978778","DH146 .R64 1983","ALDERMAN","Roman and native in the Low Countries : spheres of interaction /","",1983,"6/28/96","12/6/02",0,4,0,1,"2",FALSE,332,"0",0
+"341",1961310,"X002110390","DH811 .L5 H57 1991","ALDERMAN","Histoire de LiËge /","",1991,"6/30/96","7/16/04",0,1,0,1,"2",FALSE,333,"0",0
+"342",3727266,"X004539418","DH925 .L8 F73 2001","ALDERMAN","Die Stadtgemeinde Luxemburg im Spannungsfeld politischer und wirtschaftlicher Umw‰lzungen (1760-1890) : von der Festungs- und Garnisonsstadt zur offenen multifunktionalen Stadt /","Franz, Norbert.",2001,"6/18/01","1/1/00",0,0,0,1,"2",TRUE,334,"0",0
+"343",38100,"X030528039","DH403 .R3 F8 v.3","ALDERMAN","Coutumes des pays et comtÈ de Flandre : Quartier de Furnes /","Veurne (Belgium)",1896,"2/17/09","2/17/09",0,0,0,6,"2",TRUE,335,"0",0
+"344",1349968,"X001104912","DH51 .F37 1987","ALDERMAN","Farm life in a Carolingian village : a model based on botanical and zoological data from an excavated site /","",1987,"6/30/96","3/6/02",0,4,0,1,"2",FALSE,336,"0",0
+"345",3736550,"X006120700","DH801 .F46 H44 2000","ALDERMAN","Over lenen en families : een studie over de vroegste geschiedenis van het zakelijk leenrecht in het graafschap Vlaanderen ca. 1000-1305 /","Heirbaut, Dirk.",2000,"7/23/01","1/1/00",0,0,0,1,"2",FALSE,337,"0",0
+"346",622826,"X001100593","DH571 .G3 1958","ALDERMAN","La Belgique carolingienne.","Ganshof, F. L. (FranÁois Louis),",1958,"6/29/96","2/18/09",0,1,0,1,"2",FALSE,338,"0",0
+"347",255708,"X000350013","DH193 .S55 1936","ALDERMAN","Don John of Austria, the victor of Lepanto (1547-1578).","Slocombe, George,",1936,"6/28/96","4/25/11",0,2,0,1,"2",FALSE,339,"0",0
+"348",1732631,"X001957289","DH683 .C6614 1988","ALDERMAN","Histoire de la politique ÈtrangËre belge /","Coolsaet, R.",1988,"6/30/96","9/2/04",1,1,0,1,"2",FALSE,340,"0",0
+"349",426676,"X000672450","DH3 .U8 v.33","ALDERMAN","Christianity in Great-Moravia.","Dittrich, Z. R. (Zdenek Radslav),",1962,"6/29/96","2/16/09",0,0,0,1,"2",TRUE,341,"0",0
+"350",7281838,"X031867707","DH188 .W7 R3 1906 bd.1","ALDERMAN","Wilhelm von Oranien und der niederl‰ndische Aufstand /","Rachfahl, Felix,",1906,"11/10/17","1/1/00",0,0,0,3,"2",TRUE,343,"0",0
+"351",562265,"X000197481","DH687 .A82","ALDERMAN","Leopold III and the Belgian royal question,","Arango, E. RamÛn (Ergasto RamÛn)",1961,"6/29/96","2/18/09",0,0,0,1,"2",FALSE,344,"0",0
+"352",3552436,"X004435956","DH802.3 .D53 2000","ALDERMAN","Dictionnaire de Bruxelles : dÈfinitions d'une ville par les gens qui y vivent, y passent, ou y travaillent /","",2000,"7/24/00","1/1/00",0,0,0,1,"2",FALSE,346,"0",0
+"353",211965,"X001038823","DH811 .A64 H3 v.2","ALDERMAN","De kroniek van Godevaert van Haecht over de troebelen van 1565 tot 1574 te Antwerpen en elders,","Haecht, Godevaert van,",1929,"6/28/96","8/26/11",1,3,0,2,"2",TRUE,347,"0",0
+"354",53960,"X000613435","DH811 .B8 G5 1926","ALDERMAN","The story of Bruges,","Gilliat-Smith, Ernest.",1926,"6/28/96","2/18/09",1,5,0,1,"2",TRUE,348,"0",0
+"355",3547539,"X006118995","DH801 .B762 A94 1999","ALDERMAN","Koning Artur in Brabant (12de-14de eeuw) : studies over riddercultuur en vorstenideologie /","Avonds, P.",1999,"7/6/00","1/1/00",0,0,0,1,"2",FALSE,349,"0",0
+"356",342646,"X000002472","DH685 .H9 A3 v.1","ALDERMAN","MÈmories. PubliÈs par Frans van Kalken avec la collaboration de John Bartier.","Hymans, Paul,",1958,"6/28/96","2/18/09",0,0,0,2,"2",TRUE,350,"0",0
+"357",1791769,"X001878604","DH569 .E85 B45 1987","ALDERMAN","La Belgique et les dÈbuts de la construction europÈene : de la guerre aux traitÈs de Rome /","",1987,"6/30/96","2/27/97",1,8,0,1,"2",FALSE,351,"0",0
+"358",949961,"X001819275","DH689 .D4 D3 1937","ALDERMAN","LÈon Degrelle et le rexisme.","Daye, Pierre,",1937,"6/29/96","2/18/09",0,3,0,1,"2",TRUE,352,"0",0
+"359",949945,"X000961690","DH656 .L5 1930","ALDERMAN","LÈopold First, the founder of modern Belgium,","Lichtervelde, Louis de,",1930,"6/29/96","2/8/11",1,2,0,1,"2",FALSE,353,"0",0
+"360",7278059,"X031870267","DH186.5 .M7 1901 v.1","ALDERMAN","The rise of the Dutch republic : a history by John Lothrop Motley /","Motley, John Lothrop,",1901,"11/7/17","1/1/00",0,0,0,2,"2",TRUE,354,"0",0
+"361",214768,"X000748835","DH451 .N6 v.7 1956","ALDERMAN","Nederlandse plaatsnamen; een overzicht.","Moerman, H. J.",1956,"6/28/96","2/17/09",0,0,0,1,"2",TRUE,355,"0",0
+"362",129185,"X000493515","DH681 .L36","ALDERMAN","L'Èlaboration de la politique ÈtrangËre de la Belgique entre les deux guerres mondiales /","Langenhove, Fernand van,",1980,"6/28/96","9/2/04",0,1,0,1,"2",FALSE,356,"0",0
+"363",262462,"X000055567","DH185 .S6 v.30","ALDERMAN","Relations des campagnes de 1644 & 1646 /","Vincart, Jean Antoine.",1977,"6/28/96","1/31/05",0,1,0,1,"2",TRUE,357,"0",0
+"364",262466,"X000055568","DH185 .S6 v.28-29","ALDERMAN","Histoire gÈnÈrale des guerres de Savoie, de BohÍme, du Palatinat & des Pays-Bas, 1616-1627 /","Haynin, Louis de,",1977,"6/28/96","1/25/05",0,1,0,1,"2",TRUE,358,"0",0
+"365",498043,"X000050457","DH665 .S6","ALDERMAN","De conferentie van Londen ; het vredesverdrag tussen Nederland en BelgiÈ van 19 April 1839.","Smit, C.",1949,"6/29/96","2/18/09",0,1,0,1,"2",FALSE,359,"0",0
+"366",786689,"X001295987","DH107 .K6813 1987","ALDERMAN","The Low Countries : history of the northern and southern Netherlands /","Kossmann-Putto, J.",1987,"6/29/96","9/13/99",0,5,0,1,"2",FALSE,360,"0",0
+"367",214673,"X030527991","DH3 .U8 v.27","ALDERMAN","Nederrijnse studien, XIIIe-XVe eeuw,","Jappe Alberts, Wybe.",1954,"6/28/96","2/16/09",0,0,0,1,"2",TRUE,361,"0",0
+"368",2932037,"X006003249","DH801 .B76 G63 1999","ALDERMAN","Le Conseil de Brabant sous le rËgne de Philippe le Bon (1430-1467) /","Godding, Philippe.",1999,"7/29/99","1/1/00",0,0,0,1,"2",TRUE,362,"0",0
+"369",215446,"X030527990","DH3 .U8 v.26","ALDERMAN","StudiÎn betreffende geschiedenis van Oost-Nederland van de dertiende tot de vijftiende eeuw,","Dieperink, F. H. J.",1953,"6/28/96","2/16/09",0,0,0,1,"2",TRUE,363,"0",0
+"370",785902,"X001312608","DH806.7 .P65 1985","ALDERMAN","Revolution in Brussels, 1787-1793 /","Polasky, Janet L.",1985,"6/29/96","7/1/02",0,2,0,1,"2",FALSE,365,"0",0
+"371",617016,"X000748816","DH71 .B3 1952","ALDERMAN","The pageant of Netherlands history.","Barnouw, Adriaan Jacob,",1952,"6/29/96","2/16/09",0,0,0,1,"2",FALSE,366,"0",0
+"372",215001,"X030527989","DH3 .U8 v.25","ALDERMAN","Kˆlnisch-geldrische Urkundenstudien zur Geschichte des 13. Jahrhunderts.","Oppermann, Otto Alexander,",1952,"6/28/96","2/16/09",0,0,0,1,"2",TRUE,367,"0",0
+"373",806393,"X001215157","DH566 .H4","ALDERMAN","Belgium and Europe : a study in small power diplomacy /","Helmreich, Jonathan E.",1976,"6/29/96","9/25/98",0,7,0,1,"2 3",FALSE,368,"0",0
+"374",566371,"X000108049","DH186.5 .M7 1883 v.1","ALDERMAN","The rise of the Dutch republic, a history","Motley, John Lothrop,",1883,"6/29/96","12/1/17",0,3,0,3,"2",TRUE,369,"0",0
+"375",949942,"X001950013","DH656 .A4 1943","ALDERMAN","lettres de LÈopold Ier,","LÈopold",1943,"6/29/96","2/18/09",0,1,0,1,"2",FALSE,370,"0",0
+"376",47616,"X000819936","DH801 .F45 H57 1983","ALDERMAN","Histoire de Flandre : des origines ‡ nos jours /","",1983,"6/28/96","4/3/02",0,2,0,1,"2",FALSE,371,"0",0
+"377",151359,"X031914588","DH403 .R4 P318 ser.2 v.6 1922","ALDERMAN","Recueil des ordonnances des Pays-Bas. DeuxiËme sËrie, 1506-1700 ...","Netherlands (Southern provinces, 1581-1793).",1893,"11/7/17","1/1/00",0,0,0,7,"2",TRUE,373,"0",0
+"378",98739,"X001066927","DH95 .H575 1985","ALDERMAN","Historical research in the Low Countries, 1981-1983 : a critical survey /","",1985,"6/28/96","12/1/99",0,4,0,1,"2",FALSE,376,"0",0
+"379",1663204,"X001741429","DH511 .D52 1988","ALDERMAN","Dictionnaire d'histoire de Belgique : vingt siËcles d'institutions, les hommes, les faits /","",1988,"6/30/96","5/1/01",0,2,0,1,"2",FALSE,377,"0",0
+"380",497537,"X000043659","DH677 .H57","ALDERMAN","Histoire de la Belgique contemporaine : 1914-1970.","",1975,"6/29/96","3/5/02",0,3,0,1,"2",FALSE,378,"0",0
+"381",1310226,"X001492643","DH16 .C6 1901","ALDERMAN","Cook's tourists' handbook for Holland, Belgium, the Rhine and Black Forest.","Thomas Cook (Firm)",1901,"6/30/96","10/21/15",3,0,0,1,"2",FALSE,379,"0",0
+"382",1669812,"X002562929","DH690 .M4 1989","ALDERMAN","La Belgique de papa : 1970, le commencement de la fin /","Mean, AndrÈ.",1989,"6/30/96","1/1/00",0,3,0,1,"2",FALSE,380,"0",0
+"383",2112188,"X002160225","DH641 .B45 1993","ALDERMAN","La Belgique franÁaise : 1792-1815 /","",1993,"6/30/96","5/1/01",1,1,0,1,"2",FALSE,381,"0",0
+"384",418366,"X000700999","DH433 .S712","ALDERMAN","In BelgiÎ : honderd zes-en-zeventig foto's /","Stephens, E. (Edwin)",1939,"6/29/96","2/17/09",0,1,0,1,"2",FALSE,382,"0",0
+"385",7277731,"X031876122","DH403 .R3 B688 v.1 1890","ALDERMAN","Coutumes des pays et comtÈ de Flandre : Quartier de Bruges : coutumes des petites villes et seigneuries enclavÈes /","Commission royale pour la publication des anciennes lois et ordonnances de la Belgique.",1890,"11/3/17","1/1/00",0,0,0,6,"2",TRUE,383,"0",0
+"386",949606,"X001325856","DH16 .B13 1875","ALDERMAN","Belgium and Holland.","Karl Baedeker (Firm)",1878,"6/29/96","1/6/16",2,3,2,1,"2",FALSE,384,"0",0
+"387",425177,"X000700968","DH192 .O67","ALDERMAN","Opstand en pacificatie in de lage landen : bijdrage tot de studie van de Pacificatie van Gent : verslagboek van het Tweedaags Colloquium bij de vierhonderdste verjaring van de Pacificatie van Gent.","",1976,"6/29/96","8/12/03",0,1,0,1,"2",FALSE,385,"0",0
+"388",132157,"X000466855","DH491 .R8813 1981","ALDERMAN","The Flemings : a people on the move, a nation in being /","Ruys, Manu,",1981,"6/28/96","1/1/00",1,4,0,1,"2",FALSE,386,"0",0
+"389",2834448,"X004044765","DH683 .D46 1997","ALDERMAN","La question des rÈparations allemandes dans la politique ÈtrangËre de la Belgique aprËs la premiËre guerre mondiale 1919-1925 /","Depoortere, Rolande,",1997,"9/24/98","9/30/98",0,1,0,1,"2",FALSE,387,"0",0
+"390",27819,"X000604582","DH685 .N6 P5 1980","ALDERMAN","Pierre Nothomb et le nationalisme belge de 1914 ‡ 1930 /","",1980,"6/28/96","2/2/01",0,3,0,1,"2",FALSE,388,"0",0
+"391",473164,"X000748844","DH671 .B25 1935","ALDERMAN","Leopold, the unloved: king  of the Belgians and of wealth,","Bauer, Ludwig,",1935,"6/29/96","7/28/08",0,2,0,1,"2",FALSE,389,"0",0
+"392",7277819,"X031869765","DH186 .S435 1889","ALDERMAN","The revolt of the United Netherlands : With the trial of Counts Egmont and Horn, and the siege of Antwerp; to which is added, The disturbances in France preceding the reign of Henry IV /","Schiller, Friedrich,",1889,"11/6/17","1/1/00",0,0,0,1,"2",FALSE,390,"0",0
+"393",2774829,"X004176443","DH801 .W25 W55 1997 v.2","ALDERMAN","Le vocabulaire du dÈfrichement dans la toponymie wallonne /","Willems, Martine.",1997,"4/8/98","1/1/00",0,0,0,2,"2",TRUE,391,"0",0
+"394",2533337,"X006041947","DH585 .S63 1994","ALDERMAN","Archives des Institutions centrales des Pays-Bas sous l'ancien rÈgime /","Soenen, Micheline.",1994,"7/1/96","12/9/99",0,2,0,1,"2",FALSE,392,"0",0
+"395",2774960,"X006080394","DH801 .L5 X43 1997","ALDERMAN","RÈseaux de pouvoir et solidaritÈs de parti ‡ LiËge au Moyen Age (1250-1468) /","Xhayet, GeneviËve.",1997,"3/10/98","1/1/00",0,0,0,1,"2",FALSE,393,"0",0
+"396",949616,"X000462601","DH16 .C6","ALDERMAN","Cook's tourists' handbook for Holland, Belgium, the Rhine and Black forest.","Thomas Cook Ltd. (1891. Thomas Cook & son)",1891,"6/29/96","10/30/15",0,1,0,1,"2",FALSE,394,"0",0
+"397",2434759,"X002635573","DH801 .L95 W35 1935 Bd.10 T.1","ALDERMAN","Urkunden- und Quellenbuch zur Geschichte der altluxemburgischen Territorien bis zur burgundischen Zeit /","Wampach, Camillus,",1935,"7/1/96","2/18/09",0,7,0,7,"2",TRUE,395,"0",0
+"398",577429,"X002031367","DH191 .W75 1972","ALDERMAN","The works of Sir Roger Williams.","Williams, Roger,",1972,"6/29/96","11/12/00",0,4,0,2,"2",FALSE,396,"0",0
+"399",341207,"X000033065","DH811 .A63 W4","ALDERMAN","Antwerp, 1477-1559, from the battle of Nancy to the treaty of Cateau CambrÈsis,","Wegg, Jervis.",1916,"6/28/96","11/2/11",2,1,0,1,"2",FALSE,397,"0",0
+"400",2317679,"X002525019","DH491 .G44 1941","ALDERMAN","Geschiedenis der jong vlaamsche beweging 1914-1918 /","",1941,"7/1/96","2/17/09",0,0,0,1,"2",FALSE,398,"0",0
+"401",5735,"X000746758","DH908 .G5","ALDERMAN","Luxemburg und das Reich, Briefe ¸ber eine erste Begegnung. Mit einem Beitrag von Albert Perizonius und einem Vorwort von Gaupropagandaleiter Urmes.","Glass, Emil.",1941,"6/28/96","2/18/09",0,0,0,1,"2",FALSE,399,"0",0
+"402",1371597,"X001196750","DH801 .F468 C68 1876 t.1","ALDERMAN","Troubles religieux du XVIe siËcle dans la Flandre maritime 1560-1570. Documents originaux ...","Coussemaker, Charles Edmond Henri de,",1876,"6/30/96","9/15/15",0,14,0,4,"2",TRUE,400,"0",0
+"403",1367682,"X001492379","DH612 .B46 1987","ALDERMAN","La Belgique autrichienne, 1713-1794 : les Pays-Bas mÈridionaux saus les Habsbourg d?Autriche /","",1987,"6/30/96","5/1/01",0,1,0,1,"2",FALSE,401,"0",0
+"404",949925,"X000962519","DH523 .M5","ALDERMAN","Belgium past and present,","Moncrieff, A. R. Hope (Ascott Robert Hope),",1920,"6/29/96","2/18/09",1,3,0,1,"2",FALSE,402,"0",0
+"405",443686,"X000701021","DH801 .W25 M44","ALDERMAN","MÈlanges de folklore et d'ethnographie dÈdiÈs ‡ la mÈmoire d'…lisÈe Legros.","",1973,"6/29/96","3/18/02",0,2,0,1,"2",FALSE,403,"0",0
+"406",1766592,"X002115735","DH613 .N4 A4 1988","ALDERMAN","Lettres de Patrice-FranÁois de Neny ‡ Pierre-Benoit Desandrouin, grand mayeur de Namur, 1769-1783 /","NÈny, Patrice,",1988,"6/30/96","1/1/00",0,2,0,1,"2",FALSE,404,"0",0
+"407",2099659,"X002127159","DH687 .V36 1988","ALDERMAN","1940, quand les chemins se sÈparent : aux sources de la question royale /","Vanwelkenhuyzen, Jean.",1988,"6/30/96","1/1/00",1,2,0,1,"2",FALSE,404,"0",0
+"408",949895,"X031867710","DH193 .S8 V.2","ALDERMAN","Don John of Austria,","Stirling Maxwell, William,",1883,"11/10/17","1/1/00",0,0,0,2,"2",TRUE,405,"0",0
+"409",290470,"X031876124","DH403 .R3 B68 V.3 1885","ALDERMAN","Coutumes des pays et comtÈ de Flandre. Coutume du bourg de Bruges,","Bruges (Belgium)",1883,"11/3/17","1/1/00",0,0,0,1,"2 14",TRUE,406,"0",0
+"410",2389582,"X002603857","DH569 .F8 B57 1994","ALDERMAN","La Belgique entre la France et l'Allemagne, 1905-1914 /","Bitsch, Marie-ThÈrËse.",1994,"7/1/96","1/1/00",0,1,0,1,"2",FALSE,407,"0",0
+"411",7277777,"X031869624","DH185 .K4 t.1","ALDERMAN","Relations politiques des Pays-Bas et de l'Angleterre, sous le rËgne de Philippe II /","Kervyn de Lettenhove, Joseph Marie Bruno Constantin,",1882,"11/3/17","1/1/00",0,0,0,11,"2",TRUE,408,"0",0
+"412",50474,"X000858180","DH801 .W25 H65 1981","ALDERMAN","Hommages ‡ la Wallonie : mÈlanges d'histoire, de littÈrature et de philologie wallonnes offerts ‡ Maurice A. Arnould et Pierre Ruelle /","",1981,"6/28/96","10/26/00",2,2,0,1,"2",FALSE,409,"0",0
+"413",235792,"X000225251","DH36 .L4","ALDERMAN","Relation de mon voiage de Flandre, de Hollande et de ZÈlande fait en mil six cent quatre vint et un /","LemaÓtre, Charles,",1978,"6/28/96","4/29/99",0,4,0,1,"2",FALSE,410,"0",0
+"414",2316321,"X002455106","DH909 .R45 1993 T.1","ALDERMAN","Landesherrschaft zwischen Reich und Frankreich : Verfassung, Wirtschaft und Territorialpolitik in der Grafschaft Luxemburg von der Mitte des 13. bis zur Mitte des 14. Jahrhunderts /","Reichert, Winfried.",1993,"7/1/96","1/1/00",0,2,0,2,"2",TRUE,411,"0",0
+"415",2684748,"X004125278","DH690 .G38 1995","ALDERMAN","Nederlands, een en veelzijdig : een selectie artikelen van Guido Geerts, hem aangeboden ter gelegenheid van zijn emeritaat.","Geerts, Guido.",1995,"4/29/97","1/1/00",0,0,0,1,"2",FALSE,412,"0",0
+"416",2649045,"X004069224","DH811 .G46 A93 1996","ALDERMAN","Realms of ritual : Burgundian ceremony and civic life in late medieval Ghent /","Arnade, Peter J.",1996,"2/10/97","1/1/00",0,0,0,1,"2",FALSE,413,"0",0
+"417",7278065,"X031870310","DH16 .B13 1881","ALDERMAN","Belgium and Holland : handbook for travellers ... /","Karl Baedeker (Firm)",1881,"11/7/17","1/1/00",0,0,0,1,"2",FALSE,414,"0",0
+"418",132021,"X000469333","DH471 .W54","ALDERMAN","La Belgique et ses populations /","Willemart, HÈlËne.",1980,"6/28/96","11/22/98",0,4,0,1,"2",FALSE,415,"0",0
+"419",70970,"X001017185","DH614 .V54 1983","ALDERMAN","La Vie culturelle dans nos provinces au XVIIIe siËcle : Pays-Bas autrichiens, principautÈ de LiËge et duchÈ de Bouillon.","",1983,"6/28/96","5/1/01",0,1,0,1,"2",FALSE,416,"0",0
+"420",2066336,"X002189449","DH801 .F48 H46 1992","ALDERMAN","Herfsttij van de 20ste eeuw : extreem-rechts in Vlaanderen 1920-1990 /","",1992,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,417,"0",0
+"421",2066212,"X002114333","DH95 .H574 1992","ALDERMAN","Historical research in the low countries /","",1992,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,417,"0",0
+"422",2636481,"X006038617","DH687 .G57 1996","ALDERMAN","Leopold III : un roi dans la tourmente /","Giscard d'Estaing, Antoine.",1996,"12/16/96","1/1/00",0,0,0,1,"2",FALSE,418,"0",0
+"423",1655661,"X001729767","DH811 .L7 C89 1935","ALDERMAN","Les institutions de la ville de Louvain au moyen ‚ge,","Cuvelier, Joseph,",1935,"6/30/96","3/27/09",1,0,0,1,"2",TRUE,419,"0",0
+"424",135536,"X004454672","DH416 .W36 1913","ALDERMAN","Handbook to Belgium and the battlefields : including the Ardennes and Luxemburg. /","Ward, Lock & Co.",1913,"7/13/00","2/17/09",0,0,0,1,"2",FALSE,420,"0",0
+"425",2638721,"X006016283","DH676 .D48 A3 1995","ALDERMAN","Journal, 1882-1887 /","DestrÈe, Jules,",1995,"1/6/97","1/1/00",0,0,0,1,"2",FALSE,421,"0",0
+"426",1959449,"X001986897","DH801 .B624 A96 1991","ALDERMAN","Brabant tijdens de regering van hertog Jan III (1312-1356) : land en instellingen /","Avonds, P.",1991,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,423,"0",0
+"427",1995844,"X002077059","DH801 .S35 D46 1991","ALDERMAN","Le rachat du pÈage de l'Escaut /","Depoortere, Rolande,",1991,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,423,"0",0
+"428",2018090,"X002152764","DH811 .A68 P67 1991","ALDERMAN","De voorstad groeit--Antwerpen, Zurenborg, 1900 : een bouwmaatschappij creÎert haar wereld /","Possemiers, J.",1991,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,423,"0",0
+"429",1920527,"X002079554","DH908.6 .N4 B49 1991","ALDERMAN","Die Beziehungen zwischen den Niederlanden und Luxemburg im 19. und 20. Jahrhundert = Les relations entre les Pays-Bas et le Luxembourg aux XIXe et XXe siËcles = The relations between the Netherlands and Luxembourg in the 19th and 20th centuries /","",1991,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,423,"0",0
+"430",2635111,"X004029501","DH811 .T76 T69 1995","ALDERMAN","Tournai, une ville, un fleuve : XVIe-XVIIe siËcle /","",1995,"12/10/96","1/1/00",0,0,0,1,"2",TRUE,424,"0",0
+"431",69193,"X000962175","DH681 .S3314 1983","ALDERMAN","Albert Ier et le gouvernement Broqueville, 1914-1918 : aux origines de la question communautaire /","Schepens, Luc,",1983,"6/28/96","2/16/01",0,1,0,1,"2",FALSE,425,"0",0
+"432",502844,"X000282062","DH188 .C6 B4","ALDERMAN","Bronnen tot de kennis van het leven en de werken van D. V. Coornhert","Becker, B. (Bruno)",1928,"6/29/96","2/17/09",1,1,0,1,"2",FALSE,427,"0",0
+"433",1766640,"X002006091","DH611 .P53 1990","ALDERMAN","Wiener Quellen zu den ÷sterreichischen Niederlanden : die Statthalter Erzherzogin Maria Elisabeth und Graf Friedrich Harrach (1725-1743) /","Pichorner, Franz,",1990,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,430,"0",0
+"434",1896870,"X002049487","DH657 .P57 1990","ALDERMAN","L'Europe et l'indÈpendance belge, ou, Le triomphe du parlementarisme en Occident (1830-1839) /","Pirenne, Jacques-Henri.",1990,"6/30/96","1/1/00",1,1,0,1,"2",FALSE,430,"0",0
+"435",1822466,"X031870324","DH95 .H5752 1990","ALDERMAN","Historical research in the Low Countries, 1983-1985 : a critical survey /","",1990,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,430,"0",0
+"436",63669,"X000983850","DH681 .S74 1983 V.2","ALDERMAN","Les annÈes '20-'30 : la Belgique entre les deux guerres /","StÈphany, Pierre.",1983,"6/28/96","1/1/00",0,3,0,2,"2",TRUE,431,"0",0
+"437",26748,"X000876588","DH811 .L5 L58 1980","ALDERMAN","Livres et lumiËres au pays de LiËge : 1730-1830 /","",1980,"6/28/96","5/1/01",0,1,0,1,"2",TRUE,432,"0",0
+"438",1651762,"X001945614","DH491 .D58 1989","ALDERMAN","Deutscher Imperialismus und belgischer Nationalit‰tenkonflikt : die Rezeption der Flamenfrage in der deutschen ÷ffentlichkeit und deutsch- f‰mische Kontakte 1890-1920 /","Dolderer, Winfried.",1989,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,433,"0",0
+"439",1658965,"X001937155","DH618.5 .R39 1989","ALDERMAN","La Revolution liegeoise de 1789 vue par les historiens belges : (de 1805 ‡ nos jors) /","Raxhon, Philippe.",1989,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,433,"0",0
+"440",1670175,"X002238514","DH618.5 .R48 1989","ALDERMAN","La RÈvolution liÈgeoise de 1789.","",1989,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,433,"0",0
+"441",425268,"X000032155","DH418 .I513 1975","ALDERMAN","Belgium at the heart of Europe.","Institut belge d'information et de documentation.",1975,"6/29/96","3/26/97",1,6,0,1,"2",FALSE,434,"0",0
+"442",2413051,"X002641834","DH690 .L6 1994","ALDERMAN","Baudouin : biographie /","Lobkowicz, StÈphane de.",1995,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,435,"0",0
+"443",589933,"X000207214","DH185 .L4 1587a","ALDERMAN","A briefe report of the militaire services done in the Low countries.","Leicester, Robert Dudley,",1969,"6/29/96","11/12/00",0,3,0,1,"2",FALSE,436,"0",0
+"444",593727,"X000683741","DH916 .O8 1932","ALDERMAN","Marie Adelaide, grand duchess of Luxemburg, duchess of Nassau","O'Shaughnessy, Edith,",1932,"6/29/96","2/18/09",0,0,0,1,"2",FALSE,437,"0",0
+"445",1651676,"X002113014","DH492 .W3 L43 1988","ALDERMAN","Les catholiques et la question wallonne /","Leclercq, Jacques,",1988,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,438,"0",0
+"446",1660877,"X002596555","DH515 .P57 1988","ALDERMAN","Monsieur le Premier ministre /","Plavsic, Wladimir S.",1988,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,438,"0",0
+"447",1669966,"X002238725","DH687 .B7 1988","ALDERMAN","LÈopold III et Henri de Man /","BrÈlaz, Michel.",1988,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,438,"0",0
+"448",1808395,"X001945290","DH801 .A74 J32 1988","ALDERMAN","BruyËres, bÍtes et gens d'Ardenne : (XVe-XVIIIe siËcle) /","Jacob, Henri.",1988,"6/30/96","1/1/00",1,1,0,1,"2",FALSE,438,"0",0
+"449",1808424,"X001941864","DH811 .E6 D45 1988","ALDERMAN","La cession de la seigneurie d'Enghien par Henri IV ‡ Charles d'Arenberg en 1607 /","Delannoy, Y. (Yves)",1988,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,438,"0",0
+"450",476870,"X001100572","DH198 .S87 1964","ALDERMAN","Leicester's triumph","Strong, Roy",1964,"6/29/96","7/10/02",1,2,0,1,"2",FALSE,439,"0",0
+"451",506900,"X000282070","DH403 .R4 P32","ALDERMAN","Recueil des ordonnances des Pays-Bas; 2. sÈrie -- 1506-1700. Les ordonnances monÈtaires du XVIIe siËcle.  Albert et Isabelle -- 1598-1621, Philippe IV -- 1621-1665, Charles II -- 1665-1700,","Commission royale pour la publication des anciennes lois et ordonnances de la Belgique",1914,"6/29/96","9/28/10",0,1,0,1,"2",FALSE,440,"0",0
+"452",483250,"X000612557","DH424 .H6 1925","ALDERMAN","Flanders & Hainault,","Holland, Clive,",1925,"6/29/96","2/17/09",0,1,0,1,"2",FALSE,442,"0",0
+"453",2390385,"X006007726","DH689 .Y38 A3 1994","ALDERMAN","MÈmoires 1912-1940 : aux avant-postes /","Ydewalle, Pierre d',",1994,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,443,"0",0
+"454",1782937,"X002060148","DH491 .V29 1987","ALDERMAN","Uit de schemerzone : de toekomst van de Vlaamse Beweging /","Vandenbroeke, C.",1987,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,444,"0",0
+"455",217765,"X000351931","DH811 .A6 P7 1977 v.4","ALDERMAN","Geschiedenis van Antwerpen /","Prims, Floris,",1977,"6/28/96","7/17/98",2,28,0,9,"2",TRUE,445,"0",0
+"456",2233264,"X002287088","DH611 .I57 1993","ALDERMAN","Instruktionen und Patente Karls (III.) VI. und Maria Theresias f¸r die Statthalter, Interimsstatthalter, bevollm‰chitgten Minister und Obersthofmeister der ÷sterreichischen Niederlande (1703-1744) /","",1993,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,446,"0",0
+"457",2299539,"X002529317","DH811 .H8 J578 1993","ALDERMAN","Villes, affaires-mentalitÈs : autour du pays mosan /","Joris, AndrÈ.",1993,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,446,"0",0
+"458",371346,"X031867971","DH403 .G24 t.1","ALDERMAN","La BibliothËque nationale ‡ Paris. Notices et extraits des manuscrits qui concernent l'histoire de Belgique.","Gachard, Louis-Prosper,",1875,"11/13/17","1/1/00",0,0,0,3,"2",TRUE,447,"0",0
+"459",1782668,"X002060419","DH801 .C44 L37 1986","ALDERMAN","Entre Bar et Luxembourg : le comtÈ de Chiny des origines ‡ 1300 /","Laret-Kayser, Arlette.",1986,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,449,"0",0
+"460",1780284,"X002116914","DH801 .E8 C64 1986","ALDERMAN","L'Annexion des cercles d'Eupen et Malmedy ‡ la Belgique en 1920 /","Collinet, Roger.",1986,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,449,"0",0
+"461",1777675,"X002115104","DH811 .C4 P53 1986","ALDERMAN","Le Plan en relief de Charleroi : levÈ par les ingÈnieurs militaires franÁais en 1696.","",1986,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,449,"0",0
+"462",1834690,"X001937072","DH689 .V47 A3 1985","ALDERMAN","MÈmoires sans parenthËses /","Vermeylen, Pierre.",1985,"6/30/96","1/1/00",0,1,0,1,"2",FALSE,450,"0",0
+"463",696283,"X000992792","DH801 .F46 A6 1985b","ALDERMAN","Annales Gandenses : Annals of Ghent /","",1985,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,451,"0",0
+"464",949943,"X001082592","DH656 .C5","ALDERMAN","Leopold I. von Belgien; sein weltgeb‰ude Koburger familienmacht; nach ungedruckten geheimkorrespondenzen des kˆnigs und sonstigen meist unverˆffentlichten quellen, mit 8 lichtdrucktafeln.","Corti, Egon Caesar,",1922,"6/29/96","2/18/09",1,1,0,1,"2",FALSE,452,"0",0
+"465",7278072,"X031914574","DH418 .B45 Pt.1","ALDERMAN","Patria belgica : encyclopÈdie nationale, ou, exposÈ mÈthodique de toutes les connaissances relatives ‡ la Belgique ancienne et moderne, physique, sociale et intellectuelle /","Bemmel, EugËne van,",1873,"11/7/17","1/1/00",0,0,0,3,"2",TRUE,453,"0",0
+"466",1254209,"X001319459","DH492 .W3 C84 1984","ALDERMAN","Culture et politique.","",1984,"6/30/96","1/1/00",0,1,0,1,"2",TRUE,455,"0",0
+"467",59080,"X000867272","DH471 .R4 1984","ALDERMAN","L'Univers des Belges : valeurs anciennes et valeurs noiuvelles dans le annÈes 80 /","Rezsˆhazy, Rudolf.",1984,"6/28/96","1/1/00",1,1,0,1,"2",FALSE,456,"0",0
+"468",99286,"X001046971","DH492 .I8 S34 1984","ALDERMAN","Italiane in Belgio : le emigrate raccontano /","Schiavo, Myrthia.",1984,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,456,"0",0
+"469",46020,"X001025145","DH566 .E96 1984","ALDERMAN","…volution constitutionnelle en Belgique et relations internationales : hommage ‡ Paul De Visscher.","",1984,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,456,"0",0
+"470",89080,"X001043089","DH671 .G47 1984","ALDERMAN","Le pharaon des Belges, LÈopold II /","GÈrard, Jo.",1984,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,456,"0",0
+"471",1670556,"X001732274","DH811 .N2 N36 1988","ALDERMAN","Namur : le site, les hommes, de l'Èpoque romaine au XVIIIe siËcle.","",1988,"6/30/96","5/4/99",0,1,0,1,"2",FALSE,457,"0",0
+"472",1773491,"X001859751","DH141 .B82 1990","ALDERMAN","Siedlungsnamen zwischen Sp‰tantike und fr¸hem Mittelalter : die -(i)acum-Namen der rˆmischen Provinz Belgica Prima /","Buchm¸ller-Pfaff, Monika.",1990,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,458,"0",0
+"473",1737351,"X001957275","DH186.5 .S42 1990","ALDERMAN","Les privilËges, berceau de la libertÈ : la rÈvolte des Pays- Bas : aux sources de la pensÈe politique moderne (1566-1619) /","Secretan, Catherine.",1990,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,458,"0",0
+"474",1737275,"X001971674","DH671 .D84 1990","ALDERMAN","LÈopold II /","Dumont, Georges Henri.",1990,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,458,"0",0
+"475",463201,"X000300642","DH616 .D38 1974","ALDERMAN","Joseph II : an imperial reformer for the Austrian Netherlands /","Davis, Walter W.",1974,"6/29/96","5/1/01",0,1,0,1,"2",FALSE,459,"0",0
+"476",2458284,"X002680745","DH186 .L38 1989","ALDERMAN","The time of troubles in the Low Countries : the chronicles and memoirs of Pasquier de le Barre of Tournai, 1559-1567 /","Le Barre, Pasquier de,",1989,"7/1/96","1/1/00",0,0,0,1,"2",FALSE,461,"0",0
+"477",1675530,"X001605159","DH645 .D54 1989","ALDERMAN","Die Belgier, ihre Kˆnige, und die Deutschen : Geschichte zweier Nachbarn seit 1830 /","Diedrich, Karlheinz,",1989,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,462,"0",0
+"478",949628,"X001533187","DH186.5 .M7 1913 v.2","ALDERMAN","The rise of the Dutch republic.","Motley, John Lothrop,",1913,"6/29/96","2/17/09",0,2,0,1,"2",TRUE,463,"0",0
+"479",31416,"X000630246","DH689 .E33 A36 1983","ALDERMAN","Prelude to diplomacy : my early years, 1893-1919 /","Eeman, Harold,",1983,"6/28/96","11/23/97",0,3,0,1,"2",FALSE,464,"0",0
+"480",539671,"X000748822","DH191 .W72 1618a","ALDERMAN","The actions of the Lowe Countries.","Williams, Roger,",1970,"6/29/96","9/26/00",0,2,0,1,"2",FALSE,465,"0",0
+"481",1663669,"X002305211","DH689 .D4 M34 1988","ALDERMAN","Degrelle, un tigre de papier /","Magain, Marc.",1988,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,466,"0",0
+"482",1379160,"X001619506","DH801 .L7 W55 1988","ALDERMAN","Weist¸mer und Rechtstexte im Bereich des Herzogtums Limburg : Quellen zur Regionalgeschichte 14.-18. Jahrhundert /","Wintgens, Leo.",1988,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,466,"0",0
+"483",1663748,"X001644512","DH918.5 .D45 A3 1988","ALDERMAN","Luxemburg unter dem Hakenkreuz : Erinnerungen an die Kriegsjahre 1940-1944 /","Delcourt, Victor,",1988,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,466,"0",0
+"484",7277377,"X031888398","DH811 .E6 G5","ALDERMAN","Enghien et ses environs /","Girardin, Emile de,",1870,"11/2/17","1/1/00",0,0,0,1,"2",TRUE,467,"0",0
+"485",1729276,"X001670471","DH566 .C66 1987","ALDERMAN","Buitenlandse zaken /","Coolsaet, R.",1987,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,468,"0",0
+"486",1767806,"X001840982","DH683 .M67 1987","ALDERMAN","Fascismo e antifascismo nell'emigrazione italiana in Belgio, 1922-1940 /","Morelli, Anne.",1987,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,468,"0",0
+"487",1743617,"X001826855","DH687 .C53 1987","ALDERMAN","LÈopold III, sa famille et son peuple sous l'occupation /","Cleeremans, Jean.",1987,"6/30/96","1/1/00",2,0,0,1,"2",FALSE,468,"0",0
+"488",1739299,"X001777412","DH690 .S75 1987","ALDERMAN","Nos annÈes cinquante : une histoire (belge) de l'aprËs-guerre /","StÈphany, Pierre.",1987,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,468,"0",0
+"489",701676,"X001184482","DH405 .W95 1987","ALDERMAN","Miscellanea archivistica et historica /","Wyffels, Carlos.",1987,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,469,"0",0
+"490",2631230,"X006038593","DH641 .R39 1996","ALDERMAN","La mÈmoire de la RÈvolution franÁaise : entre LiËge et Wallonie /","Raxhon, Philippe.",1996,"11/20/96","5/22/97",0,1,0,1,"2",FALSE,470,"0",0
+"491",568651,"X000458886","DH677 .L35","ALDERMAN","La sÈcuritÈ de la Belgique; contribution ‡ l'histoire de la pÈriode 1940-1950.","Langenhove, Fernand van,",1971,"6/29/96","4/24/01",0,1,0,1,"2",FALSE,472,"0",0
+"492",1761681,"X001846875","DH415 .H47 1986","ALDERMAN","Les noms des communes de Wallonie /","Herbillon, Jules.",1986,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,473,"0",0
+"493",1303112,"X001397234","DH801 .F49 B48 1986","ALDERMAN","Een Bewogen portret : cultuur en politiek in Vlaanderen : 10 jaar Kritak 1976-1986.","",1986,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,473,"0",0
+"494",712164,"X001079704","DH598 .M48 B75 1986 v.1","ALDERMAN","Brieven en andere bescheiden betreffende Daniel van der Meulen, 1584-1600 /","",1986,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,474,"0",0
+"495",712128,"X001205467","DH671 .D85 1986","ALDERMAN","La vie quotidienne en Belgique sous LÈopold II (1865-1909) /","Dumont, Georges Henri.",1986,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,474,"0",0
+"496",780302,"X001276807","DH685 .E5 D85 1986","ALDERMAN","Elisabeth de Belgique, ou, Les dÈfis d'une reine /","Dumont, Georges Henri.",1986,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,474,"0",0
+"497",238652,"X001086080","DH195 .U54","ALDERMAN","De Unie van Utrecht : wording en werking van een verbond en een verbondsacte /","",1979,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,476,"0",0
+"498",198709,"X000843495","DH681 .W48","ALDERMAN","Albert Ier [i.e. premier], roi des Belges : un portrait politique et humain /","Willequet, Jacques.",1979,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,476,"0",0
+"499",949986,"X002178749","DH811 .L5 C64 1968","ALDERMAN","LiËge et Bourgogne; actes du Colloque tenu ‡ LiËge les 28, 29, et 30 octobre 1968.","Colloque LiËge et Bourgogne au XVe siËcle",1972,"6/29/96","1/1/00",0,2,0,1,"2",TRUE,477,"0",0
+"500",1730248,"X001808486","DH580 .D44 1985","ALDERMAN","L'histoire-polyptyque de l'Abbaye de Marchiennes (1116-1121) : Ètude critique et Èdition /","Delmaire, Bernard.",1985,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,478,"0",0
+"501",1330391,"X001504968","DH671 .F64 1985","ALDERMAN","""BelgiÎ behoeft een kolonie"" : de ontstaansgeschiedenis van Kongo Vrijstaat /","Foeken, D.",1985,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,478,"0",0
+"502",1330245,"X001397289","DH685 .F73 R35 1985","ALDERMAN","Emile Francqui, ou, L'intelligence crÈatrice 1863-1935 /","Ranieri, Liane.",1985,"6/30/96","1/1/00",0,0,0,1,"2",TRUE,478,"0",0
+"503",1251864,"X001311199","DH914 .H82 1985","ALDERMAN","La noblesse luxembourgeoise au XVIIIe siËcle /","Hudemann-Simon, Calixte.",1985,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,478,"0",0
+"504",792658,"X000903316","DH107 .B48 1985","ALDERMAN","Bestuurders en geleerden : opstellen over onderwerpen uit de Nederlandse geschiedenis van de zestiende, zeventiende en achttiende eeuw : aangeboden aan Prog. Dr. J.J. Woltjer bij zijn afscheid als hoogleraar van de Rijksuniversiteit te Leiden /","",1985,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,479,"0",0
+"505",708296,"X001188770","DH188 .M35 A4 1985","ALDERMAN","De onuitgegeven brefwisseling van Marnix van Sint-Aldegonde = The unpublished correspondence of Marnix of Saint Aldegonde /","Marnix van St. Aldegonde, Philips van,",1985,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,479,"0",0
+"506",771792,"X001293440","DH188 .M35 V47 1985","ALDERMAN","Philips van Marnix, Heer van Sint Aldegonde /","Verhoef, C. E. H. J.",1985,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,479,"0",0
+"507",104604,"X001053410","DH193 .M66","ALDERMAN","Juan de Austria : un hÈroe al servicio de Felipe II /","Montero Hernando, Manuel.",1985,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,480,"0",0
+"508",7670523,"X031867717","DH186.5 .M8 1867b v.1","ALDERMAN","History of the United Netherlands : from the death of William the Silent to the twelve year's truce--1609 /","Motley, John Lothrop,",1867,"11/10/17","1/1/00",0,0,0,4,"2",TRUE,481,"0",0
+"509",656627,"X000629481","DH95 .L34 1983","ALDERMAN","Geschichte der Niederlande : Politik, Verfassung, Wirtschaft /","Lademacher, Horst.",1983,"6/29/96","5/20/97",0,3,0,1,"2",FALSE,482,"0",0
+"510",2523658,"X006057193","DH801 .F462 D38 1995","ALDERMAN","De processen in beroep uit Vlaanderen bij het Parlement van Parijs (1320-1521) : een rechtshistorisch onderzoek naar de wording van staat en souvereiniteit in de Bourgondisch-Habsburgse periode /","Dauchy, Serge.",1995,"7/1/96","6/25/97",0,1,0,1,"2",TRUE,483,"0",0
+"511",688843,"X001202955","DH801 .B76 A96 1984","ALDERMAN","Brabant tijdens de regering van hertog Jan III (1312-1356) : de grote politieke krisissen /","Avonds, P.",1984,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,484,"0",0
+"512",71126,"X001022854","DH188 .W7 A8 1984","ALDERMAN","Guillaume d'Orange, dit le Taciturne, 1533-1584 /","Avermaete, Roger,",1984,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,485,"0",0
+"513",75666,"X001081569","DH188 .W7 W553 1984","ALDERMAN","Willem van Oranje in de historie, 1854-1984 : vier eeuwen beeldvorming en geschiedschrijving /","",1984,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,485,"0",0
+"514",73873,"X001082104","DH687 .T43 1984","ALDERMAN","1950, ontknoping van de koningskwestie /","Theunissen, Paul,",1984,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,485,"0",0
+"515",75943,"X000971983","DH801 .B77 C46 1984","ALDERMAN","De Brabantsche saecke : het vergeefse streven naar een gewestelijke status voor Staats-Brabant, 1585-1675 /","Christ, M. P. (Marinus Paul),",1984,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,485,"0",0
+"516",79717,"X000978265","DH801 .W25 G76 1984","ALDERMAN","De Gaulle, ""Vous avez dit Belgique?"" ; suivi de, ""Petit discours insolent sur nous-mÍmes"" /","Groulart, Claude de,",1984,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,485,"0",0
+"517",99485,"X001047627","DH807.5 .Q45 1984","ALDERMAN","Quels devenirs pour Bruxelles et sa rÈgion? : actes du colloque /","",1984,"6/28/96","1/1/00",1,0,0,1,"2",FALSE,485,"0",0
+"518",679810,"X001221553","DH186.5 .R46 1984","ALDERMAN","Republiek tussen vorsten : Oranje, opstand, vrijheid, geloof /","",1984,"6/29/96","2/12/97",0,3,0,1,"2",FALSE,486,"0",0
+"519",2413070,"X006026982","DH191.7 .G47 1995","ALDERMAN","La Belgique, martyre du duc d'Albe /","GÈrard, Jo.",1995,"7/1/96","5/22/97",0,1,0,1,"2",FALSE,487,"0",0
+"520",279446,"X000009408","DH107 .W56 V.2","ALDERMAN","Winkler Prins geschiedenis der Nederlanden /","",1977,"6/28/96","1/1/00",1,2,0,3,"2",TRUE,488,"0",0
+"521",262426,"X000055555","DH185 .S6 v.4,21","ALDERMAN","MÈmoires de Pasquier de le Barre et de Nicolas Soldoyer pour servir ‡ l'histoire de Tournai, 1565-1570 /","Le Barre, Pasquier de,",1977,"6/28/96","1/1/00",0,1,0,1,"2",TRUE,488,"0",0
+"522",333264,"X000044850","DH521 .D78","ALDERMAN","Histoire de la Belgique /","Dumont, Georges Henri.",1977,"6/28/96","1/1/00",2,1,0,1,"2",FALSE,488,"0",0
+"523",301203,"X000171326","DH801 .N25 R68","ALDERMAN","A travers l'histoire de Namur, du Namurois et de la Wallonie : recueil d'articles /","Rousseau, FÈlix,",1977,"6/28/96","1/1/00",1,1,0,1,"2",TRUE,488,"0",0
+"524",1789637,"X002046298","DH95 .G45 1987","ALDERMAN","Genoechlicke ende lustige historiÎn : laatmiddeleeuwse geschiedschrijving in Nederland /","",1987,"6/30/96","7/2/97",0,2,0,1,"2",FALSE,489,"0",0
+"525",1330316,"X000628185","DH645 .W58 1983","ALDERMAN","Politieke geschiedenis van BelgiÎ sinds 1830 : spanningen in een burgerlijke democratie /","Witte, Els.",1983,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,490,"0",0
+"526",679343,"X001203129","DH671 .L8 1983 V.1","ALDERMAN","Leopold II et le cabinet Frere-Orban (1878-1884) : correspondance entre le roi et ses ministres /","Lubelski-Bernard, Nadine.",1983,"6/29/96","1/1/00",0,0,0,2,"2",TRUE,491,"0",0
+"527",12527,"X000975169","DH188 .G4 B67 1983","ALDERMAN","Balthazar Gerards, moordenaar en martelaar /","Bosma, Nanne.",1983,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,492,"0",0
+"528",93425,"X000987714","DH515 .B37 1983","ALDERMAN","Nos premiers ministres de Leopold Ier ‡ Albert Ier, 1831-1934 /","Bartelous, Jean.",1983,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,492,"0",0
+"529",38276,"X000988699","DH618 .G47 1983","ALDERMAN","La prodigieuse rÈvolution belge de 1789 /","GÈrard, Jo.",1983,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,492,"0",0
+"530",98123,"X001085101","DH681 .B7 1983","ALDERMAN","Albert Ier, le roi sans terre /","Bronne, Carlo,",1983,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,492,"0",0
+"531",45592,"X000987923","DH687 .G395 1983","ALDERMAN","Chronique de la RÈgence : 1944-1950 /","GÈrard, Jo.",1983,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,492,"0",0
+"532",63008,"X000965477","DH689 .E9 D87 1983","ALDERMAN","Jef van Extergem en de Vlaamse beweging /","Dutoit, Christian,",1983,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,492,"0",0
+"533",12212,"X000956883","DH801 .F48 H38 1983","ALDERMAN","Onmacht der verdeelden : katolieken in Vlaanderen tussen demokratie en fascisme, 1929-1940 /","Haver, Griet van.",1983,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,492,"0",0
+"534",104141,"X000789998","DH910 .D644 1983","ALDERMAN","Vauban ‡ Luxembourg /","Dollar, Jacques.",1983,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,492,"0",0
+"535",417366,"X000700964","DH185 .M67 1976","ALDERMAN","The expedition in Holland 1572-1574 : the revolt of the Netherlands : the early struggle for Independence : from the manuscript /","Morgan, Walter.",1976,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,493,"0",0
+"536",328454,"X000311740","DH471 .B77 1913","ALDERMAN","Belgium /","Boulger, Demetrius Charles,",1913,"6/28/96","2/17/09",0,1,0,1,"2",FALSE,494,"0",0
+"537",1352195,"X001544011","DH491 .J65 1982","ALDERMAN","Jongeren in de Vlaamse Beweging : 15 jaar heelnederlands jongerentijdschrift Nieuw Vlaanderen : onderwerpen- en auteursrepertorium 1967-1982 /","",1982,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,495,"0",0
+"538",1331519,"X001559119","DH681 .S33 1982","ALDERMAN","Koning Albert, Charles de Broqueville en de Vlaamse beweging tijdens de Eerste Wereldoorlog /","Schepens, Luc,",1982,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,495,"0",0
+"539",1751914,"X001828423","DH801 .F43 G44 1982","ALDERMAN","La Flandre est un songe /","Ghelderode, Michel de,",1982,"6/30/96","1/1/00",1,0,0,1,"2",TRUE,495,"0",0
+"540",672127,"X000761869","DH180 .D85 1982","ALDERMAN","Marie de Bourgogne /","Dumont, Georges Henri.",1982,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,496,"0",0
+"541",694135,"X001229585","DH801 .L93 M57 1982 fasc.4","ALDERMAN","Le DuchÈ de Luxembourg ‡ la fin de l'Ancien RÈgime : atlas de gÈographie historique /","",1982,"6/29/96","1/1/00",0,0,0,2,"2",TRUE,496,"0",0
+"542",53168,"X000937111","DH571 .V224 1982","ALDERMAN","Introduction ‡ l'histoire des institutions de la Belgique au Moyen Age (jusqu'au traitÈ de Verdun, 843) /","Vanderkindere, LÈon,",1982,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,497,"0",0
+"543",297277,"X000691369","DH811 .T76 H63 1906","ALDERMAN","Tournai et le Tournaisis au XVIe siËcle, au point de vue politique et social,","Hocquet, Adolphe,",1906,"6/28/96","2/18/09",0,2,0,1,"2",FALSE,498,"0",0
+"544",485031,"X000288790","DH689 .S6 W54","ALDERMAN","Paul-Henri Spaak : un homme, des combats /","Willequet, Jacques.",1975,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,499,"0",0
+"545",383496,"X000446946","DH514 .D85 1975","ALDERMAN","La question royale : crise et dÈnouement, juin, juillet, ao˚t 1950 /","Duvieusart, Jean.",1975,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,500,"0",0
+"546",389953,"X000051823","DH681 .G43","ALDERMAN","Albert 1er [i.e. premier, et la Belgique de 1900 ‡ 1930] /","GÈrard, Jo.",1975,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,500,"0",0
+"547",1227426,"X001467185","DH92 .T9 N34 1981","ALDERMAN","Aysel en anderen : turkse vrouwen in Nederland /","Nalbanto?lu, Papatya.",1981,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,501,"0",0
+"548",661304,"X000617052","DH107 .H57 1981","ALDERMAN","Historical research in the Low Countries, 1970-1975 : a critical survey /","",1981,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,502,"0",0
+"549",669205,"X000604375","DH651 .L43 1981","ALDERMAN","BelgiÎ 1830-1831 [i.e. achtienhonderddertig...] : ontstaan van een onafhankelijk parlementair en grondwettelijk koninkrijk /","Leclercq, H.",1981,"6/29/96","1/1/00",1,0,0,2,"2",FALSE,502,"0",0
+"550",648169,"X000947468","DH683 .D62 1981","ALDERMAN","Documenten over de katholieke partijorganisatie in Belgie : documents relatifs ‡ l'organisation du Parti catholique belge (1920-1922, 1931-1933) /","",1981,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,502,"0",0
+"551",127102,"X000322626","DH101 .V64","ALDERMAN","Nijhoffs geschiedenislexicon Nederland en BelgiÎ /","Volmuller, H. W. J.",1981,"6/28/96","1/1/00",2,0,0,1,"2",FALSE,503,"0",0
+"552",143564,"X000600682","DH186.5 .V43 1981","ALDERMAN","De katholieke Nederlandse geschiedschrijving in de 16e en 17e eeuw over de opstand /","Vermaseren, B. A.",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,503,"0",0
+"553",20090,"X000882767","DH492 .W3 H3 1981","ALDERMAN","Historiographie et politique : essai sur l'histoire de Belgique et la Wallonie /","Hasquin, HervÈ,",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,503,"0",0
+"554",109533,"X001076567","DH492 .W3 M37 1981","ALDERMAN","Archives REX et mouvements wallons de collaboration /","Masson, H.",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,503,"0",0
+"555",31625,"X000765082","DH645 .F68 1981","ALDERMAN","RÈpertoire historique des communes belges de 1831 ‡ nos jours /","Foulon, Michel.",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,503,"0",0
+"556",19833,"X000885319","DH685 .B48 B48 1981","ALDERMAN","Un diplomate belge au service de son pays : le baron Beyens, ministre des affaires ÈtrangËres, 1915-1917 /","Beyens, EugËne,",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,503,"0",0
+"557",184708,"X000404480","DH689 .E33 A33 1981","ALDERMAN","Clouds over the sun : memories of a diplomat, 1942-1958 /","Eeman, Harold,",1981,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,503,"0",0
+"558",142367,"X000762299","DH801 .B762 D47","ALDERMAN","Les campagnes du Roman Pays de Brabant au moyen ‚ge : la terre de Jauche aux XIVe et XVe s. /","Despy, Georges.",1981,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,503,"0",0
+"559",46875,"X000863921","DH801 .S73 B34 1981 v.1","ALDERMAN","Etude sur l'abbaye et principautÈ de Stavelot-MalmÈdy /","Baix, FranÁois,",1981,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,503,"0",0
+"560",98742,"X001115427","DH188 .R63 S48 1985","ALDERMAN","De stenen man : Caspar de Robles, stadhouder van Friesland, Groningen en Ommelanden van 1572-1576 /","Sevenster, J.",1985,"6/28/96","6/16/98",0,1,0,1,"2",FALSE,504,"0",0
+"561",359025,"X000050028","DH492 .W3 F65","ALDERMAN","La question wallonne /","Foulon, Franz.",1918,"6/28/96","2/17/09",0,0,0,1,"2",TRUE,505,"0",0
+"562",115396,"X000866911","DH188 .G8 A45 1980","ALDERMAN","Argumenti theologici, iuridici, politici /","Grotius, Hugo,",1980,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,507,"0",0
+"563",171792,"X000449797","DH188 .O4 T47","ALDERMAN","Johan van Oldenbarnevelt /","Tex, Jan den.",1980,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,507,"0",0
+"564",162673,"X031876113","DH403 .M4 no.188","ALDERMAN","The Royal Ballet of Flanders, 1970-1980 /","Barbier, Rina.",1980,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,507,"0",0
+"565",15179,"X000744307","DH811 .L5 K87 1980","ALDERMAN","La citÈ de LiËge au moyen-‚ge / par Godefroid Kurth.","Kurth, Godefroid,",1980,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,507,"0",0
+"566",184595,"X000392159","DH811 .N2 J33","ALDERMAN","Namur en 1784 : paroisses, rues, immeubles, propriÈtaires et essai de constitution d'un plan parcellaire /","Jacques, FranÁois.",1980,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,507,"0",0
+"567",450851,"X000761572","DH801 .F443 V3 1973","ALDERMAN","Le siËcle des Artevelde /","Vanderkindere, LÈon,",1973,"6/29/96","1/1/00",1,1,0,1,"2",TRUE,508,"0",0
+"568",375139,"X000700982","DH403 .M4 no.160","ALDERMAN","The Parliament and Great Council of Malines (1473-1796), an institution of a European dimension.","Maes, Louis ThÈo.",1973,"6/28/96","1/1/00",1,1,0,1,"2",TRUE,509,"0",0
+"569",401603,"X000700978","DH403 .L5 A3 1885","ALDERMAN","Liste chronologique des Èdits et ordonnances des Pays-bas, rËgnes de Philippe IV (1621-1665) et de Charles II (1665-1700)","Netherlands (Southern provinces, 1581-1793).",1910,"6/28/96","2/17/09",2,1,0,1,"2",FALSE,510,"0",0
+"570",1331195,"X001431586","DH141 .H47 1979","ALDERMAN","Het Gronings Zutphense Maerlant handschrift : codicologische studies rond handschrift 405 van de Universiteitsbibliotheek te Groningen /","Hermans, Jos. M. M.",1979,"6/30/96","1/1/00",1,0,0,1,"2",FALSE,511,"0",0
+"571",721325,"X001209296","DH491 .V55","ALDERMAN","Vlaamse Beweging en Europa : verslag van het tweedaags colloquium over Vlaanderen in Europa /","",1979,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,512,"0",0
+"572",254471,"X031867887","DH195 .P6","ALDERMAN","Van Unie tot Rompunie : een kanttekening bij het vierde eeuwgetij van de Unie van Utrecht /","Poelhekke, J. J. (Jan Joseph),",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,513,"0",0
+"573",159153,"X031876114","DH403 .M4 no.186","ALDERMAN","Music in Belgium /","Hen, Ferdinand J. de.",1979,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,513,"0",0
+"574",165814,"X000837833","DH574 .W36","ALDERMAN","La Belgique au temps de Rome : des tribus celtiques au royaume franc /","Wankenne, AndrÈ.",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,513,"0",0
+"575",177829,"X000492040","DH645 .M64","ALDERMAN","La fonction royale en Belgique /","Molitor, AndrÈ.",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,513,"0",0
+"576",217105,"X000382275","DH687 .B73","ALDERMAN","Il problema della neutralit‡ nella politica estera belga (1936-1937) /","Brescianino, Clementina.",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,513,"0",0
+"577",184481,"X000465601","DH807 .G82","ALDERMAN","Bruxelles au XIXe siËcle : berceau d'un flamingantisme dÈmocratique, 1840-1873 /","Gubin, Eliane.",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,513,"0",0
+"578",257257,"X000861730","DH811 .B724 B7","ALDERMAN","La nÈcropole mÈrovingienne ""en village"" ‡ Braives /","Brulet, Raymond.",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,513,"0",0
+"579",216868,"X000222094","DH811 .L5 W47 1979","ALDERMAN","Der L¸tticher Raum in fr¸hkarolingischer Zeit : Unters. zur Geschichte e. karoling. Stammlandschaft /","Werner, Matthias.",1979,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,513,"0",0
+"580",3912801,"X031870270","DH186.5 .M8 1861 v.1","ALDERMAN","History of the United Netherlands: from the death of William the Silent to the twelve years' truce--1609.","Motley, John Lothrop,",1861,"11/7/17","1/1/00",4,0,0,7,"2 10",TRUE,514,"0",0
+"581",7277774,"X031869620","DH185 .F32 t.4","ALDERMAN","Correspondance de philippe II :  sur les affaires des pays-bas...","Philippe II",1861,"11/3/17","1/1/00",0,0,0,2,"2",TRUE,515,"0",0
+"582",447235,"X000005804","DH677 .L34","ALDERMAN","La Belgique et ses garants. L'ÈtÈ 1940.","Langenhove, Fernand van,",1972,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,516,"0",0
+"583",301195,"X000015512","DH137 .D45","ALDERMAN","De historische twee-eenheid der Nederlanden : bestendige kloof in toenadering /","Demey, Jules,",1978,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,517,"0",0
+"584",210693,"X000499417","DH491 .V47 1978","ALDERMAN","Der Nationalismus in Flandern : Geschichte u. Idee /","Vinks, Jos,",1978,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,517,"0",0
+"585",949906,"X031914585","DH403 .R4 P33 Ser.3 1891 t.7","ALDERMAN","Recueil des ordonnances des Pays-Bas autrichiens.","",1860,"11/7/17","1/1/00",0,0,0,16,"2",TRUE,518,"0",0
+"586",7277276,"X031888260","DH186.5 .M8 1867a v.1","ALDERMAN","History of the United Netherlands : from the death of William the Silent to the Synod of Dort with a full view of the English-Dutch struggle against Spain, and of the origin and destruction of the Spanish Armada /","Motley, John Lothrop,",1860,"11/2/17","1/1/00",0,0,0,4,"2",TRUE,520,"0",0
+"587",362204,"X000307422","DH403 .M4 spec. no. 1977","ALDERMAN","The future of transnational associations from the standpoint of a new world order : a general review symposium convened by the U. I. A.","",1977,"6/28/96","3/26/97",0,3,0,1,"2",TRUE,521,"0",0
+"588",262440,"262440-1001","DH185 .S6 v.10-11","ALDERMAN","MÈmoires de Pontus Payen /","Payen, Pontus,",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"589",262439,"X031869705","DH185 .S6 v.14,18","ALDERMAN","ProcËs de FranÁois Anneessens : doyen du corps des mÈtiers de Bruxelles /","Anneessens, FranÁois,",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"590",262445,"262445-1001","DH185 .S6 v.19","ALDERMAN","Histoire des troubles advenues ‡ Valenciennes ‡ cause des hÈrÈsies, 1562-1579 : tirÈe de plusieurs Ècrits, en 1699 /","",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"591",262421,"262421-1001","DH185 .S6 v.2","ALDERMAN","MÈmoires de Viglius et d'Hopperus sur le commencement des troubles des Pays-Bas /","Aytta, Wigle van,",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"592",262436,"262436-1001","DH185 .S6 v.22","ALDERMAN","MÈmoires sur les troubles de Gand, 1577-1579 /","Halewijn, FranÁois,",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"593",262449,"262449-1001","DH185 .S6 v.25","ALDERMAN","Bergues sur le Soom : assiÈgÈe le 18 de juillet 1622 & dÈsassiÈgÈe le 3 d'octobre ensuivant /","Rycke, Lambert de,",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"594",262459,"262459-1001","DH185 .S6 v.33","ALDERMAN","Henri IV et la princesse de CondÈ, 1609-1610 : prÈcis historique, suivi de la correspondance diplomatique de Pecquius et d'autres documents inÈdits /","Henrard, Paul Jean Joseph,",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"595",348100,"X002263123","DH185 .S6 v.34","ALDERMAN","Histoire de l'archiduc Albert : gouverneur gÈnÈral puis prince souverain de la Belgique /","BruslÈ de Montpleinchamp, Jean-Chrysostome,",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"596",349776,"X031868073","DH185 .S6 v.37,39","ALDERMAN","Chronique des ÈvËnements les plus remarquables arrivÈs ‡ Bruxelles de 1780-1827 /","",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"597",262468,"X031868041","DH185 .S6 v.43","ALDERMAN","Histoire des troubles religieux de Valenciennes, 1560-1567 /","Paillard, Charles,",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"598",262424,"X031869704","DH185 .S6 v.5","ALDERMAN","MÈmoires de Jacques de Wesenbeke /","Wesenbeeck, Jacob van,",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"599",362003,"X031876116","DH403 .M4 no.175","ALDERMAN","Fiftieth anniversary of the Biermans-LapÙtre Foundation in Paris.","",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"600",303247,"X031876115","DH403 .M4 no.176","ALDERMAN","Programme of the Belgian presidency in the Council of the European Communities : general policy and budget.","",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"601",259712,"X001063359","DH491 .W77 V.1","ALDERMAN","Honderd jaar Vlaamse beweging /","Wils, Lode.",1977,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,524,"0",0
+"602",289073,"X000068787","DH659 .B37 B64","ALDERMAN","Le procËs de la rÈvolution belge : Adolphe Bartels, 1802-1862 /","Boland, AndrÈ,",1977,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,524,"0",0
+"603",224808,"X000038859","DH687 .A83 1977","ALDERMAN","LÈopold III : ou, Le choix impossible : fÈvrier 1934-juillet 1940 /","Aron, Robert,",1977,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,524,"0",0
+"604",276428,"X000064842","DH801 .F465 M6","ALDERMAN","Die Entwicklung des fl‰mischen Eigenst‰ndigkeitsgef¸hls bis zum Beginn des 13. Jahrhunderts /","Mohr, Walter,",1977,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,524,"0",0
+"605",1351440,"X001544194","DH14 .K644 1976","ALDERMAN","Overzicht van publikaties uitgegeven door het Koninklijk Instituut voor Taal-, Land-en Volkenkunde, 1851-1976 /","Koninklijk Instituut voor Taal-, Land- en Volkenkunde (Netherlands)",1976,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,526,"0",0
+"606",1616618,"X031858727","DH70 .R9 P85","ALDERMAN","Sovershenstvovanie khozrascheta--put? povyshenii?a ?konomichesko? effektivnosti proizvodstva /","Pupola, Li?udmila Alekseevna.",1976,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,526,"0",0
+"607",422431,"X000700989","DH405 .D49 1976","ALDERMAN","Hommes et pouvoirs : les principales Ètudes de Jan Dhondt sur l'histoire du 19e et du 20e siËcles = Machten en mensen : de belangrijkste studies van Jan Dhondt over de geschiedenis van de 19e en 20e eeuw.","Dhondt, Jan,",1976,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,527,"0",0
+"608",437839,"X000701012","DH687 .R37","ALDERMAN","Le 18e [i.e. dix-huitiËme] jour : la tragÈdie de LÈopold III, roi des Belges /","RÈmy,",1976,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,527,"0",0
+"609",434511,"X000701023","DH811 .O93 M64 1976","ALDERMAN","Toponymie van Overpelt : bekroond door de Koninklike Academie voor nederlandse taal-en letterkunde /","Molemans, J.",1976,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,527,"0",0
+"610",382912,"X031876117","DH403 .M4 no.171","ALDERMAN","European union : report /","Tindemans, LÈo.",1976,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,528,"0",0
+"611",309928,"X000315131","DH403 .M4 no.173","ALDERMAN","Belgium's foreign policy 1973-1974-1975 /","Elslande, Renaat van.",1976,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,528,"0",0
+"612",394463,"X031876112","DH403 .M4 spec. no. 1976","ALDERMAN","Belgians in the United States.","",1976,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,528,"0",0
+"613",325951,"X000388244","DH811 .L5 B6 1976","ALDERMAN","L'histoire de LiËge : la rÈvolution de 1830, la vie sociale ‡ LiËge, 1830-1914 :","Boverie, DieudonnÈ.",1976,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,528,"0",0
+"614",187318,"X001850835","DH801 .F462 B55","ALDERMAN","De volksvertegenwoordiging in Vlaanderen in de overgang van middeleeuwen naar nieuwe tijden (1384-1506) /","Blockmans, Wim,",1978,"6/28/96","10/9/97",0,2,0,1,"2",FALSE,529,"0",0
+"615",439078,"X000073833","DH185 .D637","ALDERMAN","Documents concernant le recrutement de la haute magistrature dans les Pays-Bas sous le rÈgime espagnol, 1555-1700 /","",1975,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,530,"0",0
+"616",507816,"X000748819","DH186.5 .P63","ALDERMAN","Het verraad van de pistoletten? /","Poelhekke, J. J. (Jan Joseph),",1975,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,530,"0",0
+"617",436211,"X000046137","DH641 .B76 1975","ALDERMAN","L'amalgame /","Bronne, Carlo,",1975,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,530,"0",0
+"618",370747,"X000050510","DH186.5 .A4","ALDERMAN","De Hollanders komen ons vermoorden : de scheiding tussen Noord- en Zuid-Nederland, 1585-1648 /","Alberts, A. (Albert)",1975,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,531,"0",0
+"619",340297,"X000055070","DH186.5 .P93 1975","ALDERMAN","De Tachtigjarige Oorlog /","Presser, J. (Jacob),",1975,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,531,"0",0
+"620",391915,"X000701003","DH578 .G33","ALDERMAN","…tudes sur les principautÈs lotharingiennes /","Genicot, LÈopold.",1975,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,531,"0",0
+"621",267647,"X000066673","DH811 .B27 D78","ALDERMAN","Beaumont en Hainaut : un chapÓtre inÈdit de son histoire : la succession d'Espagne et le rËgne de Max-Emmanuel, Èlecteur de BaviËre, 1701-1714 /","Dumont, Francis.",1975,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,531,"0",0
+"622",386239,"X000700959","DH97 .G84 T68","ALDERMAN","Messire Lodovico Guicciardini gentilhomme florentine /","Touwaide, R. H.",1975,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,531,"0",0
+"623",394598,"X001100589","DH523 .D46 1968","ALDERMAN","Histoire de la Belgique ...","Dhondt, Jan,",1968,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,532,"0",0
+"624",1738062,"X001811668","DH905 .G76 1982","ALDERMAN","Luxemburg : Land und volk in seinen jetzigen politischen und sozialen Verh‰ltnissen ; Le Grand-DuchÈ de Luxembourg : illustrÈ PrÈcis historique et descriptif /","Grˆvig, Nicolas.",1982,"6/30/96","11/17/97",0,1,0,1,"2",FALSE,533,"0",0
+"625",483638,"X000282073","DH506 .P5 L96","ALDERMAN","Henri Pirenne : a biographical and intellectual study /","Lyon, Bryce,",1974,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,534,"0",0
+"626",466949,"X000458908","DH687 .W33","ALDERMAN","Belgien in der deutschen Politik w‰hrend des Zweiten Weltkrieges /","Wagner, Wilfried,",1974,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,534,"0",0
+"627",309656,"X000016192","DH811 .L5 R824","ALDERMAN","Raoul de Z‰hringen, ÈvÍque de LiËge, 1167-1191 : contribution ‡ l'histoire de la politique impÈriale sur la Meuse moyenne /","Kupper, Jean-Louis.",1974,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,535,"0",0
+"628",432540,"X000748841","DH631 .C3 1967","ALDERMAN","La Vie quotidienne en Belgique sous le rÈgime franÁais, 1792-1815.","Cathelin, Jean.",1967,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,536,"0",0
+"629",623530,"X000392917","DH492 .W3 G4","ALDERMAN","Histoire de la Wallonie,","Genicot, LÈopold.",1973,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,537,"0",0
+"630",384217,"X031895481","DH188 .W7 C39 1973","ALDERMAN","Guillaume le Taciturne, comte de Nassau, prince d'Orange /","Cazaux, Yves.",1973,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,538,"0",0
+"631",949905,"X031876136","DH403 .R4 L5 ser.2 v.1 1869","ALDERMAN","Recueil des ordonnances de la pricipautÈ de LiÈge ...","Commission royale pour la publication des anciennes lois et ordonnances de la Belgique",1855,"11/3/17","1/1/00",0,0,0,5,"2",TRUE,539,"0",0
+"632",622096,"X000958164","DH492.W3 B4 V.1","ALDERMAN","Le diffÈrend wallo-flamand.","Becquet, Charles.",1972,"6/29/96","1/1/00",0,0,0,2,"2",TRUE,540,"0",0
+"633",373500,"X000529803","DH902 .D62 v.1","ALDERMAN","Documents relatifs ‡ l'histoire du Luxembourg /","",1972,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,541,"0",0
+"634",52029,"X000937750","DH801 .L56 C5 1982","ALDERMAN","Chronique de l'Abbaye de St.-Hubert dite Cantatorium /","",1982,"6/28/96","7/29/97",0,1,0,1,"2",TRUE,542,"0",0
+"635",949927,"X000958630","DH566 .L3","ALDERMAN","Die belgische Neutralit‰t als Problem der europ‰ischen Politik.","Lademacher, Horst.",1971,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,544,"0",0
+"636",322836,"X031871455","DH403 .M4 no.142-143","ALDERMAN","Belgian tendencies within the new realism in painting /","Collard, Jacques,",1971,"6/28/96","1/1/00",0,0,0,1,"2",TRUE,545,"0",0
+"637",949919,"X001179718","DH491 .C6 1930","ALDERMAN","A history of the Flemish movement in Belgium;","Clough, Shepard B. (Shepard Bancroft),",1930,"6/29/96","12/11/03",0,2,0,1,"2",FALSE,546,"0",0
+"638",401586,"X001130062","DH403 .B42 v.3","ALDERMAN","Collection de documens inÈdits concernant l'histoire de la Belgique,","Archives gÈnÈrales du Royaume (Belgium)",1833,"6/28/96","5/20/10",2,22,0,3,"2",TRUE,547,"0",0
+"639",412865,"X000700985","DH403 .M4 no.170","ALDERMAN","A new move to launch the European monetary union? /","Grauwe, Paul de.",1975,"6/28/96","3/28/98",0,1,0,1,"2",TRUE,549,"0",0
+"640",2514062,"X006034954","DH131 .P69 1882a t.2","ALDERMAN","Histoire politique nationale : origines, dÈveloppements et transformations des institutions dans les anciens Pays-Bas /","Poullet, Edmond Ives Joseph Marie,",1882,"4/15/97","2/8/11",0,2,0,2,"2",TRUE,551,"0",0
+"641",367785,"X000288785","DH566 .L35 1969","ALDERMAN","La Belgique en quÍte de sÈcuritÈ.","Langenhove, Fernand van,",1969,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,552,"0",0
+"642",1306266,"X001598013","DH659 .R7 D5 1893 v.1","ALDERMAN","Charles Rogier (1800-1885) d'aprËs des documents inÈdits.","Discailles, Ernest Charles Joseph,",1893,"6/30/96","2/18/09",0,8,0,4,"2",TRUE,553,"0",0
+"643",301141,"X000075188","DH801 .B762 C46","ALDERMAN","Centenaire du sÈminaire d'histoire mÈdiÈvale de l'UniversitÈ libre de Bruxelles : 1876-1976.","",1977,"6/28/96","7/1/97",0,1,0,1,"2",TRUE,555,"0",0
+"644",123030,"X000318943","DH491 .S84","ALDERMAN","La formation de la frontiËre linguistique en Belgique ou de la lÈgitimitÈ de l'hypothËse historique.","Stengers, Jean.",1959,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,556,"0",0
+"645",373064,"X000054499","DH571 .S63","ALDERMAN","Beitr‰ge zur belgisch-neiderl‰ndischen Geschichte.","Sproemberg, Heinrich,",1959,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,556,"0",0
+"646",348035,"X000045376","DH645 .D45","ALDERMAN","Les Belges et le danger de guerre, 1910-1914.","Devleeshouwer, Robert,",1958,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,557,"0",0
+"647",577086,"X000298547","DH677 .M5 1951","ALDERMAN","Belgian foreign policy between two wars, 1919-1940.","Miller, Jane Kathryn.",1951,"6/29/96","1/1/00",1,2,0,1,"2 3",FALSE,558,"0",0
+"648",633936,"X031869721","DH186 .S44 1621a","ALDERMAN","Points concerning the state of Holland.","Scott, Thomas,",1973,"6/29/96","9/15/96",0,2,0,1,"2",FALSE,559,"0",0
+"649",179050,"X000492500","DH430 .S68","ALDERMAN","Sources de la gÈographie historique en Belgique : exposition, 26 avril - 31 mai 1979, ‡ l'occasion du colloque organisÈ par les Archives gÈnÈrales du Royaume et l'Association des archivistes et des bibliothÈcaires de Belgique, 25-27 avril 1979 /","",1979,"6/28/96","10/11/96",1,1,0,1,"2",FALSE,560,"0",0
+"650",554512,"X031876141","DH689 .S6 H8","ALDERMAN","Mr. Europe; a political biography of Paul Henri Spaak,","Huizinga, J. H. (Jakob Herman),",1961,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,564,"0",0
+"651",346704,"X000045309","DH657 .L4","ALDERMAN","L'union des catholiques et des libÈraux de 1839 ‡ 1847; Ètude sur les pouvoirs exÈcutif et lÈgislatif.","Lebas, Colette.",1960,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,566,"0",0
+"652",523264,"X031867718","DH187.5 .C3 1969","ALDERMAN","Philip of Spain and the Netherlands; an essay on moral judgments in history.","Cadoux, Cecil John,",1969,"6/29/96","9/15/96",0,2,0,1,"2",FALSE,567,"0",0
+"653",229855,"X001100590","DH523 .E5 1915","ALDERMAN","Belgium,","Ensor, R. C. K. (Robert Charles Kirkwood),",1915,"6/28/96","5/6/05",0,1,0,1,"2",FALSE,569,"0",0
+"654",644047,"X000965120","DH631 .L36 V.1","ALDERMAN","La domination franÁaise en Belgique : Directoire--Consulat--Empire 1795-1814 /","Lanzac de Laborie, L. de (LÈon),",1895,"6/29/96","2/18/09",0,0,0,2,"2",TRUE,570,"0",0
+"655",7277772,"X031870321","DH5 .R3 1838 t.1","ALDERMAN","Oeuvres complËtes : revues, corrigÈes et augmentÈes par l'auteur, suivie de ses oeuvres posthumes.","Raepsaet, Jan Joseph.",1838,"11/7/17","1/1/00",0,0,0,6,"2",TRUE,571,"0",0
+"656",328605,"X000420620","DH571 .V4 1955","ALDERMAN","Les origines de la frontiËre linguistique en Belgique et la colonisation franque.","Verlinden, Charles.",1955,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,574,"0",0
+"657",7278067,"X031870323","DH19 .K15","ALDERMAN","The history and topography of Holland and Belgium /","Kampen, N. G. van (Nicolaas Godfried),",1837,"11/7/17","1/1/00",0,0,0,1,"2",FALSE,575,"0",0
+"658",371510,"X031876152","DH801 .F4 C6 t.4","ALDERMAN","Corpus chronicorum Flandriae, sub auspiciis Leopoldi Primi, serenissimi Belgarum regis,","",1837,"11/3/17","1/1/00",0,3,6,3,"2",TRUE,576,"0",0
+"659",523621,"X000529816","DH905 .G74 1944","ALDERMAN","Luxembourg","Great Britain. Naval Intelligence Division.",1944,"6/29/96","3/29/98",0,3,0,1,"2",FALSE,578,"0",0
+"660",949960,"X000843839","DH683 .W8 1950","ALDERMAN","Les origines internationales du drame belge de 1940","Wullus-Rudiger, J.",1950,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,579,"0",0
+"661",949940,"X031876127","DH652 .D8 1966","ALDERMAN","Der deutsche Vorm‰rz und Belgien, 1830/48,","Dunk, Hermann Walther von der.",1966,"6/29/96","8/25/96",0,1,0,1,"2",FALSE,580,"0",0
+"662",7278055,"X031870260","DH107 .G7 1831","ALDERMAN","The history of the Netherlands.","Grattan, Thomas Colley,",1831,"11/7/17","1/1/00",0,0,0,1,"2",FALSE,582,"0",0
+"663",1285105,"X001496930","DH551 .L4","ALDERMAN","La marine de guerre belge (1830-1940) /","Le Comte, Louis,",1945,"6/30/96","1/1/00",0,0,0,1,"2",FALSE,583,"0",0
+"664",949969,"X002138919","DH801 .F46 G7","ALDERMAN","Les annales de Saint-Pierre de Gand et de Saint Amand:","Grierson, Philip",1937,"6/29/96","1/1/00",0,1,0,1,"2",TRUE,585,"0",0
+"665",949953,"X000926630","DH681 .Y32 1935","ALDERMAN","Albert and the Belgians,","Ydewalle, Charles d',",1935,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,586,"0",0
+"666",949936,"X000926134","DH620 .C3","ALDERMAN","The keystone of Europe; history of the Belgian dynasty, 1830-1939,","Cammaerts, Emile,",1939,"6/29/96","11/17/97",0,2,0,1,"2",FALSE,588,"0",0
+"667",949950,"X002080099","DH671 .L52 1929","ALDERMAN","LÈopold of the Belgians,","Lichtervelde, Louis de,",1929,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,590,"0",0
+"668",949894,"949894-1001","DH193 .S55 1936","ALDERMAN","Don John of Austria,","Slocombe, George,",1935,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,591,"0",0
+"669",426364,"X000943705","DH194 .E7 V.1","ALDERMAN","Alexandre FarnËse, prince de Parme, gouverneur gÈnÈral des Pays-Bas (1545-1592)","Essen, LÈon van der,",1933,"6/29/96","1/1/00",1,0,0,5,"2",TRUE,593,"0",0
+"670",949918,"X000818511","DH471 .E5 1933","ALDERMAN","Encyclopd?edie belge.","",1933,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,593,"0",0
+"671",949980,"X002307312","DH811 .A6 W4","ALDERMAN","The decline of Antwerp under Philip of Spain,","Wegg, Jervis.",1924,"6/29/96","3/7/99",0,2,0,1,"2",FALSE,595,"0",0
+"672",386520,"X000288789","DH628 .B6 V.1","ALDERMAN","Correspondance de Bouteville,","Bouteville du Metz, Louis Ghislain de,",1929,"6/28/96","1/1/00",1,0,0,2,"2",TRUE,596,"0",0
+"673",949635,"X001649716","DH188 .V5 M2 1888","ALDERMAN","""The fighting Veres.:","Markham, Clements R. (Clements Robert),",1888,"6/29/96","12/8/00",1,5,0,1,"2",FALSE,597,"0",0
+"674",569003,"X001100596","DH656 .C6 1923","ALDERMAN","Leopold I of Belgium; secret pages of European history,","Corti, Egon Caesar,",1923,"6/29/96","1/1/00",1,0,0,1,"2",FALSE,598,"0",0
+"675",427755,"427755-1001","DH403 .A2 no.42","ALDERMAN","Cartulaire historique et gÈnÈalogique des Artevelde,","Pauw, NapolÈon de,",1920,"6/29/96","1/1/00",0,0,0,1,"2",TRUE,600,"0",0
+"676",949992,"949992-1001","DH908 .P8 1918","ALDERMAN","Luxemburg and her neighbours; a record of the political fortunes of the present grand duchy from the eve of the French Revolution to the great war,","Putnam, Ruth,",1918,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,601,"0",0
+"677",949620,"X001705824","DH107 .M7 1915","ALDERMAN","Famous days and deeds in Holland and Belgium,","Morris, Charles,",1915,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,602,"0",0
+"678",253586,"X000748831","DH433 .I5 1915","ALDERMAN","The glory of Belgium.","Ingpen, Roger,",1915,"6/28/96","11/22/97",0,2,0,1,"2",FALSE,603,"0",0
+"679",323184,"X000748825","DH193 .C7","ALDERMAN","The story of Don John of Austria,","Coloma, Luis,",1912,"6/28/96","1/1/00",0,0,0,1,"2",FALSE,604,"0",0
+"680",588924,"X001100611","DH907 .P3","ALDERMAN","In further Ardenne, a study of the Grand Duchy of Luxembourg;","Passmore, Thomas Henry.",1905,"6/29/96","1/1/00",0,1,0,1,"2",FALSE,605,"0",0
+"681",516712,"X000288795","DH801 .F47 A2","ALDERMAN","Recueil des instructions gÈnÈrales aux nonces de Flandre (1596-1635)","Cauchie, Alfred,",1904,"6/29/96","1/1/00",1,1,0,1,"2",FALSE,606,"0",0
+"682",3553313,"X031870234","DH36 .Z4 1659","ALDERMAN","M.Z. Topographia Germaniae-Inferioris vel Circuli-Burgundici : das ist Beschreibung und Abbildung der f¸rnembsten ÷rter in den Niderl‰ndschen XVII Provincien, oder Burgundischen Kraˇsse.","Zeiller, Martin,",1659,"11/7/17","6/11/18",0,1,0,1,"2 10",FALSE,607,"0",0
+"683",1284853,"X001932709","DH16 .A9 1839","ALDERMAN","Guide de voyageur en Belgique et en Hollande : ornÈ d'une bonne carte routiËre et de panoramas.","Audin, (Jean Marie Vincent),",1839,"6/30/96","2/16/09",0,0,0,1,"2",FALSE,608,"0",0
+"684",949917,"X000311738","DH471 .B76 1904","ALDERMAN","Belgian life in town and country,","Boulger, Demetrius Charles,",1904,"6/29/96","2/1/98",0,1,0,1,"2",FALSE,609,"0",0
+"685",1803448,"X001812809","DH109 .A88 1830 d.1","ALDERMAN","Wenken, herinneringen en aanteekeningen uit de dagen van Nederlands herstelling.","Assen, Cornelis Jacobus,",1830,"6/30/96","2/16/09",2,0,0,2,"2",TRUE,610,"0",0
+"686",279418,"X000012879","DH801 .F462 A7","ALDERMAN","James and Philip van Artevelde,","Ashley, W. J. (William James),",1883,"6/28/96","1/1/00",0,1,0,1,"2",FALSE,611,"0",0
+"687",2097095,"X001469761","DH189 .A22 t.2","ALDERMAN","Correspondance de Marguerite d'Autriche, duchesse de Parme, avec Philippe II [1559-1565]","Margaret,",1867,"6/30/96","1/1/00",0,4,0,2,"2",TRUE,613,"0",0
+"688",949605,"X000462666","DH16 .B13 1869","ALDERMAN","Belgium and Holland.","Karl Baedeker (Firm)",1869,"6/29/96","1/1/00",2,1,0,1,"2",FALSE,615,"0",0
+"689",1630112,"X001683380","DH193 .H38 1865","ALDERMAN","Das Leben des Don Juan d'Austria : eine geschichtliche Monographie /","Havemann, Wilhelm,",1865,"6/30/96","1/1/00",2,0,0,1,"2",FALSE,617,"0",0
+"690",949907,"X031914587","DH403 .R4 S75","ALDERMAN","Recueil des ordonnances de la pricipautÈ de Stavelot. 648-1794.","Commission royale pour la publication des anciennes lois et ordonnances de la Belgique",1864,"6/29/96","1/1/00",0,0,0,1,"2",FALSE,618,"0",0
