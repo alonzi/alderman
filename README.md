@@ -1,5 +1,8 @@
 # alderman
+This repository contains the code and pick lists for the alderman renovation move.
+
 current work is in anthony_data
+
 phase1 is depricated
 
 ## Contents
