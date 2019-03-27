@@ -16,6 +16,7 @@ library(lubridate)
 data_cleaner <- function(filename) {
 ######################
 # read in data
+#data_tibble <- read.csv(filename,fileEncoding="latin1") # use for PC_.csv
 data_tibble <- read.csv(filename)
 print('analyzing')
 print(filename)
@@ -56,7 +57,7 @@ data_tibble <- mutate(data_tibble,dscoreC=1-scoreC)
 data_tibble <- arrange(data_tibble,dscoreC)
 
 
-cutoffs <- list('./data/AM__AS__AZ_.csv'=811,
+cutoffs <- list('./data/AM_AS_AZ_.csv'=811,
 './data/BC_.csv'=531,
 './data/BD_.csv'=1939,
 './data/BF_.csv'=4219,
@@ -69,9 +70,10 @@ cutoffs <- list('./data/AM__AS__AZ_.csv'=811,
 './data/BR_.csv'=6158,
 './data/BS_.csv'=5064,
 './data/BT_.csv'=3564,
+'./data/BV_.csv'=2023,
 './data/BX_.csv'=6408,
 './data/B_.csv'=12595,
-'./data/C__CT_.csv'=2864,
+'./data/C_CT_.csv'=2864,
 './data/DAW_.csv'=16,
 './data/DA_.csv'=5369,
 './data/DB_.csv'=269,
@@ -103,7 +105,7 @@ cutoffs <- list('./data/AM__AS__AZ_.csv'=811,
 './data/HE_.csv'=667,
 './data/HF_.csv'=2567,
 './data/HG_.csv'=2413,
-'./data/HJ.csv'=445,
+'./data/HJ_.csv'=445,
 './data/HM_.csv'=4452,
 './data/HN_.csv'=2830,
 './data/HQ_.csv'=9933,
@@ -114,7 +116,7 @@ cutoffs <- list('./data/AM__AS__AZ_.csv'=811,
 './data/H_.csv'=996,
 './data/J__JZ_.csv'=16848,
 './data/K__KZ_.csv'=5247,
-'./data/L__LT_.csv'=11112,
+'./data/L__LT.csv'=11112,
 './data/PA_.csv'=8328,
 './data/PB_.csv'=202,
 './data/PC_.csv'=1372,
@@ -134,20 +136,24 @@ cutoffs <- list('./data/AM__AS__AZ_.csv'=811,
 './data/PT_.csv'=4435,
 './data/PZ_.csv'=1656,
 './data/P_.csv'=3390,
-'./data/U__UH_.csv'=2720,
+'./data/U__UH.csv'=2720,
 './data/V__VM_.csv'=301,
 './data/Z__ZA_.csv'=3343
 )
   
 cutoff <- cutoffs[[filename]]
 # This like makes the cutoff for volumes to store in clemons
+#print(data_tibble$modelC)
+#print(cutoff)
 data_tibble <- mutate(data_tibble,model=ifelse(modelC<cutoff,'1','0'))
+#print(data_tibble$model)
 
 # collapse all dupes into one entry
-data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumInhouseUses=sum(Item.Lifetime.Inhouse.Uses))
-data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumCheckouts=sum(Item.Lifetime.Checkout.Corrected))
-data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumRenewals=sum(Item.Lifetime.Renewals))
-data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate( MODEL = ifelse( sum(as.integer(model))>=1,'1','0' ) )
+data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumInhouseUses=sum(Item.Lifetime.Inhouse.Uses)) %>% ungroup()
+data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumCheckouts=sum(Item.Lifetime.Checkout.Corrected)) %>% ungroup()
+data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate(NumRenewals=sum(Item.Lifetime.Renewals)) %>% ungroup()
+data_tibble <- data_tibble %>% group_by(Catalog.Id) %>% mutate( MODEL = ifelse( sum(as.integer(model))>=1,'1','0' ) ) %>% ungroup()
+
 
 # make count of duplicate ids
 data_tibble_uniques <- count(data_tibble,Catalog.Id)
@@ -163,12 +169,26 @@ vol1 <-"\\sAbh.*$|\\sAbt.*$|\\san.*$|\\sband*$|\\sbd.*$|\\sBde.*$|\\sbk.*$|\\sbr
 vol2 <-"Abh.*$|Abt.*$|an.*$|v.*$|vyd.*$|vyp.*$|wyd.*$|wydz.*$|yr.*$|zesz.*$"
 data_tibble <- mutate(data_tibble,MultiVolume=grepl(vol1,Item.Call.Number,ignore.case=TRUE))
 
-# select columns for liaisons
-data_tibble <- select(data_tibble,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,Duplicates=n,Bib.Marc.Subfield.Data,MultiVolume,modelC,MODEL)
 
-# add column for action
-data_tibble <- mutate(data_tibble,LiaisonRecommendation=0)
-                     
+# filter to only keep items for clemons (aka modelC==1)
+data_tibble <- filter(data_tibble, model == 1)
+
+
+# select columns for liaisons
+data_tibble <- select(data_tibble,Item.Shelving.Id,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,MultiVolume,modelC,MODEL)
+
+
+
+
+
+# select columns for picklist
+data_tibble <- select(data_tibble,Item.Library.Code,Item.Shelving.Id,Item.Barcode,Catalog.Title,Catalog.Author,Catalog.Pub.Year,MultiVolume)
+
+# sort on Item Shelving Id (aka callnumber order)
+data_tibble <- arrange(data_tibble,Item.Shelving.Id)
+
+print('finish loop')
+print(filename)
 
 
 return(data_tibble)
