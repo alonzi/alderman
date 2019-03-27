@@ -1,0 +1,727 @@
+"","Item.Library.Code","Item.Shelving.Id","Item.Barcode","Catalog.Title","Catalog.Author","Catalog.Pub.Year","MultiVolume"
+"1","ALDERMAN","DR 000010 .W5  NR.000080","X031888317","Die preussische Verwaltung des Regierungsbezirks Danzig, 1815-1870.","Letkemann, Peter.",1967,TRUE
+"2","ALDERMAN","DR 000015 .T35  2014","X031628654","Albania's mountain queen : Edith Durham and the Balkans /","Tanner, Marcus,",2014,FALSE
+"3","ALDERMAN","DR 000016 .F4  2013","X031628451","The broken road : from the Iron Gates to Mount Athos /","Fermor, Patrick Leigh,",2013,FALSE
+"4","ALDERMAN","DR 000016 .K36  1993","X002229688","Balkan ghosts : a journey through history /","Kaplan, Robert D.,",1993,FALSE
+"5","ALDERMAN","DR 000016 .K362  2000","X004478673","Eastward to Tartary : travels in the Balkans, the Middle East, and the Caucasus /","Kaplan, Robert D.,",2000,FALSE
+"6","ALDERMAN","DR 000024 .I89  1996","X006020196","The Balkans divided : nationalism, minorities, and security /","Ivanov, Andrey,",1996,FALSE
+"7","ALDERMAN","DR 000024 .M56  2011","X031622732","Minorities in the Balkans : state policy and interethnic relations (1804-2004) /","",2011,FALSE
+"8","ALDERMAN","DR 000027 .M87  M33  1995","X004095494","Death and exile : the ethnic cleansing of Ottoman Muslims, 1821-1922 /","McCarthy, Justin,",1995,FALSE
+"9","ALDERMAN","DR 000033 .B35  2007B","X030275559","Balkan strongmen : dictators and authoritarian rulers of South Eastern Europe /","",2007,FALSE
+"10","ALDERMAN","DR 000034 .T63  1997","X004143873","Imagining the Balkans /","Todorova, Marii?a Nikolaeva.",1997,FALSE
+"11","ALDERMAN","DR 000036 .B56  2011","X030619118","The Balkans : revolution, war, and political violence since 1878 /","Biondich, Mark.",2011,FALSE
+"12","ALDERMAN","DR 000036 .C3713  1992","X002125768","History of the Balkans : from Mohammed the Conqueror to Stalin/","Castellan, Georges.",1992,FALSE
+"13","ALDERMAN","DR 000036 .H87  2002","X004592478","The Balkans : from Constantinopole to communism /","Hupchick, Dennis P.",2002,FALSE
+"14","ALDERMAN","DR 000036 .M39  2000B","X004435940","The Balkans /","Mazower, Mark.",2000,FALSE
+"15","ALDERMAN","DR 000036 .O88  2006","X004911843","The Ottoman Balkans, 1750-1830 /","",2006,FALSE
+"16","CLEMONS","DR 000036 .W33  2008","X030472712","The Balkans in world history /","Wachtel, Andrew.",2008,FALSE
+"17","ALDERMAN","DR 000037 .S94","X000085681","Nationalism in Eastern Europe.","Sugar, Peter F.",1969,FALSE
+"18","ALDERMAN","DR 000038.2 .B36  2004","X004768467","Balkan identities : nation and memory /","",2004,FALSE
+"19","ALDERMAN","DR 000038.2 .C37  2002","X004637532","Ethnic cleansing in the Balkans : nationalism and the destruction of tradition /","Carmichael, Cathie,",2002,FALSE
+"20","ALDERMAN","DR 000038.2 .F76  1999","X004283726","Kosovo crossing : American ideals meet reality on the Balkan battlefields /","Fromkin, David.",1999,FALSE
+"21","ALDERMAN","DR 000038.2 .W48  2000","X004397466","Nationalism and territory : constructing group identity in southeastern Europe /","White, George W.,",2000,FALSE
+"22","ALDERMAN","DR 000038.3 .B97  B35  2016","X031795774","The Balkans and the Byzantine world before and after the captures of Constantinople, 1204 and 1453 /","",2016,FALSE
+"23","ALDERMAN","DR 000038.3 .E85  E93  2008","X030279463","Europe and the historical legacies in the Balkans /","",2008,FALSE
+"24","ALDERMAN","DR 000038.3 .R8  B43  2017","X031838609","Rival power : Russia's influence in Southeast Europe /","Bechev, Dimitar,",2017,FALSE
+"25","ALDERMAN","DR 000038.3 .S65  J45  1991","X001977698","Russia's Balkan entanglements, 1806-1914 /","Jelavich, Barbara,",1991,FALSE
+"26","ALDERMAN","DR 000039 .A57  2017","X031841372","The Ottoman ""wild west"" : the Balkan frontier in the fifteenth and sixteenth centuries /","Antov, Nikolay,",2017,FALSE
+"27","ALDERMAN","DR 000039.6 .S49  2016","X031674463","La romanisation de l'Illyrie méridionale et de la Chaônie /","Shpuza, Saimir,",2016,FALSE
+"28","ALDERMAN","DR 000041 .T73  2016","X032209129","Balkan wars : Habsburg Croatia, Ottoman Bosnia, and Venetian Dalmatia, 1499-1617 /","Tracy, James D.,",2016,FALSE
+"29","ALDERMAN","DR 000045 .B34  1995","X006037940","Balkans : a mirror of the new international order /","",1995,FALSE
+"30","ALDERMAN","DR 000045 .L36  2006","X004906505","Balkans into Southeastern Europe : a century of war and transition /","Lampe, John R.",2006,FALSE
+"31","ALDERMAN","DR 000046 .A2  B35  2014","X031651955","The Balkan Wars : British consular reports from Macedonia in the final years of the Ottoman Empire /","",2014,FALSE
+"32","ALDERMAN","DR 000046 .H35  2000","X006090698","The Balkan Wars, 1912-1913 : prelude to the First World War /","Hall, Richard C.",2000,FALSE
+"33","ALDERMAN","DR 000046 .W27  2013","X031620698","War and nationalism : the Balkan wars, 1912-1913, and their sociopolitical implications /","",2013,FALSE
+"34","ALDERMAN","DR 000046.93 .W65  B35  2012","X031634402","Balkan Sava??nda kad?nlar?m?z /","",2012,FALSE
+"35","ALDERMAN","DR 000048 .M65  2011","X031195703","Balkan genocides : holocaust and ethnic cleansing in the twentieth century /","Mojzes, Paul.",2011,FALSE
+"36","ALDERMAN","DR 000048.6 .B53  2007","X030106605","The Balkans : a post-communist history /","Bideleux, Robert.",2007,FALSE
+"37","ALDERMAN","DR 000048.6 .C35  2013","X031612907","The Balkan prospect : identity, culture, and politics in Greece after 1989 /","Calotychos, Vangelis.",2013,FALSE
+"38","ALDERMAN","DR 000048.6 .C84  2010","X030745667","In search of the Balkan recovery : the political and economic reemergence of south-eastern Europe /","Cvii?, Christopher,",2010,FALSE
+"39","ALDERMAN","DR 000048.6 .E96  2000","X004412056","Experimenting with democracy : regime change in the Balkans /","",2000,FALSE
+"40","ALDERMAN","DR 000048.6 .F37  2007","X030249631","Democratization in the Balkans : prescription for a badly scarred body politic /","Farkas, Richard P.",2007,FALSE
+"41","ALDERMAN","DR 000048.6 .G35  2005","X004858248","The Balkans in the new millennium : in the shadow of war and peace /","Gallagher, Tom,",2005,FALSE
+"42","ALDERMAN","DR 000048.6 .M37  2000","X006118870","Masters of the universe? : NATO's Balkan crusade /","",2000,FALSE
+"43","ALDERMAN","DR 000048.6 .S77  1998","X004276316","Struggling with the Communist legacy : studies of Yugoslavia, Romania, Poland and Czechoslovakia /","",1998,FALSE
+"44","ALDERMAN","DR 000048.6 .U54  2012","X031215064","Unfinished business : the Western Balkans and the international community /","",2012,FALSE
+"45","ALDERMAN","DR 000049.26 .M3313  2013","X031603511","Byzantine military organization on the Danube, 10th-12th centuries /","Madgearu, Alexandru.",2013,FALSE
+"46","ALDERMAN","DR 000049.7 .G65  2004","X030036995","Rumeli under the Ottomans, 15th-18th centuries : institutions and communities /","Gradeva, Rosit?sa.",2004,FALSE
+"47","ALDERMAN","DR 000049.7 .G735  2008","X030498653","War and peace in Rumeli : 15th to beginning of 19th century /","Gradeva, Rosit?sa.",2008,FALSE
+"48","ALDERMAN","DR 000050.6 .C66  2015","X031758005","A companion to ancient Thrace /","",2015,FALSE
+"49","ALDERMAN","DR 000064.2 .G73  D7  2011","X030805241","Between two motherlands : nationality and emigration among the Greeks of Bulgaria, 1900-1949 /","Dragostinova, Theodora,",2011,TRUE
+"50","ALDERMAN","DR 000083 .C73  2007","X004832111","Bulgaria /","Crampton, R. J.",2007,FALSE
+"51","ALDERMAN","DR 000085 .D37613  2011","X031187543","Debating the past : modern Bulgarian history : from Stambolov to Zhivkov /","Daskalov, Rumen.",2011,FALSE
+"52","ALDERMAN","DR 000088 .D5  A3  2003","X004703551","The diary of Georgi Dimitrov, 1933-1949 /","Dimitrov, Georgi,",2003,FALSE
+"53","ALDERMAN","DR 000088 .D5  S73  2010","X030621445","Georgi Dimitrov : a biography /","Stankova, Marietta.",2010,FALSE
+"54","ALDERMAN","DR 000090 .Z5  A25  1964  V.000003","X031916555","Izbrani rechi, dokladi i statii.","Zhivkov, Todor.",1964,TRUE
+"55","ALDERMAN","DR 000093.43 .S92313  2018","X032069333","Dancing bears : true stories of people nostalgic for life under tyranny /","Szab?owski, Witold,",2018,FALSE
+"56","ALDERMAN","DR 000093.44 .E54  2009","X030467833","Democratisation and the prevention of violent conflict : lessons learned from Bulgaria and Macedonia /","Engström, Jenny,",2009,FALSE
+"57","ALDERMAN","DR 000201 .R55  V.000010 NO.000001-000002 JAN.-JUNE 001981","X031870011","Romanian bulletin","The Romanian Library",1981,TRUE
+"58","CLEMONS","DR 000210 .B58  2009","X030524497","Along the enchanted way : a Romanian story /","Blacker, W. (William)",2009,FALSE
+"59","ALDERMAN","DR 000210 .K37  2016","X031739067","In Europe's shadow : two Cold Wars and a thirty-year journey through Romania and beyond /","Kaplan, Robert D.,",2016,FALSE
+"60","ALDERMAN","DR 000212 .D73  2006","X004835580","The making of modern Romanian culture : literacy and the development of national identity /","Drace-Francis, Alex.",2006,FALSE
+"61","ALDERMAN","DR 000213 .C37","X031916395","Solu?ionarea problemei na?ionale în România /","Ceau?escu, Nicolae.",1979,FALSE
+"62","ALDERMAN","DR 000217 .B64  2001","X004477709","History and myth in Romanian consciousness /","Boia, Lucian.",2001,FALSE
+"63","ALDERMAN","DR 000217 .H57  1996","X004070687","A history of Romania /","",1996,FALSE
+"64","ALDERMAN","DR 000217 .H579  2014","X031628858","A concise history of Romania /","Hitchins, Keith,",2014,FALSE
+"65","ALDERMAN","DR 000229 .T7  L56  2006","X030198268","Romania and Transylvania in the 20th century /","Lipcsey, Ildikó.",2006,TRUE
+"66","ALDERMAN","DR 000239 .V45  2000","X004481541","Dacians, Romans, Romanians /","Vékony, Gábor.",2000,FALSE
+"67","ALDERMAN","DR 000240 .C68","X030497862","Documente privitoare la istoria României, culese din arhivele polone : secolul al XVI-lea /","Corfus, Ilie.",1979,FALSE
+"68","ALDERMAN","DR 000240 .F55","X000380719","Dracula; a biography of Vlad the Impaler, 1431-1476","Florescu, Radu R. N.",1973,FALSE
+"69","ALDERMAN","DR 000240.5 .V55  F58  1989","X001639151","Dracula: prince of many faces his life and his times /","Florescu, Radu.",1989,TRUE
+"70","ALDERMAN","DR 000240.5 .V55  M3  1972","X000010984","In search of Dracula; a true history of Dracula and vampire legends","McNally, Raymond T.,",1972,FALSE
+"71","ALDERMAN","DR 000240.5 .V55  S7613","X000216006","Vlad ?epe? : Prince of Walachia /","Stoicescu, Nicolae.",1978,FALSE
+"72","ALDERMAN","DR 000240.5 .V553  D73  1991","X001987255","Dracula : essays on the life and times of Vlad ?epe? /","",1991,TRUE
+"73","ALDERMAN","DR 000240.5 .V553  F57  1992","X002212647","The complete Dracula /","Florescu, Radu.",1992,TRUE
+"74","ALDERMAN","DR 000240.5 .V553  M36  1994","X002757352","In search of Dracula : the history of Dracula and vampires /","McNally, Raymond T.,",1994,FALSE
+"75","ALDERMAN","DR 000240.5 .V553  N67  2006","X031600972","Vom Fürsten der Walachei zum König der Vampire : Vlad Tepes und Bram Stokers Dracula (Drakula) : [Studienarbeit] /","Norda, Gunnar.",2006,FALSE
+"76","ALDERMAN","DR 000241.5 .D5  P66  2010","X030812765","Beyond the glory of the sultans : Cantemir's view of the Turks /","Popescu-Judetz, Eugenia.",2010,FALSE
+"77","ALDERMAN","DR 000250 .G35  2005","X004863827","Modern Romania : the end of communism, the failure of democratic reform, and the theft of a nation /","Gallagher, Tom,",2005,FALSE
+"78","ALDERMAN","DR 000250 .H58  1994","X002520740","Rumania : 1866-1947 /","Hitchins, Keith,",1994,FALSE
+"79","ALDERMAN","DR 000262 .A5  D45  2006","X004836319","Hitler's forgotten ally : Ion Antonescu and his regime, Romania 1940-44 /","Deletant, Dennis,",2006,TRUE
+"80","ALDERMAN","DR 000264 .L58  1995","X002627815","Cultural politics in Greater Romania : regionalism, nation building & ethnic struggle, 1918-1930 /","Livezeanu, Irina.",1995,FALSE
+"81","ALDERMAN","DR 000264 .O754  1999","X004406784","The Romanian extreme right : the nineteen thirties /","Ornea, Z.",1999,FALSE
+"82","ALDERMAN","DR 000266 .L86  1989","X001609178","Romania and the Great Powers, 1933-40 /","Lungu, Dov B.",1989,FALSE
+"83","ALDERMAN","DR 000267 .A74  1992","X002157836","The rise and fall of Nicolae and Elena Ceau?escu /","Almond, Mark,",1992,FALSE
+"84","ALDERMAN","DR 000267 .B68  2018","X032212045","Stalin's legacy in Romania : the Hungarian autonomous region, 1952-1960 /","Bottoni, Stefano,",2018,FALSE
+"85","ALDERMAN","DR 000267 .R69  2000","X004214756","Romania : the unfinished revolution /","Roper, Steven D.",2000,FALSE
+"86","ALDERMAN","DR 000268 .G35  1995","X002677045","Romania after Ceau?escu : the politics of intolerance /","Gallagher, Tom,",1995,FALSE
+"87","ALDERMAN","DR 000268 .G37  2005","X004906955","Theft of a nation : Romania since communism /","Gallagher, Tom,",2005,FALSE
+"88","ALDERMAN","DR 000268 .P3713  1997","X004106445","The challenges of transition : Romania in transition /","Pasti, Vladimir.",1997,FALSE
+"89","ALDERMAN","DR 000268 .P67  2001","X004536336","Post-Communist Romania : coming to terms with transition /","",2001,FALSE
+"90","ALDERMAN","DR 000268 .R324  1992","X002187100","Romania in turmoil : a contemporary history /","Rady, Martyn C.",1992,FALSE
+"91","ALDERMAN","DR 000268.3 .B83  2009","X030607633","Heroes and victims : remembering war in twentieth-century Romania /","Bucur-Deckard, Maria,",2009,FALSE
+"92","ALDERMAN","DR 000268.5 .C56  2010","X030744109","Nationalism and identity in Romania : a history of extreme politics from the birth of the state to EU accession /","Cinpoe?, Radu.",2010,FALSE
+"93","ALDERMAN","DR 000279.92 .H8  K87  2001","X004526696","The remote borderland : Transylvania in the Hungarian imagination /","Kürti, László,",2001,FALSE
+"94","ALDERMAN","DR 000280 .E7213  1994","X002559272","History of Transylvania /","",1994,FALSE
+"95","ALDERMAN","DR 000280 .E7313  2001  V.000001","X004589910","History of Transylvania /","",2001,TRUE
+"96","ALDERMAN","DR 000280.4 .S85  2011","X031223053","Studies in the history of early modern Transylvania /","",2011,FALSE
+"97","ALDERMAN","DR 000280.7 .C37  2009","X030567464","Between states : the Transylvanian question and the European idea during World War II /","Case, Holly.",2009,FALSE
+"98","ALDERMAN","DR 000281 .B25  M375  2013","X031617806","Contested frontiers in the Balkans : Habsburg and Ottoman rivalries in Eastern Europe /","Marin, Irina.",2013,FALSE
+"99","ALDERMAN","DR 000281 .M3  K55  1988","X001361788","The wedding of the dead : ritual, poetics, and popular culture in Transylvania /","Kligman, Gail.",1988,FALSE
+"100","ALDERMAN","DR 000296 .S9  P66","X031765900","M?rturii de civiliza?ie medieval? româneasc? : o cas? a domniei ?i o sob? monumental? de la Suceava din vremea lui ?tefan cel Mare /","Popa, Radu.",1979,FALSE
+"101","ALDERMAN","DR 000317 .C5  1966","X000306136","A short history of Yugoslavia: from early times to 1966,","Clissold, Stephen",1966,FALSE
+"102","CLEMONS","DR 000366 .W48  1943","X000191090","Black lamb and grey falcon.","West, Rebecca,",1943,FALSE
+"103","ALDERMAN","DR 000366 .W48  1943A","X000527133","Black lamb and grey falcon : a journey through Yugoslavia /","West, Rebecca,",1943,FALSE
+"104","CLEMONS","DR 000366 .W48  1994","X004268933","Black lamb and grey falcon : a journey through Yugoslavia /","West, Rebecca,",1994,FALSE
+"105","ALDERMAN","DR 000416 .R68  1994","X030159222","Turkey : the rough guide /","Ayliffe, Rosie.",1994,FALSE
+"106","ALDERMAN","DR 000417 .R58  2017","X032068952","The Routledge handbook of modern Turkey /","",2017,FALSE
+"107","ALDERMAN","DR 000423 .B8  2005","X004860964","The Turkish letters of Ogier Ghiselin de Busbecq, imperial ambassador at Constantinople, 1554-1562 : translated from the Latin of the Elzevir edition of 1663 /","Busbecq, Ogier Ghislain de,",2005,FALSE
+"108","ALDERMAN","DR 000423 .G48  2004","X030285070","al-Ma??li? al-Badr?yah f? al-man?zil al-R?m?yah, 1499-1577 /","Ghazz?, Badr al-D?n Mu?ammad ibn Mu?ammad,",2004,FALSE
+"109","ALDERMAN","DR 000427 .I47  1989","X006073289","Imperial self-portrait : the Ottoman Empire as revealed in the Sultan Abdul-Hamid II's photographic albums, presented as gifts to the Library of Congress (1893) and the British Museum (1894) : a pictorial selection with catalogue, concordance, indices, and brief essays /","",1989,FALSE
+"110","CLEMONS","DR 000429.4 .D286  2010","X004087784","Rebel land : unraveling the riddle of history in a Turkish town /","De Bellaigue, Christopher,",2010,FALSE
+"111","ALDERMAN","DR 000429.4 .M295  2001","X004516568","Travels with a tangerine : a journey in the footnotes of Ibn Battutah /","Mackintosh-Smith, Tim,",2001,FALSE
+"112","ALDERMAN","DR 000429.4 .M333  2004","X004743699","The rise of oriental travel : English visitors to the Ottoman Empire, 1580-1720 /","MacLean, Gerald M.,",2004,FALSE
+"113","ALDERMAN","DR 000431 .C53  2008","X030464021","From the Harpy Tomb to the wonders of Ephesus : British archaeologists in the Ottoman Empire 1840-1880 /","Challis, Debbie.",2008,FALSE
+"114","ALDERMAN","DR 000431 .H37  2015","X031740607","Place, memory, and healing : an archaeology of Anatolian rock monuments /","Harman?ah, Ömür.",2014,FALSE
+"115","ALDERMAN","DR 000431 .N458  1999  V.000002","X030476542","Neolithic in Turkey : the cradle of civilization : new discoveries /","",1999,TRUE
+"116","ALDERMAN","DR 000431 .N46  2007  V.000001","X030268576","Turkiye'de neolitik donem : Anadolu'da Uygarligin Dogusu ve Avrupa'ya Yayilimi : yeni kazilar, yeni bulgular /","Ozdo?an, Mehmet.",2007,TRUE
+"117","ALDERMAN","DR 000431 .S33  2009","X030700807","Sacred landscapes in Anatolia and neighboring regions /","",2009,FALSE
+"118","ALDERMAN","DR 000431 .Y37  2004  V.000001","X030357703","Harran Ovas? yüzey ara?t?rmas? = Archaeological survey in the Harran Plain /","Yard?mc?, Nurettin.",2004,TRUE
+"119","ALDERMAN","DR 000432 .A3  2009","X030633702","East faces West : impressions of a Turkish writer in India /","Ad?var, Halide Edib,",2009,FALSE
+"120","ALDERMAN","DR 000432 .C55  2002","X004588113","From the ""terror of the world"" to the ""sick man of Europe"" : European images of Ottoman Empire and society from the sixteenth century to the nineteenth /","Ç?rakman, Asl?,",2002,FALSE
+"121","ALDERMAN","DR 000432 .C55  2005","X031650264","From the ""terror of the world"" to the ""sick man of Europe"" : European images of Ottoman empire and society from the sixteenth century to the nineteenth /","Ç?rakman, Asl?,",2005,FALSE
+"122","ALDERMAN","DR 000432 .E35  2005","X004910185","Unveiled, the autobiography of a Turkish girl /","Ekrem, Selma.",2005,FALSE
+"123","ALDERMAN","DR 000432 .F73  2002","X006126460","Fragments of culture : the everyday of modern Turkey /","",2002,FALSE
+"124","ALDERMAN","DR 000432 .G59213  1959","X000216965","Turkish nationalism and Western civilization; selected essays.","Gökalp, Ziya,",1959,FALSE
+"125","ALDERMAN","DR 000432 .K43  2011","X030947256","Daily life in the Ottoman Empire /","Kia, Mehrdad.",2011,FALSE
+"126","ALDERMAN","DR 000432 .L69  2003","X004632697","The nature of the early Ottoman state /","Lowry, Heath W.,",2003,FALSE
+"127","ALDERMAN","DR 000432 .O88  2007","X030252610","Ottoman tulips, Ottoman coffee : leisure and lifestyle in the eighteenth century /","",2007,FALSE
+"128","CLEMONS","DR 000432 .P68  1997B","X004140188","Top hat, grey wolf, and crescent : Turkish nationalism and the Turkish Republic /","Poulton, Hugh.",1997,FALSE
+"129","ALDERMAN","DR 000432 .R48  1997","X004113636","Rethinking modernity and national identity in Turkey /","",1997,FALSE
+"130","ALDERMAN","DR 000432 .T848  1993","X002451769","Turkey and the West : changing political and cultural identities /","",1993,FALSE
+"131","ALDERMAN","DR 000432 .W55  2013","X030845389","Muslim nationalism and the new Turks /","White, Jenny B. (Jenny Barbara),",2013,FALSE
+"132","ALDERMAN","DR 000434 .A38  2010","X031605745","Minorités en Turquie, turcs en minorité : regards croisés sur l'altérité collective dans le contexte turc /","Akgönül, Samim.",2010,FALSE
+"133","ALDERMAN","DR 000434 .I43  2010","X030620811","Imagining 'the Turk' /","",2010,FALSE
+"134","ALDERMAN","DR 000434 .K37  2009","X030608372","A moveable empire : Ottoman nomads, migrants, and refugees /","Kasaba, Re?at,",2009,FALSE
+"135","ALDERMAN","DR 000434 .M56  2005","X004895738","Minorities in the Ottoman Empire /","",2005,FALSE
+"136","ALDERMAN","DR 000434 .Q47  2007","X030375496","A quest for equality : minorities in Turkey.","",2007,FALSE
+"137","ALDERMAN","DR 000434 .S96  2011","X030945301","Symbiotic antagonisms : competing nationalisms in Turkey /","",2011,FALSE
+"138","ALDERMAN","DR 000435 .A66  M37  2013","X031600237","The Arabs of the Ottoman Empire, 1516-1918 : a social and cultural history /","Masters, Bruce Alan,",2013,FALSE
+"139","ALDERMAN","DR 000435 .A7  A53513  2015","X031730698","The spirit of the laws : the plunder of wealth in the Armenian genocide /","Akçam, Taner,",2015,FALSE
+"140","ALDERMAN","DR 000435 .A7  A65513  2014","X031651270","The grandchildren : the hidden legacy of ""lost"" Armenians in Turkey /","",2014,FALSE
+"141","ALDERMAN","DR 000435 .A7  A66  2008  V.000001","X030700599","Armenians in the Ottoman society /","",2008,TRUE
+"142","ALDERMAN","DR 000435 .A7  G63  2015","X031708520","Denial of violence : Ottoman past, Turkish present and collective violence against the Armenians, 1789-2009 /","Göçek, Fatma Müge",2015,TRUE
+"143","ALDERMAN","DR 000435 .A7  H3542  2008","X030498654","The story of 1915 : what happened to the Ottoman Armenians? /","Halaço?lu, Yusuf.",2008,FALSE
+"144","ALDERMAN","DR 000435 .A7  K345  2014","X031778103","The extermination of Armenians in the Diarbekir Region /","Kaiser, Hilmar,",2014,FALSE
+"145","ALDERMAN","DR 000435 .A7  K355  2009","X030468489","Armenian organization and ideology under Ottoman rule, 1908-1914 /","Kaligian, Dikran Mesrob.",2009,FALSE
+"146","ALDERMAN","DR 000435 .A7  M463  2015","X031649497","Turks and Armenians : nationalism and conflict in the Ottoman Empire /","McCarthy, Justin,",2015,FALSE
+"147","ALDERMAN","DR 000435 .A7  O943  2012","X031870226","Hearing Turkey's Armenians : issues, demands and policy recommendations /","Özdo?an, Günay Göksu.",2012,FALSE
+"148","ALDERMAN","DR 000435 .A7  S75  2016","X031838600","The Armenians in modern Turkey : post-genocide society, politics and history /","Suciyan, Talin,",2016,FALSE
+"149","ALDERMAN","DR 000435 .A7  T4513  2010","X030781001","Deep mountain : across the Turkish-Armenian divide /","Temelkuran, Ece,",2010,TRUE
+"150","ALDERMAN","DR 000435 .B35  K37  2009","X030469494","Muslims in modern Turkey : Kemalism, modernism and the revolt of the Islamic intellectuals /","Karasipahi, Sena.",2009,FALSE
+"151","ALDERMAN","DR 000435 .B74  G64  1998","X004120711","Britons in the Ottoman Empire 1642-1660 /","Goffman, Daniel,",1998,TRUE
+"152","ALDERMAN","DR 000435 .E87  B87  2009","X004087894","Reflections on the image of the Turk in Europe /","Burço?lu, Nedret Kuran.",2009,FALSE
+"153","ALDERMAN","DR 000435 .G8  D68  2013","X031617695","Before the nation : Muslim-Christian coexistence and its destruction in late Ottoman Anatolia /","Doumanis, Nicholas,",2013,TRUE
+"154","ALDERMAN","DR 000435 .G8  M67  2010","X030778159","O Ergatis, 1908-1909 : Ottomanism, national economy and modernization in the Ottoman Empire through a Greek-language newspaper of ?zmir /","Moroni, Ileana.",2010,FALSE
+"155","ALDERMAN","DR 000435 .I8  D87  2006","X030085813","Venetians in Constantinople : nation, identity, and coexistence in the early modern Mediterranean /","Dursteler, Eric.",2006,TRUE
+"156","ALDERMAN","DR 000435 .K87  A83  2015","X031707564","Nation-building in Turkey and Morocco : governing Kurdish and Berber dissent /","Aslan, Senem,",2015,FALSE
+"157","ALDERMAN","DR 000435 .K87  B37  1998","X004290311","Turkey's Kurdish question /","Barkey, Henri J.",1998,FALSE
+"158","ALDERMAN","DR 000435 .K87  B375  2017","X031810107","Frontline Turkey : the conflict at the heart of the Middle East /","Ba?aran, Ezgi,",2017,FALSE
+"159","ALDERMAN","DR 000435 .K87  C528  2017","X031763021","The Kurds of Turkey : national, religious and economic identities /","Çiçek, Cuma,",2017,TRUE
+"160","ALDERMAN","DR 000435 .K87  D87  2002","X030243864","K?rdist?n al-?Uthm?n?yah f? al-ni?f al-awwal min al-qarn al-t?si? ?ashar /","D?sk?, K?m?r?n ?Abd al-?amad A?mad.",2002,TRUE
+"161","ALDERMAN","DR 000435 .K87  G85  1997","X004104402","The Kurds and the future of Turkey /","Gunter, Michael M.",1997,TRUE
+"162","ALDERMAN","DR 000435 .K87  H46  2007","X030249626","The state and Kurds in Turkey : the question of assimilation /","Heper, Metin.",2007,FALSE
+"163","ALDERMAN","DR 000435 .K87  J66  2007","X030101915","The settlement issue in Turkey and the Kurds : an analysis of spatial policies, modernity and war /","Jongerden, Joost.",2007,FALSE
+"164","ALDERMAN","DR 000435 .K87  K57  1997","X004501825","The Kurdish question and Turkey : an example of a trans-state ethnic conflict /","Kiri?ci, Kemal,",1997,FALSE
+"165","ALDERMAN","DR 000435 .K87  K86  2000","X004472367","The Kurdish conflict in Turkey : obstacles and chances for peace and democracy /","",2000,FALSE
+"166","ALDERMAN","DR 000435 .K87  M37  2007","X030261583","Blood and belief : the PKK and the Kurdish fight for independence  /","Marcus, Aliza.",2007,FALSE
+"167","ALDERMAN","DR 000435 .K87  O3359  2007","X030112608","Prison writings : the roots of civilization /","Öcalan, Abdullah.",2007,FALSE
+"168","ALDERMAN","DR 000435 .K87  O44  1989","X001585007","The emergence of Kurdish nationalism and the Sheikh Said Rebellion, 1880-1925 /","Olson, Robert W.",1989,FALSE
+"169","ALDERMAN","DR 000435 .K87  O45  1998","X004141975","The Kurdish question and Turkish-Iranian relations : from World War I to 1998 /","Olson, Robert W.",1998,FALSE
+"170","ALDERMAN","DR 000435 .K87  O923  2006","X004900906","Turkey's Kurds : a theoretical analysis of the PKK and Abdullah Öcalan /","Özcan, Ali Kemal.",2006,FALSE
+"171","ALDERMAN","DR 000435 .K87  O96  2004","X004744197","Kurdish notables and the Ottoman state : evolving identities, competing loyalties, and shifting boundaries /","Özo?lu, Hakan,",2004,FALSE
+"172","ALDERMAN","DR 000435 .K87  S24  2017","X031762584","Kurdish politics in Turkey : from the PKK to the KCK /","Saeed, Seevan,",2017,FALSE
+"173","ALDERMAN","DR 000435 .K87  S363  2011","X030817918","Kurds of modern Turkey : migration, neoliberalism and exclusion in Turkish society /","Saraço?lu, Cenk.",2011,FALSE
+"174","ALDERMAN","DR 000435 .K87  U64  2013","X030611114","Understanding Turkey's Kurdish question /","",2013,FALSE
+"175","ALDERMAN","DR 000435 .K87  Y326  2017","X031809546","The political economy of the Kurds of Turkey : from the Ottoman Empire to the Turkish Republic /","Yadirgi, Veli,",2017,FALSE
+"176","ALDERMAN","DR 000435 .K87  Y56  2005","X004905828","The Kurds in Turkey : EU accession and human rights /","Yildiz, Kerim.",2005,FALSE
+"177","ALDERMAN","DR 000435 .N67  T36  2014","X031630438","The reckoning of pluralism : political belonging and the demands of history in Turkey /","Tambar, Kabir,",2014,TRUE
+"178","ALDERMAN","DR 000435 .R8  S545  2018","X031827132","Spasibo, Konstantinopol?! : po sledam belo?migrantov v Turt?sii /","Sigirdzhi, Marina",2018,FALSE
+"179","ALDERMAN","DR 000435 .S95  Y3313  2016","X031793090","Year of the sword : the Assyrian Christian genocide : a history /","Yacoub, Joseph.",2016,FALSE
+"180","ALDERMAN","DR 000436 .D53  2015","X031856432","Dictionnaire de l'Empire ottoman /","",2015,FALSE
+"181","ALDERMAN","DR 000438.1 .C4913  1990","X001785559","Byzantium, Europe, and the early Ottoman sultans, 1373-1513 : an anonymous Greek chronicle of the seventeenth century (Codex Barberinus Graecus 111) /","",1990,FALSE
+"182","ALDERMAN","DR 000438.1 .M87  2008","X030469634","Exploring Ottoman sovereignty : tradition, image and practice in the Ottoman imperial household, 1400-1800 /","Murphey, Rhoads,",2008,FALSE
+"183","ALDERMAN","DR 000438.1 .S85  2000","X031744515","The sultan's portrait : picturing the House of Osman /","",2000,FALSE
+"184","ALDERMAN","DR 000438.8 .A4276  2016","X032214706","Writing the Ottomans into world history /","Aksan, Virginia H.,",2016,FALSE
+"185","ALDERMAN","DR 000438.8 .M43  2008","X030248896","Empires of Islam in Renaissance historical thought /","Meserve, Margaret.",2008,FALSE
+"186","ALDERMAN","DR 000438.8 .P58  2003","X004704038","An Ottoman tragedy : history and historiography at play /","Piterberg, Gabriel,",2003,FALSE
+"187","ALDERMAN","DR 000438.9 .A45  F44  1986","X001149238","Bureaucrat and intellectual in the Ottoman Empire : the historian Mustafa Âli (1541-1600) /","Fleischer, Cornell H.,",1986,TRUE
+"188","ALDERMAN","DR 000440 .A625  2003","X004843791","Turkey : the quest for identity /","Ahmad, Feroz.",2003,FALSE
+"189","ALDERMAN","DR 000440 .F56  2012","X030610703","Turkey : what everyone needs to know /","Finkel, Andrew,",2012,FALSE
+"190","ALDERMAN","DR 000440 .G63  2011","X030619062","The transformation of Turkey : redefining state and society from the Ottoman Empire to the modern era /","Göçek, Fatma Müge.",2011,FALSE
+"191","CLEMONS","DR 000440 .S5  V.000002","X000076439","History of the Ottoman Empire and modern Turkey /","Shaw, Stanford J. (Stanford Jay),",1976,TRUE
+"192","ALDERMAN","DR 000440 .T85  1994","X002537185","Socialism and nationalism in the Ottoman Empire, 1876-1923 /","Tunçay, Mete.",1994,FALSE
+"193","ALDERMAN","DR 000440 .W45  2014","X031654657","Well-Connected Domains : Towards an Entangled Ottoman History /","",2014,FALSE
+"194","ALDERMAN","DR 000441 .C36  2006  V.1","X030278484","Byzantium to Turkey, 1071-1453 /","",2009,TRUE
+"195","ALDERMAN","DR 000441 .C36  2006  V.2","X030847015","The Ottoman empire as a world power, 1453-1603 /","",2012,TRUE
+"196","ALDERMAN","DR 000441 .C36  2006  V.3","X004834433","The later Ottoman Empire, 1603-1839 /","",2006,TRUE
+"197","ALDERMAN","DR 000441 .C36  2006  V.4","X030457876","Turkey in the modern world /","",2008,TRUE
+"198","ALDERMAN","DR 000441 .D24  1988","X002102641","Turkey : a short history /","Davison, Roderic H.",1988,FALSE
+"199","ALDERMAN","DR 000448 .G66  1994","X002529242","The Janissaries /","Goodwin, Godfrey.",1994,FALSE
+"200","ALDERMAN","DR 000448 .H35  1994","X002444274","Turkish politics and the military /","Hale, William M.",1994,FALSE
+"201","ALDERMAN","DR 000451 .K3713  2012","X031213841","The history of the maritime wars of the Turks /","Kâtip Çelebi,",2012,FALSE
+"202","ALDERMAN","DR 000470 .H35  2000","X004500280","Turkish foreign policy, 1774-2000 /","Hale, William M.",2000,FALSE
+"203","ALDERMAN","DR 000471 .K37  2018","X032582406","Why Turkey is authoritarian : from Atatürk to Erdo?an /","Karaveli, Halil Magnus,",2018,FALSE
+"204","ALDERMAN","DR 000471 .K54  2007","X030798935","A quest for belonging : Anatolia beyond empire and nation (19th-21st centuries) /","Kieser, Hans-Lukas.",2007,FALSE
+"205","ALDERMAN","DR 000471 .O88  2004","X004743213","Ottoman diplomacy : conventional or unconventional? /","",2004,FALSE
+"206","ALDERMAN","DR 000471 .P65  2007","X030261619","The politics of public memory in Turkey /","",2007,FALSE
+"207","ALDERMAN","DR 000472 .C64  1968B","X031646783","The Ottoman impact on Europe /","Coles, Paul.",1968,FALSE
+"208","ALDERMAN","DR 000473 .S53  2001","X004478419","The Islamic world in decline : from the Treaty of Karlowitz to the disintegration of the Ottoman Empire /","Sicker, Martin.",2001,FALSE
+"209","ALDERMAN","DR 000473 .Y55  2018","X031824872","Caliphate redefined : the mystical turn in Ottoman political thought /","Y?lmaz, Hüseyin,",2018,FALSE
+"210","ALDERMAN","DR 000476 .I97  2012","X031609023","""L'ivresse de la liberté"" : La révolution de 1908 dans l'Empire ottoman /","",2012,FALSE
+"211","ALDERMAN","DR 000477 .A29  2019","X032583184","Foreign policy as nation making : Turkey and Egypt in the Cold War /","Abou-El-Fadl, Reem,",2019,FALSE
+"212","ALDERMAN","DR 000477 .B27  1998","X004146302","Etatism and diplomacy in Turkey : economic and foreign policy strategies in an uncertain world, 1929-1939 /","Barlas, Dilek.",1998,FALSE
+"213","ALDERMAN","DR 000477 .B696  2003","X004683288","Turkish foreign policy and Turkish identity : a constructivist approach /","Bozdaglioglu, Yucel.",2003,FALSE
+"214","ALDERMAN","DR 000477 .C35  2017","X031762707","Turkey's Cold War : foreign policy and Western alignment in the modern republic /","Çal??, ?aban H.,",2017,FALSE
+"215","ALDERMAN","DR 000477 .F68  2004","X004699819","The future of Turkish foreign policy /","",2004,FALSE
+"216","ALDERMAN","DR 000477 .F85  2008","X030252598","The new Turkish republic : Turkey as a pivotal state in the Muslim world /","Fuller, Graham E.,",2008,FALSE
+"217","ALDERMAN","DR 000477 .K53  2009","X030567272","Global security watch--Turkey : a reference handbook /","Kibaro?lu, Mustafa,",2009,FALSE
+"218","ALDERMAN","DR 000477 .K68  2011","X030947139","Turkish foreign policy : Islam, nationalism, and globalization /","Kosebalaban, Hasan.",2011,FALSE
+"219","ALDERMAN","DR 000477 .O93  2008","X030457573","Harmonizing foreign policy : Turkey, the EU and the Middle East /","Özcan, Mesut.",2008,FALSE
+"220","ALDERMAN","DR 000477 .R63  2003","X004719148","Suits and uniforms : Turkish foreign policy since the Cold War /","Robins, Philip.",2003,FALSE
+"221","ALDERMAN","DR 000477 .T554  2017","X031760666","The foreign policy of modern Turkey : power and the ideology of Eurasianism /","Tufekci, Ozgur,",2017,FALSE
+"222","ALDERMAN","DR 000477 .T76513  2010","X030818426","Turkish foreign policy, 1919-2006 : facts and analyses with documents /","",2010,FALSE
+"223","ALDERMAN","DR 000477 .T795  2001","X004522216","Turkey in world politics : an emerging multiregional power /","",2001,FALSE
+"224","ALDERMAN","DR 000477 .T797  2003","X004718979","Turkey's foreign policy in the 21st century : a changing role in world politics /","",2003,FALSE
+"225","ALDERMAN","DR 000477 .Z87  1993","X002329659","Turkey : a modern history /","Zürcher, Erik Jan.",1993,FALSE
+"226","CLEMONS","DR 000477 .Z87  1994","X002596253","Turkey : a modern history /","Zürcher, Erik Jan.",1994,FALSE
+"227","ALDERMAN","DR 000479 .E8  E56  2008  V.000002 PT.000002","X031609361","L'Empire ottoman et l'Europe /","",2008,TRUE
+"228","ALDERMAN","DR 000479 .E85  A393  2004","X030036983","Ottomans and Europeans : contacts and conflicts /","Aksan, Virginia H.",2004,FALSE
+"229","ALDERMAN","DR 000479 .E85  D58  2008","X030259385","Turkey decoded /","Dismorr, Ann.",2008,TRUE
+"230","ALDERMAN","DR 000479 .E85  I43  2006","X030338035","Turkey and Europe in history /","?nalc?k, Halil,",2006,FALSE
+"231","ALDERMAN","DR 000479 .E85  N34  2003","X004721466","Turkey : facing a new millennium  : coping with intertwined conflicts /","Nachmani, Amikam.",2003,FALSE
+"232","ALDERMAN","DR 000479 .E85  O78  2019","X032583699","Engaging the Ottoman empire : vexed mediations, 1690-1815 /","O'Quinn, Daniel,",2019,FALSE
+"233","ALDERMAN","DR 000479 .E85  T868  2004","X004774326","Turkey and European integration : accession prospects and issues /","",2004,TRUE
+"234","ALDERMAN","DR 000479 .E85  T87  2003","X004706238","Turkey and the European Union : domestic politics, economic integration, and international dynamics /","",2003,TRUE
+"235","ALDERMAN","DR 000479 .F8  .D87  2017","X032214701","al-?Al?q?t al-?Uthm?n?yah al-Farans?yah, 1520-1566 M /","D?r?, Mu?ayyad ?am?d.",2017,FALSE
+"236","ALDERMAN","DR 000479 .F8  I86  2011","X030947954","Allies with the infidel : the Ottoman and French alliance in the sixteenth century /","Isom-Verhaaren, Christine.",2011,FALSE
+"237","ALDERMAN","DR 000479 .F8  I86  2013","X031619281","Allies with the infidel : the Ottoman and French alliance in the sixteenth century /","Isom-Verhaaren, Christine.",2013,FALSE
+"238","ALDERMAN","DR 000479 .G8  G74  2005","X004858236","Greek-Turkish relations in an era of détente /","",2005,TRUE
+"239","ALDERMAN","DR 000479 .G8  T87  2004","X004900894","Turkish-Greek relations : the security dilemma in the Aegean /","",2004,TRUE
+"240","ALDERMAN","DR 000479 .I7  A84  2013","X031603840","The Ottoman-Iranian borderlands : making a boundary, 1843-1914 /","Ate?, Sabri.",2013,FALSE
+"241","ALDERMAN","DR 000479 .I7  G74  2017","X031819276","The great game in West Asia : Iran, Turkey and the South Caucasus /","",2017,TRUE
+"242","ALDERMAN","DR 000479 .I7  O47  2004","X004769244","Turkey-Iran relations, 1979-2004 : revolution, ideology, war, coups and geopolitics /","Olson, Robert W.",2004,FALSE
+"243","ALDERMAN","DR 000479 .I74  L86  2007","X030103429","The unwelcome neighbour : Turkey's Kurdish policy /","Lundgren, Åsa.",2007,TRUE
+"244","ALDERMAN","DR 000479 .I78  B46  2004","X004773149","The Turkish-Israeli relationship : changing ties of Middle Eastern outsiders /","Bengio, Ofra.",2004,FALSE
+"245","ALDERMAN","DR 000479 .I8  A257  2016","X031659393","Osmanl? ?mparatorlu?u ve Floransa : Akdeniz'de diplomasi, ticaret ve korsanl?k 1453-1599 /","Ac?p?nar, Mikail,",2016,FALSE
+"246","ALDERMAN","DR 000479 .I8  V3513  1993","X002330151","The birth of the despot : Venice and the Sublime Porte /","Valensi, Lucette.",1993,TRUE
+"247","ALDERMAN","DR 000479 .K67  T33  2017","X031793452","The Kosovar Turks and post-Kemalist Turkey : foreign policy, socialisation and resistance /","Tabak, Husrev",2017,TRUE
+"248","ALDERMAN","DR 000479 .M54  B45  2017","X031824557","Kemalist Turkey and the Middle East : international relations in the interwar period /","Bein, Amit,",2017,FALSE
+"249","ALDERMAN","DR 000479 .R9  D87  2017","X032214700","al-?Al?q?t al-?Uthm?n?yah-al-R?s?yah, 1828-1841 M /","D?r?, Anm?r ?Abd al-Jabb?r J?sim",2017,TRUE
+"250","ALDERMAN","DR 000479 .R9  R49  2011","X030815565","Shattering empires : the clash and collapse of the Ottoman and Russian empires, 1908-1918 /","Reynolds, Michael A.,",2011,TRUE
+"251","ALDERMAN","DR 000479 .S95  H56  2013","X031600117","Turkey-Syria relations : between enmity and amity /","",2013,FALSE
+"252","ALDERMAN","DR 000479 .U5  B35  2016","X031790968","Turkey and the US in the Middle East : diplomacy and discord during the Iraq wars /","Balik, Gürcan,",2016,FALSE
+"253","ALDERMAN","DR 000479 .U5  G87  2017","X031805744","The limits of westernization : a cultural history of America in Turkey /","Gurel, Perin,",2017,TRUE
+"254","ALDERMAN","DR 000479 .W4  K57  2018","X031840557","Turkey and the West : fault lines in a troubled alliance /","Kiri?ci, Kemal,",2018,FALSE
+"255","ALDERMAN","DR 000479 .W47  B55  2016","X031792666","Turkey, power and the West : gendered international relations and foreign policy /","Bilgiç, Ali,",2016,FALSE
+"256","ALDERMAN","DR 000481 .D87  2013","X031614001","Empire, authority, and autonomy in Achaemenid Anatolia /","Dusinberre, Elspeth R. M.",2013,FALSE
+"257","ALDERMAN","DR 000481 .P47  2017","X031841971","Persler : Anadolu'da kudret ve görkem /","",2017,FALSE
+"258","ALDERMAN","DR 000481 .W5  2012","X031786788","The rise of the Ottoman Empire : studies in the history of Turkey, 13th-15th centuries /","Wittek, Paul,",2012,FALSE
+"259","ALDERMAN","DR 000485 .E37  2017","X032057592","Early Ottoman history : the Oxford Anonymous chronicle (Bodleian Library, Ms Marsh 313) /","Bodleian Library.",2017,FALSE
+"260","ALDERMAN","DR 000485 .G74  2000  V.4","X004482630","The Great Ottoman-Turkish civilisation [sic] /","",2000,TRUE
+"261","ALDERMAN","DR 000485 .H536  2000","X004438912","A historical archaeology of the Ottoman Empire : breaking new ground /","",2000,FALSE
+"262","ALDERMAN","DR 000485 .O87  2009","X030691367","The Ottoman Mosaic : exploring models for peace by re-exploring the past /","",2009,FALSE
+"263","ALDERMAN","DR 000485 .O88  2000","X004438043","Ottoman past and today's Turkey /","",2000,FALSE
+"264","ALDERMAN","DR 000485 .P678  2011","X031194788","Popular protest and political participation in the Ottoman Empire studies in honor of Suraiya Faroqhi /","",2011,FALSE
+"265","ALDERMAN","DR 000485 .Q37  2000","X004439028","The Ottoman Empire, 1700-1922 /","Quataert, Donald,",2000,FALSE
+"266","ALDERMAN","DR 000486 .A74  2005","X004839021","Turkey : challenges of continuity and change /","Altun???k, Meliha Benli.",2005,FALSE
+"267","ALDERMAN","DR 000486 .D47  1998","X004053888","The Well-protected domains : ideology and the legitimation of power in the Ottoman Empire, 1876-1909 /","Deringil, Selim,",1998,FALSE
+"268","ALDERMAN","DR 000486 .D47  2000","X004603844","The Ottomans, the Turks and world power politics : collected essays /","Deringil, Selim,",2000,FALSE
+"269","ALDERMAN","DR 000486 .E45  2014","X031629122","Geographical knowledge and imperial culture in the early modern Ottoman Empire /","Emiralio?lu, M. Pinar,",2014,FALSE
+"270","ALDERMAN","DR 000486 .E95  D36  2004","X004774337","An Ottoman mentality : the world of Evliya Çelebi /","Dankoff, Robert.",2004,TRUE
+"271","ALDERMAN","DR 000486 .F26  2016","X031795799","A cultural history of the Ottomans : the imperial elite and its artefacts /","Faroghi, Suraiya,",2016,FALSE
+"272","ALDERMAN","DR 000486 .F36  1999","X004393769","Approaching Ottoman history : an introduction to the sources /","Faroqhi, Suraiya,",1999,FALSE
+"273","ALDERMAN","DR 000486 .F367  2004","X004839141","The Ottoman Empire and the world around it /","Faroqhi, Suraiya,",2004,FALSE
+"274","ALDERMAN","DR 000486 .F37  2000","X004435766","Subjects of the Sultan : culture and daily life in the Ottoman Empire /","Faroqhi, Suraiya,",2000,FALSE
+"275","CLEMONS","DR 000486 .F45  2006","X004908636","Osman's dream : the story of the Ottoman Empire, 1300-1923 /","Finkel, Caroline.",2006,FALSE
+"276","ALDERMAN","DR 000486 .F48  2018","X031823795","The proper order of things : language, power, and law in Ottoman administrative discourses /","Ferguson, Heather L.,",2018,FALSE
+"277","ALDERMAN","DR 000486 .F56  2005","X004833564","Osman's dream : the story of the Ottoman Empire, 1300-1923 /","Finkel, Caroline.",2005,FALSE
+"278","ALDERMAN","DR 000486 .G62  2002","X004558933","The Ottoman empire and early modern Europe /","Goffman, Daniel,",2002,FALSE
+"279","ALDERMAN","DR 000486 .G66  1998","X004320752","Lords of the horizons : a history of the Ottoman Empire /","Goodwin, Jason,",1998,FALSE
+"280","ALDERMAN","DR 000486 .G84  2010","X031646677","The Ottoman sultans : mighty guests of the throne /","Gülen, Salih.",2010,FALSE
+"281","ALDERMAN","DR 000486 .I475  1998","X030338432","Essays in Ottoman history /","?nalc?k, Halil,",1998,FALSE
+"282","ALDERMAN","DR 000486 .I4755  2018","X032214943","The Ottoman Empire : sultan, society and economy /","?nalc?k, Halil,",2018,FALSE
+"283","ALDERMAN","DR 000486 .I479  1995","X006074992","From empire to republic : essays on Ottoman and Turkish social history /","?nalc?k, Halil,",1995,FALSE
+"284","ALDERMAN","DR 000486 .I48  1993","X006012887","The Middle East and the Balkans under the Ottoman Empire : essays on economy and society /","?nalc?k, Halil,",1993,FALSE
+"285","CLEMONS","DR 000486 .I5","X000231129","The Ottoman Empire; the classical age, 1300-1600,","?nalc?k, Halil,",1973,FALSE
+"286","ALDERMAN","DR 000486 .I64  2004","X004789555","Insularités ottomanes /","",2004,FALSE
+"287","ALDERMAN","DR 000486 .I88  2011","X031217694","Istanbul as seen from a distance : centre and provinces in the Ottoman Empire /","",2011,FALSE
+"288","CLEMONS","DR 000486 .I89  1980","X000390157","Ottoman Empire and Islamic tradition /","Itzkowitz, Norman.",1980,FALSE
+"289","ALDERMAN","DR 000486 .K34  1995","X002627809","Between two worlds : the construction of the Ottoman state /","Kafadar, Cemal,",1995,FALSE
+"290","ALDERMAN","DR 000486 .K56","X000363283","The Ottoman centuries : the rise and fall of the Turkish empire /","Kinross, Patrick Balfour,",1977,FALSE
+"291","ALDERMAN","DR 000486 .K6313  1992","X002079338","The origins of the Ottoman empire /","Köprülü, Mehmet Fuat,",1992,FALSE
+"292","ALDERMAN","DR 000486 .L36  2004","X004839138","Exploring Ottoman and Turkish history /","Landau, Jacob M.",2004,FALSE
+"293","ALDERMAN","DR 000486 .L58  2016","X031731406","Living in the Ottoman realm : empire and identity, 13th to 20th centuries /","",2016,FALSE
+"294","ALDERMAN","DR 000486 .M33  1997","X006012938","The Ottoman Turks : an introductory history to 1923 /","McCarthy, Justin,",1997,FALSE
+"295","ALDERMAN","DR 000486 .O82513  2001  V.000002","X004719794","History of the Ottoman state, society & civilisation /","",2001,TRUE
+"296","ALDERMAN","DR 000486 .O883  2013","X031642059","Ottoman world.","",2013,FALSE
+"297","ALDERMAN","DR 000486 .O892  2000","X004651684","The Ottomans : a brief story of a world Empire.","",2000,FALSE
+"298","ALDERMAN","DR 000486 .O93  2009","X030569438","Ottoman expansion toward the Indian Ocean in the 16th century /","Özbaran, Salih.",2009,FALSE
+"299","ALDERMAN","DR 000486 .P345  1992","X002228460","The decline and fall of the Ottoman Empire /","Palmer, Alan,",1992,FALSE
+"300","ALDERMAN","DR 000486 .R36  2007","X030262744","Ransom slavery along the Ottoman borders : early fifteenth-early eighteenth centuries /","",2007,FALSE
+"301","ALDERMAN","DR 000486 .R46  2013","X031630285","The Renaissance and the Ottoman world /","",2013,FALSE
+"302","ALDERMAN","DR 000486 .S26  2004","X004770486","Tocqueville in the Ottoman Empire : rival paths to the modern state /","Salzmann, Ariel.",2004,FALSE
+"303","ALDERMAN","DR 000486 .S3  1967","X000201005","The shadow of the crescent: the Renaissance image of the Turk (1453-1517)","Schwoebel, Robert.",1967,FALSE
+"304","ALDERMAN","DR 000486 .S63  2014","X031718999","Slaves without shackles : forced labour and manumission in the Galata court registers, 1560-1572 /","Sobers-Khan, Nur.",2014,FALSE
+"305","ALDERMAN","DR 000486 .T875  2017","X031761794","The formation of Turkish republicanism /","Turnao?lu, Banu,",2017,FALSE
+"306","ALDERMAN","DR 000486 .W44  1993","X002481354","The Ottomans /","Wheatcroft, Andrew.",1993,FALSE
+"307","ALDERMAN","DR 000501 .B313","X000133485","Mehmed the Conqueror and his time /","Babinger, Franz,",1978,FALSE
+"308","ALDERMAN","DR 000501 .C43  D45  2004","X031614729","Le turc et le chevalier : Djem Sultan, un prince ottoman entre Rhodes et Bourganeuf au XVe siècle = The ottoman prince and the knight /","Delhoume, Didier.",2004,TRUE
+"309","ALDERMAN","DR 000501 .E27  2007","X004832956","The early modern Ottomans : remapping the Empire /","",2007,FALSE
+"310","ALDERMAN","DR 000501 .F74  2009","X030276882","The Grand Turk : Sultan Mehmet II - conqueror of Constantinople, master of an empire and lord of two seas /","Freely, John.",2009,FALSE
+"311","ALDERMAN","DR 000501 .K7  1954","X000845132","History of Mehmed the Conqueror;","Kritovoulos,",1954,FALSE
+"312","ALDERMAN","DR 000503 .H37  1995","X002601263","Struggle for domination in the Middle East : the Ottoman-Mamluk War, 1485-91 /","Har-El, Shai.",1995,FALSE
+"313","ALDERMAN","DR 000504 .C56  2017","X031763210","The making of Selim : succession, legitimacy, and memory in the early modern Ottoman world /","Ç?pa, H. Erdem,",2017,FALSE
+"314","ALDERMAN","DR 000504 .S66  2012","X030843327","Idris-i Bidlisi : Ottoman Kurdistan and Islamic legitimacy /","Sönmez, Ebru.",2012,FALSE
+"315","ALDERMAN","DR 000505 .N35  2005","X030033425","Journey to the Sublime Porte : the Arabic memoir of a Sharifian agent's diplomatic mission to the Ottoman Imperial Court in the era of Suleyman the Magnificent ; the relevant text from Qu?b al-D?n al-Nahraw?l?'s al-Faw??id al-san?yah f? al-ri?lah al-Madan?yah wa al-R?m?yah /","Nahraw?l?, Mu?ammad ibn A?mad,",2005,FALSE
+"316","CLEMONS","DR 000506 .C5512  1992B","X002402239","Suleiman the magnificent /","Clot, André.",1992,FALSE
+"317","ALDERMAN","DR 000506 .S63  1995","X002695424","Süleyman the Magnificent and his age : the Ottoman Empire in the early modern world /","",1995,FALSE
+"318","ALDERMAN","DR 000506 .S85  1993","X004020799","Süleymân The Second [i.e. the First] and his time /","",1993,FALSE
+"319","ALDERMAN","DR 000507 .C37  2010","X030608484","The Ottoman age of exploration /","Casale, Giancarlo.",2010,FALSE
+"320","CLEMONS","DR 000507 .L8  1978","X000153013","The government of the Ottoman Empire in the time of Suleiman the Magnificent /","Lybyer, Albert Howe,",1978,FALSE
+"321","ALDERMAN","DR 000507 .N373  A83  2015  V.000002","X032214518","Swordsman, historian, mathematician, artist, calligrapher Matrakç? Nasuh and his Menazilname : account of the stages of Sultan Süleyman Khan's Iraqi campaign /","Atasoy, Nurhan,",2015,TRUE
+"322","ALDERMAN","DR 000509 .H87  P47  2017","X031816382","Empress of the east : how a European slave girl became queen of the Ottoman Empire /","Peirce, Leslie P.,",2017,FALSE
+"323","ALDERMAN","DR 000509 .M87  S34  2013","X030609475","Empire and power in the reign of Süleyman : narrating the sixteenth-century Ottoman world /","?ahin, Kaya,",2013,FALSE
+"324","ALDERMAN","DR 000511 .A26  1991","X002073988","Formation of the modern state : the Ottoman Empire, sixteenth to eighteenth centuries /","Abou-El-Haj, Rifa?at Ali.",1991,FALSE
+"325","ALDERMAN","DR 000511 .A26  2005","X004906499","Formation of the modern state : the Ottoman Empire, sixteenth to eighteenth centuries /","Abou-El-Haj, Rifa?at Ali.",2005,FALSE
+"326","ALDERMAN","DR 000511 .E57  2015","X031731758","Islamic intellectual history in the seventeenth century : scholarly currents in the Ottoman Empire and the Maghreb /","El-Rouayheb, Khaled,",2015,FALSE
+"327","ALDERMAN","DR 000511 .E96  2013","X031653328","The European tributary states of the Ottoman Empire in the sixteenth and seventeenth centuries /","",2013,FALSE
+"328","ALDERMAN","DR 000511 .G73  2017","X031846369","The sultan's renegades : Christian-European converts to Islam and the making of the Ottoman elite, 1575-1610 /","Graf, Tobias P.",2017,FALSE
+"329","ALDERMAN","DR 000511 .T49  2010","X030733447","The second Ottoman Empire : political and social transformation in the early modern world /","Tezcan, Baki.",2010,FALSE
+"330","ALDERMAN","DR 000516 .C37  2006","X004836856","Victory of the West : the story of the Battle of Lepanto /","Capponi, Niccolò.",2006,FALSE
+"331","ALDERMAN","DR 000516 .R5  2008","X030565227","La batalla de Lepanto : cruzada, guerra santa e identidad confesional /","Rivero Rodríguez, Manuel,",2008,FALSE
+"332","ALDERMAN","DR 000521 .F56  1988  APPENDIX","X002753697","The administration of warfare : the Ottoman military campaigns in Hungary, 1593-1606 /","Finkel, Caroline.",1988,FALSE
+"333","ALDERMAN","DR 000523 .A453  E73  2011","X031574268","Mustafa ?Âlî's Nusret-nâme and Ottoman-Safavi conflict /","Eravc?, H. Mustafa.",2011,FALSE
+"334","ALDERMAN","DR 000531 .B37  2008","X030456715","Empire of difference : the Ottomans in comparative perspective /","Barkey, Karen,",2008,FALSE
+"335","ALDERMAN","DR 000531 .H38  2005","X004836087","Beshir Agha : chief eunuch of the Ottoman imperial harem /","Hathaway, Jane.",2005,FALSE
+"336","ALDERMAN","DR 000531 .J86  2016","X031790784","The black eunuchs of the Ottoman Empire : networks of power in the court of the sultan /","Junne, George H.",2016,FALSE
+"337","ALDERMAN","DR 000534 .O94  2017","X031819397","The Women Who Built the Ottoman World : Female Patronage and the Architectural Legacy of Gülnu? Sultan /","Özgüle?, Muzaffer,",2017,FALSE
+"338","ALDERMAN","DR 000534 .R9  2017","X031814689","The present state of the Ottoman Empire /","Rycaut, Paul,",2017,FALSE
+"339","ALDERMAN","DR 000536 .S76  1965","X000441566","The Siege of Vienna","Stoye, John,",1965,FALSE
+"340","ALDERMAN","DR 000542 .A37  2007","X004832551","Ottoman wars 1700-1870 : an empire besieged /","Aksan, Virginia H.",2007,FALSE
+"341","ALDERMAN","DR 000553 .A3913  2011","X030875596","Hulâsatü?l-i?tibâr = A summary of admonitions : a chronicle of the 1768-1774 Russian-Ottoman War /","Ahmet Resmî Efendi,",2011,FALSE
+"342","ALDERMAN","DR 000553 .T68  2008","X030244102","La guerre russo-turque, 1768-1774, et la défense des Dardanelles : l'extraordinaire mission du baron de Tott /","Tóth, Ferenc.",2008,FALSE
+"343","ALDERMAN","DR 000555 .D38  1990","X001858720","Essays in Ottoman and Turkish history, 1774-1923 : the impact of the West /","Davison, Roderic H.",1990,FALSE
+"344","ALDERMAN","DR 000557 .B4  1998","X004319018","The development of secularism in Turkey /","Berkes, Niyazi.",1998,FALSE
+"345","ALDERMAN","DR 000557 .D47  2012","X030845747","Conversion and apostasy in the late Ottoman Empire /","Deringil, Selim,",2012,FALSE
+"346","ALDERMAN","DR 000557 .E47  2012","X030843902","Remapping the Ottoman Middle East : modernity, imperial bureaucracy, and the Islamic state /","Emrence, Cem.",2012,FALSE
+"347","ALDERMAN","DR 000557 .F56  2010","X030745519","Turkey, Islam, nationalism, and modernity : a history, 1789-2007 /","Findley, Carter V.,",2010,FALSE
+"348","ALDERMAN","DR 000557 .H36  2008","X030253683","A brief history of the late Ottoman empire /","Hanio?lu, M. ?ükrü.",2008,FALSE
+"349","ALDERMAN","DR 000557 .O88  2016","X031791044","The Ottoman East in the nineteenth century : societies, identities and politics /","",2016,FALSE
+"350","ALDERMAN","DR 000557 .Z35  2017","X032214705","A modernist approach towards Turkish nationalism : the case of language policies in early republican Turkey /","Zakari, Andre,",2017,FALSE
+"351","ALDERMAN","DR 000558 .A343  M46  2017","X031819410","The first of the modern Ottomans : the intellectual history of Ahmed Vas?f /","Menchinger, Ethan L.,",2017,FALSE
+"352","ALDERMAN","DR 000558 .Y87  A73  2013","X031777580","Yusuf Agah Efendi : The First Turkish Ambassador in 18th Century London /","Arac?, Emre",2013,FALSE
+"353","ALDERMAN","DR 000559 .A39  2007","X030109548","Turkey from empire to revolutionary republic : the emergence of the Turkish nation from 1789 to the present /","Ak?in, Sina.",2007,FALSE
+"354","ALDERMAN","DR 000559 .B37  2014","X031654656","Selim III, social control and policing in Istanbul at the end of the eighteenth century : between crisis and order /","Ba?aran, Betül,",2014,FALSE
+"355","ALDERMAN","DR 000559 .Y39  2016","X031795380","Partners of the empire : the crisis of the Ottoman order in the Age of Revolutions /","Yaycioglu, Ali,",2016,FALSE
+"356","ALDERMAN","DR 000559 .Y55  2016","X031763356","Crisis and rebellion in the Ottoman Empire : the downfall of a Sultan in the Age of Revolution /","Yildiz, Aysel",2017,FALSE
+"357","ALDERMAN","DR 000568 .A83  2016","X032214652","Mawqif al-Dawlah al-?Uthm?n?yah min al-a?d?th al-siy?s?yah f? al-Qa??m, 1289-1326 H/1872-1908 M /","?A?an?, Sulaym?n ibn Mu?ammad,",2016,FALSE
+"358","ALDERMAN","DR 000568 .B84  2012","X030959265","Plague, quarantines and geopolitics in the Ottoman Empire /","Bulmu?, Birsen.",2012,FALSE
+"359","ALDERMAN","DR 000568 .S58  2018","X032583085","The emergence of public opinion : state and society in the late Ottoman empire /","?ivilo?lu, Murat R.,",2018,FALSE
+"360","ALDERMAN","DR 000568.8 .E37  A3  2011","X031667022","Çanakkale, Irak ve ?ran cephelerinden harp günlükleri /","Ege, Abidin,",2011,FALSE
+"361","CLEMONS","DR 000569 .D3  1963","X000191093","Reform in the Ottoman Empire, 1856-1876.","Davison, Roderic H.",1963,FALSE
+"362","ALDERMAN","DR 000571 .F85  2018","X032214906","Mawqif al-Bay?ritah min al-thawrah ?idda al-Sul??n ?Abd al-?am?d al-Th?n?, 1908-1909 /","Fulayfil, B?sim Marw?n,",2018,FALSE
+"363","ALDERMAN","DR 000571 .M56  2016","X031791857","The Ottoman scramble for Africa : empire and diplomacy in the Sahara and the Hijaz /","Minawi, Mostafa,",2016,FALSE
+"364","ALDERMAN","DR 000572 .K28  2001","X004475794","The politicization of Islam : reconstructing identity, state, faith, and community in the late Ottoman state /","Karpat, Kemal H.",2001,FALSE
+"365","ALDERMAN","DR 000572.5 .H37  1995","X002600723","The Young Turks in opposition /","Hanio?lu, M. ?ükrü.",1995,FALSE
+"366","ALDERMAN","DR 000572.5 .H375  2001","X004472358","Preparation for a revolution : the Young Turks, 1902-1908 /","Hanio?lu, M. ?ükrü.",2001,FALSE
+"367","ALDERMAN","DR 000573 .R67  2006","X030203236","Rossii?a i Bolgarii?a : k 125-letii?u russko-turet?sko? vo?ny 1875-1878 gg. /","",2006,FALSE
+"368","ALDERMAN","DR 000573 .Z636  2005","X004853159","Protivoborstvo imperi? : vo?na 1877-1878 gg. : apofeoz vostochnogo krizisa /","Zolotarev, V. A. (Vladimir Antonovich)",2005,FALSE
+"369","ALDERMAN","DR 000573.3 .W37  2011","X030948260","War and diplomacy : the Russo-Turkish War of 1877-1878 and the Treaty of Berlin /","",2011,FALSE
+"370","ALDERMAN","DR 000573.4 .G87  2007","X030203227","Pis?ma svi?ashchennika s pokhoda 1877-1878 gg. /","Gur?ev, Vakkh,",2007,FALSE
+"371","ALDERMAN","DR 000576 .A33  2008  V.000002","X030568524","From empire to republic : essays on the late Ottoman empire and modern Turkey /","Ahmad, Feroz.",2008,TRUE
+"372","ALDERMAN","DR 000576 .A38  1993","X002251606","The making of modern Turkey /","Ahmad, Feroz.",1993,FALSE
+"373","ALDERMAN","DR 000576 .A39  2007","X030612620","Suq?? al-khil?fah : ?Arab bil?d al-Sh?m wa-al-dawlah al-?Uthm?n?yah?! /","A?mad, Mu?ammad ?Al?.",2007,FALSE
+"374","ALDERMAN","DR 000576 .A428  2015","X031731094","National and state identity in Turkey : the transformation of the Republic's status in the international system /","Alaranta, Toni.,",2015,FALSE
+"375","ALDERMAN","DR 000576 .B69  2007","X030102481","Ottomans, Turks and the Balkans : empire lost, relations altered /","Boyar, Ebru.",2007,FALSE
+"376","ALDERMAN","DR 000576 .K35  2005","X004903290","Turkish dynamics : bridge across troubled lands /","Kalayc?o?lu, Ersin.",2005,FALSE
+"377","ALDERMAN","DR 000576 .K56  2001","X004554139","Crescent and star : Turkey between two worlds /","Kinzer, Stephen.",2001,FALSE
+"378","ALDERMAN","DR 000576 .K56  2008","X030471984","Crescent and star : Turkey between two worlds /","Kinzer, Stephen.",2008,FALSE
+"379","ALDERMAN","DR 000576 .K73  2000","X004410313","A Changing Turkey : the challenge to Europe and the United States /","Kramer, Heinz.",2000,FALSE
+"380","ALDERMAN","DR 000576 .M356  2004","X004861547","The Turks today /","Mango, Andrew.",2004,FALSE
+"381","CLEMONS","DR 000576 .M356  2004","X004874082","The Turks today /","Mango, Andrew.",2004,FALSE
+"382","ALDERMAN","DR 000576 .M63  2001  C.000008","X030464892","Modern Türkiye'de siyasî dü?ünce /","",2001,TRUE
+"383","ALDERMAN","DR 000576 .N46  2005","X004835045","The Birth of modern Turkey : the Ottoman military and the march to World War I /","Akme?e, Handan Nezir.",2005,FALSE
+"384","ALDERMAN","DR 000576 .O95  2012","X031214688","From the abode of Islam to the Turkish vatan : the making of a national homeland in Turkey /","Özkan, Behlül,",2012,FALSE
+"385","ALDERMAN","DR 000576 .P67  1997","X004072202","Turkey unveiled : Atatürk and after /","Pope, Nicole.",1997,FALSE
+"386","ALDERMAN","DR 000576 .P675  2011","X031607044","Turkey unveiled : a history of modern Turkey /","Pope, Nicole.",2011,FALSE
+"387","CLEMONS","DR 000576 .P68  1998","X004247677","Turkey unveiled : a history of modern Turkey /","Pope, Nicole.",1998,FALSE
+"388","ALDERMAN","DR 000576 .S696  2015","X031797555","The Turkish deep state : state consolidation, civil-military relations and democracy /","Söyler, Mehtap,",2015,FALSE
+"389","ALDERMAN","DR 000576 .T86  2000","X004435174","Rise of the young Turks : politics, the military and Ottoman collapse /","Turfan, M. Naim (Mehmed Naim),",2000,FALSE
+"390","ALDERMAN","DR 000576 .T863  1999","X006018685","Turkey before and after Atatürk : internal and external affairs /","",1999,FALSE
+"391","ALDERMAN","DR 000576 .T864  2006","X030106917","Turkey beyond nationalism : towards post-nationalist identities /","",2006,FALSE
+"392","ALDERMAN","DR 000576 .U54  2011","X030947508","The making of modern Turkey : nation and state in Eastern Anatolia, 1913-1950 /","Üngör, U?ur Ümit,",2011,FALSE
+"393","ALDERMAN","DR 000576 .U94  2016","X031791702","An intellectual history of Turkish nationalism : between Turkish ethnicity and Islamic identity /","Uzer, Umut,",2016,FALSE
+"394","ALDERMAN","DR 000576 .Z873  2010","X030745915","The young Turk legacy and nation building : from the Ottoman Empire to Atatürk's Turkey /","Zürcher, Erik Jan.",2010,FALSE
+"395","ALDERMAN","DR 000577 .Z87  2004","X004771327","Turkey : a modern history /","Zürcher, Erik Jan.",2004,FALSE
+"396","ALDERMAN","DR 000577 .Z87  2017","X031809977","Turkey : a modern history /","Zürcher, Erik Jan,",2017,FALSE
+"397","ALDERMAN","DR 000583 .E75  2008","X030279107","Ottomans looking west? : the origins of the Tulip Age and its development in modern Turkey /","Erimtan, Can.",2008,FALSE
+"398","ALDERMAN","DR 000583 .L48  1961","X000212971","The emergence of modern Turkey. Issued under the auspices of the Royal Institute of International Affairs.","Lewis, Bernard,",1961,FALSE
+"399","ALDERMAN","DR 000583 .L48  1968","X000123553","The emergence of modern Turkey.","Lewis, Bernard,",1968,FALSE
+"400","ALDERMAN","DR 000583 .M38  1998","X006020737","The end of the Ottoman Empire, 1908-1923 /","Macfie, A. L.",1998,FALSE
+"401","ALDERMAN","DR 000583 .Y68  2017","X031763470","The Young Turk revolution and the Ottoman Empire : the aftermath of 1908 /","",2017,FALSE
+"402","ALDERMAN","DR 000584 .A6","X000845180","The Young Turks; the Committee of Union and Progress in Turkish politics, 1908-1914.","Ahmad, Feroz.",1969,FALSE
+"403","ALDERMAN","DR 000584 .G56  2009","X030278309","Sorrowful shores : violence, ethnicity, and the end of the Ottoman Empire, 1912-1923 /","Gingeras, Ryan.",2009,FALSE
+"404","ALDERMAN","DR 000584.5 .A56  2014","X031650907","The Young Turks and the Ottoman nationalities : Armenians, Greeks, Albanians, Jews, and Arabs, 1908-1918 /","Ahmad, Feroz,",2014,FALSE
+"405","ALDERMAN","DR 000584.5 .D47  2014","X031652829","Shattered dreams of revolution : from liberty to violence in the late Ottoman Empire /","Der Matossian, Bedross,",2014,FALSE
+"406","ALDERMAN","DR 000588 .A39  2008","X030277879","The Ottoman road to war in 1914 : the Ottoman Empire and the First World War /","Aksakal, Mustafa,",2008,FALSE
+"407","ALDERMAN","DR 000588 .A46  2011","X030818895","Among the Ottomans : diaries from Turkey in World War I /","",2011,FALSE
+"408","ALDERMAN","DR 000588 .S438  2006  V.000001","X030498660","The Ottoman Empire in World War I /","Shaw, Stanford J. (Stanford Jay),",2006,TRUE
+"409","ALDERMAN","DR 000588 .W37  2016","X031795038","War and collapse : World War I and the Ottoman State /","",2016,FALSE
+"410","ALDERMAN","DR 000589 .B25  1981","X001220401","Ataturk, the rebirth of a nation /","Kinross, Patrick Balfour,",1981,FALSE
+"411","ALDERMAN","DR 000589 .S77  2011","X031743301","Clarence K. Streit's The unknown Turks : Mustafa Kemal Pa?a, nationalist Ankara & daily life in Anatolia, January - March 1921 /","Streit, Clarence K. (Clarence Kirshman),",2011,FALSE
+"412","ALDERMAN","DR 000589 .S85  2011","X030976404","A massacre averted : an Armenian town, an American nurse, and the Turkish army they resisted : the memories of Mary Watson Super /","Super, Mary,",2011,FALSE
+"413","ALDERMAN","DR 000590 .A694  1977","X000416673","The Turkish experiment in democracy, 1950-1975 /","Ahmad, Feroz.",1977,FALSE
+"414","ALDERMAN","DR 000590 .A837  1984","X000865616","Atatürk and the modernization of Turkey /","",1984,FALSE
+"415","ALDERMAN","DR 000590 .A95  2010","X030621444","Islam and secularism in Turkey : Kemalism, religion and the nation state /","Azak, Umut.",2010,FALSE
+"416","ALDERMAN","DR 000590 .B374  2014","X031656330","Formation of the Turkish nation-state, 1920-1938 /","Bayar, Ye?im,",2014,FALSE
+"417","ALDERMAN","DR 000590 .B42  2016","X031735044","Imagined communities in Greece and Turkey : trauma and the population exchanges under Atatürk /","Bedlek, Emine Ye?im,",2016,FALSE
+"418","ALDERMAN","DR 000590 .F57  2009","X030694639","The first ten years of the Turkish Republic thru the reports of American diplomats /","",2009,FALSE
+"419","ALDERMAN","DR 000590 .I35  2018","X031814299","Humanism in ruins : entangled legacies of the Greek-Turkish population exchange /","I?s?z, Asl?,",2018,FALSE
+"420","ALDERMAN","DR 000590 .K378  2005","X004862714","The Kemalists : Islamic revival and the fate of secular Turkey /","Kaylan, Muammer.",2005,FALSE
+"421","ALDERMAN","DR 000590 .K42  2019","X032561134","Kemalism : transnational politics in the post-Ottoman world /","",2019,FALSE
+"422","ALDERMAN","DR 000590 .L26  2015","X031705506","Nation-building in modern Turkey : the 'People's Houses', the state and the citizen /","Lamprou, Alexandros.",2015,FALSE
+"423","ALDERMAN","DR 000590 .M345  2009","X031199101","From the Sultan to Atatürk : Turkey /","Mango, Andrew.",2009,FALSE
+"424","ALDERMAN","DR 000590 .M63  1984","X000938438","Modern Turkey : continuity and change /","",1984,FALSE
+"425","ALDERMAN","DR 000590 .O96  2011","X030947017","From Caliphate to secular state : power struggle in the early Turkish Republic /","Özo?lu, Hakan,",2011,FALSE
+"426","ALDERMAN","DR 000590 .P45  2014","X031654109","Military intervention and a crisis democracy in Turkey : the Menderes era and its demise /","Pelt, Mogens.",2014,FALSE
+"427","ALDERMAN","DR 000590 .S48  2000","X006118670","Seventy-five years of the Turkish Republic /","",2000,FALSE
+"428","ALDERMAN","DR 000590 .T837  2013","X031614310","Turkey in the Cold War : ideology and culture /","",2013,FALSE
+"429","ALDERMAN","DR 000590 .T84  1987","X001211492","Turkey in transition : new perspectives /","",1987,FALSE
+"430","ALDERMAN","DR 000590 .T87  2010","X030720646","Turkey's engagement with modernity : conflict and change in the twentieth century /","",2010,FALSE
+"431","ALDERMAN","DR 000590 .Y3  1956","X000592829","Turkey in my time.","Yalman, Ahmet Emin,",1956,FALSE
+"432","ALDERMAN","DR 000590 .Y53  2006","X030107645","Diplomacy and displacement : reconsidering the Turco-Greek exchange of populations, 1922-1934 /","Yildirim, Onur,",2006,FALSE
+"433","ALDERMAN","DR 000590 .Y534  2017","X031793288","Politics and the peasantry in post-war Turkey : social history, culture and modernization /","Yildirmaz, Sinan",2017,FALSE
+"434","ALDERMAN","DR 000590 .Y54  2013","X031618963","Becoming Turkish : nationalist reforms and cultural negotiations in early republican Turkey, 1923-1945 /","Y?lmaz, Hale,",2013,FALSE
+"435","ALDERMAN","DR 000592 .A4  A3  2003","X030162149","House with wisteria : memoirs of Halidé Edib /","Ad?var, Halide Edib,",2003,FALSE
+"436","ALDERMAN","DR 000592 .A4  A3  2004","X004809915","Memoirs of Halidé Edib /","Ad?var, Halide Edib,",2004,FALSE
+"437","ALDERMAN","DR 000592 .A4  H37  2010","X030769789","Between modernity and nationalism : Halide Edip's encounter with Gandhi's India /","Hasan, Mushirul.",2010,FALSE
+"438","ALDERMAN","DR 000592 .C46  C53  2014","X031580239","War and state formation in Syria : Cemal Pasha's governorate during World War I, 1914-1917 /","Çiçek, M. Talha.",2014,TRUE
+"439","ALDERMAN","DR 000592 .H355  W37  2017","X031824683","Turkish nomad : the intellectual journey of Talat S. Halman /","Warner, Jayne L.,",2017,FALSE
+"440","ALDERMAN","DR 000592 .I5  V36  2005","X004896597","The politics of Turkish democracy : Ismet Inönü and the formation of the multi-party system, 1938-1950 /","VanderLippe, John M.",2005,TRUE
+"441","ALDERMAN","DR 000592 .K4  A855  1981","X000369278","Atatürk, founder of a modern state /","",1981,FALSE
+"442","ALDERMAN","DR 000592 .K4  B35  2007","X030382559","New documents on Atatürk : Atatürk as viewed through the eyes of American diplomats /","Bali, R?fat N.,",2007,FALSE
+"443","ALDERMAN","DR 000592 .K4  H36  2011","X030945196","Atatürk : an intellectual biography /","Hanio?lu, M. ?ükrü.",2011,FALSE
+"444","ALDERMAN","DR 000592 .K4  I37  2014","X031707602","Atatürk in the Nazi imagination /","Ihrig, Stefan,",2014,FALSE
+"445","ALDERMAN","DR 000592 .K4  J4817  2008","X030549166","Kemal? Atati?urk /","Jevakhoff, Alexandre,",2008,FALSE
+"446","ALDERMAN","DR 000592 .K4  K54  2009","X030628770","At?t?rk : wa-dawrahu f? al-qa??? ?alá al-khil?fah al-?Uthm?n?yah /","Khi?r, Hish?m.",2009,FALSE
+"447","ALDERMAN","DR 000592 .K4  M3  1994","X002546393","Atatürk /","Macfie, A. L. (Alec Lawrence),",1994,FALSE
+"448","ALDERMAN","DR 000592 .K4  M36  2000","X004410086","Atatürk : [the biography of the founder of modern Turkey] /","Mango, Andrew.",2000,FALSE
+"449","ALDERMAN","DR 000592 .K8  F55  2016","X031793368","The circassian : a life of E?ref Bey, late Ottoman insurgent and special agent /","Fortna, Benjamin C.,",2016,TRUE
+"450","ALDERMAN","DR 000592 .P32  A4  2005","X030405238","Amele taburu : the military journal of a Jewish soldier in Turkey during the war of independence /","Paker, Ya?ar,",2005,FALSE
+"451","ALDERMAN","DR 000593 .K45  1996","X002755595","Dervish : the invention of modern Turkey /","Kelsey, Tim.",1996,FALSE
+"452","ALDERMAN","DR 000593 .P65  2002","X004633200","Political leaders and democracy in Turkey /","",2002,FALSE
+"453","ALDERMAN","DR 000593 .T86  2001","X004536875","Turkey since 1970 : politics, economics and society /","",2001,FALSE
+"454","ALDERMAN","DR 000601 .B5713  1987","X030832227","The general's coup in Turkey : an inside story of 12 September 1980 /","Birand, Mehmet Ali,",1987,FALSE
+"455","ALDERMAN","DR 000603 .A23  2017","X031760686","Contemporary Turkey in conflict : ethnicity, Islam and politics /","Abbas, Tahir,",2017,FALSE
+"456","ALDERMAN","DR 000603 .A847  2017","X031819222","Authoritarian politics in Turkey : elections, resistance and the AKP /","",2017,FALSE
+"457","ALDERMAN","DR 000603 .C33  2017","X031761411","The new sultan : Erdogan and the crisis of modern Turkey /","Ça?aptay, Soner,",2017,FALSE
+"458","ALDERMAN","DR 000603 .C37  2007","X004834967","Turkish democracy today : elections, protest and stability in an Islamic society /","Çarko?lu, Ali,",2007,FALSE
+"459","ALDERMAN","DR 000603 .C67  2001","X004516112","Turkey in the 21st century : opportunities, challenges, threats /","Cornell, Erik.",2001,FALSE
+"460","ALDERMAN","DR 000603 .E46  2006","X004895410","The emergence of a new Turkey : democracy and the AK Parti /","",2006,FALSE
+"461","CLEMONS","DR 000603 .F845  2014","X031601450","Turkey and the Arab Spring : leadership in the Middle East /","Fuller, Graham E.,",2014,FALSE
+"462","ALDERMAN","DR 000603 .F85  1993","X002301618","Turkey's new geopolitics : from the Balkans to Western China /","Fuller, Graham E.,",1993,FALSE
+"463","ALDERMAN","DR 000603 .G46  2016","X031792665","Under the shadow : rage and revolution in modern Turkey /","Genç, Kaya,",2016,FALSE
+"464","ALDERMAN","DR 000603 .G868  2011","X030817676","The new cultural climate in Turkey : living in a shop window /","Gürbilek, Nurdan,",2011,FALSE
+"465","ALDERMAN","DR 000603 .H68  2001","X006120345","Islam, Kurds and the Turkish nation state /","Houston, Christopher.",2001,FALSE
+"466","ALDERMAN","DR 000603 .K87  1996","X004071019","The Kurdish nationalist movement in the 1990s : its impact on Turkey and the Middle East /","",1996,FALSE
+"467","ALDERMAN","DR 000603 .M43  2018","X031840497","Conspiracy theory in Turkey : politics and protest in the age of 'post-truth' /","Medeiros, Julian de,",2018,FALSE
+"468","ALDERMAN","DR 000603 .O38  2011","X030816483","Turkey since 1989 : angry nation /","Öktem, Kerem,",2011,FALSE
+"469","ALDERMAN","DR 000603 .O47  2009","X030607859","Blood, beliefs and ballots : the management of Kurdish nationalism in Turkey, 2007-2009 /","Olson, Robert W.",2009,FALSE
+"470","ALDERMAN","DR 000603 .P65  2002","X004590796","The politics of permanent crisis : class, ideology and state in Turkey /","",2002,FALSE
+"471","ALDERMAN","DR 000603 .R46  2007","X030252038","Remaking Turkey : globalization, alternative modernities, and democracy /","",2007,FALSE
+"472","ALDERMAN","DR 000603 .T47  2016","X031795692","Turkey : the insane and the melancholy /","Temelkuran, Ece,",2016,FALSE
+"473","ALDERMAN","DR 000603 .T77  2007","X030110789","Between Islam and the state : the politics of engagement /","Turam, Berna.",2007,FALSE
+"474","ALDERMAN","DR 000603 .T8376  2018","X031841495","Turkey's July 15th coup : what happened and why /","",2018,FALSE
+"475","ALDERMAN","DR 000603 .T8383  2013","X030609218","Turkey between nationalism and globalization /","",2013,FALSE
+"476","ALDERMAN","DR 000603 .T86313  2005","X004896914","Turkey today : a European country? /","",2005,FALSE
+"477","ALDERMAN","DR 000603 .Y375  2009","X030467824","Secularism and Muslim democracy in Turkey /","Yavuz, M. Hakan.",2009,FALSE
+"478","ALDERMAN","DR 000605 .E73  V37  2015","X031790618","Hungry for power : Erdo?an's witch hunt and abuse of state power /","Vatanda?, Aydo?an,",2015,TRUE
+"479","ALDERMAN","DR 000701 .M2  S5  KN.000002","X031858597","Istorija na makedonskiot narod/ [Redakcija: Mihailo Apostolski (i dr.)]","Institut za nacionalna istorija (Skopje, Macedonia)",1969,TRUE
+"480","ALDERMAN","DR 000719 .K49  1999","X004339536","Istanbul : between the global and the local /","Keyder, Ça?lar.",1999,FALSE
+"481","ALDERMAN","DR 000719 .L48  2013","X031602654","Ordre et desordres dans l'Istanbul ottomane : 1879-1909 : de l'etat au quartier /","Levy-Aksu, Noémi.",2013,FALSE
+"482","ALDERMAN","DR 000720 .G513  2008","X030258718","Pierre Gilles' Constantinople : a modern English translation with commentary /","Gilles, Pierre,",2008,FALSE
+"483","ALDERMAN","DR 000720 .H513  2001","X031803960","Domenico's Istanbul /","Domenico,",2001,FALSE
+"484","ALDERMAN","DR 000721 .M95513  2008","X030252338","Spies, scandals, and sultans : Istanbul in the twilight of the Ottoman Empire : the first English translation of Egyptian Ibrahim al-Muwaylihi's Ma hanalik /","Muwayli??, Ibr?h?m,",2008,FALSE
+"485","ALDERMAN","DR 000723 .P36  2005","X004863286","Istanbul : memories and the city /","Pamuk, Orhan,",2005,FALSE
+"486","ALDERMAN","DR 000726 .C35  2014","X031650010","?ehrengiz, urban rituals and deviant Sufi mysticism in Ottoman Istanbul /","Çal??-Kural, B. Deniz,",2014,FALSE
+"487","CLEMONS","DR 000726 .L4","X000123687","Istanbul and the civilization of the Ottoman Empire.","Lewis, Bernard,",1963,FALSE
+"488","ALDERMAN","DR 000726 .O75  2010","X030720166","Orienting Istanbul : cultural capital of Europe? /","",2010,FALSE
+"489","ALDERMAN","DR 000727 .G74  V96  2005","X004943540","The mechanism of catastrophe : the Turkish pogrom of September 6-7, 1955, and the destruction of the Greek community of Istanbul /","Vryonis, Speros,",2005,TRUE
+"490","ALDERMAN","DR 000728 .C53  2010","X030819269","Istanbul : a cultural and literary history /","Clark, Peter,",2010,FALSE
+"491","CLEMONS","DR 000728 .F73  1996","X004104687","Istanbul : the imperial city /","Freely, John.",1996,FALSE
+"492","ALDERMAN","DR 000728 .H84  2017","X031819389","Istanbul : a tale of three cities /","Hughes, Bettany,",2017,FALSE
+"493","ALDERMAN","DR 000728 .S78  2007","X030252328","Studies on Istanbul and beyond /","",2007,FALSE
+"494","ALDERMAN","DR 000729 .B99  2001","X004555269","Byzantine Constantinople : monuments, topography and everyday life /","",2001,FALSE
+"495","ALDERMAN","DR 000729 .F76  2016","X031758891","From Constantinople to the frontier : the City and the cities /","",2016,FALSE
+"496","ALDERMAN","DR 000729 .H37  2007","X030278554","Constantinople : capital of Byzantium /","Harris, Jonathan.",2007,FALSE
+"497","ALDERMAN","DR 000729 .S4413  2013","X031614789","Accounts of medieval Constantinople : the Patria /","",2013,FALSE
+"498","ALDERMAN","DR 000730 .B69  2010","X030621063","A social history of Ottoman Istanbul /","Boyar, Ebru.",2010,FALSE
+"499","ALDERMAN","DR 000730 .C76  2005","X030105868","1453 : the holy war for Constantinople and the clash of Islam and the West /","Crowley, Roger,",2005,FALSE
+"500","ALDERMAN","DR 000730 .H34  2008","X030331266","The city's pleasures : Istanbul in the eighteenth century /","Hamadeh, Shirine.",2008,FALSE
+"501","ALDERMAN","DR 000730 .I53  2012","X031665032","The survey of Istanbul 1455 : the text, English translation, analysis of the text, documents /","?nalc?k, Halil,",2012,FALSE
+"502","ALDERMAN","DR 000730 .M23  2007","X031798448","Studies on the history and topography of Byzantine Constantinople /","Magdalino, Paul.",2007,FALSE
+"503","ALDERMAN","DR 000730 .M25  1994","X002601920","Istanbul au siècle de Soliman le magnifique /","Mantran, Robert.",1994,FALSE
+"504","CLEMONS","DR 000730 .M25  1996","X004067178","Constantinople : city of the world's desire, 1453-1924 /","Mansel, Philip,",1996,FALSE
+"505","ALDERMAN","DR 000730 .M35  1995","X002701186","Constantinople : city of the world's desire 1453-1924 /","Mansel, Philip,",1995,FALSE
+"506","ALDERMAN","DR 000731 .C75  1999","X004302087","Istanbul under allied occupation, 1918-1923 /","Criss, Bilge.",1999,FALSE
+"507","ALDERMAN","DR 000731 .G85  2009","X030277439","The emergence of modern Istanbul : transformation and modernisation of a city /","Gül, Murat.",2009,FALSE
+"508","ALDERMAN","DR 000731 .K56  2014","X031650528","Midnight at the Pera Palace : the birth of modern Istanbul /","King, Charles,",2014,FALSE
+"509","ALDERMAN","DR 000737 .Z37  2018","X032220810","Mediterranean encounters : trade and pluralism in early modern Galata /","Zarinebaf, F. (Fariba),",2017,FALSE
+"510","ALDERMAN","DR 000738.5 .K89  M55  2010","X030733251","Streets of memory : landscape, tolerance, and national identity in Istanbul /","Mills, Amy,",2010,FALSE
+"511","ALDERMAN","DR 000739 .M37  P36  2012","X030842322","The innocence of objects /","Pamuk, Orhan,",2012,FALSE
+"512","ALDERMAN","DR 000739 .S47  S74  2016","X031818875","The Serpent Column : a cultural biography /","Stephenson, Paul,",2016,FALSE
+"513","ALDERMAN","DR 000741 .A44  K55  2014","X031737485","Die Ruinen von Alexandria Troas : Bestandsaufnahme der ""Thermen des Herodes Atticus"" und des ""Maldelik"" mit Vorberichten der Untersuchungen von R. Koldewey und A.C.G. Smith /","Klinkott, Manfred.",2014,FALSE
+"514","ALDERMAN","DR 000904 .E16  2003","X004749012","Early Albania : a reader of historical texts, 11th-17th centuries /","",2003,FALSE
+"515","ALDERMAN","DR 000941 .V53  1995","X002717046","The Albanians : a modern history /","Vickers, Miranda.",1995,FALSE
+"516","ALDERMAN","DR 000941 .V53  1999","X004087899","The Albanians : a modern history /","Vickers, Miranda.",1999,FALSE
+"517","ALDERMAN","DR 000963.25 .B78  M25  2015","X031731909","Agents of empire : knights, corsairs, Jesuits and spies in the sixteenth-century Mediterranean world /","Malcolm, Noel",2015,FALSE
+"518","ALDERMAN","DR 001206 .Y84  1994","X002523689","Yugoslavia through documents : from its creation to its dissolution /","",1994,FALSE
+"519","ALDERMAN","DR 001229 .N45  2000","X004439792","Neighbors at war : anthropological perspectives on Yugoslav ethnicity, culture, and history /","",2000,FALSE
+"520","ALDERMAN","DR 001230 .S46  C57  2004","X004743796","The Serbs /","?irkovi?, Sima M.,",2004,TRUE
+"521","CLEMONS","DR 001246 .B46  1995","X002642128","Yugoslavia's bloody collapse : causes, course and consequences /","Bennett, Christopher.",1995,FALSE
+"522","ALDERMAN","DR 001246 .B46  1995B","X002651601","Yugoslavia's bloody collapse : causes, course and consequences /","Bennett, Christopher.",1995,FALSE
+"523","CLEMONS","DR 001246 .B87  1997","X004107134","Burn this house : the making and unmaking of Yugoslavia /","",1997,FALSE
+"524","ALDERMAN","DR 001246 .D73  2010","X030625526","Constructing Yugoslavia : a transnational history /","Drapac, Vesna,",2010,FALSE
+"525","ALDERMAN","DR 001246 .L36  2000","X004395298","Yugoslavia as history : twice there was a country /","Lampe, John R.",2000,FALSE
+"526","ALDERMAN","DR 001246 .Y84  1995","X002631617","Yugoslavia's ethnic nightmare : the inside story of Europe's unfolding ordeal /","",1995,FALSE
+"527","ALDERMAN","DR 001255 .B63  2010","X030781396","Regime change in the Yugoslav successor states : divergent paths toward a new Europe /","Boduszy?ski, Mieczys?aw P.,",2010,FALSE
+"528","ALDERMAN","DR 001255 .D57  2007","X030263020","Elusive compromise : a history of interwar Yugoslavia /","Djoki?, Dejan.",2007,FALSE
+"529","ALDERMAN","DR 001255 .J68  2009","X030469850","Yugoslavia : a state that withered away /","Jovi?, Dejan.",2009,FALSE
+"530","ALDERMAN","DR 001258 .S65  R35  2013","X032401676","Yugoslavia and the Soviet Union in the early Cold War : reconciliation, comradeship, confrontation, 1953-1957 /","Rajak, Svetozar.",2013,TRUE
+"531","ALDERMAN","DR 001274 .J45  1990","X001804280","South Slav nationalisms--textbook and Yugoslav Union before 1914 /","Jelavich, Charles.",1990,FALSE
+"532","ALDERMAN","DR 001282 .C64  1993","X002281598","Broken bonds : the disintegration of Yugoslavia /","Cohen, Lenard J.",1993,FALSE
+"533","ALDERMAN","DR 001282 .N48  2011","X030732826","New perspectives on Yugoslavia : key issues and controversies /","",2011,FALSE
+"534","ALDERMAN","DR 001282 .P37  1997","X004054830","The fragmentation of Yugoslavia : nationalism in a multinational state /","Pavkovi?, Aleksandar.",1996,FALSE
+"535","ALDERMAN","DR 001282 .R36  2006","X004897313","The three Yugoslavias : state-building and legitimation, 1918-2005 /","Ramet, Sabrina P.,",2006,FALSE
+"536","ALDERMAN","DR 001282 .Y84  1995","X002641525","Yugoslavia, the former and future : reflections by scholars from the region /","",1995,FALSE
+"537","ALDERMAN","DR 001293 .D56  2010","X030781363","Nikola Pa?i? and Ante Trumbi? : the Kingdom of Serbs, Croats and Slovenes /","Djoki?, Dejan.",2010,FALSE
+"538","ALDERMAN","DR 001295 .B36  1984","X000820244","The national question in Yugoslavia : origins history, politics /","Banac, Ivo.",1984,FALSE
+"539","ALDERMAN","DR 001298 .P379  2008","X030258365","Hitler's new disorder : the Second World War in Yugoslavia /","Pavlowitch, Stevan K.",2008,FALSE
+"540","ALDERMAN","DR 001298 .S75  2008","X030257344","State collapse in South-Eastern Europe : new perspectives on Yugoslavia's disintegration /","",2008,FALSE
+"541","ALDERMAN","DR 001300 .S93  2011","X030817840","Tito : a biography /","Swain, Geoff.",2011,FALSE
+"542","ALDERMAN","DR 001300 .W47  1994","X002536851","Tito and the rise and fall of Yugoslavia /","West, Richard,",1994,FALSE
+"543","ALDERMAN","DR 001300 .Y84  1996","X006035957","Yugoslavia and after : a study in fragmentation, despair and rebirth /","",1996,FALSE
+"544","ALDERMAN","DR 001302 .B4  1985","X000929280","Tito's flawed legacy : Yugoslavia & the West, 1939-84 /","Beloff, Nora.",1985,FALSE
+"545","ALDERMAN","DR 001302 .H38  2012","X031216032","Creating a socialist Yugoslavia : Tito, communist leadership and the national question /","Haug, Hilde Katrine.",2012,FALSE
+"546","ALDERMAN","DR 001302 .R36  1992","X002122102","Nationalism and federalism in Yugoslavia, 1962-1991 /","Ramet, Sabrina P.,",1992,FALSE
+"547","ALDERMAN","DR 001302 .S75  1997","X004069684","State-society relations in Yugoslavia, 1945-1992 /","",1997,FALSE
+"548","ALDERMAN","DR 001302 .S7713  1997","X004104830","The fall of Yugoslavia : why communism failed /","Stojanovi?, Svetozar.",1997,FALSE
+"549","ALDERMAN","DR 001302 .Y84  1988","X001508534","Yugoslavia, a fractured federalism /","",1988,FALSE
+"550","ALDERMAN","DR 001302 .Y845  2003","X004875689","Yugoslavia unraveled : sovereignty, self-determination, intervention /","",2003,FALSE
+"551","ALDERMAN","DR 001307 .D46  1994","X002444698","Ethnic nationalism : the tragic death of Yugoslavia /","Denitch, Bogdan Denis.",1994,FALSE
+"552","ALDERMAN","DR 001307 .G35  2003","X004659733","The Balkans after the Cold War : from tyranny to tragedy /","Gallagher, Tom,",2003,FALSE
+"553","CLEMONS","DR 001307 .G63  1992","X006025272","The fall of Yugoslavia : the third Balkan war /","Glenny, Misha.",1992,FALSE
+"554","ALDERMAN","DR 001307 .R36  1996","X002712965","Balkan babel : the disintegration of Yugoslavia from the death of Tito to ethnic war /","Ramet, Sabrina P.,",1996,FALSE
+"555","ALDERMAN","DR 001307 .S43  1983A","X031863606","Aktuelna ekonomska i politi?ka situacija i idejnopoliti?ki zadaci Saveza komunista u ostvarivanju politike stabilizacije u 1984. godini /","Sednica CKSKJ",1983,FALSE
+"556","ALDERMAN","DR 001308 .R36  1992","X002111677","Balkan babel : politics, culture, and religion in Yugoslavia /","Ramet, Sabrina P.,",1992,FALSE
+"557","ALDERMAN","DR 001309 .G55  2011","X031189078","The hour of Europe : Western powers and the breakup of Yugoslavia /","Glaurdi?, Josip,",2011,FALSE
+"558","CLEMONS","DR 001309 .R64  1998","X004206002","The breakup of Yugoslavia and the war in Bosnia /","Rogel, Carole.",1998,FALSE
+"559","ALDERMAN","DR 001309 .R64  2004","X004768130","The breakup of Yugoslavia and its aftermath /","Rogel, Carole.",2004,FALSE
+"560","ALDERMAN","DR 001309 .V56  2008","X030465990","Serbia's antibureaucratic revolution : Milo?evi?, the fall of communism and nationalist mobilization /","Vladisavljevi?, Neboj?a,",2008,FALSE
+"561","ALDERMAN","DR 001309 .Z56  1996","X004049569","Origins of a catastrophe : Yugoslavia and its destroyers -- America's last ambassador tells what happened and why /","Zimmermann, Warren.",1996,FALSE
+"562","ALDERMAN","DR 001310 .R334  2012","X030845251","Europe and the collapse of Yugoslavia : the role of non-state actors and European diplomacy /","Radelji?, Branislav.",2012,FALSE
+"563","ALDERMAN","DR 001313 .C76  1996","X004063932","The Yugoslav drama /","Crnobrnja, Mihailo.",1996,FALSE
+"564","ALDERMAN","DR 001313 .D73  1993B","X002251644","Balkan express : fragments from the other side of war /","Drakuli?, Slavenka,",1993,FALSE
+"565","ALDERMAN","DR 001313 .G34  2004","X004804154","The myth of ethnic war : Serbia and Croatia in the 1990s /","Gagnon, V. P. (Valère Philip)",2004,FALSE
+"566","ALDERMAN","DR 001313 .G57  1996","X004044321","The fall of Yugoslavia : the third Balkan war /","Glenny, Misha.",1996,FALSE
+"567","ALDERMAN","DR 001313 .G88  1993","X002302729","A witness to genocide : the 1993 Pulitzer Prize-winning dispatches on the ""ethnic cleansing"" of Bosnia /","Gutman, Roy.",1993,FALSE
+"568","ALDERMAN","DR 001313 .H38  2000","X004420331","Blood and honey : a Balkan war journal /","Haviv, Ron.",2000,FALSE
+"569","ALDERMAN","DR 001313 .H45  1992","X002242572","War crimes in Bosnia-Hercegovina.","Helsinki Watch (Organization : U.S.)",1992,FALSE
+"570","ALDERMAN","DR 001313 .H868  2011","X031186622","Worlds apart : Bosnian lessons for global security /","Hunt, Swanee.",2011,FALSE
+"571","ALDERMAN","DR 001313 .I586  1996B","X004002635","International perspectives on the Yugoslav conflict /","",1996,FALSE
+"572","ALDERMAN","DR 001313 .M56  2012","X031656629","Bienvenido a Sarajevo, hermano /","Minic, Slobodan.",2012,FALSE
+"573","ALDERMAN","DR 001313 .O83  2005","X004897172","The modern Yugoslav conflict, 1991-1995 : perception, deception and dishonesty /","O'Shea, Brendan.",2005,FALSE
+"574","ALDERMAN","DR 001313 .S55  1996","X002755335","Yugoslavia : death of a nation /","Silber, Laura.",1996,FALSE
+"575","ALDERMAN","DR 001313 .T73  2007","X030109567","The breakup of Yugoslavia : conflict in the Balkans /","Transchel, Kate.",2007,FALSE
+"576","ALDERMAN","DR 001313 .W368  2006","X030114230","War and change in the Balkans : nationalism, conflict and cooperation /","",2006,FALSE
+"577","ALDERMAN","DR 001313 .W66  1995","X002631227","Balkan tragedy : chaos and dissolution after the Cold War /","Woodward, Susan L.,",1995,FALSE
+"578","ALDERMAN","DR 001313 .Z3613  2007","X030104376","Flag on the mountain : a political anthropology of war in Croatia and Bosnia-Herzegovina, 1990-1995 /","?ani?, Ivo,",2007,FALSE
+"579","ALDERMAN","DR 001313.3 .O2  1995","X002626046","Civil War in Bosnia, 1992-94 /","O'Ballance, Edgar.",1995,FALSE
+"580","ALDERMAN","DR 001313.3 .R54  1995","X002603885","Slaughterhouse : Bosnia and the failure of the West /","Rieff, David.",1995,FALSE
+"581","CLEMONS","DR 001313.3 .R54  1996","X004183235","Slaughterhouse : Bosnia and the failure of the West /","Rieff, David.",1996,FALSE
+"582","ALDERMAN","DR 001313.3 .R65  2000","X030805306","Campagnes : récit /","Rolin, Jean.",2000,FALSE
+"583","ALDERMAN","DR 001313.3 .S54  2003","X004659284","The Muslim-Croat civil war in Central Bosnia : a military history, 1992-1994 /","Shrader, Charles R.",2003,FALSE
+"584","ALDERMAN","DR 001313.32 .G67  S33  2000","X004417069","Safe area Gora?de /","Sacco, Joe.",2000,FALSE
+"585","ALDERMAN","DR 001313.32 .S27  A57  2008","X030457092","Blue helmets and black markets : the business of survival in the siege of Sarajevo /","Andreas, Peter,",2008,FALSE
+"586","ALDERMAN","DR 001313.32 .S27  D5913  1993","X002423748","Sarajevo  : a war journal /","Dizdarevi?, Zlatko.",1993,TRUE
+"587","ALDERMAN","DR 001313.32 .S27  G57  1995","X002596461","Sarajevo daily : a city and its newspaper under siege /","Gjelten, Tom.",1995,TRUE
+"588","ALDERMAN","DR 001313.32 .S27  M33  2009","X030470490","Sarajevo under siege : anthropology in wartime /","Ma?ek, Ivana.",2009,FALSE
+"589","ALDERMAN","DR 001313.32 .S27  S6413  1996","X004005220","Sarajevo days, Sarajevo nights /","Softi?, Elma,",1996,FALSE
+"590","ALDERMAN","DR 001313.32 .S68  L4913  2011","X030975699","Surviving the Bosnian genocide : the women of Srebrenica speak /","Leydesdorff, Selma.",2011,TRUE
+"591","ALDERMAN","DR 001313.4 .R3813  2001","X006126326","The war in Croatia and Bosnia-Herzegovina, 1991-1995 /","",2001,FALSE
+"592","ALDERMAN","DR 001313.7 .A85  B43  2014","X031651011","Genocide on the Drina River /","Be?irevi?, Edina,",2014,FALSE
+"593","ALDERMAN","DR 001313.7 .A85  B66  2016","X031794787","The butcher's trail : how the search for Balkan war criminals became the world's most successful manhunt /","Borger, Julian,",2016,FALSE
+"594","ALDERMAN","DR 001313.7 .A85  B75  2004","X004803812","The stone fields : an epitaph for the living /","Brkic, Courtney Angela,",2004,FALSE
+"595","ALDERMAN","DR 001313.7 .A85  C54  1995","X002623696","Genocide in Bosnia : the policy of ""ethnic cleansing""  /","Cigar, Norman L.",1995,TRUE
+"596","ALDERMAN","DR 001313.7 .A85  D7  2004B","X004768475","They would never hurt a fly : war criminals on trial in The Hague/","Drakuli?, Slavenka,",2004,TRUE
+"597","ALDERMAN","DR 001313.7 .A85  G45  1993","X002522806","Genocide, ethnic cleansing in northwestern Bosnia : Bosnia-Herzegovina /","",1993,TRUE
+"598","CLEMONS","DR 001313.7 .A85  H66  1997","X004208079","Srebrenica : record of a war crime /","Honig, Jan Willem,",1997,FALSE
+"599","ALDERMAN","DR 001313.7 .A85  M43  2000","X004420475","After the fall : Srebrenica survivors in St. Louis /","McCarthy, Patrick,",2000,FALSE
+"600","ALDERMAN","DR 001313.7 .A85  N48  2001","X004555535","The key to my neighbor's house : seeking justice in Bosnia and Rwanda /","Neuffer, Elizabeth.",2001,FALSE
+"601","ALDERMAN","DR 001313.7 .A85  N84  2007","X030565471","Under the UN flag : the international community and the Srebrenica genocide /","Nuhanovi?, Hasan.",2007,FALSE
+"602","ALDERMAN","DR 001313.7 .A85  O733  2013","X031618748","Ethnic conflict and war crimes in the Balkans : the narratives of denial in post-conflict Serbia /","Obradovi?, Jelena.",2013,FALSE
+"603","ALDERMAN","DR 001313.7 .A85  W34  2008","X030472236","To know where he lies : DNA technology and the search for Srebrenica's missing /","Wagner, Sarah E.,",2008,FALSE
+"604","ALDERMAN","DR 001313.7 .D58  G69  1997A","X006036062","Triumph of the lack of will : international diplomacy and the Yugoslav War /","Gow, James.",1997,TRUE
+"605","ALDERMAN","DR 001313.7 .D58  H65  1998","X004210154","To end a war /","Holbrooke, Richard C.,",1998,FALSE
+"606","ALDERMAN","DR 001313.7 .D58  L53  1997","X004151255","Limits of persuasion : Germany and the Yugoslav Crisis, 1991-1992 /","Libal, Michael,",1997,TRUE
+"607","ALDERMAN","DR 001313.7 .D58  L83  2000","X004479925","Europe and the breakup of Yugoslavia : a political failure in search of a scholarly explanation /","Lucarelli, Sonia.",2000,TRUE
+"608","CLEMONS","DR 001313.7 .D58  O95  1995","X002686304","Balkan Odyssey /","Owen, David,",1995,FALSE
+"609","ALDERMAN","DR 001313.7 .D58  W67  1996","X004048824","The world and Yugoslavia's wars /","",1996,FALSE
+"610","ALDERMAN","DR 001313.7 .D58  Y84  1998","X006020496","The Yugoslav conflict and its implications for international relations /","",1998,FALSE
+"611","ALDERMAN","DR 001313.7 .M54  W54  2003","X004779790","Intelligence and the war in Bosnia, 1992-1995 /","Wiebes, Cees.",2003,FALSE
+"612","ALDERMAN","DR 001313.7 .P43  A48  2007","X030112640","Diplomacy on the edge : containment of ethnic conflict and the minorities working group of the conferences on Yugoslavia /","Ahrens, Geert-Hinrich.",2007,FALSE
+"613","ALDERMAN","DR 001313.7 .P43  B87  1999","X004265799","The war in Bosnia-Herzegovina : ethnic conflict and international intervention /","Burg, Steven L.,",1999,FALSE
+"614","ALDERMAN","DR 001313.7 .P43  L93  2009","X030694963","Peace operations and international criminal justice : building peace after mass atrocities /","Lyck, Majbritt,",2009,TRUE
+"615","ALDERMAN","DR 001313.7 .P43  O45  2005","X004858860","War & peace in the Balkans : the diplomacy of conflict in the former Yoguslavia /","Oliver, Ian.",2005,FALSE
+"616","ALDERMAN","DR 001313.7 .P73  K46  2006","X004906970","Framing war and genocide : British policy and news media reaction to the war in Bosnia /","Kent, Gregory.",2006,FALSE
+"617","ALDERMAN","DR 001313.7 .P73  K65  2009","X030566883","Media discourse and the Yugoslav conflicts : representations of self and other /","",2009,FALSE
+"618","ALDERMAN","DR 001313.7 .P73  M44  1995","X006054127","Media warfare :","",1995,FALSE
+"619","ALDERMAN","DR 001313.7 .P73  S23  1998","X004183322","The U.S. media and Yugoslavia, 1991-1995 /","Sadkovich, James J.,",1998,FALSE
+"620","ALDERMAN","DR 001313.7 .P74  W4713  2005","X004900218","Raw memory : Prijedor, an 'ethnic cleansing laboratory' /","Wesselingh, Isabelle.",2005,FALSE
+"621","ALDERMAN","DR 001313.7 .R45  R46  1998","X004200491","Religion and the war in Bosnia /","",1998,TRUE
+"622","ALDERMAN","DR 001313.7 .W65  Z4613  2000","X030805193","Women, violence, and war : wartime victimization of refugees in the Balkans /","",2000,FALSE
+"623","ALDERMAN","DR 001313.8 .C58  2001","X004523628","Waging modern war : Bosnia, Kosovo, and the future of combat /","Clark, Wesley K.",2001,FALSE
+"624","ALDERMAN","DR 001313.8 .L54  2012","X031216247","Wounded I am more awake : finding meaning after terror /","Lieblich, Julia.",2012,FALSE
+"625","ALDERMAN","DR 001313.8 .M33  1996","X002719654","Love thy neighbor : a story of war /","Maass, Peter,",1996,FALSE
+"626","ALDERMAN","DR 001313.8 .S33  2003","X004702715","The Fixer : a story from Sarajevo /","Sacco, Joe.",2003,FALSE
+"627","ALDERMAN","DR 001313.8 .T74  2014","X031628144","The Bosnia list : a memoir of war, exile, and return /","Trebin?evi?, Kenan,",2014,FALSE
+"628","ALDERMAN","DR 001315 .R36  2005","X004906929","Thinking about Yugoslavia : scholarly debates about the Yugoslav breakup and the wars in Bosnia and Kosovo /","Ramet, Sabrina P.,",2005,FALSE
+"629","ALDERMAN","DR 001316 .C66  2009","X030566574","Confronting the Yugoslav controversies : a scholars' initiative /","",2009,FALSE
+"630","ALDERMAN","DR 001316 .K38  2002","X004553055","NATO and the former Yugoslavia : crisis, conflict, and the Atlantic Alliance /","Kaufman, Joyce P.",2002,FALSE
+"631","ALDERMAN","DR 001316 .L59  2004","X004746757","A politics of sorrow : the disintegration of Yugoslavia /","Ljubisic, Davorka.",2004,FALSE
+"632","ALDERMAN","DR 001317 .A34  2013","X030610576","After Yugoslavia : the cultural spaces of a vanished land /","",2013,FALSE
+"633","ALDERMAN","DR 001318 .A35  2012","X030974595","After Yugoslavia : identities and politics within the successor states /","",2012,FALSE
+"634","ALDERMAN","DR 001318 .B84  2017","X031805783","Building democracy in the Yugoslav successor states : accomplishments, setbacks, and challenges since 1990 /","",2017,FALSE
+"635","ALDERMAN","DR 001318 .W55  2002","X004633650","Peace with justice? : war crimes and accountability in the former Yugoslavia /","Williams, Paul R.,",2002,FALSE
+"636","ALDERMAN","DR 001319 .F67  2014","X031704665","The foreign policies of post-Yugoslav states : from Yugoslavia to Europe /","",2014,FALSE
+"637","ALDERMAN","DR 001319 .I58  2003","X004734706","International intervention in the Balkans since 1995 /","",2003,FALSE
+"638","ALDERMAN","DR 001319 .P478  2011","X031188014","Western intervention in the Balkans : the strategic use of emotion in conflict /","Petersen, Roger Dale,",2011,FALSE
+"639","CLEMONS","DR 001321 .A75  S74  2008","X030250083","Hunting the tiger : the fast life and violent death of the Balkans' most dangerous man /","Stewart, Christopher S.",2008,FALSE
+"640","ALDERMAN","DR 001350 .I45  D97  2010","X030745691","Illyricum in Roman politics, 229 BC-AD 68 /","D?ino, Danijel",2010,TRUE
+"641","ALDERMAN","DR 001350 .I78  A84  2006","X030159021","""Istria is ours, and we can prove it"" : an examination of Istrian historiography in the nineteenth and twentieth centuries /","Ashbrook, John E.",2006,FALSE
+"642","ALDERMAN","DR 001350 .I78  B35  2003","X004660150","History in exile : memory and identity at the borders of the Balkans /","Ballinger, Pamela,",2003,FALSE
+"643","ALDERMAN","DR 001350 .I78  P4713  2005","X004860337","A tragedy revealed : the story of the Italian population of Istria, Dalmatia, and Venezia Giulia, 1943-1956 /","Petacco, Arrigo.",2005,FALSE
+"644","ALDERMAN","DR 001350 .S25  H3313  2003","X004702271","A Muslim woman in Tito's Yugoslavia /","Had?i?ehovi?, Munevera.",2003,FALSE
+"645","ALDERMAN","DR 001360 .G68  2000","X006101445","Slovenia and the Slovenes : a small state and the new Europe /","Gow, James.",2000,FALSE
+"646","ALDERMAN","DR 001375.5 .P58  2007","X030102431","Historical dictionary of Slovenia /","Plut-Pregelj, Leopoldina.",2007,FALSE
+"647","ALDERMAN","DR 001375.5 .P58  2018","X032084829","Historical dictionary of Slovenia /","Plut-Pregelj, Leopoldina,",2018,FALSE
+"648","ALDERMAN","DR 001385 .I53  1994B","X002587985","Independent Slovenia : origins, movements, prospects /","",1994,FALSE
+"649","ALDERMAN","DR 001385 .L36  2008","X030569473","The land between : a history of Slovenia /","",2008,FALSE
+"650","ALDERMAN","DR 001476.15 .T43  2017","X032209552","Molnik pri Ljubljani v ?elezni dobi = The Iron Age site at Molnik near Ljubljana /","Tecco Hvala, Sne?a,",2017,FALSE
+"651","ALDERMAN","DR 001485 .K36  S78  2009","X030700330","Mali grad : visokosrednjeve?ki grad v Kamniku = Mali grad : high medieval castle in Kamnik /","?tular, Benjamin.",2009,FALSE
+"652","ALDERMAN","DR 001485 .K73  I99  2016","X031768216","Izkopavanja srednjeve?kega in zgodnjenovove?kega grobi??a pri ?upni cerkvi v Kranju v letih 1964-1970 = Excavations of medieval and post-medieval cemetery at the ?upna cerkev in Kranj from 1964 to 1970 /","",2016,FALSE
+"653","ALDERMAN","DR 001485 .T65  Z45  2018","X031757241","?eleznodobno naselje Most na So?i : razprave = The iron age settlement at Most na So?i : treatises /","",2018,FALSE
+"654","ALDERMAN","DR 001524 .S47  C38  2010","X030609721","Contested nationalism : Serb elite rivalry in Croatia and Bosnia in the 1990s /","Caspersen, Nina,",2010,TRUE
+"655","ALDERMAN","DR 001535 .G65  1999","X006121040","Croatia : a history /","Goldstein, Ivo.",1999,FALSE
+"656","ALDERMAN","DR 001535 .M34  2007","X030252919","Croatia through history : the making of a European state /","Maga?, Branka.",2007,FALSE
+"657","ALDERMAN","DR 001535 .T36  1997","X004103353","Croatia : a nation forged in war /","Tanner, Marcus.",1997,FALSE
+"658","ALDERMAN","DR 001591 .Y46  2012","X031612809","Visions of annihilation : the Ustasha regime and the cultural politics of fascism, 1941-1945 /","Yeomans, Rory,",2013,FALSE
+"659","ALDERMAN","DR 001623 .D352  2013","X031595005","Dalmatia and the Mediterranean : portable archeology and the poetics of influence /","",2013,FALSE
+"660","ALDERMAN","DR 001645 .Z3  M39  2008","X030264944","Dalmatia between Ottoman and Venetian rule : Contado di Zara, 1645-1718 /","Mayhew, Tea.",2008,FALSE
+"661","ALDERMAN","DR 001659 .C53  2007","X030248539","Bosnia and Herzegovina /","Clancy, Tim.",2006,FALSE
+"662","ALDERMAN","DR 001674 .M87  B75  1995","X002645868","Being Muslim the Bosnian way : identity and community in a central Bosnian village /","Bringa, Tone,",1995,FALSE
+"663","ALDERMAN","DR 001674 .M87  F75  1996","X002761262","The Bosnian Muslims : denial of a nation /","Friedman, Francine,",1996,TRUE
+"664","ALDERMAN","DR 001674 .M87  M87  1996","X004071116","The Muslims of Bosnia-Herzegovina : their historic development from the Middle Ages to the dissolution of Yugoslavia /","",1996,FALSE
+"665","ALDERMAN","DR 001685 .C37  2015","X031839632","A concise history of Bosnia /","Carmichael, Cathie,",2015,FALSE
+"666","ALDERMAN","DR 001685 .D66  1994","X002556953","Bosnia and Hercegovina : a tradition betrayed /","Donia, Robert J.",1994,FALSE
+"667","ALDERMAN","DR 001685 .H63  2007","X030262092","The History of Bosnia : from the Middle Ages to the present day /","Hoare, Marko Attila.",2007,FALSE
+"668","ALDERMAN","DR 001685 .M35  1994","X002736767","Bosnia : a short history /","Malcolm, Noel.",1994,FALSE
+"669","ALDERMAN","DR 001685 .M35  1996","X004067493","Bosnia : a short history /","Malcolm, Noel.",1996,FALSE
+"670","ALDERMAN","DR 001717 .M855  P35413  2011","X030875592","World of Mustafa Muhibbi, a kad? from Sarajevo /","Pai?-Vuki?, Tatjana,",2011,FALSE
+"671","ALDERMAN","DR 001750 .P43  2007","X030249634","Peacebuilding in the Balkans : the view from the ground floor /","Pickering, Paula M. (Paula May),",2007,FALSE
+"672","ALDERMAN","DR 001752 .B45  2007","X030254113","State building and international intervention in Bosnia /","Belloni, Roberto.",2007,FALSE
+"673","ALDERMAN","DR 001752 .B67  2002","X004636137","Bosnia after Dayton : nationalist partition and international intervention /","Bose, Sumantra,",2002,FALSE
+"674","ALDERMAN","DR 001752 .C49  1999","X006018676","Bosnia : faking democracy after Dayton /","Chandler, David,",1999,FALSE
+"675","ALDERMAN","DR 001752 .F75  2004","X004744791","Bosnia and Herzegovina : a polity on the brink /","Friedman, Francine,",2004,FALSE
+"676","ALDERMAN","DR 001752 .P43  2006","X004901915","Peace without politics? : ten years of international state-buiding in Bosnia /","",2006,FALSE
+"677","ALDERMAN","DR 001776.3 .D66  2006","X004836581","Sarajevo : a biography /","Donia, Robert J.",2006,FALSE
+"678","ALDERMAN","DR 001785 .K85  B47  2016","X031818553","Violence as a generative force : identity, nationalism, and memory in a Balkan community /","Bergholz, Max,",2016,FALSE
+"679","ALDERMAN","DR 001822 .B63  1984","X000786232","Blood revenge : the anthropology of feuding in Montenegro and other tribal societies /","Boehm, Christopher.",1984,FALSE
+"680","ALDERMAN","DR 001939 .M58  2005","X030371055","Serbia : the Bradt travel guide /","Mitchell, Laurence,",2005,FALSE
+"681","ALDERMAN","DR 001965 .C69  2002","X004765185","The history of Serbia /","Cox, John K.,",2002,FALSE
+"682","ALDERMAN","DR 001976 .E85  S47  2009","X030563466","Serbia matters : domestic reforms and European integration /","",2009,FALSE
+"683","ALDERMAN","DR 002009 .G86  2009","X030562079","The resurrection and collapse of empire in Habsburg Serbia, 1914-1918 /","Gumz, Jonathan E.,",2009,FALSE
+"684","ALDERMAN","DR 002047 .M55  D63  1999","X004339542","Milosevic : portrait of a tyrant /","Doder, Dusko.",1999,TRUE
+"685","ALDERMAN","DR 002051 .C52  2015","X031839040","Humor & nonviolent struggle in Serbia /","?han?hir? Sombatph?nsiri,",2015,FALSE
+"686","ALDERMAN","DR 002051 .Z55  2008","X031768262","The last window-giraffe : a picture dictionary for the over fives /","Zilahy, Péter,",2008,FALSE
+"687","ALDERMAN","DR 002053 .M55  S45  2002","X004591831","Slobodan Milosevic and the destruction of Yugoslavia /","Sell, Louis,",2002,FALSE
+"688","ALDERMAN","DR 002078 .J83  2000","X004400056","Kosovo : war and revenge /","Judah, Tim,",2000,FALSE
+"689","ALDERMAN","DR 002082 .J83  2008","X030466341","Kosovo : what everyone needs to know /","Judah, Tim,",2008,FALSE
+"690","ALDERMAN","DR 002082 .K6716  1997","X004139545","Kosovo, in the heart of the powder keg /","",1997,FALSE
+"691","ALDERMAN","DR 002082 .M35  1998","X004141951","Kosovo : a short history /","Malcolm, Noel.",1998,FALSE
+"692","ALDERMAN","DR 002086 .K47  2009","X030562597","Kosovo : the path to contested statehood in the Balkans /","Ker-Lindsay, James,",2009,FALSE
+"693","ALDERMAN","DR 002086 .P465  2010","X030563454","The road to independence for Kosovo : a chronicle of the Ahtisaari plan /","Perritt, Henry H.,",2010,FALSE
+"694","ALDERMAN","DR 002087 .A45  2000","X004524191","Alliance politics, Kosovo, and NATO's war : allied force or forced allies? /","",2000,FALSE
+"695","ALDERMAN","DR 002087 .D33  2000","X004423167","Winning ugly : NATO's war to save Kosovo /","Daalder, Ivo H.",2000,FALSE
+"696","ALDERMAN","DR 002087 .D44  2000","X006090619","Degraded capability : the media and the Kosovo crisis /","",2000,FALSE
+"697","ALDERMAN","DR 002087 .H67  2001","X004558622","The conflict over Kosovo : why Milosevic decided to settle when he did /","Hosmer, Stephen T.",2001,FALSE
+"698","ALDERMAN","DR 002087 .I37  2000","X004455148","Virtual war : Kosovo and beyond /","Ignatieff, Michael.",2000,FALSE
+"699","ALDERMAN","DR 002087 .I53  2000","X006101409","The Kosovo report : conflict, international response, lessons learned /","Independent International Commission on Kosovo.",2000,FALSE
+"700","ALDERMAN","DR 002087 .K4  2000","X004422675","Kosovo : contending voices on Balkan interventions /","",2000,FALSE
+"701","ALDERMAN","DR 002087 .K664  2001","X006125477","Kosovo : the politics of delusion /","",2001,FALSE
+"702","ALDERMAN","DR 002087 .K665  2000","X006091040","Kosovo and the challenge of humanitarian intervention : selective indignation, collective action, and international citizenship /","",2000,FALSE
+"703","ALDERMAN","DR 002087 .K667  2000","X004472797","The Kosovo conflict : a diplomatic history through documents /","",2000,FALSE
+"704","ALDERMAN","DR 002087 .K67  1999","X004401345","Kosovo-Serbia : a just war? cFrank Columbus editor.","",1999,FALSE
+"705","ALDERMAN","DR 002087 .L48  2001","X004539562","Kosovo : from crisis to crisis /","Leurdijk, Dick A.",2000,FALSE
+"706","ALDERMAN","DR 002087 .N38  2000","X004422371","NATO's empty victory : a postmortem on the Balkan War /","",2000,FALSE
+"707","ALDERMAN","DR 002087 .P48  2012","X031619517","The Kosova Liberation Army : underground war to Balkan insurgency, 1948-2001 /","Pettifer, James.",2012,FALSE
+"708","ALDERMAN","DR 002087 .R49  2001","X004472339","Europe's nightmare : the struggle for Kosovo /","Rezun, Miron.",2001,FALSE
+"709","ALDERMAN","DR 002087 .V5713  2000","X031612950","Strategy of deception /","Virilio, Paul.",2000,FALSE
+"710","ALDERMAN","DR 002087 .W37  2001","X004588290","War over Kosovo : politics and strategy in a global age /","",2001,FALSE
+"711","ALDERMAN","DR 002087.5 .C67  2001","X006165754","The lessons and non-lessons of the air and missile campaign in Kosovo /","Cordesman, Anthony H.",2001,FALSE
+"712","ALDERMAN","DR 002087.5 .H46  2007","X030262510","NATO's gamble : combining diplomacy and airpower in the Kosovo crisis, 1998-1999 /","Henriksen, Dag.",2007,FALSE
+"713","ALDERMAN","DR 002087.5 .N67  2005","X004859818","Collision course : NATO, Russia, and Kosovo /","Norris, John (John H.)",2005,FALSE
+"714","ALDERMAN","DR 002087.6 .D54  B98  2015","X031760628","Coercive diplomacy of NATO in Kosovo /","Bytyçi, Enver,",2015,FALSE
+"715","ALDERMAN","DR 002087.6 .D54  P55  2012","X030864693","Liberating Kosovo : coercive diplomacy and U.S. intervention /","Phillips, David L. (David Lawrence),",2012,FALSE
+"716","ALDERMAN","DR 002087.6 .F67  K67  2001","X004470582","Kosovo : perceptions of war and its aftermath /","",2001,FALSE
+"717","ALDERMAN","DR 002087.6 .P43  K56  2006","X030108537","Peace at any price : how the world failed Kosovo /","King, Iain,",2006,FALSE
+"718","ALDERMAN","DR 002087.6 .P43  O54  2002","X004593211","Kosovo : an unfinished peace /","O'Neill, William G.",2002,FALSE
+"719","ALDERMAN","DR 002087.6 .P72  B34  2007","X030103825","The CNN effect in action : how the news media pushed the West toward war in Kosovo /","Bahador, Babak.",2007,FALSE
+"720","CLEMONS","DR 002118 .N67  2009","X030473519","Belgrade : a cultural history /","Norris, David A.",2009,FALSE
+"721","ALDERMAN","DR 002125 .N68  P667  1998","X004266329","Gypsies, wars and other instances of the wild : civilisation and its discontents in a serbian town /","Port, Mattijs van de,",1998,FALSE
+"722","ALDERMAN","DR 002173 .D46  2013","X031613472","Macedonia : the political, social, economic and cultural foundations of a Balkan state /","De Munck, Victor C.",2013,FALSE
+"723","ALDERMAN","DR 002185 .R34  2007","X030463125","Macedonia and the Macedonians : a history /","Rossos, Andrew,",2008,FALSE
+"724","ALDERMAN","DR 002215 .B76  2013","X031613381","Loyal unto death : trust and terror in revolutionary Macedonia /","Brown, Keith,",2013,FALSE
+"725","ALDERMAN","DR 002215 .Y67  2014","X031627690","Blood ties : religion, violence, and the politics of nationhood in Ottoman Macedonia, 1878-1908 /","Yosmao?lu, ?pek,",2014,FALSE
+"726","ALDERMAN","DR 002253 .P55  2004","X004802572","Macedonia : warlords and rebels in the Balkans /","Phillips, John.",2004,FALSE

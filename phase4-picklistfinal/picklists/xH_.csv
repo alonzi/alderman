@@ -1,0 +1,917 @@
+"","Item.Library.Code","Item.Shelving.Id","Item.Barcode","Catalog.Title","Catalog.Author","Catalog.Pub.Year","MultiVolume"
+"1","ALDERMAN","H  000001 .A123  NO.58","X000389953","Du mythe, de la religion grecque et de la compréhension d'autrui /","Rudhardt, Jean.",1981,TRUE
+"2","ALDERMAN","H  000001 .A4  V.000428","X030357352","The American Revolution abroad /","",1976,TRUE
+"3","ALDERMAN","H  000001 .A4  V.000430","X030357350","Nuclear proliferation : prospects, problems, and proposals /","",1977,TRUE
+"4","ALDERMAN","H  000001 .A4  V.000433","X030357347","Ethnic conflict in the world today /","",1977,TRUE
+"5","ALDERMAN","H  000001 .A4  V.000449","X004262541","New directions in international education /","",1980,TRUE
+"6","ALDERMAN","H  000001 .A4  V.000474","X004284338","Gambling : views from the social sciences /","",1984,TRUE
+"7","ALDERMAN","H  000001 .A4  V.000475","X004263983","Deindustrialization : restructuring the economy /","",1984,TRUE
+"8","ALDERMAN","H  000001 .A4  V.000485","X004263181","From foreign workers to settlers? : transnational migration and the emergence of new minorities /","",1986,TRUE
+"9","ALDERMAN","H  000001 .A4  V.000487","X004263183","Immigration and American public policy /","",1986,TRUE
+"10","ALDERMAN","H  000001 .A4  V.000493","X030366089","The Informal economy /","",1987,TRUE
+"11","ALDERMAN","H  000001 .A4  V.000501","X004023974","The Ghetto underclass : social science perspectives /","",1989,TRUE
+"12","ALDERMAN","H  000001 .A4  V.000513","X001985543","Japan's external economic relations : Japanese perspectives /","",1991,TRUE
+"13","ALDERMAN","H  000001 .A4  V.000518","X002257154","Resolving regional conflicts : international perspectives /","",1991,TRUE
+"14","ALDERMAN","H  000001 .A4  V.000523","X002166743","Affirmative action revisited /","",1992,TRUE
+"15","ALDERMAN","H  000001 .A4  V.000524","X002175633","Political Islam /","",1992,TRUE
+"16","ALDERMAN","H  000001 .A4  V.000526","X002287118","Free trade in the Western Hemisphere /","",1993,TRUE
+"17","ALDERMAN","H  000001 .A4  V.000527","X002403172","Religion in the nineties /","",1993,TRUE
+"18","ALDERMAN","H  000001 .A4  V.000528","X002449756","Citizens, protest, and democracy /","",1993,TRUE
+"19","ALDERMAN","H  000001 .A4  V.000546","X004062857","The media and politics /","",1996,TRUE
+"20","ALDERMAN","H  000001 .A4  V.000554","X004150681","The Role of NGOs : charity and empowerment /","",1997,TRUE
+"21","ALDERMAN","H  000001 .A4  V.000556","X004172910","Gambling : socioeconomic impacts and public policy /","",1998,TRUE
+"22","ALDERMAN","H  000001 .A4  V.000557","X004232397","Children and television /","",1998,TRUE
+"23","ALDERMAN","H  000001 .A4  V.000565","X004346560","Civil society and democratization /","",1999,TRUE
+"24","ALDERMAN","H  000001 .A4  V.000568","X004361485","The study of African American problems : W.E.B. Du Bois's agenda, then and now /","",2000,TRUE
+"25","ALDERMAN","H  000001 .A4  V.000570","X004454637","Dimensions of globalization /","",2000,TRUE
+"26","ALDERMAN","H  000001 .A4  V.000572","X004487433","Presidential campaigns : sins of omission /","",2000,TRUE
+"27","ALDERMAN","H  000001 .A4  V.000574","X004521357","The Supreme Court's federalism : real or imagined? /","",2001,TRUE
+"28","ALDERMAN","H  000001 .A4  V.000575","X004536858","Children's rights /","",2001,TRUE
+"29","ALDERMAN","H  000001 .A4  V.000577","X004563564","Reforming welfare, redefining poverty /","",2001,TRUE
+"30","ALDERMAN","H  000001 .A4  V.000581","X006133384","Globalization and democracy /","",2002,TRUE
+"31","ALDERMAN","H  000001 .A4  V.000582","X006133911","Cross-national drug policy /","",2002,TRUE
+"32","ALDERMAN","H  000001 .A4  V.000583","X004620887","Global perspectives on complementary and alternative medicine /","",2002,TRUE
+"33","ALDERMAN","H  000001 .A4  V.000585","X006141039","Higher education in the twenty-first century /","",2003,TRUE
+"34","ALDERMAN","H  000001 .A4  V.000588","X004714221","Islam : enduring myths and changing realities /","",2003,TRUE
+"35","ALDERMAN","H  000001 .A4  V.000589","X004640825","Misleading evidence and evidence-led policy : making social science more experimental /","",2003,TRUE
+"36","ALDERMAN","H  000001 .A4  V.000590","X004748144","Rethinking sustainable development /","",2003,TRUE
+"37","ALDERMAN","H  000001 .A4  V.000594","X004793339","Race, politics, and community development in U.S. cities /","",2004,TRUE
+"38","ALDERMAN","H  000001 .A4  V.000595","X004817515","Being here and being there : fieldwork encounters and ethnographic discoveries /","",2004,TRUE
+"39","ALDERMAN","H  000001 .A4  V.000596","X030263272","Mommies and daddies on the fast track : success of parents in demanding professions /","",2004,TRUE
+"40","ALDERMAN","H  000001 .A4  V.598","X004854958","The rise of regulatory capitalism : the global diffusion of a new order /","",2005,TRUE
+"41","ALDERMAN","H  000001 .A4  V.601","X004925324","The science of voter mobilization /","",2005,TRUE
+"42","ALDERMAN","H  000001 .A4  V.602","X004953190","Developmental criminology and its discontents : trajectories of crime from childhood to old age /","",2005,TRUE
+"43","ALDERMAN","H  000001 .A4  V.603","X004994464","Law, society, and democracy : comparative perspectives /","",2005,TRUE
+"44","ALDERMAN","H  000001 .A4  V.604","X030015326","Shelter from the storm : repairing the national emergency management system after Hurricane Katrina /","",2006,TRUE
+"45","ALDERMAN","H  000001 .A4  V.605","X030039328","Democracy, crime, and justice /","",2006,TRUE
+"46","ALDERMAN","H  000001 .A4  V.606","X030138695","Chronicle of a myth foretold : the Washington Consensus in Latin America /","",2006,TRUE
+"47","ALDERMAN","H  000001 .A4  V.607","X030150920","Confronting the specter of nuclear terrorism /","",2006,TRUE
+"48","ALDERMAN","H  000001 .A4  V.608","X030158671","Politics, social networks, and the history of mass communications research : rereading Personal Influence /","",2006,TRUE
+"49","ALDERMAN","H  000001 .A4  V.609","X030198410","Race, ethnicity, and inequality in the U.S. labor market : critical issues in the new millenium [sic] /","",2007,TRUE
+"50","ALDERMAN","H  000001 .A4  V.610","X030210287","NAFTA and beyond : alternative perspectives in the study of global trade and development /","",2007,TRUE
+"51","ALDERMAN","H  000001 .A4  V.612","X030268253","Religious pluralism and civil society /","",2007,TRUE
+"52","ALDERMAN","H  000001 .A4  V.613","X030333992","Advancing research on minority entrepreneurship /","",2007,TRUE
+"53","ALDERMAN","H  000001 .A4  V.614","X030265867","The Biology of political behavior /","",2007,TRUE
+"54","ALDERMAN","H  000001 .A4  V.615","X030508787","Overweight and obesity in America's children : causes, consequences, solutions /","",2008,TRUE
+"55","ALDERMAN","H  000001 .A4  V.616","X030508786","Public diplomacy in a changing world /","",2008,TRUE
+"56","ALDERMAN","H  000001 .A4  V.617","X030508785","The politics of history in comparative perspective  /","",2008,TRUE
+"57","ALDERMAN","H  000001 .A4  V.618","X030508784","Terrorism : what the next President will face  /","",2008,TRUE
+"58","ALDERMAN","H  000001 .A4  V.619","X030508783","Cultural sociology and its diversity  /","",2008,TRUE
+"59","ALDERMAN","H  000001 .A4  V.620","X030508820","Exceptional outcomes : achievement in education and employment among children of immigrants /","",2008,TRUE
+"60","ALDERMAN","H  000001 .A4  V.621","X030549362","The Moynihan Report revisited : lessons and reflections after four decades /","",2009,TRUE
+"61","ALDERMAN","H  000001 .A4  V.622","X030588610","The globalization of class actions /","",2009,TRUE
+"62","ALDERMAN","H  000001 .A4  V.623","X030588611","Race, crime, and justice : contexts and complexities /","",2009,TRUE
+"63","ALDERMAN","H  000001 .A4  V.624","X030570138","Fathering across diversity and adversity : international perspectives and policy interventions /","",2009,TRUE
+"64","ALDERMAN","H  000001 .A4  V.625","X030622358","The end of television? : its impact on the world (so far) /","",2009,TRUE
+"65","ALDERMAN","H  000001 .A4  V.626","X030629236","The shape of the new American city /","",2009,TRUE
+"66","ALDERMAN","H  000011 .A793  H37","X006136507","The emergence of professional social science : the American Social Science Association and the nineteenth-century crisis of authority /","Haskell, Thomas L.,",1977,FALSE
+"67","ALDERMAN","H  000011 .C58  000009TH-000017TH 001952/000053-001960/000061","X032015377","Colonial social science research council : ... annual report","Colonial Social Science Research Council",1952,FALSE
+"68","ALDERMAN","H  000011 .I47  NO.000096","X002240852","Free trade, 'fairness' and the new protectionism : reflections on an agenda for the World Trade Organisation /","Bhagwati, Jagdish N.,",1995,TRUE
+"69","ALDERMAN","H  000011 .I47  NO.106","X006028792","Understanding the process of economic change /","North, Douglass C. (Douglass Cecil)",1999,TRUE
+"70","ALDERMAN","H  000011 .I47  NO.107","X006018440","Does advertising increase smoking? : economics, free speech and advertising bans /","High, Hugh.",1999,TRUE
+"71","ALDERMAN","H  000011 .I47  NO.130","X004758977","Government failure : E.G. West on education /","West, E. G.",2003,TRUE
+"72","ALDERMAN","H  000011 .I47  NO.131","X004758976","Waging the war of ideas /","Blundell, John.",2003,TRUE
+"73","ALDERMAN","H  000011 .I47  NO.135","X030024990","Black Wednesday : a re-examination of Britain's experience in the exchange rate mechanism /","Budd, Alan.",2005,TRUE
+"74","ALDERMAN","H  000011 .I47  NO.136","X030024987","The road to serfdom ; with, The intellectuals and socialism /","Hayek, Friedrich A. von (Friedrich August),",2005,TRUE
+"75","ALDERMAN","H  000011 .I47  NO.139","X030151075","Europe after the 'no' votes : mapping a new economic path /","Messerlin, Patrick A.",2006,TRUE
+"76","ALDERMAN","H  000011 .I47  NO.140","X030197608","Capitalism : a condensed version /","Seldon, Arthur.",2007,TRUE
+"77","ALDERMAN","H  000011 .I47  NO.141","X030282353","Adam Smith : a primer /","Butler, Eamonn.",2007,TRUE
+"78","ALDERMAN","H  000011 .I47  NO.142","X030508821","Taming Leviathan : waging the war of ideas around the world /","",2008,TRUE
+"79","ALDERMAN","H  000011 .I47  NO.146","X031227898","Crises of governments : the ongoing global financial crisis and recession /","Barro, Robert J.",2011,TRUE
+"80","ALDERMAN","H  000011 .I47  NO.147","X030862157","Public choice : a primer /","Butler, Eamonn.",2012,TRUE
+"81","ALDERMAN","H  000011 .I47  NO.148","X031609933","The future of the commons : beyond market failure and government regulations /","Ostrom, Elinor.",2012,TRUE
+"82","ALDERMAN","H  000011 .I47  NO.150","X031658263","A U-turn on the road to serfdom : prospects for reducing the size of the state /","Norquist, Grover Glenn.",2014,TRUE
+"83","ALDERMAN","H  000011 .I47  NO.151","X031715435","Fifty economic fallacies exposed /","Wood, Geoffrey E.,",2014,TRUE
+"84","ALDERMAN","H  000011 .N2432  NO.000084","X032009684","Unfilled orders, price changes, and business fluctuations.","Zarnowitz, Victor,",1962,TRUE
+"85","ALDERMAN","H  000011 .N2432  NO.000106","X030592928","Balance-of-payments adjustment policies, Japan, Germany, and the Netherlands.","Michaely, Michael.",1968,TRUE
+"86","ALDERMAN","H  000011 .N2432  NO.000110","X004618079","The changing position of philanthropy in the American economy,","Dickinson, Frank G. (Frank Greene),",1970,TRUE
+"87","ALDERMAN","H  000013 .S622  V.000029 001971","X032009825","Les sûretés personnelles.","",1969,TRUE
+"88","ALDERMAN","H  000022 .M47  1986","X001016126","Metatheory in social science : pluralisms and subjectivities /","",1986,FALSE
+"89","ALDERMAN","H  000022 .S36  2001","X004501855","Schools of thought : twenty-five years of interpretive social science /","",2001,FALSE
+"90","ALDERMAN","H  000023 .R67  R35  2000","X004439384","An enemy of the state : the life of Murray N. Rothbard /","Raimondo, Justin.",2000,TRUE
+"91","ALDERMAN","H  000029 .P8  B377  1986","X001241182","Revisitando a terra de contrastes : a atualidade da obra de Roger Bastide /","",1986,FALSE
+"92","ALDERMAN","H  000031 .A5  NO.000440 001951","X031834179","The foreign policy of the United States.","Morley, Felix M. (Felix Muskett),",1951,TRUE
+"93","ALDERMAN","H  000031 .A54  NO.3  1950","X000240648","The Authoritarian personality,","",1950,TRUE
+"94","ALDERMAN","H  000031 .A8  NO.000006 001956A","X032032918","Growth and depression : contrasts in the Australian and British economies, 1870-1880 /","Bailey, John D.",1990,TRUE
+"95","ALDERMAN","H  000031 .B7  NO.8  1931","X032032923","Reorganization of the financial administration of the Dominican republic /","Addison, Taylor G. (Taylor Garland),",1931,TRUE
+"96","ALDERMAN","H  000031 .B712  NO.000262 001973","X032032921","Rising hospital costs: possible causes and cures.","Davis, Karen.",1973,TRUE
+"97","ALDERMAN","H  000031 .C49  NO.000027","X030698256","Manufacturing structure of the Cicero district, metropolitan Chicago.","Cramer, Robert Eli,",1953,TRUE
+"98","ALDERMAN","H  000031 .C49  NO.000044","X031616165","Farming and farmlands in Panama.","Guzmán, Louis E.",1956,TRUE
+"99","ALDERMAN","H  000031 .C49  NO.000086","X030698254","Chicago commercial reference handbook; statistical supplement to Commercial structure and commercial blight,","Berry, Brian J. L.,",1963,TRUE
+"100","ALDERMAN","H  000031 .C49  NO.186","X000052183","Dimensions of human geography : essays on some familiar and neglected themes /","",1978,TRUE
+"101","ALDERMAN","H  000031 .C7  NO.000006","X000919390","Bankruptcy; a study in comparative legislation.","Dunscomb, S. Whitney (Samuel Whitney),",1969,TRUE
+"102","ALDERMAN","H  000031 .C7  NO.000036 001901","X031979808","The reconstruction of Georgia.","Woolley, Edwin C. (Edwin Campbell),",1901,TRUE
+"103","ALDERMAN","H  000031 .C7  NO.000065-000067","X032010109","Municipal control of public utilities; a study of the attitude of our courts toward an increase in the sphere of municipal activity,","Pond, Oscar L. (Oscar Lewis),",1906,TRUE
+"104","ALDERMAN","H  000031 .C7  NO.000078-000079","X001308532","Early New England towns; a comparative study of their development,","MacLear, Anne Bush.",1908,TRUE
+"105","ALDERMAN","H  000031 .C7  NO.000102-000103","X000307577","The making of the Balkan states,","Murray, William Smith,",1910,TRUE
+"106","ALDERMAN","H  000031 .C7  NO.000104-000106","X002575524","A survey of constitutional development in China","Yen, Hawkling Lugine,",1911,TRUE
+"107","ALDERMAN","H  000031 .C7  NO.000108 001911","X000886695","Attitude of American courts in labor cases; a study in social legislation,","Groat, George Gorham,",1911,TRUE
+"108","ALDERMAN","H  000031 .C7  NO.000194-000195","X002138840","The Royal Government in Virginia, 1624-1775 ...","Flippin, Percy Scott,",1919,TRUE
+"109","ALDERMAN","H  000031 .C7  NO.000218","X030778667","Parliamentary franchise reform in England from 1885 to 1918.","Morris, Homer Lawrence,",1969,TRUE
+"110","ALDERMAN","H  000031 .C7  NO.000236","X000471872","History of the James River and Kanawha company,","Dunaway, Wayland Fuller,",1922,TRUE
+"111","ALDERMAN","H  000031 .G5  NO.000003-000004 001949-000050","X004618651","Scotland on the air; aspects of Scottish broadcasting.","Highet, John.",1949,TRUE
+"112","ALDERMAN","H  000031 .I4  V.000009 NO.000003","X000047334","English government finance, 1485-1558","Dietz, Frederick C. (Frederick Charles),",1970,TRUE
+"113","ALDERMAN","H  000031 .I4  V.000010 NO.000001","X000464810","A study of ""monarchical"" tendencies in the United States, from 1776 to 1801,","Dunbar, Louise Burnham,",1923,TRUE
+"114","ALDERMAN","H  000031 .I4  V.000012 NO.000003 001924","X031979845","The size of the slave population at Athens during the fifth and fourth centuries before Christ,","Robinson, Rachel Sargent,",1924,TRUE
+"115","ALDERMAN","H  000031 .I4  V.000013 NO.000001 001925","X006143374","Soil exhaustion as a factor in the agricultural history of Virginia and Maryland, 1606-1860 /","Craven, Avery,",1926,TRUE
+"116","ALDERMAN","H  000031 .I4  V.000020 NO.000001-000002","X001180872","The first American neutrality; a study of the American understanding of neutral obligations during the years 1792 to 1815,","Hyneman, Charles S.,",1934,TRUE
+"117","ALDERMAN","H  000031 .I4  V.000029 001948","X002765529","Agricultural literature and the early Illinois farmer.","Bardolph, Richard,",1948,TRUE
+"118","ALDERMAN","H  000031 .I4  V.000032 001950-000051","X030874639","Taxes, the public debt, and transfers of income.","Miller, Donald C. (Donald Calvin),",1950,TRUE
+"119","ALDERMAN","H  000031 .I4  V.000051 001962","X031667921","Shelby M. Cullom, Prairie State Republican /","Neilson, James W. (James Warren),",1962,TRUE
+"120","ALDERMAN","H  000031 .J6  SER.000005 NO.000009 001887A","X001259211","The predictions of Hamilton and De Tocqueville /","Bryce, James Bryce,",1987,TRUE
+"121","ALDERMAN","H  000031 .J6  SER.000032 NO.000001","X031635043","Jurisdiction in American building-trades unions,","Whitney, Nathaniel Ruggles,",1914,TRUE
+"122","ALDERMAN","H  000031 .J6  SER.000034 NO.000001","X031634774","The boycott in American trade unions,","Wolman, Leo,",1916,TRUE
+"123","ALDERMAN","H  000031 .J6  SER.000041 NO.000001-000004 001923","X031213112","Paper money in Maryland, 1727-1789,","Behrens, Kathryn Laura,",1923,TRUE
+"124","ALDERMAN","H  000031 .J6  SER.000044","X000758455","Sumptuary legislation and personal regulation in England,","Baldwin, Frances Elizabeth,",1926,TRUE
+"125","ALDERMAN","H  000031 .J6  SER.000045 NO.000001-000004","X031224706","The state as a party litigant,","Watkins, R. Dorsey (Robert Dorsey),",1927,TRUE
+"126","ALDERMAN","H  000031 .J6  SER.000047 NO.000001-000004 001929","X031634591","Congressional investigating committees,","Dimock, Marshall Edward,",1929,TRUE
+"127","ALDERMAN","H  000031 .J6  SER.000053 NO.000001-000004 001935","X030232012","The juristic status of Egypt and the Sudan,","O'Rourke, Vernon A. (Vernon Alfred),",1935,TRUE
+"128","ALDERMAN","H  000031 .J6  SER.000053 NO.000004 001935","X000613411","Contribution of the Ideologues to French revolutionary thought.","Van Duzer, Charles Hunter,",1935,TRUE
+"129","ALDERMAN","H  000031 .J6  SER.000060 NO.000001","X031225132","From barter to slavery; the economic relations of Portuguese and Indians in the settlement of Brazil, 1500-1580,","Marchant, Alexander,",1966,TRUE
+"130","ALDERMAN","H  000031 .J6  SER.000083 NO.000001","X001405845","The right to vote: politics and the passage of the fifteenth amendment.","Gillette, William.",1965,TRUE
+"131","ALDERMAN","H  000031 .J6  SER.000085 NO.000001","X001120191","Modern Yemen, 1918-1966,","Wenner, Manfred W.",1967,TRUE
+"132","ALDERMAN","H  000031 .J6  SER.000089 NO.000001","X000405290","Social control in slave plantation societies; a comparison of St. Domingue and Cuba.","Hall, Gwendolyn Midlo.",1971,TRUE
+"133","ALDERMAN","H  000031 .J6  SER.16","X002007465","The neutrality of the American lakes and Anglo-American relations,","Callahan, James Morton,",1898,TRUE
+"134","ALDERMAN","H  000031 .J62  NEW SER. NO.000006","X032023749","The practice and procedure of international conferences,","Dunn, Frederick Sherwood,",1929,TRUE
+"135","ALDERMAN","H  000031 .J62  NEW SER. NO.000010","X000422315","Slavery agitation in Virginia, 1829-1832 ...","Whitfield, Theodore Marshall,",1930,TRUE
+"136","ALDERMAN","H  000031 .J62  NEW SER. NO.000012","X032023753","The Anglo-Japanese alliance,","Chang, Chung-Fu,",1931,TRUE
+"137","ALDERMAN","H  000031 .J62  V.000015","X000364531","Southern Quakers and slavery: a study in institutional history,","Weeks, Stephen B. (Stephen Beauregard),",1896,TRUE
+"138","ALDERMAN","H  000031 .J62  V.000024 001902","X000419047","A history of slavery in Virginia /","Ballagh, James Curtis,",1902,TRUE
+"139","ALDERMAN","H  000031 .M35  NO.000015 001921","X030577309","A history of the constitution of Minnesota : with the first verified text /","Anderson, William,",1921,TRUE
+"140","ALDERMAN","H  000031 .M5  V.000012","X000298846","The seige of Charleston; with an account of the Province of South Carolina: diaries and letters of Hessian officers from the von Jungkenn papers in the William L. Clements Library.","Uhlendorf, Bernhard A. (Bernhard Alexander),",1938,TRUE
+"141","ALDERMAN","H  000031 .M5  V.000014 001942","X002742987","Federal coöperation with the States under the commerce clause,","Kallenbach, Joseph Ernest,",1942,TRUE
+"142","ALDERMAN","H  000031 .M65  NO.14","X000456370","Armenian legends and festivals /","Boettiger, Louis A. (Louis Angelo)",1920,TRUE
+"143","ALDERMAN","H  000031 .M65  NO.18","X031577928","The twin cities as a metropolitan market : a regional study of the economic development of Minneapolis and St. Paul /","Hartsough, Mildred Lucile.",1925,TRUE
+"144","ALDERMAN","H  000031 .N312A NO.000263 001978","X031979890","Women's access to land and their role in agriculture and decision-making on the farm : experiences of the Joluo of Kenya /","Pala, Achola O.",1978,TRUE
+"145","ALDERMAN","H  000031 .N312A NO.389","X032013627","The Rendille economy : some preliminary findings on trading activities /","Njiru, George K.",1982,TRUE
+"146","ALDERMAN","H  000031 .N312B NO.154","X032023883","Organizational structures for productivity in Kenyan agricultural extension /","Leonard, David K.,",1972,TRUE
+"147","ALDERMAN","H  000031 .N312B NO.168","X032023895","Is a proletariat emerging in nairobi?","Elkan, Walter",1972,TRUE
+"148","ALDERMAN","H  000031 .N312B NO.218","X032023845","A preliminary survey of the avenues for and constraints on women in the development process in Kenya /","Pala, Achola O.",1975,TRUE
+"149","ALDERMAN","H  000031 .N312B NO.294","X004651030","Growth and the organisation of production : case studies from Nairobi's garment industry /","McCormick, Dorothy,",1993,TRUE
+"150","ALDERMAN","H  000031 .P7  NO.22  1945","X031577795","Motor vehicle transportation in American life : the economic, social, and safety factors of motor vehicle transportation for American youth /","Shidle, Norman G. (Norman Glass),",1945,TRUE
+"151","ALDERMAN","H  000031 .P78  MANUAL 001942","X032013041","Problems in American life.","",1942,FALSE
+"152","ALDERMAN","H  000031 .Q8  V.000068","X031577821","Parties and patronage in the United States /","Tyler, Lyon Gardiner,",1891,TRUE
+"153","ALDERMAN","H  000031 .Q8  V.000075 001893","X032013001","A brief history of panics and their periodical occurrence in the United States,","Juglar, Clément,",1893,TRUE
+"154","ALDERMAN","H  000031 .Q8  V.000077 001894","X032013002","Primary elections; a study of methods for improving the basis of party organization,","Remsen, Daniel S. (Daniel Smith),",1894,TRUE
+"155","ALDERMAN","H  000031 .Q8  V.14  1895","X031577802","""The Jukes"" : a study in crime, pauperism, disease and heredity /","Dugdale, R. L. (Richard Louis),",1895,TRUE
+"156","ALDERMAN","H  000031 .Q8  V.70  1892","X031577824","The question of silver, comprising a summary of legislation in the United States, together with a practical analysis of the present situation, and of the arguments of the advocates of unlimited silver coinage,","Ehrich, Louis R.,",1892,TRUE
+"157","ALDERMAN","H  000031 .Q8  V.74  1896","X031577827","The silver situation in the United States.","Taussig, F. W. (Frank William),",1896,TRUE
+"158","ALDERMAN","H  000031 .Q8  V.89  1896","X031577839","A general freight and passenger post : a practical solution of the railroad problem /","Cowles, James Lewis,",1896,TRUE
+"159","ALDERMAN","H  000031 .S71  V.3  1892","X031577859","The condition of the working-class in England in 1844,","Engels, Friedrich,",1892,TRUE
+"160","ALDERMAN","H  000031 .S8  NO.6  1915","X031577868","The principles of human behavior /","Park, Robert Ezra,",1915,TRUE
+"161","ALDERMAN","H  000031 .T7  NO.10  1923","X031582454","The relation of the United States to the Permanent Court of International Justice /","Scott, James Brown,",1923,TRUE
+"162","ALDERMAN","H  000031 .T7  NO.11  1923","X031582455","Law and lawlessness /","Butler, Nicholas Murray,",1923,TRUE
+"163","ALDERMAN","H  000033 .K73  1983","X000627516","Reflections of a neoconservative : looking back, looking ahead /","Kristol, Irving.",1983,FALSE
+"164","ALDERMAN","H  000033 .S52  1957","X000290561","Models of man: social and rational; mathematical essays on rational human behavior in  social setting.","Simon, Herbert A. (Herbert Alexander),",1957,FALSE
+"165","ALDERMAN","H  000033 .S63  A2  1971  V.000001","X000503383","The collected works of Lysander Spooner.","Spooner, Lysander,",1971,TRUE
+"166","ALDERMAN","H  000033 .W35  1973","X000428367","Gesammelte Aufsätze zur Wissenschaftslehre/","Weber, Max,",1973,FALSE
+"167","ALDERMAN","H  000033 .W37  1946","X000207426","From Max Weber: Essays in sociology.","Weber, Max,",1946,FALSE
+"168","ALDERMAN","H  000033 .W37  1949","X000240571","From Max Weber: Essays in sociology /","Weber, Max,",1949,FALSE
+"169","CLEMONS","H  000033 .W37  1958","X002757035","From Max Weber : essays in sociology /","Weber, Max,",1958,FALSE
+"170","ALDERMAN","H  000035 .R88  1962","X000302099","In praise of idleness and other essays,","Russell, Bertrand,",1963,FALSE
+"171","CLEMONS","H  000035 .S335  1984","X000789854","Choice and consequence /","Schelling, Thomas C.,",1984,FALSE
+"172","ALDERMAN","H  000045 .E36  1981  V.000002","X000543019","Der grosse Eichborn : Wirtschaft, Recht, Verwaltung, Verkehr, Umgangssprache /","Eichborn, Reinhart von.",1981,TRUE
+"173","ALDERMAN","H  000049 .R9  E678  2017","X031846451","Proektivny? slovar? gumanitarnykh nauk /","Epstein, Mikhail,",2017,FALSE
+"174","ALDERMAN","H  000049 .S55  1990","X002185953","A Russian-English social science dictionary /","Smith, R. E. F. (Robert E. F.)",1990,FALSE
+"175","ALDERMAN","H  000051 .H8  1958","X000097847","Consciousness and society; the reorientation of European social thought, 1890-1930.","Hughes, H. Stuart (Henry Stuart),",1958,FALSE
+"176","ALDERMAN","H  000051 .H8  1961","X000282945","Consciousness and society; the reorientation of European social thought, 1890-1930.","Hughes, H. Stuart (Henry Stuart),",1961,FALSE
+"177","CLEMONS","H  000051 .H8  1976","X000132318","Consciousness and society : the reorientation of European social thought, 1890-1930 /","Hughes, H. Stuart (Henry Stuart),",1976,FALSE
+"178","ALDERMAN","H  000051 .I58  1995","X002672974","Inventing human science : eighteenth-century domains /","",1995,FALSE
+"179","ALDERMAN","H  000051 .M375  2006","X030104938","A realist philosophy of social science : explanation and understanding /","Manicas, Peter T.",2006,FALSE
+"180","ALDERMAN","H  000051 .M44","X000705955","Social science and the ignoble savage /","Meek, Ronald L.",1976,FALSE
+"181","ALDERMAN","H  000051 .M59  2017","X031818280","Modernism and the social sciences : Anglo-American exchanges, c.1918-1980 /","",2017,FALSE
+"182","ALDERMAN","H  000051 .R47  1998","X030155003","The rise of the social sciences and the formation of modernity : conceptual change in context, 1750-1850 /","",1998,FALSE
+"183","ALDERMAN","H  000051 .S56  1997","X004115532","The Norton history of the human sciences /","Smith, Roger,",1997,FALSE
+"184","ALDERMAN","H  000053 .C55  Z476  2005","X030247200","Zhongguo she hui si xiang shi zi liao xuan ji.","",2005,FALSE
+"185","ALDERMAN","H  000053 .E8  J66  2001","X004644875","The Image of China in Western social and political thought /","Jones, David Martin,",2001,FALSE
+"186","ALDERMAN","H  000053 .F7  M39  2006","X004911842","Techniques, technology and civilisation /","Mauss, Marcel,",2006,FALSE
+"187","ALDERMAN","H  000053 .F7  W44  1984","X000667380","Liberty and utility : the French Idéologues and the transformation of liberalism /","Welch, Cheryl B.",1984,FALSE
+"188","ALDERMAN","H  000053 .G8  P49  2010","X030823552","Phylo kai koin?nikes epist?mes st? synchron? Hellada /","",2010,FALSE
+"189","ALDERMAN","H  000053 .J3  B37  2004","X004768856","The social sciences in modern Japan : the marxian and modernist traditions /","Barshay, Andrew E.",2004,FALSE
+"190","ALDERMAN","H  000053 .L3  O84  2001","X004473428","The other mirror : grand theory through the lens of Latin America /","",2001,FALSE
+"191","ALDERMAN","H  000053 .R9  B44  2008","X030457883","Renovating Russia : the human sciences and the fate of liberal modernity, 1880-1930 /","Beer, Daniel.",2008,FALSE
+"192","ALDERMAN","H  000053 .S66  C66  2007","X030278867","Southern theory : the global dynamics of knowledge in social science /","Connell, Raewyn,",2007,TRUE
+"193","ALDERMAN","H  000053 .U5  F87","X000430780","Advocacy & objectivity : a crisis in the professionalization of American social science, 1865-1905 /","Furner, Mary O.",1975,TRUE
+"194","ALDERMAN","H  000053 .U5  G45  1998","X004214207","Gender and American social science : the formative years /","",1998,TRUE
+"195","ALDERMAN","H  000053 .U5  M63  1994","X002528572","Modernist impulses in the human sciences, 1870-1930 /","",1994,FALSE
+"196","ALDERMAN","H  000053 .U5  P87","X000209557","The crisis of democratic theory; scientific naturalism & the problem of value","Purcell, Edward A.",1973,FALSE
+"197","ALDERMAN","H  000053 .U5  R67  1991","X001859123","The origins of American social science /","Ross, Dorothy.",1991,TRUE
+"198","ALDERMAN","H  000053 .U5  S24  1987","X001281531","Pragmatism and the progressive movement in the United States : the origin of the new social sciences /","Safford, John Lugton,",1987,FALSE
+"199","ALDERMAN","H  000053 .U5  S5  1996","X004412033","Conspicuous criticism : tradition, the individual, and culture in American social thought, from Veblen to Mills /","Shannon, Christopher,",1996,FALSE
+"200","ALDERMAN","H  000053 .U5  S5  2006","X030105268","Conspicuous criticism : tradition, the individual, and culture in modern American social thought /","Shannon, Christopher,",2006,FALSE
+"201","ALDERMAN","H  000053 .U5  S57  1994","X002536486","Social science in the crucible : the American debate over objectivity and purpose, 1918-1941 /","Smith, Mark C.",1994,FALSE
+"202","ALDERMAN","H  000053 .U5  W5  1949","X000240655","Social thought in America, the revolt against formalism.","White, Morton,",1949,FALSE
+"203","ALDERMAN","H  000053 .U5  W5  1957","X006115922","Social thought in America; the revolt against formalism.","White, Morton,",1957,FALSE
+"204","ALDERMAN","H  000053 .U5  W5  1976","X000328818","Social thought in America : the revolt against formalism /","White, Morton,",1976,FALSE
+"205","ALDERMAN","H  000059 .B38  K44  1989","X001736504","Jean Baudrillard : from Marxism to postmodernism and beyond /","Kellner, Douglas,",1989,FALSE
+"206","ALDERMAN","H  000059 .B42  B75  1986","X001065878","Daniel Bell and the decline of intellectual radicalism : social theory and political reconciliation in the 1940s /","Brick, Howard,",1986,FALSE
+"207","ALDERMAN","H  000059 .B42  L54  1985","X000930546","Daniel Bell and the agony of modern liberalism /","Liebowitz, Nathan.",1985,TRUE
+"208","ALDERMAN","H  000059 .B66  A3  1990","X004302435","In other words : essays towards a reflexive sociology /","Bourdieu, Pierre,",1990,FALSE
+"209","ALDERMAN","H  000059 .C66  B34","X000290565","Condorcet, from natural philosophy to social mathematics /","Baker, Keith Michael.",1975,FALSE
+"210","ALDERMAN","H  000059 .F28  F7  1999","X004465281","Frantz Fanon : critical perspectives /","",1999,TRUE
+"211","ALDERMAN","H  000059 .F28  S45  1996","X004067825","Fanon's dialectic of experience /","Sekyi-Otu, Ato.",1996,FALSE
+"212","ALDERMAN","H  000059 .H355  T75  1993","X002244855","Remembering Denny /","Trillin, Calvin.",1993,TRUE
+"213","ALDERMAN","H  000059 .H36  I85  2000","X004705133","The Other American : the life of Michael Harrington /","Isserman, Maurice.",2000,FALSE
+"214","ALDERMAN","H  000059 .H47  W43  2016","X032560858","What do we really know about Herta Herzog? : exploring the life and work of a pioneer of communication research /","",2016,FALSE
+"215","ALDERMAN","H  000059 .K8  A3  1993","X002244674","Frost nach dem Tauwetter : mein Historikerstreit /","Kuczynski, Jürgen.",1993,FALSE
+"216","ALDERMAN","H  000059 .L44  M46  2006","X030011091","Henri Lefebvre : a critical introduction /","Merrifield, Andy.",2006,FALSE
+"217","ALDERMAN","H  000059 .R237  M39  2006","X030106625","Southern modernist : Arthur Raper from the New Deal to the cold war /","Mazzari, Louis.",2006,FALSE
+"218","ALDERMAN","H  000059 .S55  L56","X000162752","The social philosophy of Adam Smith,","Lindgren, J. Ralph.",1973,TRUE
+"219","ALDERMAN","H  000059 .T53  E47  2009","X030567271","Alexis de Tocqueville : the first social scientist /","Elster, Jon,",2009,FALSE
+"220","ALDERMAN","H  000059 .W4  C53  1998","X004188534","Max Weber and the problems of value-free social science : a critical examination of the Werturteilsstreit /","Ciaffa, Jay A.",1998,TRUE
+"221","ALDERMAN","H  000059 .W4  D54  1996","X004017725","Max Weber : politics and the spirit of tragedy /","Diggins, John P.",1996,TRUE
+"222","ALDERMAN","H  000059 .W4  R56  1997","X004151860","Max Weber's methodology : the unification of the cultural and social sciences /","Ringer, Fritz K.,",1997,TRUE
+"223","ALDERMAN","H  000061 .A24  2017","X031809645","Mary Douglas : understanding social thought and conflict /","6, Perri,",2017,FALSE
+"224","ALDERMAN","H  000061 .A375","X000468441","On purposeful systems","Ackoff, Russell Lincoln,",1972,FALSE
+"225","ALDERMAN","H  000061 .A3933  2015","X031732034","Advances in comparative-historical analysis /","",2015,FALSE
+"226","ALDERMAN","H  000061 .A3937  2012","X030608640","Advances in longitudinal methods in the social and behavioral sciences /","",2012,FALSE
+"227","ALDERMAN","H  000061 .A423  1999","X006077743","Actor network theory and after /","",1999,FALSE
+"228","ALDERMAN","H  000061 .A67813  1984","X000870161","Understanding and explanation : a transcendental-pragmatic perspective /","Apel, Karl-Otto.",1984,FALSE
+"229","ALDERMAN","H  000061 .A7  1995","X002651201","Artificial societies : the computer simulation of social life /","",1995,FALSE
+"230","ALDERMAN","H  000061 .A75  1999","X030498833","Interviewing for social scientists : an introductory resource with examples /","Arksey, Hilary.",1999,FALSE
+"231","ALDERMAN","H  000061 .B37  2013","X030608924","Process-tracing methods : foundations and guidelines /","Beach, Derek.",2013,FALSE
+"232","ALDERMAN","H  000061 .B425  2000","X006121477","Principles of research design in the social sciences /","Bechhofer, Frank.",2000,FALSE
+"233","ALDERMAN","H  000061 .B433  2017","X031818916","Evidence /","Becker, Howard Saul,",2017,FALSE
+"234","CLEMONS","H  000061 .B4715  2007","X030269239","Qualitative research methods for the social sciences /","Berg, Bruce L. (Bruce Lawrence),",2007,FALSE
+"235","ALDERMAN","H  000061 .B472  1976","X000311324","The restructuring of social and political theory /","Bernstein, Richard J.",1976,FALSE
+"236","ALDERMAN","H  000061 .B4725  2003","X004668097","A beginner's guide to social theory /","Best, Shaun.",2003,FALSE
+"237","ALDERMAN","H  000061 .B4738  2018","X032561296","Interpretive social science : an anti-naturalist approach /","Bevir, Mark,",2018,FALSE
+"238","ALDERMAN","H  000061 .B4745  1992","X002141598","Individualism in social science : forms and limits of a methodology /","Bhargava, Rajeev.",1992,FALSE
+"239","ALDERMAN","H  000061 .B477  1972","X000152285","Ideology in social science; readings in critical social theory,","Blackburn, Robin",1972,FALSE
+"240","ALDERMAN","H  000061 .B4774  2003","X004657183","The Blackwell guide to the philosophy of the social sciences /","",2003,FALSE
+"241","ALDERMAN","H  000061 .B4776  1993","X032001340","Approaches to social enquiry /","Blaikie, Norman W. H.,",1993,FALSE
+"242","ALDERMAN","H  000061 .B47763  2000","X006121133","Designing social research : the logic of anticipation /","Blaikie, Norman W. H.,",2000,FALSE
+"243","ALDERMAN","H  000061 .B52  1998","X006032718","Qualitative research methods for the social sciences /","Berg, Bruce L. (Bruce Lawrence),",1998,FALSE
+"244","ALDERMAN","H  000061 .B577  1989","X001456120","Event history analysis /","Blossfeld, Hans-Peter.",1989,FALSE
+"245","ALDERMAN","H  000061 .B62  1991","X002107145","New philosophy of social science : problems of indeterminacy /","Bohman, James.",1991,FALSE
+"246","ALDERMAN","H  000061 .B62165  2013","X031230260","Intensive longitudinal methods : an introduction to diary and experience sampling research /","Bolger, Niall.",2013,FALSE
+"247","ALDERMAN","H  000061 .B62213  2006","X030006935","On justification : economies of worth /","Boltanski, Luc.",2006,FALSE
+"248","ALDERMAN","H  000061 .B75  1986B","X001079571","Learning how to ask : a sociolinguistic appraisal of the role of the interview in social science research /","Briggs, Charles L.,",1986,FALSE
+"249","ALDERMAN","H  000061 .B87  2001","X004524180","Eyewitnessing : the uses of images as historical evidence /","Burke, Peter,",2001,FALSE
+"250","ALDERMAN","H  000061 .C23  1978","X000057911","Tragic choices /","Calabresi, Guido,",1978,FALSE
+"251","ALDERMAN","H  000061 .C235  1999","X006018405","Social theory : a historical introduction /","Callinicos, Alex.",1999,FALSE
+"252","ALDERMAN","H  000061 .C26","X000152044","Reliability and validity assessment /","Carmines, Edward G.",1979,FALSE
+"253","ALDERMAN","H  000061 .C4335  1997","X004126252","Chaos, complexity, and sociology : myths, models, and theories /","",1997,FALSE
+"254","ALDERMAN","H  000061 .C524  2003","X004683368","Comparative historical analysis in the social sciences /","",2003,FALSE
+"255","ALDERMAN","H  000061 .C528  1996","X002745292","A Blackwell companion to social theory /","",1996,FALSE
+"256","ALDERMAN","H  000061 .C657  2015","X031731975","Social sequence analysis : methods and applications /","Cornwell, Benjamin,",2015,FALSE
+"257","ALDERMAN","H  000061 .C73  1998","X004113998","Qualitative inquiry and research design : choosing among five traditions /","Creswell, John W.",1998,FALSE
+"258","ALDERMAN","H  000061 .C73  2007","X030114887","Qualitative inquiry & research design : choosing among five approaches /","Creswell, John W.",2007,FALSE
+"259","ALDERMAN","H  000061 .C73  2013","X031658613","Qualitative inquiry and research design : choosing among five approaches /","Creswell, John W.",2013,FALSE
+"260","ALDERMAN","H  000061 .D535  1991","X001979932","How does social science work? : reflections on practice /","Diesing, Paul.",1991,FALSE
+"261","ALDERMAN","H  000061 .D62  1993","X004091987","Doing naturalistic inquiry : a guide to methods /","",1993,FALSE
+"262","ALDERMAN","H  000061 .D65","X000705964","Modeling social processes /","Doreian, Patrick.",1976,FALSE
+"263","ALDERMAN","H  000061 .D82  1978","X000015940","Theory building /","Dubin, Robert.",1978,FALSE
+"264","ALDERMAN","H  000061 .D88196  2018","X031840870","Toward a pragmatist sociology : John Dewey and the legacy of C. Wright Mills /","Dunn, Robert G.,",2018,FALSE
+"265","ALDERMAN","H  000061 .D882","X000356266","Public policy analysis : an introduction /","Dunn, William N.",1981,FALSE
+"266","CLEMONS","H  000061 .D882  1994","X002736975","Public policy analysis : an introduction /","Dunn, William N.",1994,FALSE
+"267","ALDERMAN","H  000061 .E34","X000166841","Effective policy implementation /","",1981,FALSE
+"268","ALDERMAN","H  000061 .E43","X000063903","Logic and society : contradictions and possible worlds /","Elster, Jon,",1978,FALSE
+"269","ALDERMAN","H  000061 .E434  1989","X001634847","Nuts and bolts for the social sciences /","Elster, Jon,",1989,FALSE
+"270","ALDERMAN","H  000061 .E434  2007","X030274266","Explaining social behavior : more nuts and bolts for the social sciences /","Elster, Jon,",2007,FALSE
+"271","ALDERMAN","H  000061 .E437  2006","X004899726","Emergent methods in social research /","",2006,FALSE
+"272","ALDERMAN","H  000061 .E67  1996","X004068595","Growing artificial societies : social science from the bottom up /","Epstein, Joshua M.,",1996,FALSE
+"273","ALDERMAN","H  000061 .E99  2002","X006126902","Qualitative analysis : practice and innovation /","Ezzy, Douglas.",2002,FALSE
+"274","ALDERMAN","H  000061 .F35  1987","X001215901","Critical social science : liberation and its limits /","Fay, Brian.",1987,FALSE
+"275","ALDERMAN","H  000061 .F355  1996","X004070572","Contemporary philosophy of social science : a multicultural approach /","Fay, Brian.",1996,FALSE
+"276","ALDERMAN","H  000061 .F38  1987","X030262539","Feminism and methodology : social science issues /","",1987,FALSE
+"277","ALDERMAN","H  000061 .F48  2008","X030721168","Heredity, race, and the birth of the modern /","Figal, Sara Eigen,",2008,FALSE
+"278","ALDERMAN","H  000061 .F6  1999","X006006427","Foucault contra Habermas /","",1999,FALSE
+"279","ALDERMAN","H  000061 .F6144  2001","X004474590","Making social science matter : why social inquiry fails and how it can succeed again /","Flyvbjerg, Bent.",2001,FALSE
+"280","ALDERMAN","H  000061 .F637  2004","X004774053","From words to numbers : narrative, data, and social science /","Franzosi, Roberto.",2004,FALSE
+"281","ALDERMAN","H  000061 .F69192  2017","X031761240","An introduction to evaluation /","Fox, Chris,",2017,FALSE
+"282","ALDERMAN","H  000061 .G46  2005","X004917300","Case studies and theory development in the social sciences /","George, Alexander L.",2005,FALSE
+"283","ALDERMAN","H  000061 .G47  2001","X004556019","Social science methodology : a criterial framework /","Gerring, John,",2001,FALSE
+"284","ALDERMAN","H  000061 .G55125  2007","X030468948","Developing a questionnaire /","Gillham, Bill.",2007,FALSE
+"285","ALDERMAN","H  000061 .G5544  2013","X031621274","Running randomized evaluations : a practical guide /","Glennerster, Rachel,",2013,FALSE
+"286","ALDERMAN","H  000061 .G5557  2007","X030355662","Logics of critical explanation in social and political theory /","Glynos, Jason.",2007,FALSE
+"287","CLEMONS","H  000061 .G578  2015","X031744521","Regression analysis for the social sciences /","Gordon, Rachel A.",2015,FALSE
+"288","ALDERMAN","H  000061 .G593  2004","X004770125","Social research methodology : a critical introduction /","Gomm, Roger.",2004,FALSE
+"289","ALDERMAN","H  000061 .G593  2006","X004898762","Karl Popper and the social sciences /","Gorton, William A.,",2006,FALSE
+"290","ALDERMAN","H  000061 .G864  1996","X004044145","Open the social sciences : report of the Gulbenkian Commission on the Restructuring of the Social Sciences.","Gulbenkian Commission on the Restructuring of the Social Sciences.",1996,FALSE
+"291","ALDERMAN","H  000061 .H2513  1988","X001500294","On the logic of the social sciences /","Habermas, Jürgen.",1988,FALSE
+"292","ALDERMAN","H  000061 .H277","X000013337","Games as models of social phenomena /","Hamburger, Henry,",1979,FALSE
+"293","ALDERMAN","H  000061 .H2887  2003","X004663082","Teaching yourself social theory /","Harris, David,",2003,FALSE
+"294","ALDERMAN","H  000061 .H33  1979","X002405267","The counter-revolution of science : studies on the abuse of reason /","Hayek, Friedrich A. von (Friedrich August),",1979,FALSE
+"295","ALDERMAN","H  000061 .H3366  1978B","X000060063","New studies in philosophy, politics, economics, and the history of ideas /","Hayek, Friedrich A. von (Friedrich August),",1978,FALSE
+"296","ALDERMAN","H  000061 .H34  2012","X030975760","Qualitative inquiry in clinical and educational settings /","Hays, Danica G.",2012,FALSE
+"297","ALDERMAN","H  000061 .H665  1994","X002753084","The philosophy of social science : an introduction /","Hollis, Martin.",1994,FALSE
+"298","ALDERMAN","H  000061 .H69  2000","X004500369","Discourse /","Howarth, David R.",2000,FALSE
+"299","ALDERMAN","H  000061 .I443  2011","X031607377","Immanuel Wallerstein and the problem of the world : system, scale, culture /","",2011,FALSE
+"300","ALDERMAN","H  000061 .I6","X000071444","Interpretive social science : a reader /","",1979,FALSE
+"301","ALDERMAN","H  000061 .I6  1987","X001359697","Interpretive social science : a second look /","",1987,FALSE
+"302","ALDERMAN","H  000061 .I83  1987","X001242146","Analysis of variance /","Iversen, Gudmund R.",1987,FALSE
+"303","ALDERMAN","H  000061 .J2713  2018","X031840071","History is a contemporary literature : manifesto for the social sciences /","Jablonka, Ivan,",2018,FALSE
+"304","ALDERMAN","H  000061 .K24  1964","X000240579","The conduct of inquiry; methodology for behavioral science.","Kaplan, Abraham,",1964,FALSE
+"305","ALDERMAN","H  000061 .K5437  1994","X002737352","Designing social inquiry : scientific inference in qualitative research /","King, Gary,",1994,FALSE
+"306","ALDERMAN","H  000061 .K5444  2000","X004474311","Social science and complexity : the scientific foundations /","King, Ian Trevor.",2000,FALSE
+"307","ALDERMAN","H  000061 .L34","X000290569","A pre-view of policy sciences","Lasswell, Harold D. (Harold Dwight),",1971,FALSE
+"308","ALDERMAN","H  000061 .L345  1997","X006035985","Modern social theory : key debates and new directions /","Layder, Derek.",1997,FALSE
+"309","ALDERMAN","H  000061 .L35  1954","X000334264","Mathematical thinking in the social sciences.","Lazarsfeld, Paul F.,",1954,FALSE
+"310","ALDERMAN","H  000061 .L4653  2001","X004472238","Tyranny of reason : the origins and consequences of the social scientific outlook /","Levin, Yuval.",2001,FALSE
+"311","ALDERMAN","H  000061 .L4768  2013","X031607073","Utopia as method : the imaginary reconstruction of society /","Levitas, Ruth,",2013,FALSE
+"312","ALDERMAN","H  000061 .L48  1951","X000412654","Field theory in social science;","Lewin, Kurt,",1951,FALSE
+"313","ALDERMAN","H  000061 .L484  1992","X002161667","Social science methodology : a brief but critical introduction /","Lewins, Frank W. (Frank William)",1992,FALSE
+"314","ALDERMAN","H  000061 .L522","X000037685","Usable knowledge : social science and social problem solving /","Lindblom, Charles Edward,",1979,FALSE
+"315","ALDERMAN","H  000061 .L543  1998","X004254743","Microfoundations, method and causation : on the philosophy of the social sciences /","Little, Daniel.",1998,FALSE
+"316","ALDERMAN","H  000061 .L544  2016","X031795942","New directions in the philosophy of social science /","Little, Daniel,",2016,FALSE
+"317","ALDERMAN","H  000061 .L587  2017","X031795641","Methodological thinking : basic principles of social research design /","Loseke, Donileen R.,",2017,FALSE
+"318","ALDERMAN","H  000061 .M39  2007","X030263166","Max Weber's 'objectivity' reconsidered /","",2007,FALSE
+"319","ALDERMAN","H  000061 .M46  1994","X004140454","Beginning qualitative research : a philosophic and practical guide /","Maykut, Pamela S.",1994,FALSE
+"320","ALDERMAN","H  000061 .M4895  1997","X004106670","Memory, identity, community : the idea of narrative in the human sciences /","",1997,FALSE
+"321","ALDERMAN","H  000061 .M492644  2016","X031795236","Methods that matter : integrating mixed methods for more effective social science research /","",2016,FALSE
+"322","ALDERMAN","H  000061 .M5  1959","X000114918","The sociological imagination.","Mills, C. Wright (Charles Wright),",1959,FALSE
+"323","ALDERMAN","H  000061 .M543  2000","X004421716","Learning to theorize : a four-step strategy /","Mithaug, Dennis E.",2000,FALSE
+"324","ALDERMAN","H  000061 .M55  2003  V.000002","X004632435","Mikhail Bakhtin /","",2003,TRUE
+"325","ALDERMAN","H  000061 .N25  1982","X000599581","Research methods in the social sciences /","Frankfort-Nachmias, Chava.",1982,FALSE
+"326","ALDERMAN","H  000061 .N29","X000358404","The politics of policy implementation /","Nakamura, Robert T.,",1980,FALSE
+"327","ALDERMAN","H  000061 .N415  2003","X004633383","Necessary conditions : theory, methodology, and applications /","",2002,FALSE
+"328","ALDERMAN","H  000061 .O24  1988","X001500296","Weber and Rickert : concept formation in the cultural sciences /","Oakes, Guy.",1988,FALSE
+"329","ALDERMAN","H  000061 .O95  2012","X030856538","The Oxford handbook of philosophy of social science /","",2012,FALSE
+"330","ALDERMAN","H  000061 .P39  2004","X004743575","Key concepts in social research /","Payne, Geoff,",2004,FALSE
+"331","ALDERMAN","H  000061 .P529  1996","X002713057","Argument and evidence : critical analysis for the social sciences /","Phelan, Peter,",1996,FALSE
+"332","ALDERMAN","H  000061 .P5875  1988","X001361312","Narrative knowing and the human sciences /","Polkinghorne, Donald,",1988,FALSE
+"333","ALDERMAN","H  000061 .P5875  2005","X004858261","The politics of method in the human sciences : positivism and its epistemological others /","",2005,FALSE
+"334","ALDERMAN","H  000061 .P86  2003","X004690839","Survey research : the basics /","Punch, Keith.",2003,FALSE
+"335","ALDERMAN","H  000061 .Q166  2015","X031740900","Qualitative ethics in practice /","",2015,FALSE
+"336","ALDERMAN","H  000061 .Q28  1989","X001591082","The Qualitative-quantitative distinction in the social sciences /","",1989,FALSE
+"337","ALDERMAN","H  000061 .Q285  1989B","X001649700","Qualitative research in action /","",1989,FALSE
+"338","ALDERMAN","H  000061 .R2  1957","X000362253","A natural science of society.","Radcliffe-Brown, A. R. (Alfred Reginald),",1957,FALSE
+"339","ALDERMAN","H  000061 .R216  1987","X002757384","The comparative method : moving beyond qualitiative and quantitative strategies /","Ragin, Charles C.",1987,FALSE
+"340","ALDERMAN","H  000061 .R33  1994","X002453466","Readings in the philosophy of social science /","",1994,FALSE
+"341","ALDERMAN","H  000061 .R34  2014","X031650942","The comparative method : moving beyond qualitative and quantitative strategies /","Ragin, Charles C.",2014,FALSE
+"342","ALDERMAN","H  000061 .R455","X000422985","Social science and public policy /","Rein, Martin.",1976,FALSE
+"343","ALDERMAN","H  000061 .R466  1979  BLOCK 000007","X000959239","Research methods in education and the social sciences /","",1979,FALSE
+"344","CLEMONS","H  000061 .R468  1985","X001058076","The Return of grand theory in the human sciences /","",1985,FALSE
+"345","ALDERMAN","H  000061 .R487  1991","X004939496","Feedback thought in social science and systems theory /","Richardson, George P.",1991,FALSE
+"346","ALDERMAN","H  000061 .R569  2000","X004395777","Woodcutters and witchcraft : rationality and interpretive change in the social sciences /","Risjord, Mark W.,",2000,FALSE
+"347","ALDERMAN","H  000061 .R57  2001","X006113386","Explorations in social theory : from metatheorizing to rationalization /","Ritzer, George.",2001,FALSE
+"348","ALDERMAN","H  000061 .R668  1988B","X001752321","Philosophy of social science /","Rosenberg, Alexander,",1988,FALSE
+"349","ALDERMAN","H  000061 .R668  2008","X030251426","Philosophy of social science /","Rosenberg, Alexander,",2008,FALSE
+"350","ALDERMAN","H  000061 .R668  2016","X031762909","Philosophy of social science /","Rosenberg, Alexander,",2016,FALSE
+"351","ALDERMAN","H  000061 .R683  1987","X001275527","Meaning and method in the social sciences : a case for methodological pluralism /","Roth, Paul Andrew,",1987,FALSE
+"352","ALDERMAN","H  000061 .R686  2014","X031642082","Routledge international handbook of contemporary social and political theory /","",2014,FALSE
+"353","CLEMONS","H  000061 .R875","X000309442","The philosophy of social explanation.","Ryan, Alan,",1973,FALSE
+"354","ALDERMAN","H  000061 .R88  1970","X000441957","The philosophy of the social sciences.","Ryan, Alan,",1970,FALSE
+"355","ALDERMAN","H  000061 .S353  1992","X002171092","Method in social science : a realist approach /","Sayer, R. Andrew.",1992,FALSE
+"356","ALDERMAN","H  000061 .S3546  2016","X031791453","Elucidating social science concepts : an interpretivist guide /","Schaffer, Frederic Charles,",2016,FALSE
+"357","CLEMONS","H  000061 .S355  1978","X000173429","Micromotives and macrobehavior /","Schelling, Thomas C.,",1978,FALSE
+"358","ALDERMAN","H  000061 .S3986  2016","X031793179","Mixed methods : interviews, surveys, and cross-cultural comparisons /","Schrauf, Robert W.",2016,FALSE
+"359","ALDERMAN","H  000061 .S44  1967  V.000001","X000208131","Collected papers /","Schutz, Alfred,",1967,TRUE
+"360","ALDERMAN","H  000061 .S44756  2016","X031741313","Multi-method social science : combining qualitative and quantitative tools /","Seawright, Jason",2016,FALSE
+"361","ALDERMAN","H  000061 .S5139  2005","X004917301","The flight from reality in the human sciences /","Shapiro, Ian.",2005,FALSE
+"362","ALDERMAN","H  000061 .S58413  1980","X000087149","Essays on interpretation in social science /","Simmel, Georg,",1980,FALSE
+"363","ALDERMAN","H  000061 .S5845  1994","X002474781","Simulating societies : the computer simulation of social phenomena /","",1994,FALSE
+"364","ALDERMAN","H  000061 .S5853","X032011056","Sisteme în ?tiin?ele sociale /","",1977,FALSE
+"365","ALDERMAN","H  000061 .S58976  2007","X030251419","Theory and evidence in comparative politics and international relations /","",2007,FALSE
+"366","ALDERMAN","H  000061 .S58994  1983","X000505712","Social science as moral inquiry /","",1983,FALSE
+"367","ALDERMAN","H  000061 .S77524  2017","X031806273","Social theory now /","",2017,FALSE
+"368","ALDERMAN","H  000061 .S8815  2011","X030975582","The strange music of social life : a dialogue on dialogic sociology /","",2011,FALSE
+"369","ALDERMAN","H  000061 .S8824  1987","X004270180","Qualitative analysis for social scientists /","Strauss, Anselm L.",1987,FALSE
+"370","ALDERMAN","H  000061 .S8825  1987B","X001299862","Four theories of myth in twentieth-century history : Cassirer, Eliade, Levi-Strauss and Malinowski /","Strenski, Ivan,",1987,FALSE
+"371","ALDERMAN","H  000061 .T37  2000","X006118913","A primer in longitudinal data analysis /","Taris, Toon.",2000,FALSE
+"372","ALDERMAN","H  000061 .T385  2016","X031791365","Introduction to qualitative research methods : a guidebook and resource /","Taylor, Steven J.,",2016,FALSE
+"373","ALDERMAN","H  000061 .T43  1988","X001534983","Teaching social studies : portraits from the classroom /","",1988,FALSE
+"374","ALDERMAN","H  000061 .T473  2000","X004767003","Thinking space /","",2000,FALSE
+"375","ALDERMAN","H  000061 .T475","X000324310","Critical hermeneutics : a study in the thought of Paul Ricoeur and Jürgen Habermas /","Thompson, John B.",1981,FALSE
+"376","ALDERMAN","H  000061 .T96  1995","X002717327","The importance of us : a philosophical study of basic social notions /","Tuomela, Raimo.",1995,FALSE
+"377","ALDERMAN","H  000061 .V57  2001","X006137630","Virilio live : selected interviews /","Virilio, Paul.",2001,FALSE
+"378","ALDERMAN","H  000061 .V5813  2000","X006120888","Polar inertia /","Virilio, Paul.",2000,FALSE
+"379","ALDERMAN","H  000061 .W34  1999","X004255679","The end of the world as we know it : social science for the twenty-first century /","Wallerstein, Immanuel Maurice,",1999,FALSE
+"380","ALDERMAN","H  000061 .W4  1949","X000114900","Max Weber on the methodology of the social sciences:","Weber, Max,",1949,FALSE
+"381","CLEMONS","H  000061 .W4  1949A","X000134483","The methodology of the social sciences /","Weber, Max,",1949,FALSE
+"382","ALDERMAN","H  000061 .W56  2007","X030255818","The idea of a social science and its relation to philosophy /","Winch, Peter.",2008,FALSE
+"383","ALDERMAN","H  000061 .Y56  1993","X004091986","Applications of case study research /","Yin, Robert K.",1993,FALSE
+"384","ALDERMAN","H  000061.15 .A23  2004","X004768144","Methods of discovery : heuristics for the social sciences /","Abbott, Andrew Delano.",2004,FALSE
+"385","ALDERMAN","H  000061.15 .B34  1998","X004254780","Social theory in the twentieth century /","Baert, Patrick,",1998,FALSE
+"386","ALDERMAN","H  000061.15 .B38  2016","X031793057","Babel /","Bauman, Zygmunt,",2016,FALSE
+"387","ALDERMAN","H  000061.15 .B57  2007","X030571489","The philosophy of the social sciences : an introduction /","Bishop, Robert,",2007,FALSE
+"388","ALDERMAN","H  000061.15 .B667  2011","X030975579","The idolatry of the actual : Habermas, socialization, and the possibility of autonomy /","Borman, David A.",2011,FALSE
+"389","ALDERMAN","H  000061.15 .B6813  2004","X004896913","The Poverty of relativism /","Boudon, Raymond.",2004,FALSE
+"390","ALDERMAN","H  000061.15 .D67  1999","X004290333","Empire of meaning : the humanization of the social sciences /","Dosse, François,",1999,FALSE
+"391","ALDERMAN","H  000061.15 .E67  2015","X031706301","The ant trap : rebuilding the foundations of the social sciences /","Epstein, Brian,",2015,FALSE
+"392","ALDERMAN","H  000061.15 .E76  2007","X030276412","Ernest Gellner and contemporary social thought /","",2007,FALSE
+"393","ALDERMAN","H  000061.15 .F56  2001","X006101564","Social capital versus social theory : political economy and social science at the turn of the millennium /","Fine, Ben.",2001,FALSE
+"394","ALDERMAN","H  000061.15 .G72  2002","X004591842","Practical reasoning in a social world : how we act together /","Graham, Keith,",2002,FALSE
+"395","ALDERMAN","H  000061.15 .H34  2011","X031195682","A. N. Whitehead and social theory : tracing a culture of thought /","Halewood, Michael.",2011,FALSE
+"396","ALDERMAN","H  000061.15 .J3413  2018","X032583530","Critique of forms of life /","Jaeggi, Rahel,",2018,FALSE
+"397","ALDERMAN","H  000061.15 .J63  2003","X004734532","Social theory : conflict, cohesion and consent /","Joseph, Jonathan,",2003,FALSE
+"398","ALDERMAN","H  000061.15 .L43  2009","X030516847","State, space, world : selected essays /","Lefebvre, Henri,",2009,FALSE
+"399","ALDERMAN","H  000061.15 .M40  2016","X031760809","On knowing : the social sciences /","McKeon, Richard (Richard Peter),",2016,FALSE
+"400","CLEMONS","H  000061.15 .M675  2009","X030523942","Antiquity and modernity /","Morley, Neville.",2009,FALSE
+"401","ALDERMAN","H  000061.15 .P482  2014","X031654203","Philosophy of social science : a new introduction /","",2014,FALSE
+"402","ALDERMAN","H  000061.15 .R54  2001","X004527071","The metaphorical society : an invitation to social theory /","Rigney, Daniel,",2001,FALSE
+"403","ALDERMAN","H  000061.15 .S56  2014","X031655586","Social dynamics /","Skyrms, Brian.",2014,FALSE
+"404","ALDERMAN","H  000061.15 .S63  2003","X031821510","Socializing metaphysics : the nature of social reality /","",2003,FALSE
+"405","ALDERMAN","H  000061.15 .S634  2003","X004703221","Social construction : a reader /","",2003,FALSE
+"406","ALDERMAN","H  000061.15 .S993  2019","X032583300","From anthropology to social theory : rethinking the social sciences /","Szakolczai, Árpád,",2019,FALSE
+"407","ALDERMAN","H  000061.15 .T39  2004","X004746743","Modern social imaginaries /","Taylor, Charles,",2004,FALSE
+"408","ALDERMAN","H  000061.15 .T54  2008","X030262081","Non-representational theory : space, politics, affect /","Thrift, N. J.",2008,FALSE
+"409","ALDERMAN","H  000061.15 .T55  2007","X030102696","Thorstein Veblen and the enrichment of evolutionary naturalism /","Tilman, Rick.",2007,FALSE
+"410","ALDERMAN","H  000061.15 .W35  2004","X004772962","The uncertainties of knowledge /","Wallerstein, Immanuel Maurice,",2004,FALSE
+"411","ALDERMAN","H  000061.24 .C45  2006","X030476938","Constructing grounded theory : a practical guide through qualitative analysis /","Charmaz, Kathy,",2006,FALSE
+"412","ALDERMAN","H  000061.24 .G76  2011","X030974681","Grounded theory : the philosophy, method, and work of Barney Glaser /","",2011,FALSE
+"413","ALDERMAN","H  000061.24 .S58  2015","X031732861","Situational analysis in practice : mapping research with grounded theory /","",2015,FALSE
+"414","ALDERMAN","H  000061.25 .A36  2013","X031618895","Complex systems and society : modeling and simulation /","Ajmone Marsan, Giulia",2013,FALSE
+"415","ALDERMAN","H  000061.25 .A431  1984","X002231839","Linear probability, logit, and probit models /","Aldrich, John H.,",1984,FALSE
+"416","ALDERMAN","H  000061.25 .B34  2013","X031599622","Quantum dynamics for classical systems : with applications of the number operator /","Bagarello, Fabio,",2013,FALSE
+"417","ALDERMAN","H  000061.25 .B53  2007","X030841687","Multilevel analysis for applied research : it's just regression! /","Bickel, Robert.",2007,FALSE
+"418","ALDERMAN","H  000061.25 .B7  1994","X002435998","Theory of moves /","Brams, Steven J.",1994,FALSE
+"419","ALDERMAN","H  000061.25 .B76  2008","X030255259","Graph algebra : mathematical modeling with a systems approach /","Brown, Courtney,",2008,FALSE
+"420","ALDERMAN","H  000061.25 .B95  1998","X006020617","Complexity theory and the social sciences : an introduction /","Byrne, David,",1998,FALSE
+"421","ALDERMAN","H  000061.25 .B95  2014","X031621202","Complexity theory and the social sciences : the state of the art /","Byrne, D. S. (David S.),",2014,FALSE
+"422","ALDERMAN","H  000061.25 .C48  1996","X002745261","Chaos theory in the social sciences : foundations and applications /","",1996,FALSE
+"423","ALDERMAN","H  000061.25 .D42  2005","X004907641","Computational and mathematical modeling in the social sciences /","De Marchi, Scott.",2005,FALSE
+"424","ALDERMAN","H  000061.25 .E66  1997","X004106246","Nonlinear dynamics, mathematical biology, and social science /","Epstein, Joshua M.,",1997,FALSE
+"425","ALDERMAN","H  000061.25 .F69  2009","X030457454","A mathematical primer for social statistics /","Fox, John,",2009,FALSE
+"426","ALDERMAN","H  000061.25 .G65  2003","X004875980","Multilevel statistical models /","Goldstein, Harvey,",2003,FALSE
+"427","ALDERMAN","H  000061.25 .H4  1995","X002623817","Game theory : a critical introduction /","Heap, Shaun Hargreaves,",1995,FALSE
+"428","ALDERMAN","H  000061.25 .H88  1999","X006027165","The multivariate social scientists : introductory statistics using generalized linear models /","Hutcheson, Graeme.",1999,FALSE
+"429","ALDERMAN","H  000061.25 .I13  2008","X030259751","Mediation analysis /","Iacobucci, Dawn.",2008,FALSE
+"430","ALDERMAN","H  000061.25 .M55  2007","X030112635","Complex adaptive systems : an introduction to computational models of social life / John H. Miller and Scott E. Page.","Miller, John H. (John Howard),",2007,FALSE
+"431","ALDERMAN","H  000061.25 .M63  1996","X004071873","Modelling and simulation in the social sciences from the philosophy of science point of view /","",1996,FALSE
+"432","ALDERMAN","H  000061.25 .M6813  1986","X001108920","Game theory for the social sciences /","Moulin, Hervé.",1986,FALSE
+"433","CLEMONS","H  000061.25 .M94  1991","X002332310","Game theory : analysis of conflict /","Myerson, Roger B.",1991,FALSE
+"434","ALDERMAN","H  000061.25 .O86  2006","X004907558","Polytomous item response theory models /","Ostini, Remo.",2006,FALSE
+"435","ALDERMAN","H  000061.25 .S49  1982","X000352082","Game theory in the social sciences : concepts and solutions /","Shubik, Martin.",1982,FALSE
+"436","ALDERMAN","H  000061.25 .S652  2006","X004910460","Fuzzy set theory : applications in the social sciences /","Smithson, Michael.",2006,FALSE
+"437","ALDERMAN","H  000061.25 .S96  PT.000001","X000481292","Systems under indirect observation : causality, structure, prediction /","",1982,TRUE
+"438","ALDERMAN","H  000061.26 .A53  1996","X002758593","Analysis of change : advanced techniques in panel data analysis /","",1996,FALSE
+"439","ALDERMAN","H  000061.26 .F56  1995","X002596866","Causal analysis with panel data /","Finkel, Steven E.",1995,FALSE
+"440","ALDERMAN","H  000061.26 .N47  2002","X004637870","Essays in panel data econometrics /","Nerlove, Marc,",2002,FALSE
+"441","ALDERMAN","H  000061.27 .D48  2017","X031790501","Scale development : theory and applications /","DeVellis, Robert F.,",2017,FALSE
+"442","ALDERMAN","H  000061.27 .N48  2003","X004663121","Scaling procedures : issues and applications /","Netemeyer, Richard G.,",2003,FALSE
+"443","ALDERMAN","H  000061.27 .S325  2016","X031791020","Scale : discourse and dimensions of social life /","",2016,FALSE
+"444","ALDERMAN","H  000061.27 .S66  1992","X002068231","Summated rating scale construction : an introduction /","Spector, Paul E.",1992,FALSE
+"445","ALDERMAN","H  000061.27 .W47  2017","X031805625","Scale : the universal laws of growth, innovation, sustainability, and the pace of life in organisms, cities, economies, and companies /","West, Geoffrey B.",2017,FALSE
+"446","ALDERMAN","H  000061.28 .D48  1999","X006073706","Developing focus group research : politics, theory and practice /","",1999,FALSE
+"447","ALDERMAN","H  000061.28 .F63  1998  V.1","X004107436","The focus group guidebook /","Morgan, David L.",1998,TRUE
+"448","ALDERMAN","H  000061.28 .F63  1998  V.2","X004113988","Planning focus groups /","Morgan, David L.",1998,TRUE
+"449","ALDERMAN","H  000061.28 .F63  1998  V.3","X004107407","Developing questions for focus groups /","Krueger, Richard A.",1998,TRUE
+"450","ALDERMAN","H  000061.28 .F63  1998  V.4","X004107439","Moderating focus groups /","Krueger, Richard A.",1997,TRUE
+"451","ALDERMAN","H  000061.28 .F63  1998  V.5","X004107415","Involving community members in focus groups /","Krueger, Richard A.",1998,TRUE
+"452","ALDERMAN","H  000061.28 .F63  1998  V.6","X031602614","Analyzing & reporting focus group results /","Krueger, Richard A.",1998,TRUE
+"453","ALDERMAN","H  000061.28 .F63  2001","X004500926","Focus groups in social research /","",2000,FALSE
+"454","ALDERMAN","H  000061.28 .K78  1994","X002452440","Focus groups : a practical guide for applied research /","Krueger, Richard A.",1994,FALSE
+"455","ALDERMAN","H  000061.28 .K78  2015","X031740997","Focus groups : a practical guide for applied research /","Krueger, Richard A.",2015,FALSE
+"456","ALDERMAN","H  000061.28 .L58  2003","X004956347","Using focus groups in research /","Litosseliti, Lia.",2003,FALSE
+"457","ALDERMAN","H  000061.28 .M37  1988","X001925716","The long interview /","McCracken, Grant David,",1988,FALSE
+"458","ALDERMAN","H  000061.28 .M47  1990","X001925328","The focused interview : a manual of problems and procedures /","Merton, Robert King,",1990,FALSE
+"459","ALDERMAN","H  000061.28 .M67  1988","X001859969","Focus groups as qualitative research /","Morgan, David L.",1988,FALSE
+"460","ALDERMAN","H  000061.28 .M67  1997","X004103400","Focus groups as qualitative research / David L. Morgan.","Morgan, David L.",1997,FALSE
+"461","ALDERMAN","H  000061.28 .S45  1998","X004133547","Interviewing as qualitative research : a guide for researchers in education and the social sciences /","Seidman, Irving,",1998,FALSE
+"462","CLEMONS","H  000061.28 .S74  1990","X002229647","Focus groups : theory and practice /","Stewart, David W.",1990,FALSE
+"463","ALDERMAN","H  000061.28 .S83  1993","X004208915","Successful focus groups : advancing the state of the art /","",1993,FALSE
+"464","ALDERMAN","H  000061.28 .W548  2015","X031709369","Analysis of the cognitive interview in questionnaire design /","Willis, Gordon B. (Gordon Bruce),",2015,FALSE
+"465","ALDERMAN","H  000061.28 .W55  2005","X031782724","Cognitive interviewing : a tool for improving questionnaire design /","Willis, Gordon B. (Gordon Bruce)",2005,FALSE
+"466","ALDERMAN","H  000061.29 .M39  2008","X030472637","Telling stories : the use of personal narratives in the social sciences and history /","Maynes, Mary Jo.",2008,FALSE
+"467","ALDERMAN","H  000061.29 .R47  2004","X004774926","Researching life stories : method, theory, and analyses in a biographical age /","",2004,FALSE
+"468","ALDERMAN","H  000061.29 .T87  2000","X006118615","The turn to biographical methods in social science : comparative issues and examples /","",2000,FALSE
+"469","ALDERMAN","H  000061.295 .B67  2011","X031189356","Governing fables : learning from public sector narratives /","Borins, Sandford F.,",2011,FALSE
+"470","ALDERMAN","H  000061.295 .C532  2018","X031839447","The relational ethics of narrative inquiry /","Clandinin, D. Jean,",2018,FALSE
+"471","ALDERMAN","H  000061.295 .C68  2013","X031599975","Contextualising narrative inquiry : developing methodological approaches for local contexts /","",2013,FALSE
+"472","ALDERMAN","H  000061.295 .R54  2008","X030950836","Narrative methods for the human sciences /","Riessman, Catherine Kohler,",2008,FALSE
+"473","ALDERMAN","H  000061.295 .S29  2013","X030846181","Duoethnography /","Sawyer, Richard D.",2013,FALSE
+"474","ALDERMAN","H  000061.295 .S54  2015","X031732867","Analyzing social narratives /","Shenhav, Shaul R.,",2015,FALSE
+"475","ALDERMAN","H  000061.295 .W43  2007","X031729837","Using narrative inquiry as a research method : an introduction to using critical event narrative analysis in research on learning and teaching /","Webster, Leonard,",2007,FALSE
+"476","ALDERMAN","H  000061.3 .B396  2007","X031199903","Qualitative data analysis with NVivo /","Bazeley, Patricia.",2007,FALSE
+"477","ALDERMAN","H  000061.3 .B694  2012","X031186566","Structural equation modeling /","Bowen, Natasha K.",2012,FALSE
+"478","ALDERMAN","H  000061.3 .E6697  2013","X031629727","Agent_zero : toward neurocognitive foundations for generative social science /","Epstein, Joshua M.,",2013,FALSE
+"479","ALDERMAN","H  000061.3 .K45  1995","X002689510","Computer-aided qualitative data analysis : theory, methods and practice /","Kelle, Udo.",1995,FALSE
+"480","ALDERMAN","H  000061.3 .W45  1995","X002627009","Computer programs for qualitative data analysis : a software sourcebook /","Weitzman, Eben A.",1995,FALSE
+"481","ALDERMAN","H  000061.3 A88  2015","X031650443","Data mining for the social sciences : an introduction /","Attewell, Paul A.,",2015,FALSE
+"482","ALDERMAN","H  000061.4 .D54  1998","X004113346","Elements of forecasting /","Diebold, Francis X.,",1998,FALSE
+"483","ALDERMAN","H  000061.4 .S22  1991","X002048718","Prediction, projection, and forecasting : applications of the analytic hierarchy process in economics, finance, politics, games, and sports /","Saaty, Thomas L.",1991,FALSE
+"484","ALDERMAN","H  000061.8 .G34  2013","X031614770","Writing literature reviews : a guide for students of the social and behavioral sciences /","Galvan, Jose L.",2013,FALSE
+"485","ALDERMAN","H  000061.8 .G34  2014","X031230382","Writing literature reviews : a guide for students of the social and behavioral sciences /","Galvan, Jose L.",2014,FALSE
+"486","ALDERMAN","H  000061.8 .L56  1998","X004133539","Scholarly book reviewing in the social sciences and humanities : the flow of ideas within and among disciplines /","Lindholm-Romantschuk, Ylva.",1998,FALSE
+"487","ALDERMAN","H  000061.95 .H497  2003","X004668390","Internet research methods : a practical guide to the social and behavioural sciences /","Hewson, Claire.",2003,FALSE
+"488","ALDERMAN","H  000062 .A1  C84  V.24","X030165262","Globalization between the Cold War and neo-imperialism /","",2006,TRUE
+"489","ALDERMAN","H  000062 .A1  C84  V.25","X030499723","No social science without critical theory /","",2008,TRUE
+"490","ALDERMAN","H  000062 .A1  C84  V.26","X030714724","Nature, knowledge and negation /","",2009,TRUE
+"491","ALDERMAN","H  000062 .A1  C84  V.35","X031800140","Reconstructing social theory, history and practice /","",2017,TRUE
+"492","ALDERMAN","H  000062 .A1  F57  1993","X002213865","Fundamental development of the social sciences : Rockefeller philanthropy and the United States Social Science Research Council /","Fisher, Donald,",1993,TRUE
+"493","ALDERMAN","H  000062 .A1  N4  NO.000033 SPRING 001987","X001171290","Using program theory in evaluation /","",1987,TRUE
+"494","ALDERMAN","H  000062 .A1  N4  NO.000034 SUMMER 001987","X001092867","Evaluation practice in review /","",1987,TRUE
+"495","ALDERMAN","H  000062 .A1  N4  NO.000039 FALL 001988","X001328747","Evaluation utilization /","",1988,TRUE
+"496","ALDERMAN","H  000062 .A1  N4  NO.000040 WINTER 001988","X001477023","Evaluating program environments /","",1988,TRUE
+"497","ALDERMAN","H  000062 .A1  N4  NO.000041 SPRING 001989","X001465173","Evaluation and the Federal decision maker /","",1989,TRUE
+"498","ALDERMAN","H  000062 .A1  N4  NO.000058 SUMMER 001993","X031842407","Hard-won lessons in program evaluation /","Scriven, Michael.",1993,TRUE
+"499","ALDERMAN","H  000062 .A1  N4  NO.000062 SUMMER 001994","X031842408","The Preparation of professional evaluators : issues, perspectives, and programs  /","",1994,TRUE
+"500","ALDERMAN","H  000062 .A1  N4  NO.000074 SUMMER 001997","X030357712","Advances in mixed-method evaluation : the challenges and benefits of integrating diverse paradigms /","",1997,TRUE
+"501","ALDERMAN","H  000062 .A1  N4  NO.000076 WINTER 001997","X006075340","Progress and future directions in evaluation : perspectives on theory, practice and methods /","",1997,TRUE
+"502","ALDERMAN","H  000062 .A1  N4  NO.000078 001998 SUMMER","X006071174","Realist evaluation : an emerging theory in support of practice /","",1998,TRUE
+"503","ALDERMAN","H  000062 .A1  N4  NO.000087 002000 FALL","X006107281","Program theory in evaluation : challenges and opportunities /","",2000,TRUE
+"504","ALDERMAN","H  000062 .A1  N4  NO.000089 002001 SPRING","X006120353","Evaluation models /","Stufflebeam, Daniel L.",2001,TRUE
+"505","ALDERMAN","H  000062 .A1  N4  NO.000091 002001 FALL","X006133468","Outcomes of welfare reform for families who leave TANF /","",2001,TRUE
+"506","ALDERMAN","H  000062 .A1  N4  NO.000094 002002 SUMMER","X004651152","Conducting multiple site evaluations in real-world settings /","",2002,TRUE
+"507","ALDERMAN","H  000062 .A1  N4  NO.000095 002002 FALL","X004717039","Responding to sponsors and stakeholders in complex evaluation environments /","",2002,TRUE
+"508","ALDERMAN","H  000062 .A1  N4  NO.000096 002002 WINTER","X004717040","Feminist evaluation : explorations and experiences /","",2002,TRUE
+"509","ALDERMAN","H  000062 .A1  N4  NO.000098 002003 SUMMER","X004640958","Youth participatory evaluation : a field in the making /","",2003,TRUE
+"510","ALDERMAN","H  000062 .A1  N4  NO.000099 002003 FALL","X004751117","The mainstreaming of evaluation /","",2003,TRUE
+"511","ALDERMAN","H  000062 .A1  N4  NO.000100 002003 WINTER","X004778357","Using appreciative inquiry in evaluation /","Preskill, Hallie S.",2003,TRUE
+"512","ALDERMAN","H  000062 .A1  N4  NO.000101 002004 SPRING","X004826428","Co-constructing a contextually responsive evaluation framework : the talent development model of school reform /","",2004,TRUE
+"513","ALDERMAN","H  000062 .A1  N4  NO.000102 002004 SUMMER","X006162464","In search of cultural competence in evaluation : toward principles and practices /","",2004,TRUE
+"514","ALDERMAN","H  000062 .A1  N4  NO.000103 002004 FALL","X004796121","Global advances in HIV/AIDS monitoring and evaluation /","",2004,TRUE
+"515","ALDERMAN","H  000062 .A1  N4  NO.000106 002005 SUMMER","X006162808","Theorists' models in action /","",2005,TRUE
+"516","ALDERMAN","H  000062 .A1  N4  NO.000107 002005 FALL","X006176523","Social network analysis in program evaluation /","",2005,TRUE
+"517","ALDERMAN","H  000062 .A1  N4  NO.000108 002005 WINTER","X006176682","Evaluating nonformal education programs and settings /","",2006,TRUE
+"518","ALDERMAN","H  000062 .A1  N4  NO.000115 002007 FALL","X006177264","Using online surveys in evaluation /","Ritter, Lois A.",2007,TRUE
+"519","ALDERMAN","H  000062 .A1  N4  NO.000116 002007 WINTER","X030297623","Process use in theory, research, and practice /","",2007,TRUE
+"520","ALDERMAN","H  000062 .A1  N4  NO.000117 002008 SPRING","X030357037","Consequences of No Child Left Behind for educational evaluation /","",2008,TRUE
+"521","ALDERMAN","H  000062 .A1  N4  NO.000118 002008 SUMMER","X030297775","Reforming the evaluation of research /","",2008,TRUE
+"522","ALDERMAN","H  000062 .A5127  2010","X030958525","Doing feminist research in political and social science /","Ackerly, Brooke A.",2010,FALSE
+"523","ALDERMAN","H  000062 .A514  2013","X030857237","The lively science : remodeling human social research /","Agar, Michael.",2013,FALSE
+"524","ALDERMAN","H  000062 .A5165  2017","X031818815","Return to meaning : a social science with something to say /","Alvesson, Mats,",2017,FALSE
+"525","ALDERMAN","H  000062 .A627  2004","X004704253","Approaches to qualitative research : a reader on theory and practice /","",2004,FALSE
+"526","ALDERMAN","H  000062 .A6626  1999","X004267241","Area studies and social science : strategies for understanding Middle East politics /","",1999,FALSE
+"527","ALDERMAN","H  000062 .A849  2015","X031731923","Making your case : using R for program evaluation /","Auerbach, Charles",2015,FALSE
+"528","ALDERMAN","H  000062 .A8493  2014","X031651461","SSD for R : an R package for analyzing single-subject data /","Auerbach, Charles",2014,FALSE
+"529","ALDERMAN","H  000062 .B2  1983","X000480367","The practice of social research /","Babbie, Earl R.",1983,FALSE
+"530","ALDERMAN","H  000062 .B2  1998","X004279548","The practice of social research /","Babbie, Earl R.",1998,FALSE
+"531","CLEMONS","H  000062 .B2  2007","X004087526","The practice of social research /","Babbie, Earl R.",2007,FALSE
+"532","ALDERMAN","H  000062 .B23","X000437783","Survey research methods","Babbie, Earl R.",1973,FALSE
+"533","CLEMONS","H  000062 .B23  1990","X004401553","Survey research methods /","Babbie, Earl R.",1990,FALSE
+"534","CLEMONS","H  000062 .B275  2007","X030719541","A Guide to qualitative field research /","Bailey, Carol A.,",2007,FALSE
+"535","ALDERMAN","H  000062 .B284  1986","X001740094","Observing interaction : an introduction to sequential analysis /","Bakeman, Roger.",1986,FALSE
+"536","ALDERMAN","H  000062 .B284  1997","X004095762","Observing interaction : an introduction to sequential analysis /","Bakeman, Roger.",1997,FALSE
+"537","ALDERMAN","H  000062 .B2865  2018","X031824472","Evaluation practice for collaborative growth : a guide to program evaluation with stakeholders and communities /","Bakken, Lori L.,",2018,FALSE
+"538","ALDERMAN","H  000062 .B332  2008","X030472623","Introducing qualitative research : a student's guide to the craft of qualitative research /","Barbour, Rosaline S.",2008,FALSE
+"539","ALDERMAN","H  000062 .B35  2001","X006113388","Introduction to quantitative research methods : an investigative approach /","Balnaves, Mark.",2001,FALSE
+"540","ALDERMAN","H  000062 .B3537  2014","X031653406","Rapid qualitative inquiry : a field guide to team-based assessment /","Beebe, James,",2014,FALSE
+"541","ALDERMAN","H  000062 .B3634  1984","X000837122","Guidelines for preparing the research proposal /","Behling, John H.",1984,FALSE
+"542","ALDERMAN","H  000062 .B439  2000","X004438638","Social research methods : qualitative and quantitative approaches /","Bernard, H. Russell (Harvey Russell),",2000,FALSE
+"543","ALDERMAN","H  000062 .B454  2000","X004421712","Understanding multivariate research : a primer for beginning social scientists /","Berry, William Dale.",2000,FALSE
+"544","ALDERMAN","H  000062 .B46  2003","X004746666","Evaluation methods in research /","Bennett, Judith,",2003,FALSE
+"545","ALDERMAN","H  000062 .B473","X000625244","Inquiry in the social studies classroom; a strategy for teaching","Beyer, Barry K.,",1971,FALSE
+"546","ALDERMAN","H  000062 .B56  1999","X006027387","Doing quantitative research in the social sciences : an integrated approach to research design, measurement and statistics /","Black, Thomas R.",1999,FALSE
+"547","ALDERMAN","H  000062 .B573  2003","X004632178","Analyzing quantitative data : from description to explanation /","Blaikie, Norman W. H.,",2003,FALSE
+"548","ALDERMAN","H  000062 .B575  1982","X000354090","Introduction to social research /","Blalock, Ann B.",1982,FALSE
+"549","ALDERMAN","H  000062 .B58555  2008","X030472639","Completing your qualitative dissertation : a roadmap from beginning to end /","Bloomberg, Linda Dale.",2008,FALSE
+"550","ALDERMAN","H  000062 .B625","X000183181","Ethics in social research : protecting the interests of human subjects /","Bower, Robert T.",1978,FALSE
+"551","ALDERMAN","H  000062 .B63  2004","X004769234","Asking questions : the definitive guide to questionnaire design : for market research, political polls, and social and health questionnaires /","Bradburn, Norman M.",2004,FALSE
+"552","ALDERMAN","H  000062 .B658  1989","X001644745","Multimethod research : a synthesis of styles /","Brewer, John,",1989,FALSE
+"553","ALDERMAN","H  000062 .B67  2017","X031845707","Analyzing text and discourse : eight approaches for the social sciences /","Boréus, Kristina,",2017,FALSE
+"554","ALDERMAN","H  000062 .B785  1988","X001462211","Quantity and quality in social research /","Bryman, Alan.",1988,FALSE
+"555","ALDERMAN","H  000062 .B787  2001","X004504232","Social research methods /","Bryman, Alan.",2001,FALSE
+"556","ALDERMAN","H  000062 .B787  2008","X030472629","Social research methods /","Bryman, Alan.",2008,FALSE
+"557","ALDERMAN","H  000062 .B85  1998","X004177577","Social science under debate : a philosophical perspective /","Bunge, Mario,",1998,FALSE
+"558","ALDERMAN","H  000062 .B863  2000","X004421866","Introduction to research methods /","Burns, Robert B. (Robert Bounds),",2000,FALSE
+"559","ALDERMAN","H  000062 .C34465  2011","X031821742","Causal explanation for social scientists : a reader /","",2011,FALSE
+"560","ALDERMAN","H  000062 .C3447  2007","X030112945","Crossing the psycho-social divide : Freud, Weber, Adorno and Elias /","Cavalletto, George.",2007,FALSE
+"561","ALDERMAN","H  000062 .C3473  1984","X000785659","Social science research methods /","Chadwick, Bruce A.",1984,FALSE
+"562","ALDERMAN","H  000062 .C365  1994","X030202747","Theory-driven evaluations /","Chen, Huey-tsyh.",1994,FALSE
+"563","ALDERMAN","H  000062 .C37  2000","X006092099","Case study method : key issues, key texts /","",2000,FALSE
+"564","ALDERMAN","H  000062 .C4483  2018","X031810329","Evaluating qualitative research /","Cho, Jeasik,",2018,FALSE
+"565","ALDERMAN","H  000062 .C525  2018","X031847454","Situational analysis : grounded theory after the interpretive turn /","Clarke, Adele E.,",2018,FALSE
+"566","ALDERMAN","H  000062 .C537  2013","X030608692","Cross-cultural research with integrity : collected wisdom from researchers in social settings /","Cleary, Linda Miller.",2013,FALSE
+"567","ALDERMAN","H  000062 .C56  2002","X004660420","A Student's guide to methodology : justifying enquiry /","Clough, Peter,",2002,FALSE
+"568","ALDERMAN","H  000062 .C566  2003","X004634187","Collecting and interpreting qualitative materials /","",2003,FALSE
+"569","ALDERMAN","H  000062 .C568  2017","X031810130","Collecting qualitative data : a practical guide to textual, media and virtual techniques /","",2017,FALSE
+"570","ALDERMAN","H  000062 .C583  2007","X030261888","Designing and constructing instruments for social research and evaluation /","Colton, David,",2007,FALSE
+"571","ALDERMAN","H  000062 .C58497  2012","X030976454","Consensual qualitative research : a practical resource for investigating social science phenomena /","",2011,FALSE
+"572","ALDERMAN","H  000062 .C5856  1986","X001225702","Survey questions : handcrafting the standardized questionnaire /","Converse, Jean M.,",1986,FALSE
+"573","ALDERMAN","H  000062 .C5857  1979","X000671055","Quasi-experimentation : design & analysis issues for field settings /","Cook, Thomas D.",1979,FALSE
+"574","ALDERMAN","H  000062 .C58587  2016","X031730850","Ethical choices in research : managing data, writing reports, and publishing results in the social sciences /","Cooper, Harris M.,",2016,FALSE
+"575","ALDERMAN","H  000062 .C5859  1989","X001590704","Integrating research : a guide for literature reviews /","Cooper, Harris M.",1989,FALSE
+"576","ALDERMAN","H  000062 .C64  2001","X006101504","Doing action research in your own organization /","Coghlan, David.",2001,FALSE
+"577","ALDERMAN","H  000062 .C6445  1997","X004140485","Context and method in qualitative research /","",1997,FALSE
+"578","ALDERMAN","H  000062 .C645  1983","X032001420","The Costs of evaluation /","",1983,FALSE
+"579","ALDERMAN","H  000062 .C675  1989","X002073083","Research methods in human development /","Cozby, Paul C.",1989,FALSE
+"580","ALDERMAN","H  000062 .C692  2015","X031655436","Principles and methods of social research /","Crano, William D.,",2015,FALSE
+"581","ALDERMAN","H  000062 .C69618  2015","X031651120","A concise introduction to mixed methods research /","Creswell, John W.,",2015,FALSE
+"582","ALDERMAN","H  000062 .C6962  2007","X030108258","Designing and conducting mixed methods research /","Creswell, John W.",2007,FALSE
+"583","ALDERMAN","H  000062 .C6963  2003","X004633432","Research design : qualitative, quantitative, and mixed method approaches /","Creswell, John W.",2003,FALSE
+"584","ALDERMAN","H  000062 .C6963  2009","X030477354","Research design : qualitative, quantitative, and mixed methods approaches /","Creswell, John W.",2009,FALSE
+"585","ALDERMAN","H  000062 .C6963  2018","X031839067","Research design : qualitative, quantitative, and mixed methods approaches /","Creswell, John W.,",2018,FALSE
+"586","ALDERMAN","H  000062 .C697426  2015","X031707217","Critical qualitative inquiry : foundations and futures /","",2015,FALSE
+"587","ALDERMAN","H  000062 .C7  1998","X006020261","The foundations of social research : meaning and perspective in the research process /","Crotty, Michael.",1998,FALSE
+"588","ALDERMAN","H  000062 .C73  2003","X004662808","Cross-cultural survey methods /","",2002,FALSE
+"589","ALDERMAN","H  000062 .C74  2000","X004478707","Culture & text : discourse and methodology in social research and cultural studies /","",2000,FALSE
+"590","ALDERMAN","H  000062 .C8125  2015","X031759820","Cultural mapping as cultural inquiry /","",2015,FALSE
+"591","ALDERMAN","H  000062 .C89  2017","X031761488","Cyber society, big data, and evaluation /","",2017,FALSE
+"592","ALDERMAN","H  000062 .D235  2016","X031795988","Being a scholar in the digital era : transforming scholarly practice for the public good /","Daniels, Jessie,",2016,FALSE
+"593","ALDERMAN","H  000062 .D3  2000","X004487198","Danger in the field : risk and ethics in social research /","",2000,FALSE
+"594","ALDERMAN","H  000062 .D355  2017","X031761239","Developing a mixed methods proposal : a practical guide for beginning researchers /","Decuir-Gunby, Jessica T.,",2017,FALSE
+"595","ALDERMAN","H  000062 .D377  2013","X031625904","Deleuze and research methodologies /","",2013,FALSE
+"596","ALDERMAN","H  000062 .D399  2002","X006135287","Ground rules for good research : a 10 point guide for social researchers /","Denscombe, Martyn.",2002,FALSE
+"597","ALDERMAN","H  000062 .D49524  2016","X031732178","Developmental evaluation exemplars : principles in practice /","",2016,FALSE
+"598","ALDERMAN","H  000062 .D496","X000112572","Elite and specialized interviewing.","Dexter, Lewis Anthony.",1970,FALSE
+"599","ALDERMAN","H  000062 .D55  2015","X031734340","Digital research confidential : the secrets of studying behavior online /","",2015,FALSE
+"600","ALDERMAN","H  000062 .D613  1990","X001736008","Creative marginality : innovation at the intersections of social sciences /","Dogan, Mattei.",1990,FALSE
+"601","ALDERMAN","H  000062 .D688  1985","X000916984","Creative interviewing /","Douglas, Jack D.",1985,FALSE
+"602","ALDERMAN","H  000062 .D69","X000337605","Investigative social research : individual and team field research /","Douglas, Jack D.",1976,FALSE
+"603","ALDERMAN","H  000062 .E783  2016","X031791576","The ethics rupture : exploring alternatives to formal research ethics review /","",2016,FALSE
+"604","ALDERMAN","H  000062 .E853  2004","X004874702","Evaluation roots : tracing theorists' views and influences /","",2004,FALSE
+"605","ALDERMAN","H  000062 .E853  2013","X031214604","Evaluation roots : a wider perspective of theorists' views and influences /","",2013,FALSE
+"606","ALDERMAN","H  000062 .F274  2003","X004701155","Analysing discourse : textual analysis for social research /","Fairclough, Norman,",2003,FALSE
+"607","ALDERMAN","H  000062 .F4117  2018","X031824713","Collaborative, participatory, and empowerment evaluation : stakeholder involvement approaches /","Fetterman, David M.,",2018,FALSE
+"608","ALDERMAN","H  000062 .F4195  2014","X031625693","Field experiments and their critics : essays on the uses and abuses of experimentation in the social sciences /","",2014,FALSE
+"609","ALDERMAN","H  000062 .F87  2013","X031627259","The future of evaluation in society : a tribute to Michael Scriven /","",2013,FALSE
+"610","ALDERMAN","H  000062 .G246  2017","X031817625","Writing literature reviews : a guide for students of the social and behavioral sciences /","Galvan, Jose L.",2017,FALSE
+"611","ALDERMAN","H  000062 .G46","X004863147","People studying people : the human element in fieldwork /","Georges, Robert A.",1980,FALSE
+"612","ALDERMAN","H  000062 .G47  2007","X030106594","Case study research : principles and practices /","Gerring, John,",2007,FALSE
+"613","ALDERMAN","H  000062 .G575  2006","X004943502","Social science concepts : a user's guide /","Goertz, Gary,",2006,FALSE
+"614","CLEMONS","H  000062 .G6397  2016","X031845679","Real research : research methods sociology students can use /","Gordon, Liahna E.",2016,FALSE
+"615","ALDERMAN","H  000062 .G68  2002","X006135201","Grounded theory : a practical guide for management, business and market researchers /","Goulding, Christina.",2002,FALSE
+"616","ALDERMAN","H  000062 .G72  2003","X004668064","Research practice for cultural studies : ethnographic methods and lived cultures /","Gray, Ann,",2003,FALSE
+"617","ALDERMAN","H  000062 .G82  1997","X004103756","The new language of qualitative method /","Gubrium, Jaber F.",1997,FALSE
+"618","ALDERMAN","H  000062 .H231813  1993","X004067324","Case study methods /","Hamel, Jacques,",1993,FALSE
+"619","ALDERMAN","H  000062 .H23386  2013","X030847049","Research methods : the key concepts /","Hammond, Michael,",2013,FALSE
+"620","ALDERMAN","H  000062 .H24534  1998","X004126664","Handbook of applied social research methods /","",1998,FALSE
+"621","ALDERMAN","H  000062 .H2455  1994","X004091988","Handbook of qualitative research /","",1994,FALSE
+"622","ALDERMAN","H  000062 .H2455  2005","X004913234","The SAGE handbook of qualitative research /","",2005,FALSE
+"623","ALDERMAN","H  000062 .H2455  2011","X031659320","The Sage handbook of qualitative research /","",2011,FALSE
+"624","ALDERMAN","H  000062 .H2456  1992","X002073507","The Handbook of qualitative research in education /","",1992,FALSE
+"625","ALDERMAN","H  000062 .H24565  2009","X030498924","The handbook of social research ethics /","",2009,FALSE
+"626","ALDERMAN","H  000062 .H37633  1984","X000786633","Introduction to causal analysis : exploring survey data by crosstabulation /","Hellevik, Ottar.",1984,FALSE
+"627","ALDERMAN","H  000062 .H424  1999","X004339875","Research conversations and narrative : a critical hermeneutic orientation in participatory inquiry /","Herda, Ellen A.,",1999,FALSE
+"628","ALDERMAN","H  000062 .H478  2017","X031822185","The practice of qualitative research : engaging students in the research process /","Hesse-Biber, Sharlene Nagy,",2017,FALSE
+"629","ALDERMAN","H  000062 .H59  2002","X006126295","Doing and writing qualitative research /","Holliday, Adrian.",2002,FALSE
+"630","ALDERMAN","H  000062 .H595","X000348696","The nature of social science","Homans, George Caspar,",1967,FALSE
+"631","ALDERMAN","H  000062 .H62  1967","X000919252","The rise and fall of project Camelot: studies in the relationship between social science and practical politics.","Horowitz, Irving Louis",1967,FALSE
+"632","ALDERMAN","H  000062 .H643  1993","X006032389","Professional evaluation : social impact and political consequences /","House, Ernest R.",1993,FALSE
+"633","ALDERMAN","H  000062 .H653  2018","X031841454","How to keep your research project on track : insights from when things go wrong /","",2018,FALSE
+"634","ALDERMAN","H  000062 .H742  2014","X030880282","Humanizing research : decolonizing qualitative inquiry with youth and communities /","",2014,FALSE
+"635","ALDERMAN","H  000062 .H895  2018","X031840597","Diary methods /","Hyers, Lauri L.,",2018,FALSE
+"636","ALDERMAN","H  000062 .I5365  2017","X031760901","Quantitative social science : an introduction /","Imai, Kosuke",2017,FALSE
+"637","ALDERMAN","H  000062 .I537  2015","X031706192","Causal inference : for statistics, social, and biomedical sciences : an introduction /","Imbens, Guido,",2015,FALSE
+"638","ALDERMAN","H  000062 .I656  2015","X031732575","Qualitative inquiry--past, present, and future : a critical reader /","International Congress of Qualitative Inquiry.",2015,FALSE
+"639","ALDERMAN","H  000062 .I67  1997","X004069254","Interactive technologies and the social studies : emerging issues and applications /","",1997,FALSE
+"640","ALDERMAN","H  000062 .I77  2012","X030879754","Working knowledge : making the human sciences from Parsons to Kuhn /","Isaac, Joel,",2012,FALSE
+"641","ALDERMAN","H  000062 .I87  1991","X002032073","Issues and alternatives in comparative social research /","",1991,FALSE
+"642","ALDERMAN","H  000062 .J295  2012","X031215510","Thinking with theory in qualitative research : viewing data across multiple perspectives /","Jackson, Alecia Youngblood,",2012,FALSE
+"643","ALDERMAN","H  000062 .J3457  2015","X031707325","Contemplative qualitative inquiry : practicing the Zen of research /","Janesick, Valerie J.,",2015,FALSE
+"644","CLEMONS","H  000062 .J37","X000425125","The dialectical imagination; a history of the Frankfurt School and the Institute of Social Research, 1923-1950.","Jay, Martin,",1973,FALSE
+"645","ALDERMAN","H  000062 .K473  1986","X001519099","Research methods in social relations /","Kidder, Louise H.",1986,FALSE
+"646","CLEMONS","H  000062 .K473  2002","X004790377","Research methods in social relations /","Hoyle, Rick H.",2002,FALSE
+"647","ALDERMAN","H  000062 .K65  2002","X006126389","Small-scale research : pragmatic inquiry in social science and the caring professions /","Knight, Peter T.",2002,FALSE
+"648","ALDERMAN","H  000062 .K655  2018","X031838630","Brainball : teaching inquiry social studies as a team sport /","Kolis, Mickey,",2018,FALSE
+"649","ALDERMAN","H  000062 .K6793  1998","X004718647","Methods of educational & social science research : an integrated approach /","Krathwohl, David R.",1998,FALSE
+"650","ALDERMAN","H  000062 .K6793  2009","X030792938","Methods of educational and social science research : the logic of methods /","Krathwohl, David R.",2009,FALSE
+"651","CLEMONS","H  000062 .K69","X000162762","Social research design","Krausz, Ernest.",1974,FALSE
+"652","ALDERMAN","H  000062 .K84  2005","X030114654","Research methodology : a step-by-step guide for beginners /","Kumar, Ranjit.",2005,FALSE
+"653","ALDERMAN","H  000062 .L25  2000","X004481906","Fieldwork, participation and practice : ethics and dilemmas in qualitative research /","Laine, Marlene de.",2000,FALSE
+"654","ALDERMAN","H  000062 .L264  2005","X030197040","Qualitative Sozialforschung : Lehrbuch /","Lamnek, Siegfried.",2005,FALSE
+"655","ALDERMAN","H  000062 .L33  1997","X004053560","The art and science of portraiture / Sara Lawrence-Lightfoot, Jessica Hoffmann Davis.","Lawrence-Lightfoot, Sara,",1997,FALSE
+"656","ALDERMAN","H  000062 .L334  2015","X031730832","Participatory action research /","Lawson, Hal A.,",2015,FALSE
+"657","ALDERMAN","H  000062 .L392  2005","X030384608","Learning more from social experiments : evolving analytic approaches /","",2005,FALSE
+"658","ALDERMAN","H  000062 .L395  2015","X031708837","Method meets art : arts-based research practice /","Leavy, Patricia,",2015,FALSE
+"659","ALDERMAN","H  000062 .L4826  2013","X031600198","The constructivist credo /","Lincoln, Yvonna S.",2013,FALSE
+"660","ALDERMAN","H  000062 .L67  2012","X031214375","The Longue Durée and world-systems analysis /","",2012,FALSE
+"661","ALDERMAN","H  000062 .L7995  2008","X030476867","Salsa dancing into the social sciences : research in an age of info-glut /","Luker, Kristin.",2008,FALSE
+"662","ALDERMAN","H  000062 .M2464  2018","X031824740","Making research matter : a psychologist's guide to public engagement /","",2018,FALSE
+"663","ALDERMAN","H  000062 .M264  2012","X030959281","Uncontrolled : the surprising payoff of trial-and-error for business, politics, and society /","Manzi, Jim.",2012,FALSE
+"664","ALDERMAN","H  000062 .M277  1995","X002600242","Designing qualitative research /","Marshall, Catherine,",1995,FALSE
+"665","ALDERMAN","H  000062 .M277  2006","X004910835","Designing qualitative research /","Marshall, Catherine,",2006,FALSE
+"666","ALDERMAN","H  000062 .M277  2010","X030823558","Designing qualitative research /","Marshall, Catherine,",2010,FALSE
+"667","ALDERMAN","H  000062 .M277  2016","X031709033","Designing qualitative research /","Marshall, Catherine,",2016,FALSE
+"668","ALDERMAN","H  000062 .M2853  1996","X006072270","Qualitative researching /","Mason, Jennifer,",1996,FALSE
+"669","ALDERMAN","H  000062 .M2853  2002","X004624710","Qualitative researching /","Mason, Jennifer,",2002,FALSE
+"670","ALDERMAN","H  000062 .M39  2002","X004636371","Longitudinal research /","Menard, Scott W.",2002,FALSE
+"671","ALDERMAN","H  000062 .M4228  2002","X004807756","Qualitative research in practice : examples for discussion and analysis /","Merriam, Sharan B.",2002,FALSE
+"672","ALDERMAN","H  000062 .M437  1984","X004042447","Qualitative data analysis : a sourcebook of new methods /","Miles, Matthew B.",1984,FALSE
+"673","CLEMONS","H  000062 .M437  1994","X004323288","Qualitative data analysis : an expanded sourcebook /","Miles, Matthew B.",1994,FALSE
+"674","ALDERMAN","H  000062 .M437  2014","X031641802","Qualitative data analysis : a methods sourcebook /","Miles, Matthew B.",2014,FALSE
+"675","CLEMONS","H  000062 .M44  1991","X002159559","Handbook of research design and social measurement /","Miller, Delbert C. (Delbert Charles),",1991,FALSE
+"676","ALDERMAN","H  000062 .M44  2002","X004587149","Handbook of research design & social measurement /","",2002,FALSE
+"677","ALDERMAN","H  000062 .M646  2007","X030251417","Counterfactuals and causal inference : methods and principles for social research /","Morgan, Stephen L. (Stephen Lawrence),",2007,FALSE
+"678","ALDERMAN","H  000062 .M6612  2007","X030274254","Readme first for a user's guide to qualitative methods /","Richards, Lyn,",2007,FALSE
+"679","ALDERMAN","H  000062 .N286  1989","X001707144","Charting a course : social studies for the 21st century : a report /","National Commission on Social Studies in the Schools (U.S.). Curriculum Task Force.",1989,FALSE
+"680","ALDERMAN","H  000062 .O23  2018","X031840322","A practical guide to using qualitative research with randomized controlled trials /","O'Cathain, Alicia",2018,FALSE
+"681","ALDERMAN","H  000062 .O745  2015","X031709341","An invitation to qualitative fieldwork : a multilogical approach /","Orne, Jason",2015,FALSE
+"682","ALDERMAN","H  000062 .O9  1999","X006029080","Program evaluation : forms and approaches /","Owen, John M.",1999,FALSE
+"683","ALDERMAN","H  000062 .P223  2011","X031738034","The science of qualitative research /","Packer, Martin J.",2011,FALSE
+"684","ALDERMAN","H  000062 .P32174  2018","X031817561","Principles-focused evaluation : the guide /","Patton, Michael Quinn",2018,FALSE
+"685","ALDERMAN","H  000062 .P3218","X001666730","Qualitative evaluation methods /","Patton, Michael Quinn.",1980,FALSE
+"686","ALDERMAN","H  000062 .P3218  1990","X004283068","Qualitative evaluation and research methods /","Patton, Michael Quinn.",1990,FALSE
+"687","ALDERMAN","H  000062 .P33  1997","X006007593","Realistic evaluation /","Pawson, Ray,",1997,FALSE
+"688","ALDERMAN","H  000062 .P5725  2019","X032583556","Being an evaluator : your practical guide to evaluation /","Podems, Donna,",2019,FALSE
+"689","ALDERMAN","H  000062 .P695  V.000002","X032013290","Projects in economic and social statistics /","",1976,TRUE
+"690","ALDERMAN","H  000062 .P79","X001328845","The logic of comparative social inquiry","Przeworski, Adam.",1970,FALSE
+"691","ALDERMAN","H  000062 .P8  1998","X006073163","Introduction to social research : quantitative and qualitative approaches /","Punch, Keith.",1998,FALSE
+"692","ALDERMAN","H  000062 .P92  2006","X030116315","Developing effective research proposals /","Punch, Keith.",2006,FALSE
+"693","ALDERMAN","H  000062 .P97  2003","X004779472","Evaluating research in academic journals : a practical guide to realistic evaluation /","Pyrczak, Fred.",2003,FALSE
+"694","ALDERMAN","H  000062 .Q35  2002","X006126835","Qualitative research in action /","",2002,FALSE
+"695","ALDERMAN","H  000062 .Q3518  2012","X030948240","Qualitative research : an introduction to methods and designs /","",2012,FALSE
+"696","ALDERMAN","H  000062 .Q355  2003","X004632685","Qualitative research practice : a guide for social science students and researchers /","",2003,FALSE
+"697","ALDERMAN","H  000062 .Q359  1997","X006044831","Qualitative research : theory, method and practice /","",1997,FALSE
+"698","ALDERMAN","H  000062 .Q365  2009","X030566045","A quantitative tour of the social sciences /","",2009,FALSE
+"699","ALDERMAN","H  000062 .Q47  2016","X031731063","Questioning causality : scientific explorations of cause and consequence across social contexts /","",2016,FALSE
+"700","ALDERMAN","H  000062 .R23  1994","X006048225","Constructing social research : the unity and diversity of method /","Ragin, Charles C.",1994,FALSE
+"701","ALDERMAN","H  000062 .R233  2000","X004439199","Fuzzy-set social science /","Ragin, Charles C.",2000,FALSE
+"702","ALDERMAN","H  000062 .R44719  2012","X030974502","Research beyond borders : multidisciplinary reflections /","",2012,FALSE
+"703","ALDERMAN","H  000062 .R4472  2009","X030517386","Research confidential : solutions to problems most social scientists pretend they never have /","",2009,FALSE
+"704","ALDERMAN","H  000062 .R454  2005","X030720482","Research methods in the social sciences /","",2005,FALSE
+"705","ALDERMAN","H  000062 .R455  1994","X031987455","Research practice /","",1994,FALSE
+"706","ALDERMAN","H  000062 .R4614  1998","X006045200","Research strategies in the social sciences : a guide to new approaches /","",1998,FALSE
+"707","ALDERMAN","H  000062 .R46165  2012","X031617978","Researching and teaching social issues : the personal stories and pedagogical efforts of professors of education /","",2012,FALSE
+"708","ALDERMAN","H  000062 .R4625  2017","X031818156","Investigating family, food, and housing themes in social studies /","Resor, Cynthia Williams,",2017,FALSE
+"709","ALDERMAN","H  000062 .R4646  2004","X004808517","Rethinking social inquiry : diverse tools, shared standards /","",2004,FALSE
+"710","ALDERMAN","H  000062 .R4648  2016","X031783418","Rethinking social studies teacher education in the twenty-first century /","",2016,FALSE
+"711","ALDERMAN","H  000062 .R466  2010","X031738904","The reviewer's guide to quantitative methods in the social sciences /","",2010,FALSE
+"712","ALDERMAN","H  000062 .R637  2015","X031705460","Applied qualitative research design : a total quality framework approach /","Roller, Margaret R.,",2015,FALSE
+"713","ALDERMAN","H  000062 .R666","X000072772","Evaluation : a systematic approach /","Rossi, Peter H. (Peter Henry),",1979,FALSE
+"714","ALDERMAN","H  000062 .R666  2004","X031734964","Evaluation : a systematic approach /","Rossi, Peter H. (Peter Henry),",2004,FALSE
+"715","ALDERMAN","H  000062 .R667  1998","X004208597","Learning in the field : an introduction to qualitative research /","Rossman, Gretchen B.",1988,FALSE
+"716","ALDERMAN","H  000062 .R6735  2005","X004995333","Doing qualitative research : praxis of method /","Roth, Wolff-Michael,",2005,FALSE
+"717","CLEMONS","H  000062 .R737  2005","X030240678","Qualitative interviewing : the art of hearing data /","Rubin, Herbert J.",2005,FALSE
+"718","ALDERMAN","H  000062 .R737  2012","X031189107","Qualitative interviewing : the art of hearing data /","Rubin, Herbert J.",2012,FALSE
+"719","ALDERMAN","H  000062 .S243  2018","X031842072","Bit by bit : social research in the digital age /","Salganik, Matthew J.,",2018,FALSE
+"720","ALDERMAN","H  000062 .S275  2004","X004767197","The Sage handbook of quantitative methodology for the social sciences /","",2004,FALSE
+"721","ALDERMAN","H  000062 .S31856  2013","X031716965","The coding manual for qualitative researchers /","Saldaña, Johnny.",2013,FALSE
+"722","ALDERMAN","H  000062 .S3186  2003","X004703534","Longitudinal qualitative research : analyzing change through time /","Saldaña, Johnny.",2003,FALSE
+"723","ALDERMAN","H  000062 .S34  2014","X031608453","The SAGE handbook of qualitative data analysis /","",2014,FALSE
+"724","CLEMONS","H  000062 .S349","X000627340","Questions and answers in attitude surveys : experiments on question form, wording, and context /","Schuman, Howard.",1981,FALSE
+"725","ALDERMAN","H  000062 .S373  1994","X002421864","Social research /","Sarantakos, S. (Sotirios),",1994,FALSE
+"726","ALDERMAN","H  000062 .S4  1999","X006006487","The quality of qualitative research /","Seale, Clive.",1999,FALSE
+"727","ALDERMAN","H  000062 .S4172  2001","X004525263","Selection theory and social construction : the evolutionary naturalistic epistemology of Donald T. Campbell /","",2001,FALSE
+"728","ALDERMAN","H  000062 .S433  1995","X006032449","Foundations of program evaluation : theories of practice /","Shadish, William R.",1995,FALSE
+"729","ALDERMAN","H  000062 .S439  1999","X006006395","Qualitative evaluation /","Shaw, Ian,",1999,FALSE
+"730","ALDERMAN","H  000062 .S445  2000","X006120902","Doing qualitative research : a practical handbook /","Silverman, David.",2000,FALSE
+"731","ALDERMAN","H  000062 .S475  1985","X000902929","Basic research methods in social science /","Simon, Julian Lincoln,",1985,FALSE
+"732","ALDERMAN","H  000062 .S47755  2002","X004663570","Applied longitudinal data analysis : modeling change and event occurrence /","Singer, Judith D.",2003,FALSE
+"733","ALDERMAN","H  000062 .S4776  2010","X030821641","Approaches to social research /","Singleton, Royce.",2010,FALSE
+"734","ALDERMAN","H  000062 .S545  2012","X030846154","Usable social science /","Smelser, Neil J.",2012,FALSE
+"735","ALDERMAN","H  000062 .S587  1987","X001155518","Research and evaluation in education and the social sciences /","Smith, Mary Lee.",1987,FALSE
+"736","ALDERMAN","H  000062 .S635  2011","X030958859","Social knowledge in the making /","",2011,FALSE
+"737","ALDERMAN","H  000062 .S6757  2011","X031222936","Social science and policy challenges : democracy, values and capacities /","",2011,FALSE
+"738","ALDERMAN","H  000062 .S72471925  2015","X031707195","Social studies today : research and practice /","",2015,FALSE
+"739","ALDERMAN","H  000062 .S724734  1991","X002088373","A practical guide to behavioral research : tools and techniques /","Sommer, Barbara Baker,",1991,FALSE
+"740","ALDERMAN","H  000062 .S72984  2017","X031813601","Research basics : design to data analysis in six steps /","Spickard, James V.,",2017,FALSE
+"741","ALDERMAN","H  000062 .S78","X001272059","Social research to test ideas; selected writings.","Stouffer, Samuel A.,",1962,FALSE
+"742","ALDERMAN","H  000062 .S7968  1982","X000403350","Asking questions /","Sudman, Seymour.",1982,FALSE
+"743","ALDERMAN","H  000062 .S7989  2018","X032581753","Teaching qualitative research : strategies for engaging emerging scholars /","Swaminathan, Raji,",2018,FALSE
+"744","ALDERMAN","H  000062 .T235  2006","X004836472","Talking and interaction in social research methods /","",2006,FALSE
+"745","ALDERMAN","H  000062 .T244  2010","X030832392","Sage handbook of mixed methods in social & behavioral research /","",2010,FALSE
+"746","ALDERMAN","H  000062 .T247  1998","X004247239","Mixed methodology : combining qualitative and quantitative approaches /","Tashakkori, Abbas.",1998,FALSE
+"747","ALDERMAN","H  000062 .T268  1971","X000557987","A Teacher's handbook to elementary social studies; an inductive approach","",1971,FALSE
+"748","ALDERMAN","H  000062 .T37  1990","X002241900","Qualitative research : analysis types and software tools /","Tesch, Renata.",1990,FALSE
+"749","ALDERMAN","H  000062 .T446  2011","X030612451","How to do your case study : a guide for students and researchers /","Thomas, Gary,",2011,FALSE
+"750","ALDERMAN","H  000062 .T465  2001","X030720241","A guide for the young economist /","Thomson, William,",2001,FALSE
+"751","ALDERMAN","H  000062 .T52  2008","X031649755","Explaining social processes /","Tilly, Charles.",2008,FALSE
+"752","ALDERMAN","H  000062 .T67  2003","X004770397","Systematic reviews /","Torgerson, Carole.",2003,FALSE
+"753","ALDERMAN","H  000062 .T73  2001","X006120399","Qualitative research through case studies /","Travers, Max.",2001,FALSE
+"754","ALDERMAN","H  000062 .U93  2015","X032403835","Social research : philosophical and methodological foundations /","Uyangoda, Jayadeva,",2015,FALSE
+"755","ALDERMAN","H  000062 .V267  2002","X004631123","Action theory : a primer for applied research in the social sciences /","Valach, Ladislav.",2002,FALSE
+"756","ALDERMAN","H  000062 .V3238  2015","X031783263","Explanation in causal inference : methods for mediation and interaction /","VanderWeele, Tyler J.",2015,FALSE
+"757","ALDERMAN","H  000062 .V348  2011","X031189667","The seduction of ethics : transforming the social sciences /","Van den Hoonaard, Will. C. (Willy Carl),",2011,FALSE
+"758","ALDERMAN","H  000062 .V38  2001","X004503995","Research design in social research /","De Vaus, D. A. (David A)",2001,FALSE
+"759","ALDERMAN","H  000062 .V6228  2014","X031656443","Selecting the right analyses for your data : quantitative, qualitative, and mixed methods /","Vogt, W. Paul,",2014,FALSE
+"760","ALDERMAN","H  000062 .W277  2018","X032401813","Maximum likelihood for social science : strategies for analysis /","Ward, Michael Don,",2018,FALSE
+"761","ALDERMAN","H  000062 .W283  1988","X001357346","Gender issues in field research /","Warren, Carol A. B.,",1988,FALSE
+"762","CLEMONS","H  000062 .W2833  2010","X031783459","Discovering qualitative methods : field research, interviews, and analysis /","Warren, Carol A. B.,",2010,FALSE
+"763","ALDERMAN","H  000062 .W2833  2015","X031829667","Discovering qualitative methods : ethnography, interviews, documents, and images /","Warren, Carol A. B.,",2015,FALSE
+"764","ALDERMAN","H  000062 .W394  2000","X004422298","Speed bumps : a student-friendly guide to qualitative research /","Weis, Lois.",2000,FALSE
+"765","ALDERMAN","H  000062 .W3962","X000557993","Evaluation research: methods for assessing program effectiveness","Weiss, Carol H.",1972,FALSE
+"766","ALDERMAN","H  000062 .W413  2014","X031651883","Finding pathways : mixed-method research for studying causal mechanisms /","Weller, Nicholas.",2014,FALSE
+"767","ALDERMAN","H  000062 .W424  2015","X031706707","Quantum mind and social science : unifying physical and social ontology /","Wendt, Alexander,",2015,FALSE
+"768","ALDERMAN","H  000062 .W6667  2018","X031840372","Qualitative analysis using NVivo : the Five-Level QDA® Method /","Woolf, Nicholas H.,",2018,FALSE
+"769","ALDERMAN","H  000062 .W67  2017","X031741425","Working with paradata, marginalia and fieldnotes : the centrality of by-products of social research /","",2017,FALSE
+"770","ALDERMAN","H  000062 .Y56  1984","X001934595","Case study research : design and methods /","Yin, Robert K.",1984,FALSE
+"771","CLEMONS","H  000062 .Y56  1989","X002157493","Case study research : design and methods /","Yin, Robert K.",1989,FALSE
+"772","ALDERMAN","H  000062 .Y56  1994","X002650973","Case study research : design and methods /","Yin, Robert K.",1994,FALSE
+"773","ALDERMAN","H  000062 .Y57  2016","X031795325","Qualitative research from start to finish /","Yin, Robert K.,",2016,FALSE
+"774","ALDERMAN","H  000062.5 .C5  Q83  2006","X030385326","2005 nian quan guo gao xiao she ke tong ji zi liao hui bian /","",2006,FALSE
+"775","ALDERMAN","H  000062.5 .C5  X83  2007  V.000002","X030508174","Xue wen zhi dao : ren wen she hui ke xue shuo shi bo shi lun cong.","",2007,TRUE
+"776","ALDERMAN","H  000062.5 .C6  D65  2006","X030805267","Doing fieldwork in China /","",2006,TRUE
+"777","ALDERMAN","H  000062.5 .E3  E4  2007","X030257355","The great social laboratory : subjects of knowledge in colonial and postcolonial Egypt /","El Shakry, Omnia S.,",2007,FALSE
+"778","ALDERMAN","H  000062.5 .F7  C5","X000957938","Prophets and patrons: the French university and the emergence of the social sciences","Clark, Terry Nichols,",1973,TRUE
+"779","ALDERMAN","H  000062.5 .H6  O23  2016","X031803745","Xianggang zhuan ye yi min zai Taiwan de zheng zhi tai du = Political attitudes of Hong Kong immigrants in Taiwan /","Chiang, Lan-hung Nora,",2016,FALSE
+"780","ALDERMAN","H  000062.5 .L3  C65  2008","X030959289","Contemporary Latin American social and political thought : an anthology /","",2008,TRUE
+"781","ALDERMAN","H  000062.5 .U5  B345  1985","X001011734","Public schooling and the education of democratic citizens /","Battistoni, Richard M.",1985,FALSE
+"782","ALDERMAN","H  000062.5 .U5  C625  2012","X030841533","Cold War social science : knowledge production, liberal democracy, and human nature /","",2012,TRUE
+"783","ALDERMAN","H  000062.5 .U5  D484  1999","X030151606","The development of the social sciences in the United States and Canada : the role of philanthropy /","",1999,TRUE
+"784","ALDERMAN","H  000062.5 .U5  H45  1991","X001978773","The cybernetics group /","Heims, Steve J.",1991,FALSE
+"785","ALDERMAN","H  000062.5 .U5  J58  2012","X031213523","John Dewey and the dawn of social studies : unraveling conflicting interpretations of the 1916 report /","Jorgensen, C. Gregg.",2012,FALSE
+"786","ALDERMAN","H  000062.5 .U5  M383  2018","X032582055","Capturing the South : imagining America's most documented region /","Matthews, Scott L.",2018,FALSE
+"787","ALDERMAN","H  000062.5 .U5  N34  2000","X004439778","Social science in government : the role of policy researchers /","Nathan, Richard P.",2000,FALSE
+"788","ALDERMAN","H  000062.5 .U5  N384  2010","X030785123","National curriculum standards for social studies : a framework for teaching, learning and assessment  /","",2010,FALSE
+"789","ALDERMAN","H  000062.5 .U5  P37  1997","X004860477","Utilization-focused evaluation : the new century text /","Patton, Michael Quinn.",1997,FALSE
+"790","ALDERMAN","H  000062.5 .U5  R64  2013","X031614970","Armed with expertise : the militarization of American social research during the Cold War /","Rohde, Joy,",2013,TRUE
+"791","ALDERMAN","H  000062.5 .U5  S28  2013","X031582384","Social studies for the next generation : purposes, practices, and implications of the college, career, and civic life (C3) : framework for social studies state standards.","",2013,FALSE
+"792","ALDERMAN","H  000062.5 .U5  S65  2013","X031622881","Shaky foundations : the politics-patronage-social science nexus in Cold War America /","Solovey, Mark,",2013,FALSE
+"793","ALDERMAN","H  000062.5 .U5  S66  2018","X032582988","Social studies teacher education : critical issues and current perspectives /","",2018,FALSE
+"794","ALDERMAN","H  000062.5 .U5  W534  2009","X030470464","Conservative brain trust : the rise, fall, and rise again of the American Enterprise Institute /","Wiarda, Howard J.,",2009,FALSE
+"795","ALDERMAN","H  000062.5 .U6  R48  1999","X006115746","Research and funding : a German-American guide for historians and social scientists /","",1999,TRUE
+"796","ALDERMAN","H  000062.5 .V4  Q55","X031987448","Interviene la CIA en investigaciones sociológicas que se realizan en Venezuela ?","Quintero, Rodolfo.",1968,FALSE
+"797","ALDERMAN","H  000067 .C37  J64","X000154732","Research in service to society : the first fifty years of the Institute for Research in Social Science at the University of North Carolina /","Johnson, Guy Benton,",1980,FALSE
+"798","ALDERMAN","H  000067 .L9  D33  1995","X002701963","LSE : a history of the London School of Economics and Political Science, 1895-1995 /","Dahrendorf, Ralf,",1995,TRUE
+"799","ALDERMAN","H  000067 .L9  P37  2004","X030196653","An encounter with higher education : my years at LSE /","Patel, I. G. (Indraprasad Gordhanbhai),",2004,FALSE
+"800","ALDERMAN","H  000067 .W338  C75  1985","X000909987","The Brookings Institution, 1916-1952 : expertise and the public interest in a democratic society /","Critchlow, Donald T.,",1985,TRUE
+"801","ALDERMAN","H  000081 .P75","X000029894","Selected writings of Pierre-Joseph Proudhon.","Proudhon, P.-J. (Pierre-Joseph),",1969,FALSE
+"802","ALDERMAN","H  000083 .A7  1926","X032018509","A gateway to the social sciences,","Arneson, Ben Albert,",1926,FALSE
+"803","ALDERMAN","H  000083 .N377  1989","X001492256","A Scott Nearing reader : the good life in bad times /","Nearing, Scott,",1989,FALSE
+"804","ALDERMAN","H  000083 .O5","X001405747","The social sciences and their interrelations,","Ogburn, William F.,",1927,FALSE
+"805","ALDERMAN","H  000083 .W3313  2001","X004903987","From Max Weber : essays in sociology /","Weber, Max,",2001,FALSE
+"806","CLEMONS","H  000085 .M394  1998","X004268743","The uncertain sciences /","Mazlish, Bruce,",1998,FALSE
+"807","ALDERMAN","H  000085 .M45  2006","X030107917","Dark ages : the case for a science of human behavior /","McIntyre, Lee C.",2006,FALSE
+"808","ALDERMAN","H  000085 .S564  2013","X031613132","Montesquieu and the discovery of the social /","Singer, Brian C. J.,",2013,FALSE
+"809","ALDERMAN","H  000085 .S8  1994","X006078698","Social science research : a cross section of journal articles for discussion and evaluation /","",1994,FALSE
+"810","ALDERMAN","H  000085 .W55  2008","X030508521","Liberty versus the tyranny of socialism : controversial essays /","Williams, Walter E. (Walter Edward),",2008,FALSE
+"811","CLEMONS","H  000091 .B38  1998","X004107904","Tricks of the trade : how to think about your research while you're doing it /","Becker, Howard Saul,",1998,FALSE
+"812","ALDERMAN","H  000091 .B4  1986","X001206526","Writing for social scientists : how to start and finish your thesis, book, or article /","Becker, Howard Saul,",1986,FALSE
+"813","ALDERMAN","H  000091 .C68  1967","X031996452","Social science data archives in the United States, 1967.","Council of Social Science Data Archives (U.S.)",1967,FALSE
+"814","ALDERMAN","H  000091 .D67  1985","X001241887","Risk acceptability according to the social sciences /","Douglas, Mary.",1985,FALSE
+"815","ALDERMAN","H  000091 .D68  1982","X000352859","Risk and culture : an essay on the selection of technical and environmental dangers /","Douglas, Mary.",1982,FALSE
+"816","ALDERMAN","H  000091 .D78","X030725641","Men, ideas & politics; essays,","Drucker, Peter F. (Peter Ferdinand),",1971,FALSE
+"817","ALDERMAN","H  000091 .R53  1989B","X001504760","Rhetoric in the human sciences /","",1989,FALSE
+"818","ALDERMAN","H  000091 .W56  1988","X001355706","Searching for safety /","Wildavsky, Aaron B.",1988,FALSE
+"819","ALDERMAN","H  000096 .P653  V.2","X004119116","Political reform and developing nations /","",1996,TRUE
+"820","ALDERMAN","H  000096 .P653  V.3","X004105373","Public budgeting and financial administration in developing countries /","",1996,TRUE
+"821","ALDERMAN","H  000096 .P653  V.4","X004105372","Human rights and developing countries /","",1996,TRUE
+"822","ALDERMAN","H  000097 .A22  2002","X004470178","Do think tanks matter? : assessing the impact of public policy institutes /","Abelson, Donald E.",2002,FALSE
+"823","ALDERMAN","H  000097 .A24  2009","X030563186","Do think tanks matter? : assessing the impact of public policy institutes /","Abelson, Donald E.",2009,FALSE
+"824","ALDERMAN","H  000097 .A36  1993","X002282683","Agenda formation /","",1993,FALSE
+"825","ALDERMAN","H  000097 .A63  2003","X004708063","Pursuing truth, exercising power : social science and public policy in the twenty-first century /","Anderson, Lisa,",2003,FALSE
+"826","ALDERMAN","H  000097 .A65  1993","X002302021","The Argumentative turn in policy analysis and planning /","",1993,FALSE
+"827","ALDERMAN","H  000097 .A653  2012","X031602940","The argumentative turn revisited : public policy as communicative practice /","",2012,FALSE
+"828","ALDERMAN","H  000097 .A68  2018","X031810363","Policy entrepreneurship in education : engagement, influence and impact /","Arthur, James,",2018,FALSE
+"829","ALDERMAN","H  000097 .B33  2009","X031758327","Analysing policy : what's the problem represented to be? /","Bacchi, Carol Lee.",2009,FALSE
+"830","ALDERMAN","H  000097 .B34  2016","X031840889","Poststructural policy analysis : a guide to practice /","Bacchi, Carol Lee,",2016,FALSE
+"831","ALDERMAN","H  000097 .B54  2007","X030113623","The practice of American public policymaking /","Biggs, Selden,",2007,FALSE
+"832","ALDERMAN","H  000097 .B57  2011","X031641648","An introduction to the policy process : theories, concepts, and models of public policy making /","Birkland, Thomas A.",2011,FALSE
+"833","ALDERMAN","H  000097 .B732  1983","X000627188","The foundations of policy analysis /","Brewer, Garry D.",1983,FALSE
+"834","ALDERMAN","H  000097 .B733  1985","X006143293","Bringing the state back in /","",1985,FALSE
+"835","ALDERMAN","H  000097 .B84  1982","X000474542","The uses of social research : social investigation in public policy-making /","Bulmer, Martin.",1982,FALSE
+"836","ALDERMAN","H  000097 .C63  1989","X001640021","The Comparative history of public policy /","",1989,FALSE
+"837","ALDERMAN","H  000097 .C63  1989B","X004843969","The Comparative history of public policy /","",1989,FALSE
+"838","ALDERMAN","H  000097 .C658  2005","X004859479","Making public policy : institutions, actors, strategies /","Considine, Mark,",2005,FALSE
+"839","ALDERMAN","H  000097 .C66  1998","X006020336","Comparing policy networks /","",1998,FALSE
+"840","ALDERMAN","H  000097 .C668  2013","X030851794","Understanding policy change : how to apply political economy concepts in practice /","Corduneanu-Huci, Cristina,",2013,FALSE
+"841","ALDERMAN","H  000097 .D45  2003","X004659042","Deliberative policy analysis : understanding governance in the network society /","",2003,FALSE
+"842","ALDERMAN","H  000097 .E56  1998","X004177453","Just results : ethical foundations for policy analysis /","Ellis, Ralph D.",1998,FALSE
+"843","ALDERMAN","H  000097 .F56  2009","X030565655","Democracy and expertise : reorienting policy inquiry /","Fischer, Frank,",2009,FALSE
+"844","ALDERMAN","H  000097 .F572  2003","X004825082","Reframing public policy : discursive politics and deliberative practices /","Fischer, Frank,",2003,FALSE
+"845","ALDERMAN","H  000097 .F667  1993","X002281447","Critical theory, public policy, and planning practice : toward a critical pragmatism /","Forester, John,",1993,FALSE
+"846","ALDERMAN","H  000097 .F68  1990","X001855352","The myth of scientific public policy /","Formaini, Robert,",1990,FALSE
+"847","ALDERMAN","H  000097 .G38  2006","X004904467","The social scientist as public intellectual : critical reflections in a changing world /","Gattone, Charles F.,",2006,FALSE
+"848","ALDERMAN","H  000097 .G473  2008","X030458229","Elites, ideas, and the evolution of public policy /","Genieys, William.",2008,FALSE
+"849","ALDERMAN","H  000097 .G66  1982","X031602184","Political theory and public policy /","Goodin, Robert E.",1982,FALSE
+"850","ALDERMAN","H  000097 .G744  2018","X031839964","Social policy after the financial crisis : a progressive response /","Greener, Ian,",2018,FALSE
+"851","ALDERMAN","H  000097 .H35443  2015","X031794832","Handbook of critical policy studies /","",2015,FALSE
+"852","ALDERMAN","H  000097 .H358  2004","X004807737","Handbook of practical program evaluation /","",2004,FALSE
+"853","ALDERMAN","H  000097 .H358  2015","X031763063","Handbook of practical program evaluation /","",2015,FALSE
+"854","ALDERMAN","H  000097 .H3582  2006","X030108260","Handbook of public policy /","",2006,FALSE
+"855","ALDERMAN","H  000097 .H38  1988","X001460904","Theoretical issues in policy analysis /","Hawkesworth, M. E.,",1988,FALSE
+"856","ALDERMAN","H  000097 .H552  2002","X004624417","Implementing public policy : governance in theory and practice /","Hill, Michael J. (Michael James),",2002,FALSE
+"857","ALDERMAN","H  000097 .H566  2005","X004860074","Power, knowledge, and politics : policy analysis in the states /","Hird, John A.",2005,FALSE
+"858","ALDERMAN","H  000097 .H57  1992","X002119232","History and context in comparative public policy /","",1992,FALSE
+"859","ALDERMAN","H  000097 .H86  2003","X004706768","Human nature and public policy : an evolutionary approach /","",2003,FALSE
+"860","ALDERMAN","H  000097 .I46  1990","X001810944","Implementation and the policy process : opening up the black box /","",1990,FALSE
+"861","CLEMONS","H  000097 .I49  1990","X001978562","Implementation theory and practice : toward a third generation /","",1990,FALSE
+"862","ALDERMAN","H  000097 .I546  1996","X004048986","Integrating the sixties : the origins, structures, and legitimacy of public policy in a turbulent decade /","",1996,FALSE
+"863","ALDERMAN","H  000097 .I78  2003","X030370545","The policy analyst's handbook : rational problem solving in a political world /","Irwin, Lewis G.",2003,FALSE
+"864","ALDERMAN","H  000097 .J66  2018","X031813903","How far to nudge? : assessing behavioural public policy /","John, Peter,",2018,FALSE
+"865","ALDERMAN","H  000097 .K5  1999","X004266718","America the unusual /","Kingdon, John W.",1999,FALSE
+"866","ALDERMAN","H  000097 .K73  2004","X004943024","Public policy : politics, analysis, and alternatives /","Kraft, Michael E.",2004,FALSE
+"867","CLEMONS","H  000097 .K73  2010","X030823530","Public policy : politics, analysis, and alternatives /","Kraft, Michael E.",2010,FALSE
+"868","ALDERMAN","H  000097 .K73  2013","X031622887","Public policy : politics, analysis, and alternatives /","Kraft, Michael E.",2013,FALSE
+"869","ALDERMAN","H  000097 .K73  2018","X032115208","Public policy : politics, analysis, and alternatives /","Kraft, Michael E.",2018,FALSE
+"870","ALDERMAN","H  000097 .M336  2017","X031817979","Introduction to data science for social and policy research : collecting and organizing data with R and Python /","Magallanes Reyes, Jose Manuel,",2017,FALSE
+"871","ALDERMAN","H  000097 .M35  1984","X001207483","Methods for policy research /","Majchrzak, Ann.",1984,FALSE
+"872","ALDERMAN","H  000097 .M36  1989","X001508035","Evidence, argument, and persuasion in the policy process /","Majone, Giandomenico.",1989,FALSE
+"873","ALDERMAN","H  000097 .M363  2006","X030105595","Making policy happen /","",2006,FALSE
+"874","ALDERMAN","H  000097 .M368  2013","X031744617","Public policy in an uncertain world : analysis and decisions /","Manski, Charles F.",2013,FALSE
+"875","ALDERMAN","H  000097 .M373  2000","X004807778","Evaluation : an integrated framework for understanding, guiding, and improving policies and programs /","Mark, Melvin M.",2000,FALSE
+"876","ALDERMAN","H  000097 .M43  2005","X004908210","Comparative think tanks, politics and public policy /","McGann, James G.",2005,FALSE
+"877","CLEMONS","H  000097 .M56  2003","X030794225","People skills for policy analysts /","Mintrom, Michael,",2003,FALSE
+"878","ALDERMAN","H  000097 .M677  2017","X032583263","Theory and practice in policy analysis : including applications in science and technology /","Morgan, Granger,",2017,FALSE
+"879","ALDERMAN","H  000097 .M86  2000","X004438923","Analyzing policy : choices, conflicts, and practices /","Munger, Michael C.",2000,FALSE
+"880","ALDERMAN","H  000097 .N339  1998","X004153200","Public policy evaluation : making super-optimum decisions /","Nagel, Stuart S.,",1998,FALSE
+"881","ALDERMAN","H  000097 .N489  2005","X004905441","New directions in policy history /","",2005,FALSE
+"882","ALDERMAN","H  000097 .O77  2017","X031789353","The policy state : an American predicament /","Orren, Karen,",2017,FALSE
+"883","ALDERMAN","H  000097 .O88  2006","X030108547","The Oxford handbook of public policy /","",2006,FALSE
+"884","CLEMONS","H  000097 .P38  1986","X001981654","Basic methods of policy analysis and planning /","Patton, Carl V.",1986,FALSE
+"885","ALDERMAN","H  000097 .P38  1993","X002435937","Basic methods of policy analysis and planning /","Patton, Carl V.",1993,FALSE
+"886","ALDERMAN","H  000097 .P564  2015","X031730667","Advanced introduction to public policy /","Peters, B. Guy.",2015,FALSE
+"887","ALDERMAN","H  000097 .P59  2002","X006126350","Planning futures : new directions for planning theory /","",2002,FALSE
+"888","ALDERMAN","H  000097 .P638  1986","X001209994","Policy analysis : perspectives, concepts, and methods /","",1986,FALSE
+"889","ALDERMAN","H  000097 .P656  2007","X030249985","Policy reconsidered : meanings, politics and practices /","",2007,FALSE
+"890","ALDERMAN","H  000097 .P665  1994","X002536236","The Political influence of ideas : policy communities and the social sciences /","",1994,FALSE
+"891","ALDERMAN","H  000097 .P77  1987","X001219416","Confronting values in policy analysis /","",1986,FALSE
+"892","ALDERMAN","H  000097 .P776  2001","X004473543","The public clash of private values : the politics of morality policy /","",2001,FALSE
+"893","ALDERMAN","H  000097 .P83  1995","X006084012","Public policy : the essential readings /","",1995,FALSE
+"894","ALDERMAN","H  000097 .P8355  2017","X031762439","Public policy transfer : micro-dynamics and macro effects /","",2017,FALSE
+"895","ALDERMAN","H  000097 .R33  2000","X004410040","Beyond Machiavelli : policy analysis comes of age /","Radin, Beryl A.,",2000,FALSE
+"896","ALDERMAN","H  000097 .R53  2004","X004772594","Think tanks, public policy, and the politics of expertise /","Rich, Andrew.",2004,FALSE
+"897","ALDERMAN","H  000097 .R57  2002","X004634545","Risk, democratic citizenship and public policy /","",2002,FALSE
+"898","ALDERMAN","H  000097 .S33  1997","X004145600","Policy design for democracy /","Schneider, Anne L. (Anne Larason)",1997,FALSE
+"899","ALDERMAN","H  000097 .S36  1994","X002522654","Frame reflection : toward the resolution of intractable policy controversies /","Schèon, Donald A.",1994,FALSE
+"900","ALDERMAN","H  000097 .S488  2016","X031731436","Analysis and public policy : successes, failures and directions for reform /","Shapiro, Stuart (Stuart Orin),",2016,FALSE
+"901","ALDERMAN","H  000097 .S629  2001","X004522736","Social science and policy-making : a search for relevance in the twentieth century /","",2001,FALSE
+"902","ALDERMAN","H  000097 .S83  1988","X001504499","Policy paradox and political reason /","Stone, Deborah A.",1988,FALSE
+"903","ALDERMAN","H  000097 .S83  1988B","X002533391","Policy paradox and political reason /","Stone, Deborah A.",1988,FALSE
+"904","ALDERMAN","H  000097 .S83  1997","X004189848","Policy paradox : the art of political decision making /","Stone, Deborah A.",1997,FALSE
+"905","ALDERMAN","H  000097 .S83  2002","X004636629","Policy paradox : the art of political decision making /","Stone, Deborah A.",2002,FALSE
+"906","ALDERMAN","H  000097 .S833  1996","X006035916","Capturing the political imagination : think tanks and the policy process /","Stone, Diane,",1996,FALSE
+"907","ALDERMAN","H  000097 .T4  1998","X004187593","Think tanks across nations : a comparative approach /","",1998,FALSE
+"908","ALDERMAN","H  000097 .T46  1999","X004255183","Theories of the policy process /","",1999,FALSE
+"909","ALDERMAN","H  000097 .T478  2000","X004421274","Think tanks & civil societies : catalysts for ideas and action /","",2000,FALSE
+"910","ALDERMAN","H  000097 .V4313  1997","X004126482","Public policy and program evaluation /","Vedung, Evert,",1997,FALSE
+"911","ALDERMAN","H  000097 .W45  1992","X002560013","Policy analysis : concepts and practice /","Weimer, David Leo.",1992,FALSE
+"912","ALDERMAN","H  000097 .W45  1999","X004265069","Policy analysis : concepts and practice /","Weimer, David Leo.",1999,FALSE
+"913","ALDERMAN","H  000097 .W544  1995","X002675865","Democracy, dialogue, and environmental disputes : the contested languages of social regulation /","Williams, Bruce Alan.",1995,FALSE
+"914","ALDERMAN","H  000097 .Y37  1996","X002777788","How does a policy mean? : interpreting policy and organizational actions /","Yanow, Dvora.",1996,FALSE
+"915","ALDERMAN","H  000097 .Z34  2003","X004708067","Ambiguity and choice in public policy : political decision making in modern democracies /","Zahariadis, Nikolaos,",2003,FALSE
+"916","ALDERMAN","H  000097.7 .O84  2018","X030874952","The Oxford handbook of political networks /","",2018,FALSE

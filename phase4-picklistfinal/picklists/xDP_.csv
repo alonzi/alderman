@@ -1,0 +1,929 @@
+"","Item.Library.Code","Item.Shelving.Id","Item.Barcode","Catalog.Title","Catalog.Author","Catalog.Pub.Year","MultiVolume"
+"1","ALDERMAN","DP 000003 .A68  T.000032 V.000005 INDEX","X030531334","Catálogo de la Colección Mata Linares /","Contreras, Remedios.",1970,TRUE
+"2","ALDERMAN","DP 000003 .D6  T.000004","X030531438","Documentos inéditos para la historia de España,","",1936,TRUE
+"3","ALDERMAN","DP 000014 .S64","X000275680","Spain, the mainland /","",1975,FALSE
+"4","ALDERMAN","DP 000017 .C5627  2012","X030945587","The Spanish : shadows of embarrassment /","Cohen, Yehuda,",2012,FALSE
+"5","ALDERMAN","DP 000017 .G26  2010","X031650334","Historia de España para dummies /","García de Cortázar, Fernando.",2010,FALSE
+"6","ALDERMAN","DP 000017 .M33  1964","X031759979","El paisaje de España : visto por los Españoles /","Azorín,",1964,FALSE
+"7","ALDERMAN","DP 000017 .P35  1991","X002141763","Nosotros, los españoles : una breve historia de España /","Palacio Atard, Vicente.",1991,FALSE
+"8","ALDERMAN","DP 000017 .P55  2010","X030774375","A concise history of Spain /","Phillips, William D.",2010,FALSE
+"9","ALDERMAN","DP 000017 .P55  2016","X031731243","A concise history of Spain /","Phillips, William D.,",2016,FALSE
+"10","CLEMONS","DP 000017 .S67  1990","X002170613","Spain, a country study /","",1990,FALSE
+"11","ALDERMAN","DP 000017 .T5  1966","X000844131","Spain,","Thomas, Hugh,",1966,FALSE
+"12","ALDERMAN","DP 000022 .E76  1897","X031767979","España ilustrada : vistas, monumentos, escultura, pintura.","",1897,FALSE
+"13","ALDERMAN","DP 000023 .V54  2011","X030947137","Reconstructing Spain : cultural heritage and memory after civil war /","Viejo-Rose, Dacia.",2011,FALSE
+"14","ALDERMAN","DP 000026 .F7  1926","X000749328","Virgin Spain; scenes from the spiritual drama of a great people","Frank, Waldo David,",1926,FALSE
+"15","ALDERMAN","DP 000027 .M66  2010","X030778187","Atlas histórico de la España medieval /","Monsalvo Antón, José María.",2010,FALSE
+"16","ALDERMAN","DP 000038 .F5718  2007","X031647345","Viaje de Ámsterdam a Génova pasando por Madrid y Cádiz en los años 1797 y 1798 /","Fischer, Christian August,",2007,FALSE
+"17","ALDERMAN","DP 000038 .F75  2014","X031647344","La imagen de España en los libros de los viajeros alemanes del siglo XVIII /","Friederich-Stegmann, Hiltrud,",2014,FALSE
+"18","ALDERMAN","DP 000038 .V53  2011","X031227906","El viaje y la percepción del otro : viajeros por la Península Ibérica y sus descripciones (siglos XVIII y XIX) /","",2011,FALSE
+"19","ALDERMAN","DP 000041 .H41  1907","X004914401","Castilian days /","Hay, John,",1907,FALSE
+"20","ALDERMAN","DP 000043 .R3  1961","X031648749","Itinerario español.","Rama, Carlos M.,",1961,FALSE
+"21","ALDERMAN","DP 000043 .W7  1957","X000384413","Pagan Spain /","Wright, Richard,",1957,FALSE
+"22","CLEMONS","DP 000043 .W7  2002","X004553850","Pagan Spain /","Wright, Richard,",2002,FALSE
+"23","CLEMONS","DP 000043.2 .R43  2007","X030254710","A late dinner : discovering the food of Spain /","Richardson, Paul,",2007,FALSE
+"24","CLEMONS","DP 000043.2 .S63  1995","X002741441","Spain /","",1995,FALSE
+"25","ALDERMAN","DP 000044 .C685  2009","X031821861","Colonial encounters in ancient Iberia : Phoenician, Greek, and indigenous relations /","",2009,FALSE
+"26","ALDERMAN","DP 000044 .I66  2008","X030456729","In the light of medieval Spain : Islam, the West, and the relevance of the past /","",2008,FALSE
+"27","ALDERMAN","DP 000044 .V595  2009","X030707152","La presencia bizantina en Hispania, siglos VI-VII : la documentación arqueológica /","Vizcaíno Sánchez, Jaime.",2009,FALSE
+"28","ALDERMAN","DP 000048 .B4913","X000036404","The Spanish character : attitudes and mentalities from the sixteenth to the nineteenth century /","Bennassar, Bartolomé.",1979,FALSE
+"29","CLEMONS","DP 000048 .C233  1999","X004276516","The Cambridge companion to modern Spanish culture /","",1999,FALSE
+"30","CLEMONS","DP 000048 .C235  1981","X001245963","Civilización y cultura de España /","Cantarino, Vicente,",1981,FALSE
+"31","ALDERMAN","DP 000048 .C3  1948","X000234032","España en su historia; cristianos, moros y judíos.","Castro, Américo,",1948,FALSE
+"32","ALDERMAN","DP 000048 .C33  1954","X000144449","The structure of Spanish history;","Castro, Américo,",1954,FALSE
+"33","ALDERMAN","DP 000048 .C365  1971","X000310674","The Spaniards; an introduction to their history.","Castro, Américo,",1971,FALSE
+"34","ALDERMAN","DP 000048 .C594  2000","X004561233","Contemporary Spanish cultural studies /","",2000,FALSE
+"35","ALDERMAN","DP 000048 .C8  1985","X000909228","Spain : the root and the flower, an interpretation of Spain and the Spanish people /","Crow, John A.,",1985,FALSE
+"36","ALDERMAN","DP 000048 .D3813  1971","X000302661","Daily life in Spain in the golden age.","Defourneaux, Marcelin.",1971,FALSE
+"37","ALDERMAN","DP 000048 .D42  1966","X000208995","La mujer, la casa y la moda (en la Espan?a del rey poeta).","Deleito y Piñuela, José.",1966,FALSE
+"38","ALDERMAN","DP 000048 .E635  2016","X031855600","Engaging the emotions in Spanish culture and history /","",2016,FALSE
+"39","ALDERMAN","DP 000048 .E873  2015","X031740751","España ante sus críticos : las claves de la Leyenda Negra /","",2015,FALSE
+"40","ALDERMAN","DP 000048 .F336  2013","X031712595","Brevísima relación de la construcción de España y otros ensayos transatlánticos (1991-2011) /","Fernández, James D.",2013,FALSE
+"41","CLEMONS","DP 000048 .F8418  1992","X006075545","El espejo enterrado /","Fuentes, Carlos.",1992,FALSE
+"42","ALDERMAN","DP 000048 .F87  2000","X004894042","España : la evolución de la identidad nacional /","Fusi Aizpurúa, Juan Pablo,",2000,FALSE
+"43","ALDERMAN","DP 000048 .G3265  2010","X031650331","Breve historia de la cultura en España un viaje por la cultura a través de las ciudades /","García de Cortázar, Fernando",2010,FALSE
+"44","ALDERMAN","DP 000048 .H48  1988","X001559563","Los orígenes del pensamiento reaccionario español /","Herrero, Javier.",1988,FALSE
+"45","ALDERMAN","DP 000048 .H625  2007","X031580048","España no existe /","Hidalgo, Alberto,",2007,FALSE
+"46","ALDERMAN","DP 000048 .K36  2008","X030260033","Imagining Spain : historical myth & national identity /","Kamen, Henry.",2008,FALSE
+"47","ALDERMAN","DP 000048 .M2946  2008","X030458230","Disorientations : Spanish colonialism in Africa and the performance of identity /","Martin-Márquez, Susan.",2008,FALSE
+"48","ALDERMAN","DP 000048 .M683  2015","X031659146","Mosaico transatlántico : escritoras, artistas, imaginarios (España-USA, 1830-1940) /","",2015,FALSE
+"49","ALDERMAN","DP 000048 .N974  2014","X032209847","¡Viva la muerte! : política y cultura de lo macabro /","Núñez Florencio, Rafael.",2014,FALSE
+"50","ALDERMAN","DP 000048 .O53  2008","X030338449","España y los españoles de hoy : historia, sociedad y cultura /","Operé, Fernando,",2008,FALSE
+"51","CLEMONS","DP 000048 .O64  2017","X032220834","España y las luchas por la modernidad : siglos XIX a XXI /","Operé, Fernando,",2017,FALSE
+"52","ALDERMAN","DP 000048 .P76  1993  V.000002","X031631231","Proyección histórica de España : en sus tres culturas--Castilla y León, América y el Mediterráneo /","",1993,TRUE
+"53","ALDERMAN","DP 000048 .R38  2007","X030464244","Reading Iberia : theory/history/identity /","",2007,FALSE
+"54","ALDERMAN","DP 000048 .R425  2008","X030248942","Recasting culture and space in Iberian contexts /","",2008,FALSE
+"55","ALDERMAN","DP 000048 .R43  2013","X031647347","El relaxing café con leche y otros hitos de la marca España /","",2013,FALSE
+"56","ALDERMAN","DP 000048 .R44  2007","X030268695","Rereading the Black Legend : the discourses of religious and racial difference in the Renaissance empires /","",2007,FALSE
+"57","ALDERMAN","DP 000048 .R63  2016","X031804140","Imperiofobia y leyenda negra : Roma, Rusia, Estados Unidos y el Imperio español /","Roca Barea, María Elvira,",2016,FALSE
+"58","ALDERMAN","DP 000048 .R8","X000207326","Spain; a companion to Spanish studies.","Russell, P. E. (Peter Edward),",1973,FALSE
+"59","ALDERMAN","DP 000048 .S3625  1990","X031648680","Sol y sombra /","Sánchez Vidal, Agustín.",1990,FALSE
+"60","ALDERMAN","DP 000048 .S3818  1957","X000362410","La España ilustrada de la segunda mitad del siglo XVIII /","Sarrailh, Jean,",1957,FALSE
+"61","ALDERMAN","DP 000048 .S595  2016","X031659357","La sombra de la leyenda negra /","",2016,FALSE
+"62","ALDERMAN","DP 000048 .S6118  2002","X004558552","Spain in America : the origins of hispanism in the United States /","",2002,FALSE
+"63","CLEMONS","DP 000048 .S678  2002","X030151776","Culture and customs of Spain /","Stanton, Edward F.,",2002,FALSE
+"64","ALDERMAN","DP 000048 .S68  1999","X004351715","Handbook of Spanish popular culture /","Stanton, Edward F.,",1999,FALSE
+"65","ALDERMAN","DP 000048 .T674  2014","X031650204","The transatlantic Hispanic Baroque : complex identities in the Atlantic world /","",2014,FALSE
+"66","ALDERMAN","DP 000048 .U5  1972","X001645359","En torno al casticismo.","Unamuno, Miguel de,",1972,FALSE
+"67","ALDERMAN","DP 000048 .U5  2015","X031788735","En torno al casticismo /","Unamuno, Miguel de,",2015,FALSE
+"68","ALDERMAN","DP 000048 .U529  2007","X030591916","""Una de las dos Españas ... "" : representaciones de un conflicto identitario en la historia y en las literaturas hispánicas, estudios reunidos en homenaje a Manfred Tietz /","",2007,FALSE
+"69","ALDERMAN","DP 000048 .U53","X000749501","En torno al casticismo.","Unamuno, Miguel de,",1971,FALSE
+"70","ALDERMAN","DP 000048.9 .K35  2007","X004832393","The disinherited : the exiles who created Spanish culture /","Kamen, Henry.",2007,FALSE
+"71","ALDERMAN","DP 000052 .A564  2016","X031842495","El descubrimiento de España : mito romántico e identidad nacional /","Andreu Miralles, Xavier,",2016,FALSE
+"72","ALDERMAN","DP 000052 .A63  1991","X002141755","Antropología de los pueblos de España /","",1991,FALSE
+"73","ALDERMAN","DP 000052 .B73  2002","X004631579","Power in the portrayal : representations of Jews and Muslims in eleventh- and twelfth-century Islamic Spain /","Brann, Ross,",2002,FALSE
+"74","ALDERMAN","DP 000052 .C27  2000","X030203606","El bien nacer : limpieza de oficios y limpieza de sangre : raíces ibéricas de un mal latinoamericano : del siglo XIII al último tercio del siglo XIX /","Canessa de Sanguinetti, Marta,",2000,FALSE
+"75","ALDERMAN","DP 000052 .D68  1997","X004103796","Bulls, bullfighting, and Spanish identities /","Douglass, Carrie B.,",1997,FALSE
+"76","ALDERMAN","DP 000052 .E58  2015","X031714277","Envisioning others : race, color, and the visual in Iberia and Latin America /","",2015,FALSE
+"77","ALDERMAN","DP 000052 .F47  2017","X031818881","Speaking of Spain : the evolution of race and nation in the Hispanic world /","Feros, Antonio,",2017,FALSE
+"78","ALDERMAN","DP 000052 .G32  R3  1967","X000194205","Angel Genivet's Idearium Espanõl: a critical study,","Ramsden, H. (Herbert)",1967,TRUE
+"79","ALDERMAN","DP 000052 .G36  1990","X031803534","Idearium español ; con, El porvenir de España /","Ganivet, Angel,",1990,FALSE
+"80","ALDERMAN","DP 000052 .G5  1971","X002698180","The black legend; anti-Spanish attitudes in the Old World and the New.","Gibson, Charles,",1971,FALSE
+"81","ALDERMAN","DP 000052 .H47  2011","X030943341","Sangre limpia, sangre española : el debate sobre los estatutos de limpieza (siglos XV-XVII) /","Hernández Franco, Juan.",2011,FALSE
+"82","ALDERMAN","DP 000052 .I24  1989","X001728040","Iberian identity : essays on the nature of identity in Portugal and Spain /","",1989,FALSE
+"83","ALDERMAN","DP 000052 .M337  2017","X032058212","Nacionalisme espanyol i catalanitat (1789-1859) : cap a una revisió de la Renaixença /","Marfany, Joan-Lluís,",2017,FALSE
+"84","ALDERMAN","DP 000052 .M66  2013","X031717444","Las culturas judía, islámica y cristiana y la identidad de España /","Monclús, Antonio.",2013,FALSE
+"85","ALDERMAN","DP 000052 .P37  1989  V.000002","X001845257","El Pensamiento español contemporáneo y la idea de América /","",1989,TRUE
+"86","ALDERMAN","DP 000053 .M65  F54  2008","X030463061","The return of the Moor : Spanish responses to contemporary Moroccan immigration /","Flesler, Daniela,",2008,TRUE
+"87","ALDERMAN","DP 000053 .M87  C37  2009","X030562988","Blood and faith : the purging of Muslim Spain /","Carr, Matthew,",2009,TRUE
+"88","ALDERMAN","DP 000053 .M87  G37  2013","X031649586","La conquista islámica de la Península Ibérica y la tergiversación del pasado : del catastrofismo al negacionismo /","García Sanjuán, Alejandro,",2013,TRUE
+"89","ALDERMAN","DP 000058 .F47  2010","X031199992","España : biografía de una nación /","Fernández Álvarez, Manuel,",2011,FALSE
+"90","ALDERMAN","DP 000058 .P4  1965","X031631321","Generaciones y semblanzas /","Pérez de Guzmán, Fernán,",1965,FALSE
+"91","ALDERMAN","DP 000058 .P8  1971","X000749508","Claros varones de Castilla","Pulgar, Fernando del,",1971,FALSE
+"92","ALDERMAN","DP 000058 .P8  1985","X001077482","Claros varones de Castilla /","Pulgar, Fernando del,",1985,FALSE
+"93","ALDERMAN","DP 000059.9 .Q44  2005","X004917309","Queenship and political power in medieval and early modern Spain /","",2005,FALSE
+"94","ALDERMAN","DP 000060 .F47  L53  2011","X031187163","Family and empire : the Fernández de Córdoba and the Spanish realm /","Liang, Yuen-Gen,",2011,TRUE
+"95","ALDERMAN","DP 000060 .M4  D36  2014","X031642208","Damas de la Casa de Mendoza : historias, leyendas y olvidos /","",2014,TRUE
+"96","ALDERMAN","DP 000063 .A58  2017","X031847328","El relato nacional : historia de la historia de España /","Alvarez Junco, José,",2017,FALSE
+"97","ALDERMAN","DP 000063 .D36  2017","X031818806","Edging toward Iberia /","Dangler, Jean,",2017,FALSE
+"98","ALDERMAN","DP 000063 .E35  2012","X030856765","History in the making /","Elliott, J. H. (John Huxtable)",2012,FALSE
+"99","ALDERMAN","DP 000063 .F65  2003","X004734858","Generaciones y semblanzas : memory and genealogy in medieval Iberian historiography /","Folger, Robert.",2003,FALSE
+"100","ALDERMAN","DP 000063 .M295  2006","X004895420","""Lazy, improvident people"" : myth and reality in the writing of Spanish history /","Mackay, Ruth.",2006,FALSE
+"101","ALDERMAN","DP 000063 .P1913  2011","X030944553","Spain : a unique history /","Payne, Stanley G.",2011,FALSE
+"102","ALDERMAN","DP 000063 .R38  2012","X031613397","The debate on the decline of Spain /","Rawlings, Helen,",2012,FALSE
+"103","ALDERMAN","DP 000063 .S58  2015","X031794790","Sites of memory in Spain and Latin America : trauma, politics, and resistance /","",2015,FALSE
+"104","ALDERMAN","DP 000063.5 .P67  2014","X031712615","¿Por qué España? : memorias del hispanismo estadounidense /","",2014,FALSE
+"105","ALDERMAN","DP 000063.7 .C37  G6613  2013","X031628193","Raymond Carr : the curiosity of the fox /","González Hernández, María Jesús,",2013,TRUE
+"106","ALDERMAN","DP 000063.7 .J84  E76  2007","X030244423","Leyendas negras : vida y obra de Julián Juderías (1877-1918) : la leyenda negra antiamericana /","Español, Luis,",2007,FALSE
+"107","ALDERMAN","DP 000063.9 .Z623  1968","X032209097","Ideas para una interpretación de la decadencia española : discurso inaugural del año academico 1968-69 /","Zorita Tomillo, Eduardo.",1968,FALSE
+"108","ALDERMAN","DP 000064 .A4  1955  V.000002","X000280631","Primera crónica general de España que mandó componer Alfonso el Sabio y se continuaba bajo Sancho IV en 1289.","Alfonso",1955,TRUE
+"109","ALDERMAN","DP 000064 .F73  1996","X004048756","The scope of history : studies in the historiography of Alfonso el Sabio /","Fraker, Charles F.",1996,FALSE
+"110","ALDERMAN","DP 000066 .A88  2016","X031842338","España : en busca de un relato /","Artime Omil, Manuel,",2016,FALSE
+"111","ALDERMAN","DP 000066 .B43  1971","X000527033","The history of Spain.","Bertrand, Louis,",1971,FALSE
+"112","ALDERMAN","DP 000066 .D8  1832A V.000003","X030850641","Spain and Portugal.","Dunham, S. A. (Samuel Astley),",1832,TRUE
+"113","ALDERMAN","DP 000066 .G26  1994","X031630565","Breve historia de España /","García de Cortázar, Fernando.",1994,FALSE
+"114","ALDERMAN","DP 000066 .G264  2012","X031657279","Breve historia de España /","García de Cortázar, Fernando.",2012,FALSE
+"115","ALDERMAN","DP 000066 .H5535  2009  V.000002","X031623020","Historia de España /","",2009,TRUE
+"116","ALDERMAN","DP 000066 .M575  2012","X031713137","España contra España : claves y mitos de su historia /","Moa, Pío.",2012,FALSE
+"117","ALDERMAN","DP 000066 .N848  2018","X032209001","Nueva historia de la España contemporánea (1808-2018) /","",2018,FALSE
+"118","CLEMONS","DP 000066 .S63  2000","X004420149","Spain : a history /","",2000,FALSE
+"119","ALDERMAN","DP 000066 .W55  2009","X030477344","The story of Spain : the dramatic history of Europe's most fascinating country /","Williams, Mark,",2009,FALSE
+"120","CLEMONS","DP 000068 .V5513  1977","X000132942","Spain, a brief history /","Vilar, Pierre,",1977,FALSE
+"121","ALDERMAN","DP 000070 .G37  2014","X031650332","Momentos emocionantes de la historia de España /","García de Cortázar, Fernando.",2014,FALSE
+"122","ALDERMAN","DP 000075 .P34  1990","X001924974","Spanish imperialism and the political imagination : studies in European and Spanish-American social and political theory, 1513-1830 /","Pagden, Anthony.",1990,FALSE
+"123","ALDERMAN","DP 000078 .M27  2007","X030370326","Bankruptcy of empire : Mexican silver and the wars between Spain, Britain, and France, 1760-1810 /","Marichal, Carlos.",2007,FALSE
+"124","ALDERMAN","DP 000084 .G32  1992","X002219930","La leyenda negra : historia y opinión /","Garcia Càrcel, Ricard.",1992,FALSE
+"125","ALDERMAN","DP 000084 .H47  2015","X031657155","Frontiers of possession : Spain and Portugal in Europe and the Americas /","Herzog, Tamar.",2015,FALSE
+"126","ALDERMAN","DP 000085.3 .I68  2005","X004900899","Interpreting Spanish colonialism : empires, nations, and legends /","",2005,FALSE
+"127","ALDERMAN","DP 000085.8 .S62  1999","X004412479","Spain in an international context, 1936-1959 /","",1999,FALSE
+"128","ALDERMAN","DP 000086 .G7  L6  1963","X000310740","The Spanish Elizabethans; the English exiles at the court of Philip II /","Loomie, Albert J. (Albert Joseph),",1963,TRUE
+"129","ALDERMAN","DP 000086 .G7  M34","X000279435","The Black Legend in England; the development of anti-Spanish sentiment, 1558-1660","Maltby, William S.,",1971,FALSE
+"130","ALDERMAN","DP 000086 .G7  S43","X000754386","España vista por los ingleses del siglo XVII /","Shaw Fairman, Patricia.",1981,FALSE
+"131","ALDERMAN","DP 000086 .M38  I5  2015","X031716967","In and of the Mediterranean : medieval and early modern Iberian studies /","",2015,FALSE
+"132","ALDERMAN","DP 000086 .R9  F76  2006","X031711543","Frontera y comunicación cultural entre España y Rusia : una perspectiva interdisciplinar /","",2006,TRUE
+"133","ALDERMAN","DP 000092 .A3  1992","X031630908","Historia de Sagunto : para ilustrar una Tragedia llamada La caída de Sagunto","A. B.",1992,FALSE
+"134","ALDERMAN","DP 000094 .A66  2000","X006113557","Wars of the Romans in Iberia /","Appianus,",2000,FALSE
+"135","ALDERMAN","DP 000094 .C64  1983","X000668494","Early medieval Spain : unity in diversity, 400-1000 /","Collins, Roger,",1983,FALSE
+"136","ALDERMAN","DP 000094 .C873  1991","X002050521","Roman Spain : conquest and assimilation /","Curchin, Leonard A.,",1991,FALSE
+"137","ALDERMAN","DP 000094 .E25  2010","X030823889","Early medieval spain : a symposium /","",2010,FALSE
+"138","ALDERMAN","DP 000094 .H577  2005","X004858572","Hispania in late antiquity : current perspectives /","",2005,FALSE
+"139","ALDERMAN","DP 000094 .K4  1988","X001359693","Roman Spain /","Keay, S. J.",1988,FALSE
+"140","ALDERMAN","DP 000094 .L69  2009","X030277060","Roman Iberia : economy, society and culture /","Lowe, Benedict.",2009,FALSE
+"141","ALDERMAN","DP 000094 .R53  1986","X001156415","Hispaniae ; Spain and the development of Roman imperialism, 218-82 BC /","Richardson, John,",1986,FALSE
+"142","ALDERMAN","DP 000094 .R54  1996","X004044667","The Romans in Spain /","Richardson, John,",1996,FALSE
+"143","ALDERMAN","DP 000094 .R66  2006","X030216804","The Roman army in Hispania : an archaeological guide /","",2006,FALSE
+"144","ALDERMAN","DP 000094 .S8  1939","X000455293","The Romans in Spain, 217 B.C.-A.D. 117,","Sutherland, C. H. V. (Carol Humphrey Vivian),",1939,FALSE
+"145","ALDERMAN","DP 000095 .C87  2003","X004734135","The romanization of central Spain : complexity, diversity, and change in a provincial hinterland /","Curchin, Leonard A.,",2004,FALSE
+"146","ALDERMAN","DP 000095 .D63  2008","X030279007","Army of the Roman Republic : the 2nd century BC, Polybius and the camps at Numantia, Spain /","Dobson, Mike (Michael J.)",2007,FALSE
+"147","ALDERMAN","DP 000096 .C649  1995","X002666900","Early medieval Spain : unity in diversity, 400-1000 /","Collins, Roger,",1995,FALSE
+"148","ALDERMAN","DP 000096 .C65  1992","X002079648","Law, culture, and regionalism in early medieval Spain /","Collins, Roger,",1992,FALSE
+"149","ALDERMAN","DP 000096 .C653  2004","X004743797","Visigothic Spain, 409-711 /","Collins, Roger,",2004,FALSE
+"150","ALDERMAN","DP 000096 .C66  1990","X001941512","Conquerors and chroniclers of early medieval Spain /","",1990,FALSE
+"151","ALDERMAN","DP 000096 .F84  1992","X002106908","The buried mirror : reflections on Spain and the New World /","Fuentes, Carlos.",1992,FALSE
+"152","ALDERMAN","DP 000096 .L56  1993","X002252059","History and the historians of medieval Spain /","Linehan, Peter.",1993,FALSE
+"153","ALDERMAN","DP 000096 .V57","X000082848","Visigothic Spain : new approaches /","",1980,FALSE
+"154","ALDERMAN","DP 000096 .W66  2012","X030843709","The politics of identity in Visigothic Spain : religion and power in the histories of Isidor of Seville /","Wood, Jamie P.,",2012,FALSE
+"155","ALDERMAN","DP 000097.3 .I24  1995  V.000001","X002586218","Iberia and the Mediterranean world of the Middle Ages : studies in honor of Robert I. Burns, S.J. /","",1995,TRUE
+"156","ALDERMAN","DP 000097.3 .J665  2003","X030200358","La Península Ibérica entre el Mediterráneo y el Atlántico : siglos XIII-XV : Cádiz, 1-4 de abril de 2003 /","Jornadas Hispano-Portuguesas de Historia Medieval",2006,FALSE
+"157","ALDERMAN","DP 000097.3 .M44  1997","X004028296","Medieval Iberia : essays on the history and literature of medieval Spain /","",1997,FALSE
+"158","ALDERMAN","DP 000097.4 .B37  2000","X004500851","The World of El Cid : chronicles of the Spanish reconquest /","",2000,FALSE
+"159","ALDERMAN","DP 000097.4 .M43  1997","X004106293","Medieval Iberia : readings from Christian, Muslim, and Jewish sources /","",1997,FALSE
+"160","ALDERMAN","DP 000097.6 .G66  1997","X004176489","Imperial histories from Alfonso X to Inca Garcilaso : revisionist myths of reconquest and conquest /","González-Casanovas, Roberto J.",1997,FALSE
+"161","ALDERMAN","DP 000097.6 .K34  2009","X030607597","Clio & the crown : the politics of history in medieval and early modern Spain /","Kagan, Richard L.,",2009,FALSE
+"162","ALDERMAN","DP 000097.6 .K3418  2010","X031190104","Los cronistas y la corona : la política de la historia en España en las edades media y moderna /","Kagan, Richard L.,",2010,FALSE
+"163","ALDERMAN","DP 000098 .A5413  2012","X031187771","A history of early al-Andalus : the Akhb?r majm??a : a study of the unique Arabic manuscript in the Bibliothèque nationale de France, Paris, with a translation, notes and comments /","",2012,FALSE
+"164","ALDERMAN","DP 000098 .G37  2006","X004911362","Messianism and puritanical reform : Mahd?s of the Muslim west /","García-Arenal, Mercedes.",2006,FALSE
+"165","ALDERMAN","DP 000098 .H55  2009","X030926050","The Visigoths in history and legend /","Hillgarth, J. N.",2009,FALSE
+"166","ALDERMAN","DP 000098 .I255  2013","X031574267","Min al-tur?th al-Andalus?, al-Lam?ah al-badr?yah f? al-dawlah al-Na?r?yah /","Ibn al-Kha??b,",2013,FALSE
+"167","ALDERMAN","DP 000098 .L86  2001","X030793093","Historia verdadera del rey Don Rodrigo /","Luna, Miguel de,",2001,FALSE
+"168","ALDERMAN","DP 000099 .B35  1984","X000967900","Cristianos y Musulmanes en la España medieval : (el enemigo en el espejo) /","Barkai, Ron.",1984,FALSE
+"169","ALDERMAN","DP 000099 .B57","X000321398","Studies in medieval Spanish frontier history /","Bishko, Charles Julian.",1980,FALSE
+"170","ALDERMAN","DP 000099 .C58  1989","X001666583","The Arab conquest of Spain, 710-797 /","Collins, Roger,",1989,FALSE
+"171","ALDERMAN","DP 000099 .C584  2012","X030846258","Caliphs and kings : Spain, 796-1031 /","Collins, Roger,",2012,FALSE
+"172","CLEMONS","DP 000099 .F56  1992","X002190510","Moorish Spain /","Fletcher, R. A. (Richard A.)",1992,FALSE
+"173","ALDERMAN","DP 000099 .F57  1989B","X001606780","The quest for El Cid /","Fletcher, R. A. (Richard A.)",1989,FALSE
+"174","ALDERMAN","DP 000099 .G28  2010","X031189539","La Reconquista /","García Fitz, Francisco.",2010,FALSE
+"175","ALDERMAN","DP 000099 .G46  1995","X002706156","From Muslim fortress to Christian castle : social and cultural change in medieval Spain /","Glick, Thomas F.",1995,FALSE
+"176","ALDERMAN","DP 000099 .G47","X000015669","Islamic and Christian Spain in the early Middle Ages /","Glick, Thomas F.",1979,FALSE
+"177","ALDERMAN","DP 000099 .G47  2005","X004905794","Islamic and Christian Spain in the early Middle Ages /","Glick, Thomas F.",2005,FALSE
+"178","ALDERMAN","DP 000099 .G75  2009","X030467168","The eve of Spain : myths of origins in the history of Christian, Muslim, and Jewish conflict /","Grieve, Patricia E.",2009,FALSE
+"179","CLEMONS","DP 000099 .H54  V.000001","X006083135","The Spanish kingdoms, 1250-1516 /","Hillgarth, J. N.",1976,TRUE
+"180","ALDERMAN","DP 000099 .H59  2014","X031628465","Muslim Spain reconsidered : from 711 to 1502 /","Hitchcock, Richard",2014,FALSE
+"181","ALDERMAN","DP 000099 .J32","X000025673","The making of medieval Spain.","Jackson, Gabriel.",1972,FALSE
+"182","CLEMONS","DP 000099 .J32  1972B","X000118612","The making of Medieval Spain.","Jackson, Gabriel.",1972,FALSE
+"183","ALDERMAN","DP 000099 .L69","X000053228","The reconquest of Spain /","Lomax, Derek W.",1978,FALSE
+"184","ALDERMAN","DP 000099 .L695  2005","X004875271","A vanished world : medieval Spain's golden age of enlightenment /","Lowney, Chris.",2005,FALSE
+"185","ALDERMAN","DP 000099 .M23","X006143202","Spain in the Middle Ages : from frontier to empire, 1000-1500 /","MacKay, Angus,",1977,FALSE
+"186","ALDERMAN","DP 000099 .M27  1954","X000304733","El concepto de España en la Edad Media.","Maravall, José Antonio.",1954,FALSE
+"187","ALDERMAN","DP 000099 .M334  2007","X030268639","Medieval Iberia : changing societies and cultures in contact and transition /","",2007,FALSE
+"188","ALDERMAN","DP 000099 .M34  2002","X004624482","Medieval Spain : culture, conflict, and coexistence; studies in honour of Angus MacKay /","",2002,FALSE
+"189","ALDERMAN","DP 000099 .M42  1986","X001727644","La España del siglo XIII : leída en imágenes /","Menéndez Pidal, Gonzalo.",1986,FALSE
+"190","ALDERMAN","DP 000099 .M43  1934","X000316887","The Cid and his Spain,","Menéndez Pidal, Ramón,",1934,FALSE
+"191","CLEMONS","DP 000099 .M43  1971","X000119661","The Cid and his Spain.","Menéndez Pidal, Ramón,",1971,FALSE
+"192","ALDERMAN","DP 000099 .O25","X000317229","A history of medieval Spain /","O'Callaghan, Joseph F.",1975,FALSE
+"193","ALDERMAN","DP 000099 .O325  2014","X031627429","The last crusade in the West : Castile and the conquest of Granada /","O'Callaghan, Joseph F.",2014,FALSE
+"194","ALDERMAN","DP 000099 .O33  2003","X004662784","Reconquest and crusade in medieval Spain /","O'Callaghan, Joseph F.",2003,FALSE
+"195","ALDERMAN","DP 000099 .O6  1998","X004159034","On the social origins of medieval institutions : essays in honor of Joseph F. O'Callaghan /","",1998,FALSE
+"196","ALDERMAN","DP 000099 .R37  1992","X002110517","The contest of Christian and Muslim Spain : 1031-1157 /","Reilly, Bernard F.,",1992,FALSE
+"197","ALDERMAN","DP 000099 .R375  1993","X002280946","The medieval Spains /","Reilly, Bernard F.,",1993,FALSE
+"198","ALDERMAN","DP 000099 .R85  2007","X030275788","Spain's centuries of crisis : 1300-1474 /","Ruiz, Teofilo F.,",2007,FALSE
+"199","CLEMONS","DP 000099 .W3  1977","X000533985","A history of Islamic Spain /","Watt, W. Montgomery (William Montgomery)",1977,FALSE
+"200","ALDERMAN","DP 000099 .W37  1985","X000932871","The rise and fall of the party-kings : politics and society in Islamic Spain 1002-1086 /","Wasserstein, David.",1985,FALSE
+"201","ALDERMAN","DP 000099 .Y65  1879","X000300170","The story of the Christians and Moors of Spain,","Yonge, Charlotte M. (Charlotte Mary),",1879,FALSE
+"202","ALDERMAN","DP 000100 .D45  2013","X031729880","Del Nilo al Guadalquivir : II estudios sobre las fuentes de la conquista islámica : homenaje al profesor Yves Modéran /","",2013,FALSE
+"203","ALDERMAN","DP 000100 .S3  1946  V.000002","X030553179","La España musulmana, según los autores islamitas y cristianos medievales.","Sánchez-Albornoz, Claudio,",1946,TRUE
+"204","ALDERMAN","DP 000101 .I2513  2009","X030278181","Early Islamic Spain : the History of Ibn al-Q???ya : a study of the unique Arabic manuscript in the Bibliothèque Nationale de France, Paris, with a translation, notes, and comments /","Ibn al-Q???yah, Mu?ammad ibn ?Umar,",2009,FALSE
+"205","ALDERMAN","DP 000101 .T48  2002","X004659730","Good and faithful Christians : Moriscos and Catholicism in early modern Spain /","Tueller, James B.",2002,FALSE
+"206","ALDERMAN","DP 000101 .T55  1995  INDEX","X031789206","Naf? al-??b min ghu?n al-Andalus al-ra??b wa-dhikr waz?rih? Lis?n al-D?n ibn al-Kha??b /","Tilmis?n?, A?mad bin Mu?ammad al-Maqqr?,",1995,FALSE
+"207","ALDERMAN","DP 000102 .A52","X000471741","The Moorish Spain,","Ahmad, S. S.",1972,FALSE
+"208","ALDERMAN","DP 000102 .B5618  2015","X031757751","Estudios sobre la historia de Al-Ándalus y sus fuentes /","Bin ?Abb?d, Im?ammad,",2015,FALSE
+"209","ALDERMAN","DP 000102 .C38  2018","X032058240","Kingdoms of faith : a new history of Islamic Spain /","Catlos, Brian A.",2018,FALSE
+"210","ALDERMAN","DP 000102 .C77  2017","X031805707","The most noble of people : religious, ethnic, and gender identity in Muslim Spain /","Coope, Jessica A.,",2017,FALSE
+"211","ALDERMAN","DP 000102 .D7  1976","X000033729","Spanish Islam : a history of the Moslems in Spain /","Dozy, Reinhart Pieter Anne,",1976,FALSE
+"212","ALDERMAN","DP 000102 .F783  2009","X030469635","Exotic nation : Maurophilia and the construction of early modern Spain /","Fuchs, Barbara,",2009,FALSE
+"213","ALDERMAN","DP 000102 .H34  1990","X001856064","Islamic Spain, 1250 to 1500 /","Harvey, L. P. (Leonard Patrick)",1990,FALSE
+"214","ALDERMAN","DP 000102 .I218","X000288921","Historia de la conquista de España /","Ibn al-Q???yah, Mu?ammad ibn ?Umar,",1926,FALSE
+"215","ALDERMAN","DP 000102 .I43  1984","X030153101","A political history of Muslim Spain /","Imamuddin, S. M.",1984,FALSE
+"216","ALDERMAN","DP 000102 .K46  1996","X006012753","Muslim Spain and Portugal : a political history of al-Andalus /","Kennedy, Hugh (Hugh N.)",1996,FALSE
+"217","ALDERMAN","DP 000102 .L3  1899","X002663686","The Moors in Spain,","Lane-Poole, Stanley,",1899,FALSE
+"218","ALDERMAN","DP 000103 .A45  1980","X001024194","The Muslim conquest of Spain /","Akram, A. I.",1980,FALSE
+"219","ALDERMAN","DP 000103 .B66  2009","X030278174","Lost civilization : the contested Islamic past in Spain and Portugal /","Boone, James L.",2009,FALSE
+"220","CLEMONS","DP 000103 .B8713  1972B","X000125193","Moorish culture in Spain.","Burckhardt, Titus.",1972,FALSE
+"221","ALDERMAN","DP 000103 .B8713  1997","X004443171","Moorish culture in Spain /","Burckhardt, Titus.",1997,FALSE
+"222","ALDERMAN","DP 000103 .C46","X000085209","Muslim Spain, its history and culture","Chejne, Anwar G.",1974,FALSE
+"223","ALDERMAN","DP 000103 .C58  2012","X031213586","The Muslim conquest of Iberia : medieval Arabic narratives /","Clarke, Nicola,",2012,FALSE
+"224","ALDERMAN","DP 000103 .C68  2018","X032084856","To live like a Moor : Christian perceptions of Muslim identity in medieval and early modern Spain /","Constable, Olivia Remie,",2018,FALSE
+"225","ALDERMAN","DP 000103 .I39  1981","X001034392","Muslim Spain 711-1492 A.D. : a sociological study /","Imamuddin, S. M.",1981,FALSE
+"226","ALDERMAN","DP 000103 .I4","X030125799","A political history of Muslim Spain,","Imamuddin, S. M.",1961,FALSE
+"227","ALDERMAN","DP 000103 .I4  1969","X000769822","A political history of Muslim Spain,","Imamuddin, S. M.",1969,FALSE
+"228","ALDERMAN","DP 000103 .L38  1992","X002194943","The legacy of Muslim Spain /","",1992,FALSE
+"229","ALDERMAN","DP 000103 .L67  2011","X031725361","Orientalismo e ideología colonial en el arabismo español (1840-1917) /","López García, Bernabé.",2011,FALSE
+"230","ALDERMAN","DP 000103 .M55  2008","X030473210","Guardians of Islam : religious authority and Muslim communities of late medieval Spain /","Miller, Kathryn A.",2008,FALSE
+"231","ALDERMAN","DP 000103 .R48  2014","X031657082","Revisiting convivencia in medieval and early modern Iberia /","",2014,FALSE
+"232","ALDERMAN","DP 000103 .S248  2012","X031777596","T?r?kh al-wiz?rah f? al-Andalus, 138-897 H. / 755-1492 M. /","S?marr???, Us?mah ?Abd al-?am?d ?usayn,",2012,FALSE
+"233","ALDERMAN","DP 000103 .T34  1989","X001561767","The Muslim conquest and settlement of North Africa and Spain /","??h?, ?Abd al-W??id Dhann?n.",1989,FALSE
+"234","ALDERMAN","DP 000103 .U52  2005","X004810492","Under the influence : questioning the comparative in medieval Castile /","",2005,FALSE
+"235","ALDERMAN","DP 000104 .A64  2013","X031626610","Parallel histories : Muslims and Jews in inquisitorial Spain /","Amelang, James S.,",2013,FALSE
+"236","ALDERMAN","DP 000104 .B47  2009","X031719816","Los moriscos : conflicto, expulsión y diáspora /","Bernabé Pons, Luis F. (Luis Fernando)",2009,FALSE
+"237","ALDERMAN","DP 000104 .B74","X000046827","The royal treasure : Muslim communities under the Crown of Aragon in the fourteenth century /","Boswell, John,",1977,FALSE
+"238","ALDERMAN","DP 000104 .B87  1989","X031649319","La imagen de los musulmanes y del Norte de Africa en la España de los siglos XVI y XVII : los caracteres de una hostilidad /","Bunes Ibarra, Miguel Angel de.",1989,FALSE
+"239","ALDERMAN","DP 000104 .C38  2009","X030843101","Deportados en nombre de Dios : la expulsión de los moriscos: cuarto centenario de una ignominia /","Carrasco, Rafael,",2009,FALSE
+"240","ALDERMAN","DP 000104 .C45  1983","X000543687","Islam and the West : the Moriscos, a cultural and social history /","Chejne, Anwar G.",1983,FALSE
+"241","ALDERMAN","DP 000104 .D348  2014","X031636547","Tolerance and coexistence in early modern Spain : old Christians and Moriscos in the Campo de Calatrava /","Dadson, Trevor J.",2014,FALSE
+"242","ALDERMAN","DP 000104 .D45  2016","X031797831","De la alquería a la aljama /","",2016,FALSE
+"243","ALDERMAN","DP 000104 .D62  2010","X031650161","Documentos de los moriscos de Ricote y Ojós (1613) /","",2010,FALSE
+"244","ALDERMAN","DP 000104 .D65","X000151129","Historia de los moriscos : vida y tragedia de una minoría /","Domínguez Ortiz, Antonio.",1978,FALSE
+"245","ALDERMAN","DP 000104 .E238  2011","X030843917","The city of the three mosques : Ávila and its Muslims in the Middle Ages /","Echevarria, Ana.",2011,FALSE
+"246","ALDERMAN","DP 000104 .F448  2009","X031717434","En los márgenes de la ciudad de Dios : moriscos en Sevilla /","Fernández, Manuel F. (Fernández Chaves)",2009,FALSE
+"247","ALDERMAN","DP 000104 .G238  2010","X030934074","Una sociedad en transición : los granadinos de mudéjares a moriscos /","Galán Sánchez, Angel.",2010,FALSE
+"248","ALDERMAN","DP 000104 .G3713  2013","X031574250","The Orient in Spain : converted Muslims, the forged Lead books of Granada, and the rise of orientalism /","García-Arenal, Mercedes,",2013,FALSE
+"249","ALDERMAN","DP 000104 .G374  2010","X030831654","Un oriente español : los moriscos y el Sacromonte en tiempos de contrarreforma /","García-Arenal, Mercedes.",2010,FALSE
+"250","ALDERMAN","DP 000104 .H37  2005","X004860079","Muslims in Spain, 1500 to 1614 /","Harvey, L. P. (Leonard Patrick)",2005,FALSE
+"251","ALDERMAN","DP 000104 .I75  2017","X031806138","""Moors dressed as Moors"" : clothing, social distinction, and ethnicity in early modern Iberia /","Irigoyen-García, Javier,",2017,FALSE
+"252","ALDERMAN","DP 000104 .J35  1987","X001504366","Condición social de los Moriscos de España /","Janer, Florencio,",1987,FALSE
+"253","ALDERMAN","DP 000104 .J67  2014","X031659370","Historia e historiografía de la expulsión de los moriscos del Valle de Ricote /","Jornadas Internacionales sobre la Historiografía y las nuevas Líneas de Estudio de los Moriscos del Valle de Ricote",2015,FALSE
+"254","ALDERMAN","DP 000104 .K56  2015","X031731511","Parables of coercion : conversion and knowledge at the end of Islamic Spain /","Kimmel, Seth,",2015,FALSE
+"255","ALDERMAN","DP 000104 .L43  1968","X004698027","The Moriscos of Spain; their conversion and expulsion.","Lea, Henry Charles,",1968,FALSE
+"256","ALDERMAN","DP 000104 .L654  2011","X031725086","El proceso de expulsión de los moriscos de España (1609-1614) /","Lomas Cortés, Manuel.",2011,FALSE
+"257","ALDERMAN","DP 000104 .M327  2010","X030781778","Pedro de Valencia and the Catholic apologists of the expulsion of the Moriscos : visions of Christianity and kingship /","Magnier, Grace.",2010,FALSE
+"258","ALDERMAN","DP 000104 .M34  2004","X031657189","Expulsión y diáspora de los moriscos españoles /","Marañón, Gregorio,",2004,FALSE
+"259","ALDERMAN","DP 000104 .M37  1998","X031758828","El problema morisco : desde otras laderas /","Márquez Villanueva, Francisco.",1998,FALSE
+"260","ALDERMAN","DP 000104 .M67","X000288925","Los Moriscos /","",1975,FALSE
+"261","ALDERMAN","DP 000104 .M6713  2014","X031652628","The expulsion of the Moriscos from Spain : a Mediterranean diaspora /","",2014,FALSE
+"262","ALDERMAN","DP 000104 .M6754  2013","X031719695","Los moriscos : expulsión y diáspora : una perspectiva internacional /","",2013,FALSE
+"263","ALDERMAN","DP 000104 .P475  2005","X004810992","The handless maiden : Moriscos and the politics of religion in early modern Spain /","Perry, Mary Elizabeth,",2005,FALSE
+"264","ALDERMAN","DP 000104 .P49  1991","X002212859","Los moriscos que no se fueron /","Pezzi, Elena,",1991,FALSE
+"265","ALDERMAN","DP 000104 .R38  1991","X002214284","Rebelión y castigo de los moriscos /","Mármol Carvajal, Luis del.",1991,FALSE
+"266","ALDERMAN","DP 000104 .S52  2015  V.000001","X031788629","al-Saf?rd?m wa-al-M?risk?y?n : ri?lat al-tahj?r wa-al-taw??n f? bil?d al-Maghrib, 1492-1756 /","Sh?shiyah, ?us?m al-D?n,",2015,TRUE
+"267","ALDERMAN","DP 000104 .U84  2011","X030396768","Text and concordances of the Compendio de la destruyçion de España of Juan de Useros (Valladolid, Biblioteca del Colegio de Santa Cruz, ms. 335) /","Useros, Juan de.",2011,FALSE
+"268","ALDERMAN","DP 000104 .V35  1997","X004956429","Tratado acerca de los moriscos de España : manuscrito del siglo XVII /","Valencia, Pedro de,",1997,FALSE
+"269","ALDERMAN","DP 000104 .V563  2015","X031738055","El río morisco /","Vincent, Bernard,",2015,FALSE
+"270","ALDERMAN","DP 000104 .Z3918  2006","X030358290","Los moriscos y el racismo de estado : creación, persecución y deportación (1499-1612) /","Zayas, Rodrigo de.",2006,FALSE
+"271","ALDERMAN","DP 000107 .F54  2005","X004767779","?Abd al-Rahm?n III : the first Cordoban Caliph /","Fierro, Ma. Isabel (María Isabel)",2005,FALSE
+"272","ALDERMAN","DP 000107 .G66  2011","X031713181","Año 929 : el año del califa Abd al Rahman III de Córdoba /","González Zymla, Herbert.",2011,FALSE
+"273","ALDERMAN","DP 000107 .G733  2014","X031717442","Las guerras de al-Ándalus : las campañas musulmanas del siglo X : Muez, Osma y Simancas /","Grande del Brío, Ramón.",2014,FALSE
+"274","ALDERMAN","DP 000107 .S24  2000","X004479056","The second Umayyad Caliphate : the articulation of caliphal legitimacy in al-Andalus /","Safran, Janina M.",2000,FALSE
+"275","ALDERMAN","DP 000107 .S33  1994","X002428406","The fall of the caliphate of Córdoba : Berbers and Andalusis in conflict /","Scales, Peter C.",1994,FALSE
+"276","ALDERMAN","DP 000114 .Q23  2005","X030212878","Jih?d al-Muwa??id?n f? bil?d al-Andalus, 541-629 H/1146-1233 M /","Qarq???, Mu?ammar al-H?d? Mu?ammad.",2005,FALSE
+"277","ALDERMAN","DP 000115.8 .I223  B8  2014","X031777925","al-T?r?kh? wa-al-adab? f? kit?b al-I????h f? Akhb?r Gharn??ah li-ibn al-Kha??b /","B?fal?qah, Mu?ammad Sayf al-Isl?m",2014,FALSE
+"278","ALDERMAN","DP 000116 .B67  2013","X031717445","Las sultanas de La Alhambra : las grandes desconocidas del reino nazarí de Granada (siglos XIII-XV) /","Boloix Gallardo, Bárbara,",2013,FALSE
+"279","ALDERMAN","DP 000116 .S4","X000765485","El libro de la Alhambra : historia de los sultanes de Granada /","Seco de Lucena Paredes, Luis.",1975,FALSE
+"280","ALDERMAN","DP 000123 .P74  1995","X002689634","The art of war in Spain : the conquest of Granada, 1481-1492 /","Prescott, William Hickling,",1995,FALSE
+"281","ALDERMAN","DP 000124.8 .Z972  V.000005","X030498338","Anales de la Corona de Aragón,","Zurita, Jerónimo,",1967,TRUE
+"282","ALDERMAN","DP 000125 .C38  2004","X004808127","The victors and the vanquished : Christians and Muslims of Catalonia and Aragon, 1050-1300 /","Catlos, Brian A.",2004,FALSE
+"283","ALDERMAN","DP 000125 .J49  2004","X004741665","Jews, Muslims, and Christians in and around the Crown of Aragon : essays in honour of Professor Elena Lourie /","",2004,FALSE
+"284","ALDERMAN","DP 000128 .B57  1986","X001109335","Medieval crown of Aragon : a short history /","Bisson, Thomas N.",1986,FALSE
+"285","ALDERMAN","DP 000131.3 .S55  2008","X030463718","Power, piety, and patronage in late medieval queenship : Maria de Luna /","Silleras-Fernandez, Nuria.",2008,FALSE
+"286","ALDERMAN","DP 000132 .C66  1973  V.000001","X031869698","IX [i.e. Nono] Congresso di storia della corona d'Aragona, Napoli, 11-15 aprile 1973, sul tema La Corona d'Aragona e il Mediterraneo : aspetti e problemi comuni da Alfonso il Magnanimo a Ferdinando il Cattolico (1416-1516).","Congreso de Historia de la Corona de Aragón",1978,TRUE
+"287","ALDERMAN","DP 000133.1 .E23  2010","X030607604","The King's other body : María of Castile and the crown of Aragon /","Earenfight, Theresa,",2010,FALSE
+"288","ALDERMAN","DP 000133.1 .R93  1990","X001824199","Alfonso the Magnanimous : King of Aragon, Naples, and Sicily, 1396-1458 /","Ryder, A. F. C. (Alan Frederick Charles)",1990,FALSE
+"289","ALDERMAN","DP 000135 .C66  2010","X030950516","Construir la identidad en la Edad Media: poder y memoria en la Castilla de los siglos VII a XV /","",2010,FALSE
+"290","ALDERMAN","DP 000135 .D63  2008","X030472642","The arts of intimacy : Christians, Jews, and Muslims in the making of Castilian culture /","Dodds, Jerrilynn Denise.",2008,FALSE
+"291","ALDERMAN","DP 000137.6 .H5","X001566462","Introduccíon a la Historia silense, con versión castellana de la misma y de la crónica de Sampiro /","",1921,FALSE
+"292","ALDERMAN","DP 000139.5 .M37  2012","X030856839","Berenguela la Grande y su época (1180-1246) /","Martínez, H. Salvador.",2012,FALSE
+"293","ALDERMAN","DP 000139.5 .S53  2009","X030563222","Berenguela of Castile (1180-1246) and political women in the High Middle Ages /","Shadis, Miriam.",2009,FALSE
+"294","ALDERMAN","DP 000140.3 .A55  1990","X001802585","Alfonso X of Castile, the learned king (1221-1284) : an international symposium, Harvard University, 17 November 1984 /","",1990,FALSE
+"295","ALDERMAN","DP 000140.3 .D68  2015","X031735465","The wise king : a Christian prince, Muslim Spain, and the birth of the Renaissance /","Doubleday, Simon R.,",2015,FALSE
+"296","ALDERMAN","DP 000140.3 .E47  1990","X001740856","Emperor of culture : Alfonso X the Learned of Castile and his thirteenth-century Renaissance /","",1990,FALSE
+"297","ALDERMAN","DP 000140.3 .M36  2004","X031789061","El concepto cultural alfonsí /","Márquez Villanueva, Francisco.",2004,FALSE
+"298","ALDERMAN","DP 000140.3 .M36713  2010","X030942341","Alfonso X, the Learned : a biography /","Martínez, H. Salvador.",2010,FALSE
+"299","ALDERMAN","DP 000140.3 .O25  1993","X002310817","The learned king : the reign of Alfonso X of Castile /","O'Callaghan, Joseph F.",1993,FALSE
+"300","ALDERMAN","DP 000140.3 .P65  1951","X006136232","Alfonso X of Castile, patron of literature and learning.","Procter, Evelyn S. (Evelyn Stefanos),",1951,FALSE
+"301","ALDERMAN","DP 000140.6 .C37  2005","X031199454","María de Molina /","Carmona Ruiz, María Antonia.",2005,FALSE
+"302","ALDERMAN","DP 000140.6 .V35  2000","X030959320","María de Molina : el soberano ejercicio de la concordia, 1260-1321 /","Valle Curieses, Rafael del,",2000,FALSE
+"303","ALDERMAN","DP 000142.3 .C76  2013","X031646920","Crónica anónima de Enrique III de Castilla, 1390-1391 /","",2013,FALSE
+"304","ALDERMAN","DP 000142.3 .M574  2004","X031712022","La diplomacia castellana bajo Enrique III : estudio preliminar de la embajada de Ruy González de Clavijo a la corte de Tamerlán /","Montojo Jiménez, Carlos,",2004,FALSE
+"305","ALDERMAN","DP 000142.5 .C75  2006","X030695182","Crónica del halconero de Juan II /","Carrillo de Huete, Pedro,",2006,FALSE
+"306","ALDERMAN","DP 000143 .C7","X000150592","Crónica incompleta de los reyes católicos (1469-1476) según un manuscrito anónimo de la época.","",1934,FALSE
+"307","ALDERMAN","DP 000143.6 .A7313  2005","X004877005","Juana the Mad : sovereignty and dynasty in Renaissance Europe /","Aram, Bethany.",2005,FALSE
+"308","ALDERMAN","DP 000143.6 .D63  2006","X030371052","Documentos de Juana I (1511-1516) /","",2006,FALSE
+"309","ALDERMAN","DP 000143.6 .D66  2006","X030274332","Doña Juana, Reina de Castilla /","",2006,FALSE
+"310","ALDERMAN","DP 000143.6 .S46  2006","X030273643","Juana I de Castilla, 1504-1555 : de su reclusión en Tordesillas al olvido de la historia ; I Simposio Internacional sobre la Reina Juana I de Castilla, Tordesillas (Valladolid), 23 y 24 de noviembre de 2005 /","Simposio Internacional sobre la Reina Juana I de Castilla.",2006,FALSE
+"311","ALDERMAN","DP 000147 .P67  2017","X031815216","The village world of early medieval northern Spain : local community and the land market /","Portass, Robert,",2017,FALSE
+"312","ALDERMAN","DP 000154 .A8  V.000002","X031916371","Los orígenes del Reino de Navarra (710-925) /","Arbeloa, Joaquín.",1969,TRUE
+"313","ALDERMAN","DP 000161 .B47  2007","X030337766","Monarquía e imperio /","Bernal, Antonio-Miguel.",2007,FALSE
+"314","ALDERMAN","DP 000161 .D6  1973","X031768358","El antiguo régimen: los reyes católicos y los Austrias /","Domínguez Ortiz, Antonio.",1973,FALSE
+"315","ALDERMAN","DP 000161 .K35  1983","X000617095","Spain, 1469-1714 : a society of conflict /","Kamen, Henry.",1983,FALSE
+"316","ALDERMAN","DP 000161 .K35  1991","X004340516","Spain, 1469-1714 : a society of conflict /","Kamen, Henry.",1991,FALSE
+"317","ALDERMAN","DP 000161 .K352  2002","X004652325","Spain's road to empire : the making of a world power, 1492-1763 /","Kamen, Henry.",2002,FALSE
+"318","CLEMONS","DP 000161 .K36  2003","X004634271","Empire : how Spain became a world power, 1492-1763 /","Kamen, Henry.",2003,FALSE
+"319","ALDERMAN","DP 000161 .R34  1996","X006038133","Las relaciones de sucesos en España [1500-1750] : Actas del primer Coloquio Internacional [Alcalá de Henares, 8, 9 y 10 de junio de 1995] /","",1996,FALSE
+"320","ALDERMAN","DP 000161 .S63  1995","X002664246","Spain, Europe, and the Atlantic world : essays in honour of John H. Elliott /","",1995,FALSE
+"321","ALDERMAN","DP 000161 .T56  2003","X004734453","Rivers of gold : the rise of the Spanish Empire /","Thomas, Hugh,",2003,FALSE
+"322","ALDERMAN","DP 000161.5 .E27  2003","X004706007","Early modern Spain : a documentary history /","",2003,FALSE
+"323","ALDERMAN","DP 000162 .A53  2006","X030197369","Andalucía y Granada en tiempos de los Reyes Católicos /","",2006,FALSE
+"324","ALDERMAN","DP 000162 .D3  1937","X000413675","The golden century of Spain, 1501-1621,","Davies, R. Trevor (Reginald Trevor)",1937,FALSE
+"325","ALDERMAN","DP 000162 .F47  1975","X000282134","Ferdinand and Isabella /","Fernández-Armesto, Felipe.",1975,FALSE
+"326","ALDERMAN","DP 000162 .K35  2004","X004859472","Golden Age Spain /","Kamen, Henry.",2004,FALSE
+"327","ALDERMAN","DP 000162 .L33  2005","X030149546","La España de los Reyes Católicos /","Ladero Quesada, Miguel Ángel",2005,FALSE
+"328","ALDERMAN","DP 000163 .D69  2014","X031716010","Isabella : the warrior queen /","Downey, Kirstin.",2014,FALSE
+"329","ALDERMAN","DP 000163 .G3","X000701361","Virtudes de la reina católica.","García y García de Castro, Rafael,",1961,FALSE
+"330","ALDERMAN","DP 000163 .G836  2011","X030819198","Legitimizing the queen : propaganda and ideology in the reign of Isabel I of Castile /","Guardiola-Griffiths, Cristina,",2011,FALSE
+"331","CLEMONS","DP 000163 .L48  1992","X002186051","Isabel the Queen : life and times /","Liss, Peggy K.",1992,FALSE
+"332","ALDERMAN","DP 000163 .L48  2004","X004811112","Isabel the Queen : life and times /","Liss, Peggy K.",2004,FALSE
+"333","ALDERMAN","DP 000163 .Q44  2008","X030463067","Queen Isabel I of Castile : power, patronage, persona /","",2008,FALSE
+"334","ALDERMAN","DP 000163 .Q47  2012","X032209923","Isabel de Castilla : reina, mujer y madre /","Queralt, María Pilar.",2012,FALSE
+"335","ALDERMAN","DP 000163 .R62","X000769941","Artículos del postulador ... sobre la fama de santidad, vida y virtudes de la sierva de Dios Isabel I, Reina de Castilla, que propone el postulador.","Rodríguez Valencia, Vicente.",1972,FALSE
+"336","ALDERMAN","DP 000163 .S83  1992","X002229638","Isabel, mujer y reina /","Suárez Fernández, Luis.",1992,FALSE
+"337","ALDERMAN","DP 000163 .T3","X001130973","Isabel la Católica;","Tarsicio, de Azcona,",1964,FALSE
+"338","ALDERMAN","DP 000163.5 .K36  2015","X032576788","Fernando el Católico : 1451-1516 : vida y mitos de uno de los fundadores de la España moderna /","Kamen, Henry.",2015,FALSE
+"339","ALDERMAN","DP 000163.5 .S83  2013","X031719687","Fernando el Católico /","Suárez Fernández, Luis.",2013,FALSE
+"340","ALDERMAN","DP 000163.5 .S925  1989","X001824519","La conquista del trono : los Reyes Católicos /","Suárez Fernández, Luis.",1989,FALSE
+"341","ALDERMAN","DP 000164 .A59  2011","X030934139","Los judeoconversos en la cultura y sociedad españolas /","Alcalá, Angel.",2011,FALSE
+"342","ALDERMAN","DP 000164 .E37  2005","X004839427","Ferdinand and Isabella /","Edwards, John,",2005,FALSE
+"343","ALDERMAN","DP 000164 .I84  2004","X004956606","Isabel la Católica : la magnificencia de un reinado : quinto centenario de Isabel la Católica, 1504-2004.","",2004,FALSE
+"344","ALDERMAN","DP 000166 .X5  G286  2005","X030121953","Cisneros : un cardenal reformista en el trono de España (1436-1517) /","García Oro, José.",2005,TRUE
+"345","ALDERMAN","DP 000166 .X5  R86  1999","X004443452","Jiménez de Cisneros : on the threshold of Spain's Golden Age /","Rummel, Erika,",1999,TRUE
+"346","ALDERMAN","DP 000166 .Z86  B37  2014","X031712027","Mujer, poder y linaje en la Baja Edad Media : una biografía de Leonor Pimentel.","Barco Cebrián, Lorena.",2014,FALSE
+"347","ALDERMAN","DP 000170.8 .C37  2012","X031717130","Dos destinos trágicos en paralelo : los moriscos de España y los indios de América /","Cardaillac, Louis.",2012,FALSE
+"348","ALDERMAN","DP 000171 .B465  2006","X030036930","La monarquía española de los Austrias : conceptos, poders y expresiones sociales /","Bennassar, Bartolomé,",2006,FALSE
+"349","ALDERMAN","DP 000171 .C664  2002","X004956602","La Monarquía Hispánica en Tiempos del Quijote /","Congreso ""La Monarquía Hispánica en Tiempos del Quijote""",2005,FALSE
+"350","ALDERMAN","DP 000171 .D6513","X000116462","The golden age of Spain, 1516-1659.","Domínguez Ortiz, Antonio.",1971,FALSE
+"351","ALDERMAN","DP 000171 .E36  2017","X031760691","The early modern Hispanic world : transnational and interdisciplinary approaches /","",2017,FALSE
+"352","ALDERMAN","DP 000171 .E4  1963","X030279905","Imperial Spain, 1469-1716 /","Elliott, J. H. (John Huxtable)",1963,FALSE
+"353","ALDERMAN","DP 000171 .E4  1964","X000109461","Imperial Spain, 1469-1716.","Elliott, J. H. (John Huxtable)",1964,FALSE
+"354","ALDERMAN","DP 000171 .E4  2002","X004624405","Imperial Spain 1469-1716 /","Elliott, J. H. (John Huxtable)",2002,FALSE
+"355","ALDERMAN","DP 000171 .E42  1989","X002187358","Spain and its world, 1500-1700 : selected essays /","Elliott, J. H. (John Huxtable)",1989,FALSE
+"356","ALDERMAN","DP 000171 .E423  2009","X030770276","Spain, Europe & the wider world, 1500-1800 /","Elliott, J. H. (John Huxtable)",2009,FALSE
+"357","ALDERMAN","DP 000171 .E77  2014","X031712600","España y Portugal en el mundo, 1581-1668 /","",2014,FALSE
+"358","ALDERMAN","DP 000171 .F448  2009","X030687192","La crisis de la Monarquía /","Fernández Albaladejo, Pablo,",2009,FALSE
+"359","ALDERMAN","DP 000171 .K363  2012","X032576787","El rey loco y otro misterios de la España imperial /","Kamen, Henry.",2012,FALSE
+"360","CLEMONS","DP 000171 .L9  1964  V.000002","X000103539","Spain under the Habsburgs.","Lynch, John,",1964,TRUE
+"361","ALDERMAN","DP 000171 .L92  1981  V.000002","X000536717","Spain under the Habsburgs /","Lynch, John,",1981,TRUE
+"362","ALDERMAN","DP 000171 .M25  2009","X030278021","The rise and fall of the Spanish empire /","Maltby, William S.,",2009,FALSE
+"363","ALDERMAN","DP 000171 .P65  2012","X030609499","Polycentric monarchies : how did early modern Spain and Portugal achieve and maintain a global hegemony? /","",2012,FALSE
+"364","ALDERMAN","DP 000171 .P87  2011","X030951208","La pureté de sang en Espagne : du lignage à la race /","",2011,FALSE
+"365","ALDERMAN","DP 000171 .R44  2006","X030139460","Rhetoric and reality in early modern Spain /","",2006,FALSE
+"366","ALDERMAN","DP 000171 .R86  2007","X030498676","Los siglos XVI-XVII : política y sociedad /","Ruiz Ibáñez, José Javier.",2007,FALSE
+"367","ALDERMAN","DP 000171 .S7","X000324277","Europe and the decline of Spain : a study of the Spanish system, 1580-1720 /","Stradling, R. A.",1981,FALSE
+"368","ALDERMAN","DP 000171 .Y53  1994","X002597605","Humanismo y renacimiento en España /","Ynduráin, Domingo.",1994,FALSE
+"369","ALDERMAN","DP 000171.5 .C678  2016","X031848624","La Corte del Barroco : textos literarios, avisos, manuales de corte, etiqueta y oratoria /","",2016,FALSE
+"370","ALDERMAN","DP 000171.5 .F47  1983","X000822992","La sociedad española en el siglo de Oro /","Fernández Álvarez, Manuel,",1983,FALSE
+"371","ALDERMAN","DP 000171.5 .F559  2005","X030006232","Pasiones frías : secreto y disimulación en el Barroco hispano /","Flor, Fernando R. de la,",2005,FALSE
+"372","ALDERMAN","DP 000171.5 .F56  2007","X030204422","Era melancólica : figuras del imaginario barroco /","Flor, Fernando R. de la,",2007,FALSE
+"373","ALDERMAN","DP 000171.5 .H54  2000","X004214837","The mirror of Spain, 1500-1700 : the formation of a myth /","Hillgarth, J. N.",2000,FALSE
+"374","ALDERMAN","DP 000171.5 .M37","X000680607","La cultura del barroco : análisis de una estructura histórica /","Maravall, José Antonio.",1975,FALSE
+"375","ALDERMAN","DP 000171.5 .M3713  1986B","X001186488","Culture of the baroque : analysis of a historical structure /","Maravall, José Antonio.",1986,FALSE
+"376","ALDERMAN","DP 000171.5 .P47  2002","X030568752","Construyendo la modernidad : la cultura española en el tiempo de Los Novatores [1675-1725] /","Pérez Magallón, Jesús,",2002,FALSE
+"377","ALDERMAN","DP 000171.5 .R63  2007","X030151660","Arts of perception : the epistemological mentality of the Spanish Baroque, 1580-1720 /","Robbins, Jeremy,",2007,FALSE
+"378","ALDERMAN","DP 000171.5 .S55  2013","X031614007","Signs of power in Habsburg Spain and the New World /","",2013,FALSE
+"379","ALDERMAN","DP 000172 .L95  1992","X002117665","Spain, 1516-1598 : from nation state to world empire /","Lynch, John,",1992,FALSE
+"380","ALDERMAN","DP 000172 .M3  1960","X000790343","Carlos v y el pensamiento político del Renacimiento.","Maravall, José Antonio.",1960,FALSE
+"381","ALDERMAN","DP 000174 .V28  1999","X004306922","Diálogo de Mercurio y Carón /","Valdés, Alfonso de,",1999,FALSE
+"382","ALDERMAN","DP 000174 .V2813  1986","X001080305","Dialogue of Mercury and Charon : English translation of Diálogo de Mercurio y Carón /","Valdés, Alfonso de,",1986,FALSE
+"383","ALDERMAN","DP 000178 .K36  1997","X004104796","Philip of Spain /","Kamen, Henry.",1997,FALSE
+"384","ALDERMAN","DP 000178 .P367  2014","X031654433","Imprudent king : a new life of Philip II /","Parker, Geoffrey,",2014,FALSE
+"385","ALDERMAN","DP 000178 .P37  1979","X000072921","Philip II /","Parker, Geoffrey,",1979,FALSE
+"386","ALDERMAN","DP 000178 .P37  2002","X004631824","Philip II /","Parker, Geoffrey,",2002,FALSE
+"387","CLEMONS","DP 000179 .P39  1998","X004187754","The grand strategy of Philip II /","Parker, Geoffrey,",1998,FALSE
+"388","ALDERMAN","DP 000179 .V35  2001","X030517224","Castilla y Portugal en Asia, 1580-1680 : declive imperial y adaptación /","Valladares, Rafael.",2001,FALSE
+"389","ALDERMAN","DP 000181 .E2  D33  2013","X031649576","Epistolario e historia documental de Ana de Mendoza y de la Cerda, princesa de Éboli /","Dadson, Trevor J.",2013,TRUE
+"390","ALDERMAN","DP 000182 .C33  1997","X004454123","Relaciones de las cosas sucedidas en la Corte de España desde 1599 hasta 1614 /","Cabrera de Córdoba, Luis,",1997,FALSE
+"391","ALDERMAN","DP 000182 .L96  1992","X002119129","The Hispanic world in crisis and change, 1598-1700 /","Lynch, John,",1992,FALSE
+"392","ALDERMAN","DP 000183 .A45  2000","X004394901","Philip III and the Pax Hispanica, 1598-1621 : the failure of grand strategy /","Allen, Paul C.,",2000,FALSE
+"393","ALDERMAN","DP 000183 .F47  2000","X004438114","Kingship and favoritism in the Spain of Philip III, 1598-1621 /","Feros, Antonio.",2000,FALSE
+"394","ALDERMAN","DP 000183 .S25  2001","X004569354","Spanische Universalmonarchie oder 'teutsche Libertet : das spanische Imperium in der Propaganda des Dreissigjährigen Krieges /","Schmidt, Peer.",2001,FALSE
+"395","ALDERMAN","DP 000183.9 .C6  A29  1988","X031648753","Discurso de mi vida /","Contreras, Alonso de,",1988,FALSE
+"396","ALDERMAN","DP 000184 .F45  2005","X030036928","Felipe IV : el hombre y el reinado /","",2005,FALSE
+"397","ALDERMAN","DP 000184 .S77  1988","X001297773","Philip IV and the government of Spain, 1621-1665 /","Stradling, R. A.",1988,FALSE
+"398","ALDERMAN","DP 000185 .A4","X000701375","España, Flandes y el Mar del Norte (1618-1639) : la última ofensiva europea de los Austrias madrileños /","Alcalá-Zamora y Queipo de Llano, José.",1975,FALSE
+"399","ALDERMAN","DP 000185 .G84  2007","X030255599","Warnings to the kings and advice on restoring Spain /","Guevara, María de,",2007,FALSE
+"400","ALDERMAN","DP 000185 .P385  2002  V.000001","X031579612","Avisos : 17 de mayo de 1639-29 de noviembre de 1644 /","Pellicer de Touar, Joseph,",2002,TRUE
+"401","ALDERMAN","DP 000185.9 .M37  O44  2006","X030273642","Mariana de Austria : imagen, poder y diplomacia de una reina cortesana /","Oliván Santaliestra, Laura.",2006,FALSE
+"402","ALDERMAN","DP 000185.9 .O6  A2  1978  V.000002","X000354835","Memoriales y cartas del Conde duque de Olivares /","Olivares, Gaspar de Guzmán,",1978,TRUE
+"403","CLEMONS","DP 000185.9 .O6  E45  1986","X001275559","The Count-Duke of Olivares : the statesman in an age of decline /","Elliott, J. H. (John Huxtable)",1986,FALSE
+"404","ALDERMAN","DP 000185.9 .O6  H57  1992","X002436818","Historia de la caída del Conde-Duque de Olivares : manuscrito del siglo XVII /","",1992,FALSE
+"405","ALDERMAN","DP 000186 .K35","X000155156","Spain in the later seventeenth century, 1665-1700 /","Kamen, Henry.",1980,FALSE
+"406","ALDERMAN","DP 000186 .S74  2007","X031611348","Histoire d'Espagne, depuis la révolte du 28 avril 1699 jusqu'au testament du 2 octobre 1700 /","Stendhal,",2007,FALSE
+"407","ALDERMAN","DP 000192 .B47  1974","X000330043","The Spanish Bourbons : the history of a tenacious dynasty /","Bergamini, John D.",1974,FALSE
+"408","ALDERMAN","DP 000192 .B67  2001","X004824792","Los Borbones : dinastía y memoria de nación en la España del siglo XVIII : actas del coloquio internacional celebrado en Madrid, mayo de 2000 /","",2001,FALSE
+"409","ALDERMAN","DP 000192 .F36  2006","X030357782","Fénix de España : modernidad y cultura propia en la España del Siglo XVIII (1737-1766) /","",2006,FALSE
+"410","ALDERMAN","DP 000192 .H4  1958","X000122117","The eighteenth-century revolution in Spain.","Herr, Richard.",1958,FALSE
+"411","ALDERMAN","DP 000192 .K84  2014","X031650690","The Spanish Atlantic world in the eighteenth century : war and the Bourbon reforms, 1713-1796 /","Kuethe, Allan J.,",2014,FALSE
+"412","ALDERMAN","DP 000192 .L96  1989","X002626700","Bourbon Spain, 1700-1808 /","Lynch, John,",1989,FALSE
+"413","ALDERMAN","DP 000192 .M43  2009","X031744544","Espejo de sombras : sujeto y multitud en la España del siglo XVIII /","Medina González, Alberto,",2009,FALSE
+"414","ALDERMAN","DP 000192 .N33  2006","X030570312","Nación y constitución : de la Ilustración al liberalismo /","",2006,FALSE
+"415","ALDERMAN","DP 000192 .R53  2017","X031809524","Who should rule? : men of arms, the republic of letters, and the fall of the Spanish Empire /","Ricketts, Mónica,",2017,FALSE
+"416","ALDERMAN","DP 000192 .R56  1996","X002759739","Spain, Europe and the ""Spanish miracle,"" 1700-1900 /","Ringrose, David R.",1996,FALSE
+"417","ALDERMAN","DP 000192.5 .G45  2006","X030198341","Tertulia : Literatur und Soziabilität im Spanien des 18. und 19. Jahrhunderts /","Gelz, Andreas.",2006,FALSE
+"418","ALDERMAN","DP 000192.5 .I48  1986","X001616527","La Ilustración española : actas del Coloquio Internacional celebrado en Alicante, 1-4 octubre 1985 /","",1986,FALSE
+"419","ALDERMAN","DP 000192.5 .S35  1991","X002141831","Europa y el pensamiento espanol del siglo XVIII /","Sánchez-Blanco, Francisco.",1991,FALSE
+"420","ALDERMAN","DP 000194 .S76  2016","X031792777","The Spanish resurgence, 1713-1748 /","Storrs, Christopher,",2016,FALSE
+"421","ALDERMAN","DP 000196 .K3  1969","X000225290","The War of Succession in Spain, 1700-15","Kamen, Henry.",1969,FALSE
+"422","ALDERMAN","DP 000198 .L36  1972","X031767623","Diálogos de Chindulza : (sobre el estado de la cultura española en el reinado de Fernado VI) /","Lanz de Casafonda, Manuel,",1972,FALSE
+"423","ALDERMAN","DP 000199 .C24  2013","X031713130","Cuando manden los que obedecen : la clase política e intelectual de la España preliberal (1780-1808) /","Calvo Maturana, Antonio Juan.",2013,FALSE
+"424","ALDERMAN","DP 000199 .C28  1988  V.000002","X002634798","Carlos III y la Ilustración.","",1988,TRUE
+"425","ALDERMAN","DP 000199 .M27","X000371528","La España posible en tiempo de Carlos III","Marías, Julián,",1963,FALSE
+"426","ALDERMAN","DP 000199 .P48","X000330042","King Charles III of Spain; an enlightened despot","Petrie, Charles,",1971,FALSE
+"427","ALDERMAN","DP 000199.3 .D64  1988","X001879214","Carlos III y la España de la Ilustración /","Domínguez Ortiz, Antonio.",1988,FALSE
+"428","ALDERMAN","DP 000199.3 .S24  2002","X030861101","El absolutismo y las Luces en el reinado de Carlos III /","Sánchez-Blanco, Francisco.",2002,FALSE
+"429","ALDERMAN","DP 000199.3 .S26  1994","X031230347","El final del Tratado de Tordesillas : la expedición del virrey Cevallos al Río de la Plata /","Sanz Tapia, Angel.",1994,FALSE
+"430","ALDERMAN","DP 000200 .S38  2004","X004879522","Se hicieron literatos para ser políticos : cultura y política en la España de Carlos IV y Fernando VII /","",2004,FALSE
+"431","ALDERMAN","DP 000202 .M5  A3  1990","X001958805","Souvenirs et mémoires de Madame la Comtesse Merlin : souvenirs d'une Créole /","Merlin, María de las Mercedes Santa Cruz y Montalvo,",1990,FALSE
+"432","ALDERMAN","DP 000202 .M5  G37  2014","X031657072","La Belle Créole : the Cuban countess who captivated Havana, Madrid, and Paris /","García-Lapuerta, Alina.",2014,TRUE
+"433","ALDERMAN","DP 000202 .P7  D66  2016","X031842454","Prim, un destino manifiesto /","Donézar Díez de Ulzurrun, Javier María,",2016,TRUE
+"434","ALDERMAN","DP 000203 .A48  2001","X030557891","Mater Dolorosa : la idea de España en el siglo XIX /","Alvarez Junco, José,",2001,FALSE
+"435","ALDERMAN","DP 000203 .A482  2011","X030947685","Spanish identity in the age of nations /","Alvarez Junco, José,",2011,FALSE
+"436","ALDERMAN","DP 000203 .C3  1966","X000279509","Spain: 1808-1939.","Carr, Raymond.",1966,FALSE
+"437","ALDERMAN","DP 000203 .C3  1982","X000491369","Spain, 1808-1975 /","Carr, Raymond.",1982,FALSE
+"438","ALDERMAN","DP 000203 .C37  2013","X031783483","España a través de la fotografía, 1839-2010 /","Castellote, Alejandro",2013,FALSE
+"439","ALDERMAN","DP 000203 .C612  1989","X001924075","Historia breve de España contemporánea /","Comellas, José Luis.",1989,FALSE
+"440","ALDERMAN","DP 000203 .E37  2012","X030948350","Preaching Spanish nationalism across the Hispanic Atlantic, 1759-1823 /","Eastman, Scott,",2012,FALSE
+"441","ALDERMAN","DP 000203 .E83  2000","X006121494","Spain in the liberal age : from Constitution to Civil War, 1808-1939 /","Esdaile, Charles J.",2000,FALSE
+"442","ALDERMAN","DP 000203 .E844  2010  V.000001","X031783484","España /","",2010,TRUE
+"443","ALDERMAN","DP 000203 .F53","X031900415","Los delitos políticos (1808-1936) /","Fiestas Loza, Alicia.",1977,FALSE
+"444","ALDERMAN","DP 000203 .H59  2018","X031839798","The history of modern Spain : chronologies, themes, individuals /","",2018,FALSE
+"445","ALDERMAN","DP 000203 .J85  2015","X031842497","Historias de las dos Españas /","Juliá, Santos,",2015,FALSE
+"446","ALDERMAN","DP 000203 .S62  2000","X004412872","Spanish history since 1808 /","",2000,FALSE
+"447","ALDERMAN","DP 000203 .T86  1981  V.000001","X000599568","La España del siglo XIX /","Tuñón de Lara, Manuel.",1981,TRUE
+"448","ALDERMAN","DP 000203 .V5218  2012","X032209002","España contemporánea (1814-1953) /","Vicens Vives, Jaime.",2012,FALSE
+"449","ALDERMAN","DP 000203 .V54","X000463152","Burguesía y cultura : los intelectuales españoles en la sociedad liberal, 1808-1931 /","Villacorta Baños, Francisco.",1980,FALSE
+"450","ALDERMAN","DP 000203 .V57  2008","X031738009","Visiones del liberalismo : política, identidad y cultura en la España del siglo XIX /","",2008,FALSE
+"451","ALDERMAN","DP 000203.5 .M638  2017","X031838877","Modernity and epistemology in nineteenth-century Spain : fringe discourses /","",2017,FALSE
+"452","ALDERMAN","DP 000203.5 .R35","X000307455","The 1898 movement in Spain : towards a reinterpretation with special reference to En torno al casticismo and Idearium español /","Ramsden, H. (Herbert)",1974,FALSE
+"453","ALDERMAN","DP 000203.5 .V58  2005","X004900929","Visualizing Spanish modernity /","",2005,FALSE
+"454","ALDERMAN","DP 000205 .C74  2014","X032404838","La creación de las culturas políticas modernas, 1808-1833 /","",2014,FALSE
+"455","ALDERMAN","DP 000205 .H38  2019","X032583644","A great fear : Luís de Onís and the shadow war against Napoleon in Spanish America, 1808-1812 /","Hawkins, Timothy,",2019,FALSE
+"456","ALDERMAN","DP 000208 .F73  2008","X030258023","Napoleon's cursed war : Spanish popular resistance in the Peninsular War, 1808-1814 /","Fraser, Ronald,",2008,FALSE
+"457","ALDERMAN","DP 000208 .P58  2010","X031717440","Bicentenarios de libertad : la fragua de la política en España y las Américas /","Piqueras Arenas, José A. (José Antonio),",2010,FALSE
+"458","ALDERMAN","DP 000214.5 .F84  2014","X031650324","Amazonas de la libertad : mujeres liberales contra Fernando VII /","Fuentes, Juan Francisco.",2014,FALSE
+"459","ALDERMAN","DP 000216 .P57  1991","X031642214","Agiotistas, negreros y partisanos : dialéctica social en vísperas de la Revolución Gloriosa /","Piqueras Arenas, José A. (José Antonio),",1991,FALSE
+"460","ALDERMAN","DP 000217 .E86  2014","X032114648","La España liberal, 1833-1874 /","",2014,FALSE
+"461","ALDERMAN","DP 000218 .R64  1984","X000881188","El exilio carlista en la España del XIX : carlistas y ""demócratas"" revolucionarios /","Rodríguez-Moñino Soriano, Rafael.",1984,FALSE
+"462","ALDERMAN","DP 000222 .R47  2015","X032114649","La Restauración y la República, 1874-1936 /","",2015,FALSE
+"463","ALDERMAN","DP 000233 .A5813","X000065998","Transition in Spain : from Franco to democracy /","Alba, Víctor.",1978,FALSE
+"464","ALDERMAN","DP 000233 .B5513","X000316411","Franco and the politics of Spain /","Blaye, Edouard de,",1976,FALSE
+"465","ALDERMAN","DP 000233 .B7  1943","X000193006","The Spanish labyrinth, an account of the social and political background of the civil war,","Brenan, Gerald.",1943,FALSE
+"466","ALDERMAN","DP 000233 .C37","X000324337","Modern Spain, 1875-1980 /","Carr, Raymond.",1980,FALSE
+"467","CLEMONS","DP 000233 .C3718  1991","X006025491","España de la restauración a la democracia, 1875-1980 /","Carr, Raymond.",1991,FALSE
+"468","ALDERMAN","DP 000233 .C3813  2014","X031650768","Twentieth-century Spain : a history /","Casanova, Julián,",2014,FALSE
+"469","ALDERMAN","DP 000233 .D53  2008","X030522391","Diccionario político y social del siglo XX español /","",2008,FALSE
+"470","ALDERMAN","DP 000233 .E873  2007","X032209038","La España del siglo XX /","",2007,FALSE
+"471","ALDERMAN","DP 000233 .G3","X000182777","Las relaciones secretas entre Franco y Hitler.","Garriga Boixader, Ramon.",1965,FALSE
+"472","ALDERMAN","DP 000233 .J855  2017","X032114724","Transición : historia de una política española (1937-2017) /","Juliá, Santos,",2017,FALSE
+"473","ALDERMAN","DP 000233 .M48  2017","X031825337","Metaphors of Spain : representations of Spanish national identity in the twentieth century /","",2017,FALSE
+"474","ALDERMAN","DP 000233 .M59  2003","X004706010","Modern Spain : a documentary history /","",2003,FALSE
+"475","ALDERMAN","DP 000233 .P58","X000065457","Politics and society in twentieth-century Spain /","",1976,FALSE
+"476","ALDERMAN","DP 000233 .P682  2017","X031846759","España en la guerra civil europea : contribuciones de un hispanista /","Preston, Paul,",2017,FALSE
+"477","ALDERMAN","DP 000233 .P683  1990","X002014836","The politics of revenge : fascism and the military in twentieth-century Spain /","Preston, Paul,",1990,FALSE
+"478","ALDERMAN","DP 000233 .R425  2006","X031642206","República y republicanas en España /","",2006,FALSE
+"479","ALDERMAN","DP 000233 .S26  2009","X030466871","Republicanism and anticlerical nationalism in Spain /","Sanabria, Enrique A.",2009,FALSE
+"480","ALDERMAN","DP 000233 .S64  1999","X006027299","Spain and the great powers in the twentieth century /","",1999,FALSE
+"481","ALDERMAN","DP 000233 .V56  2007","X030278660","Spain 1833-2002 : people and state /","Vincent, Mary.",2007,FALSE
+"482","ALDERMAN","DP 000233.5 .A46  2014","X031782764","America, the beautiful : la presencia de Estados Unidos en la cultura española contemporánea /","",2014,FALSE
+"483","ALDERMAN","DP 000233.5 .C67  2002","X004635361","Constructing identity in contemporary Spain : theoretical debates and cultural practice /","",2002,FALSE
+"484","ALDERMAN","DP 000233.5 .C84","X000046782","La Cultura bajo el franquismo /","",1977,FALSE
+"485","ALDERMAN","DP 000233.5 .E65  1977","X000056782","La cultura española durante el franquismo /","Equipo ""Reseña"".",1977,FALSE
+"486","ALDERMAN","DP 000233.5 .E86  1991  T.000001","X002158451","España hoy /","",1991,TRUE
+"487","ALDERMAN","DP 000233.5 .F692  1988","X001878825","Ideología y política en las letras de fin de siglo (1898) /","Fox, E. Inman (Edward Inman),",1988,FALSE
+"488","ALDERMAN","DP 000233.5 .F753  2010","X030969453","Encounters with Bergson(ism) in Spain : reconciling philosophy, literature, film and urban space /","Fraser, Benjamin.",2010,FALSE
+"489","ALDERMAN","DP 000233.5 .G52  1992","X002119605","Fire in the blood : the new Spain /","Gibson, Ian.",1992,FALSE
+"490","ALDERMAN","DP 000233.5 .G72  2010","X031649740","A la intemperie : exilio y cultura en España /","Gracia García, Jordi,",2010,FALSE
+"491","ALDERMAN","DP 000233.5 .H64  2002","X004636599","Creating Spaniards : culture and national identity in Republican Spain /","Holguin, Sandie Eleanor.",2002,FALSE
+"492","ALDERMAN","DP 000233.5 .L33  2017","X032114653","Culpables por la literatura : imaginación política y contracultura en la transición española (1968-1986) /","Labrador Méndez, Germán,",2017,FALSE
+"493","ALDERMAN","DP 000233.5 .M67  2014","X031716320","El cura y los mandarines : (Historia no oficial del Bosque de los Letrados) : Cultura y política en España, 1962-1992 /","Morán, Gregorio,",2014,FALSE
+"494","ALDERMAN","DP 000233.5 .R48  2017","X031840033","The ghost in the constitution : historical memory and denial in Spanish society /","Resina, Joan Ramon",2017,FALSE
+"495","ALDERMAN","DP 000233.5 .S25  1991","X002142023","España en blanco y negro /","Sánchez Vigil, Juan Miguel,",1991,FALSE
+"496","ALDERMAN","DP 000233.5 .S46  2013","X031650029","Ser españoles : imaginarios nacionalistas en el siglo XX /","",2013,FALSE
+"497","ALDERMAN","DP 000233.5 .S56  2009","X030614034","Trafficking knowledge in early twentieth-century Spain : centres of exchange and cultural imaginaries /","Sinclair, Alison,",2009,FALSE
+"498","ALDERMAN","DP 000233.5 .S65  2000","X006118369","The moderns : time, space, and subjectivity in contemporary Spanish culture /","Smith, Paul Julian.",2000,FALSE
+"499","ALDERMAN","DP 000233.5 .S7  1995","X002685423","Spanish cultural studies : an introduction : the struggle for modernity /","",1995,FALSE
+"500","ALDERMAN","DP 000233.5 .T67  2004","X004913298","España exótica : la formación de la imagen española moderna /","Torrecilla, Jesús,",2004,FALSE
+"501","ALDERMAN","DP 000233.5 .T68  2014","X031627813","Toward a cultural archive of La Movida : back to the future /","",2014,FALSE
+"502","ALDERMAN","DP 000233.5 .T74  2006","X030107631","Ghosts of Spain : travels through a country's hidden past /","Tremlett, Giles.",2006,FALSE
+"503","CLEMONS","DP 000233.5 .T74  2007","X030199908","Ghosts of Spain : travels through Spain and its silent past /","Tremlett, Giles.",2007,FALSE
+"504","ALDERMAN","DP 000233.5 .V55  1998","X004262063","El mono del desencanto : una crítica cultural de la transición española, 1973-1993 /","Vilarós, Teresa M.",1998,FALSE
+"505","ALDERMAN","DP 000233.8 .T73  2013","X031713258","Trayectorias trasatlánticas (siglo XX) : personajes y redes entre España y América /","",2013,FALSE
+"506","ALDERMAN","DP 000236 .B25  A3  2011","X030975934","Jerusalem in World War I : the Palestine diary of a European diplomat /","Ballobar, Antonio de la Cierva Lewita,",2011,FALSE
+"507","ALDERMAN","DP 000243 .M596  2012","X031618421","Modernizing the nation : Spain during the reign of Alfonso XIII, 1902-1931 /","Moreno Luzón, Javier.",2012,FALSE
+"508","ALDERMAN","DP 000243 .P39  1999","X004406029","Fascism in Spain, 1923-1977 /","Payne, Stanley G.",1999,FALSE
+"509","ALDERMAN","DP 000245 .S6  2000","X004435324","Spain's 1898 crisis : regenerationism, modernism, post-colonialism /","",2000,FALSE
+"510","ALDERMAN","DP 000245 .W35  2008","X030395546","Spanish women and the colonial wars of the 1890s /","Walker, D. J. R. (Donald James Riddell),",2008,FALSE
+"511","ALDERMAN","DP 000247 .A83  2016","X031758021","Avant-garde cultural practices in Spain (1914-1936) : the challenge of modernity /","",2016,FALSE
+"512","ALDERMAN","DP 000254 .C32713  2010","X030241312","The Spanish Republic and Civil War /","Casanova, Julián.",2010,FALSE
+"513","ALDERMAN","DP 000254 .C373  2007","X030506264","República y guerra civil /","Casanova, Julián.",2007,FALSE
+"514","ALDERMAN","DP 000254 .J3","X000908642","The Spanish Republic and the Civil War, 1931-1939.","Jackson, Gabriel.",1965,FALSE
+"515","ALDERMAN","DP 000254 .P37  2006","X004911382","The collapse of the Spanish Republic, 1933-1936 : origins of the Civil War /","Payne, Stanley G.",2006,FALSE
+"516","ALDERMAN","DP 000254 .P39  1993","X002282267","Spain's first democracy : the Second Republic, 1931-1936 /","Payne, Stanley G.",1993,FALSE
+"517","ALDERMAN","DP 000254 .V56  2010","X031656865","El desplome de la República /","Viñas, Ángel.",2010,FALSE
+"518","ALDERMAN","DP 000255 .D48  2015","X032114650","Del franquismo a la democracia, 1936-2013 /","",2015,FALSE
+"519","ALDERMAN","DP 000255 .P73  1978","X000075352","The coming of the Spanish Civil War : reform, reaction, and revolution in the Second Republic 1931-1936 /","Preston, Paul,",1978,FALSE
+"520","ALDERMAN","DP 000255 .P73  1994","X002533418","The coming of the Spanish Civil War: reform, reaction and revolution in the Second Republic /","Preston, Paul,",1994,FALSE
+"521","ALDERMAN","DP 000255 .R52  2008","X031740785","Escrito en España /","Ridruejo, Dionisio.",2008,FALSE
+"522","ALDERMAN","DP 000257 .A515  2010","X031740526","Al servicio de la República : diplomáticos y Guerra Civil /","",2010,FALSE
+"523","ALDERMAN","DP 000257 .J3","X000227851","The Spanish Civil War: domestic crisis or international conspiracy?","Jackson, Gabriel",1967,FALSE
+"524","ALDERMAN","DP 000257 .M375  2012","X030959352","La Guerra civil : ¿cómo pudo ocurrir? /","Marías, Julián,",2012,FALSE
+"525","ALDERMAN","DP 000257 .M53","X000055246","Los communicados secretos de Franco, Hitler y Mussolini /","Miravitlles, Jaume.",1977,FALSE
+"526","CLEMONS","DP 000257 .P34  1967","X000138534","Falange; a history of Spanish fascism.","Payne, Stanley G.",1961,FALSE
+"527","ALDERMAN","DP 000257 .P35  1970","X000109165","The Spanish Revolution","Payne, Stanley G.",1970,FALSE
+"528","ALDERMAN","DP 000258 .E85  V56  2010","X031656866","La soledad de la República : el abandono de las democracias y el viraje hacia la Unión Soviética /","Viñas, Ángel.",2010,TRUE
+"529","ALDERMAN","DP 000258 .G3  M67  2007","X030498866","Hitler y Franco /","Moreno Julià, Xavier.",2007,FALSE
+"530","ALDERMAN","DP 000258 .S69  V56  2010","X031740510","El escudo de La República : el oro de España, la apuesta soviética y los hechos de mayo de 1937","Viñas, Ángel,",2010,TRUE
+"531","ALDERMAN","DP 000260 .P7  1999","X004412008","Comrades! : portraits from the Spanish Civil War /","Preston, Paul,",1999,FALSE
+"532","ALDERMAN","DP 000260 .V35  2014","X031626707","Hotel Florida : truth, love, and death in the Spanish Civil War /","Vaill, Amanda,",2014,FALSE
+"533","ALDERMAN","DP 000264 .D87  P3813  2007","X030103588","Durruti in the Spanish revolution /","Paz, Abel.",2007,FALSE
+"534","ALDERMAN","DP 000264 .F7  C39  2014","X031604334","Franco : the biography of the myth /","Cazorla Sánchez, Antonio,",2014,TRUE
+"535","ALDERMAN","DP 000264 .F7  E45  1994","X002422036","Franco /","Ellwood, Sheelagh M.,",1994,FALSE
+"536","ALDERMAN","DP 000264 .F7  F8713  1987B","X001260985","Franco : a biography /","Fusi Aizpurúa, Juan Pablo,",1987,TRUE
+"537","ALDERMAN","DP 000264 .F7  H63  2002","X004558550","Franco : a concise biography /","Hodges, Gabrielle Ashford.",2002,FALSE
+"538","ALDERMAN","DP 000264 .F7  P34  2014","X031652793","Franco : a personal and political biography /","Payne, Stanley G.,",2014,FALSE
+"539","ALDERMAN","DP 000264 .F7  P74  1994","X002573744","Franco : a biography /","Preston, Paul,",1994,FALSE
+"540","ALDERMAN","DP 000264 .F7  T78  1970","X000392887","Franco: a biography","Trythall, John William Donald,",1970,TRUE
+"541","ALDERMAN","DP 000264 .F7  U54  2010","X030621341","Unearthing Franco's legacy : mass graves and the recovery of historical memory in Spain /","",2010,FALSE
+"542","ALDERMAN","DP 000264 .P77  A37  1983","X001024349","Recuerdos de una vida /","Primo de Rivera, Pilar.",1983,FALSE
+"543","ALDERMAN","DP 000269 .A5193  2005","X004835316","The Spanish Civil War : a modern tragedy /","Esenwein, George Richard.",2005,FALSE
+"544","ALDERMAN","DP 000269 .A555  T43  2007","X030720509","Teaching representations of the Spanish Civil War /","",2007,TRUE
+"545","ALDERMAN","DP 000269 .A56  F333  2018","X031839622","Memory battles of the Spanish Civil War : history, fiction, photography /","Faber, Sebastiaan,",2018,TRUE
+"546","ALDERMAN","DP 000269 .A56  S26  2014","X031737900","La sombra del escarmiento (1936-2014) /","Sánchez-Ostiz, Miguel.",2014,FALSE
+"547","ALDERMAN","DP 000269 .A56  V56  2013","X031657295","Las armas y el oro : palancas de la guerra, mitos del franquismo /","Viñas, Ángel,",2013,TRUE
+"548","ALDERMAN","DP 000269 .A58  1978  V.000001","X032057770","ABC/doble diario de la guerra civil : 1936-1939 /","",1978,TRUE
+"549","ALDERMAN","DP 000269 .B374  1982","X006146746","The Spanish Civil War /","Beevor, Antony,",1982,FALSE
+"550","ALDERMAN","DP 000269 .B374  2006","X004836534","The battle for Spain : the Spanish Civil War 1936-1939 /","Beevor, Antony,",2006,FALSE
+"551","ALDERMAN","DP 000269 .C272","X000156951","The Spanish tragedy : the Civil War in perspective /","Carr, Raymond.",1977,FALSE
+"552","ALDERMAN","DP 000269 .D35  2001","X006120217","Franco and the Spanish Civil War /","De Meneses, Filipe Ribeiro,",2001,FALSE
+"553","ALDERMAN","DP 000269 .D83  2007","X030101671","The Spanish Civil War /","Durgan, Andrew,",2007,FALSE
+"554","ALDERMAN","DP 000269 .E723  2014","X031626718","Uncommonly savage : civil war and remembrance in Spain and the United States /","Escott, Paul D.,",2014,FALSE
+"555","ALDERMAN","DP 000269 .E74  1995","X002623299","Spain at war : the Spanish Civil War in context, 1931-1939 /","Esenwein, George Richard.",1995,FALSE
+"556","ALDERMAN","DP 000269 .G639  2011","X031602708","La muerte en Madrid ; Las puertas del fuego ; 8 documentos de hoy /","González Tuñón, Raúl,",2011,FALSE
+"557","ALDERMAN","DP 000269 .G72  2002","X004622719","The Spanish republic at war, 1936-1939 /","Graham, Helen,",2002,FALSE
+"558","ALDERMAN","DP 000269 .I58  2009","X030276990","The international context of the Spanish Civil War /","",2009,FALSE
+"559","ALDERMAN","DP 000269 .I85  2013  V.000001","X031725354","El itinerario de la memoria : derecho, historia y justicia en la recuperación de la memoria histórica en España.","",2013,TRUE
+"560","ALDERMAN","DP 000269 .J3318  1986","X001241727","Breve historia de la guerra civil española /","Jackson, Gabriel.",1986,FALSE
+"561","ALDERMAN","DP 000269 .K6  1937","X002255519","Spanish testament,","Koestler, Arthur,",1937,FALSE
+"562","ALDERMAN","DP 000269 .L585  2015","X032114880","Living the death of democracy in Spain : the Civil War and its aftermath /","",2015,FALSE
+"563","ALDERMAN","DP 000269 .M29  2012","X030948359","Modern warfare in Spain : American military observations on the Spanish Civil War, 1936-1939 /","",2012,FALSE
+"564","ALDERMAN","DP 000269 .M543  2013","X031656872","Los mitos del 18 de julio /","",2013,FALSE
+"565","ALDERMAN","DP 000269 .P477  2012","X031719693","La siega del olvido : memoria y presencia de la represión /","Piedras Monroy, Pedro Andrés.",2012,FALSE
+"566","ALDERMAN","DP 000269 .P66  2007","X030261340","The Spanish Civil War : reaction, revolution and revenge /","Preston, Paul,",2007,FALSE
+"567","CLEMONS","DP 000269 .P668  1986","X001142184","The Spanish Civil War, 1936-39 /","Preston, Paul,",1986,FALSE
+"568","ALDERMAN","DP 000269 .P668  1986B","X001058309","The Spanish Civil War, 1936-39 /","Preston, Paul,",1986,FALSE
+"569","ALDERMAN","DP 000269 .P769  2018","X032560996","Public humanities and the Spanish Civil War : connected and contested histories /","",2018,FALSE
+"570","ALDERMAN","DP 000269 .P8  F33  2007","X030114894","Facing fascism : New York and the Spanish Civil War /","",2007,TRUE
+"571","ALDERMAN","DP 000269 .R66  2005","X004835064","The Spanish Civil War : origins, course and outcomes /","Romero Salvadó, Francisco J.,",2005,FALSE
+"572","ALDERMAN","DP 000269 .S627  1992","X002254923","The Spanish Civil War : a cultural and historical reader /","",1992,FALSE
+"573","ALDERMAN","DP 000269 .T5  1961","X000143973","The Spanish Civil War.","Thomas, Hugh,",1961,FALSE
+"574","ALDERMAN","DP 000269 .T5  1977","X000212967","The Spanish Civil War /","Thomas, Hugh,",1977,FALSE
+"575","ALDERMAN","DP 000269 .V477  2012","X031656870","La conspiración del General Franco : y otras revelaciones acerca de una guerra civil desfigurada : edición revisada y ampliada /","Viñas, Ángel.",2012,FALSE
+"576","ALDERMAN","DP 000269 .V48  2010","X031656873","El honor de la República : entre el acoso fascista, la hostilidad británica y la política de Stalin /","Viñas, Ángel.",2010,FALSE
+"577","ALDERMAN","DP 000269.15 .C28  1999","X004296754","Heart of Spain : Robert Capa's photographs of the Spanish Civil War /","Capa, Robert,",1999,FALSE
+"578","ALDERMAN","DP 000269.15 .C3","X000358138","Carteles de la guerra civil española.","",1981,FALSE
+"579","ALDERMAN","DP 000269.15 .I57  1986B","X001065805","Images of the Spanish Civil War /","",1986,FALSE
+"580","ALDERMAN","DP 000269.15 .P3","X031863508","The Palette and the flame : posters of the Spanish Civil War /","",1979,FALSE
+"581","ALDERMAN","DP 000269.23 .A47  2013","X030611377","The Republican Army in the Spanish Civil War, 1936-1939 /","Alpert, Michael,",2013,FALSE
+"582","ALDERMAN","DP 000269.27 .B33  E52  2009","X031738053","Los crímenes de Franco en Euskal Herria, 1936-1940 /","Egaña, Iñaki.",2009,FALSE
+"583","ALDERMAN","DP 000269.27 .G8  P27  2007","X030103068","Guernica and total war /","Patterson, Ian.",2007,FALSE
+"584","ALDERMAN","DP 000269.27 .G8  S69","X000044432","Guernica! Guernica! : A study of journalism, diplomacy, propaganda, and history /","Southworth, Herbert Rutledge.",1977,FALSE
+"585","ALDERMAN","DP 000269.27 .G8  T45","X001611043","Guernica /","Thomas, Gordon,",1975,TRUE
+"586","ALDERMAN","DP 000269.27 .M3  C68  2006","X030114906","Defence of Madrid : an eyewitness account from the Spanish Civil War /","Cox, Geoffrey,",2006,TRUE
+"587","ALDERMAN","DP 000269.27 .M3  G344  2014","X031738772","Ochenta mujeres : las mujeres fusiladas en el Madrid de la posguerra /","García Muñoz, Manuel,",2014,TRUE
+"588","ALDERMAN","DP 000269.27 .M36  D54  2003","X031738071","El ""Schindler"" de la Guerra Civil : la historia del diplomático mexicano que salvó a centenares de refugiados de ambos bandos /","Diego Carcedo.",2003,TRUE
+"589","ALDERMAN","DP 000269.45 .B66  1975","X000064032","The Book of the XV Brigade : records of British, American, Canadian, and Irish volunteers in the XV International Brigade in Spain, 1936-1938 /","",1975,FALSE
+"590","ALDERMAN","DP 000269.45 .B75  1966","X000361722","The international brigades: Spain, 1936-1939.","Brome, Vincent,",1966,FALSE
+"591","ALDERMAN","DP 000269.45 .O42  1990","X002140875","La intervención extranjera en la guerra civil /","Olaya Morales, Francisco,",1990,FALSE
+"592","ALDERMAN","DP 000269.47 .A46  C37  1994","X002481718","The odyssey of the Abraham Lincoln Brigade : Americans in the Spanish Civil War /","Carroll, Peter N.",1994,TRUE
+"593","ALDERMAN","DP 000269.47 .A46  E39  2007","X030109949","Comrades and commissars : the Lincoln Battalion in the Spanish Civil War /","Eby, Cecil D.",2007,FALSE
+"594","ALDERMAN","DP 000269.47 .A46  G47  1986","X001109194","The premature antifascists : North American volunteers in the Spanish Civil War, 1936-39 : an oral history /","Gerassi, John.",1986,TRUE
+"595","ALDERMAN","DP 000269.47 .A46  H63  2016","X031739155","Spain in our hearts : Americans in the Spanish Civil War, 1936-1939 /","Hochschild, Adam",2016,FALSE
+"596","ALDERMAN","DP 000269.47 .A46  L36  1989","X001455120","Death in the olive groves : American volunteers in the Spanish Civil War, 1936-1939 /","Landis, Arthur H.,",1989,TRUE
+"597","ALDERMAN","DP 000269.47 .A46  O96  1987","X001216293","Our fight : writings by veterans of the Abraham Lincoln Brigade, Spain, 1936-1939 /","",1987,FALSE
+"598","ALDERMAN","DP 000269.47 .B7  B8  1997","X004115542","Britain and the Spanish Civil War /","Buchanan, Tom,",1997,FALSE
+"599","ALDERMAN","DP 000269.47 .G3  W46  1989","X001590467","Hitler and Spain : the Nazi role in the Spanish Civil War, 1936-1939 /","Whealey, Robert H.,",1989,FALSE
+"600","ALDERMAN","DP 000269.47 .I8  R63  2016","X031842471","La guerra fascista : Italia en la Guerra Civil española, 1936-1939 /","Rodrigo, Javier,",2016,TRUE
+"601","ALDERMAN","DP 000269.47 .J48  Z33  2017","X031824778","Jewish volunteers, the international brigades and the Spanish Civil War /","Zaagsma, Gerben,",2017,FALSE
+"602","ALDERMAN","DP 000269.47 .R8  C27  1984","X000865174","The Comintern and the Spanish Civil War /","Carr, Edward Hallett,",1984,TRUE
+"603","ALDERMAN","DP 000269.47 .R8  C32  1955","X000361041","Communism and the Spanish Civil War.","Cattell, David Tredwell,",1955,TRUE
+"604","ALDERMAN","DP 000269.47 .R8  C33  1957","X001942370","Soviet diplomacy and the Spanish Civil War.","Cattell, David Tredwell,",1957,TRUE
+"605","ALDERMAN","DP 000269.47 .R8  S63  2001","X004526169","Spain betrayed : the Soviet Union in the Spanish Civil War /","",2001,FALSE
+"606","ALDERMAN","DP 000269.47 .U6  R57  1974","X002596003","The Lincoln battalion; the story of the Americans who fought in Spain in the international brigades /","Rolfe, Edwin,",1974,TRUE
+"607","ALDERMAN","DP 000269.47 .U7  Y36  2017","X031848693","Papeles de plomo : los voluntarios uruguayos en la Guerra Civil Española / Sergio Yanes Torrado, Carlos Marín Suárez, María Cantabrana Carassou.","Yanes Torrado, Sergio,",2017,FALSE
+"608","ALDERMAN","DP 000269.5 .J86  2013","X031730389","Valientes : el relato de las víctimas del franquismo y de los que les sobrevivieron /","Junquera, Natalia.",2013,FALSE
+"609","ALDERMAN","DP 000269.5 .P7418  2011","X030943068","El holocausto español : odio y exterminio en la Guerra civil y después / Paul Preston ; traducción de Catalina Martínez Muñoz y Eugenia Vázquez Nacarino.","Preston, Paul,",2011,FALSE
+"610","ALDERMAN","DP 000269.53 .R8513  2014","X031651732","The 'red terror' and the Spanish Civil War : revolutionary violence in Madrid /","Ruiz, Julius,",2014,FALSE
+"611","ALDERMAN","DP 000269.55 .A7518  2004","X031744577","Las fosas del silencio : ¿hay un holocausto español? /","Armengou, Montse.",2004,FALSE
+"612","ALDERMAN","DP 000269.55 .M54  2014","X031725352","La genealogía genocida del franquismo : violencia, memoria e impunidad /","Míguez Macho, Antonio.",2014,FALSE
+"613","ALDERMAN","DP 000269.55 .P77  2012","X031198997","The Spanish holocaust : inquisition and extermination in twentieth-century Spain /","Preston, Paul,",2012,FALSE
+"614","ALDERMAN","DP 000269.55 .S55  2003","X031630990","Las fosas de Franco : los republicanos que el dictador dejó en las cunetas /","Silva, Emilio,",2003,FALSE
+"615","ALDERMAN","DP 000269.6 .B33  2011","X031720050","Cárceles y campos de concentración en Bizkaia (1937-1940) /","Badiola Ariztimuño, Ascensión,",2011,FALSE
+"616","ALDERMAN","DP 000269.63 .O54","X001137613","Una mujer en la guerra de España /","O'Neill, Carlota.",1979,FALSE
+"617","ALDERMAN","DP 000269.63 .O54  M855  2006","X032114839","Una mujer en la guerra de España /","O'Neill, Carlota.",2006,FALSE
+"618","ALDERMAN","DP 000269.7 .P36  2015","X031791875","Spain bleeds : the development of battlefield blood transfusion during the Civil War /","Palfreeman, Linda,",2015,FALSE
+"619","ALDERMAN","DP 000269.8 .A7  S64  1990","X002033872","The Spanish Civil War and the visual arts /","",1990,FALSE
+"620","ALDERMAN","DP 000269.8 .A7  T47  2013","X031713332","El tesoro del ""Vita"" : la protección y el expolio del patrimonio histórico-arqueológico durante la Guerra Civil /","Gracia Alonso, Francisco.",2013,TRUE
+"621","ALDERMAN","DP 000269.8 .C4  L44  1984","X000906620","The Guernica generation : Basque refugee children of the Spanish Civil War /","Legarreta, Dorothy,",1984,TRUE
+"622","ALDERMAN","DP 000269.8 .E2  B37  2015","X031706783","Hitler's Shadow Empire : Nazi economics and the Spanish Civil War /","Barbieri, Pierpaolo,",2015,FALSE
+"623","ALDERMAN","DP 000269.8 .I5  G73  2012","X031214730","The war and its shadow : Spain's Civil War in Europe's long twentieth century /","Graham, Helen,",2012,TRUE
+"624","ALDERMAN","DP 000269.8 .I5  S73  2015","X031841399","Narrating war in peace : the Spanish Civil War in the transition and today /","Stafford, Katherine O.,",2015,FALSE
+"625","ALDERMAN","DP 000269.8 .L5  C38  2004","X004774086","Spanish culture behind barbed wire : memory and representation of the French concentration camps, 1939-1945 /","Cate-Arries, Francie,",2004,TRUE
+"626","ALDERMAN","DP 000269.8 .L5  M36  2009","X030854094","Liras entre lanzas : historia de la literatura ""nacional"" en la Guerra Civil /","Martínez Cachero, José María.",2009,FALSE
+"627","ALDERMAN","DP 000269.8 .M6  A73  2014","X031782988","The war that won't die : the Spanish Civil War in cinema /","Archibald, David,",2014,FALSE
+"628","CLEMONS","DP 000269.8 .M6  C37  2011","X031187407","Film, memory and the legacy of the Spanish Civil War : resistance and guerrilla, 1936-2010 /","Camino, Mercedes Maroto.",2011,TRUE
+"629","CLEMONS","DP 000269.8 .M6  N37  2011","X032114885","Carlota O'Neill : adaptación libre de la novela Una mujer en la guerra de España de Carlota O'Neill /","Navarro Espigares, José Luis,",2011,FALSE
+"630","ALDERMAN","DP 000269.8 .M6  S26  2006","X031600585","Cine y Guerra Civil Española : del mito a la memoria /","Sánchez-Biosca, Vicente,",2006,FALSE
+"631","ALDERMAN","DP 000269.8 .P7  S68  2002","X004595669","Conspiracy and the Spanish Civil War : the brainwashing of Francisco Franco /","Southworth, Herbert Rutledge.",2002,FALSE
+"632","ALDERMAN","DP 000269.8 .P75  A3813  2002","X004636128","Memory and amnesia : the role of the Spanish Civil War in the transition to democracy /","Aguilar Fernández, Paloma,",2002,FALSE
+"633","ALDERMAN","DP 000269.8 .P75  R48  2011","X031600587","Retóricas del miedo : imágenes de la Guerra Civil Española /","",2011,TRUE
+"634","ALDERMAN","DP 000269.8 .P8  C43  2011","X031189458","Arguing Americanism : Franco lobbyists, Roosevelt's foreign policy, and the Spanish Civil War /","Chapman, Michael E.",2011,TRUE
+"635","ALDERMAN","DP 000269.8 .P8  M63  2004","X031648689","Los mitos de la guerra civil /","Moa, Pío.",2004,FALSE
+"636","ALDERMAN","DP 000269.8 .P8  P47  2013","X031719697","Perú y la guerra civil española : la voz de los intelectuales /","",2013,FALSE
+"637","ALDERMAN","DP 000269.8 .P8  S6  1982","X000403862","The Spanish Civil War, 1936-39 : American hemispheric perspectives /","",1982,FALSE
+"638","ALDERMAN","DP 000269.8 .R3  A47","X000009501","Asturianos en el destierro (Francia) /","Amieva, Celso.",1977,FALSE
+"639","ALDERMAN","DP 000269.8 .R3  A718","X000701523","La diáspora republicana /","Sempronio.",1975,FALSE
+"640","ALDERMAN","DP 000269.8 .R3  C35","X006143566","La odisea de los republicanos españoles en Francia (1939-1945) = Album-souvenir de l'exil républicain espagnol en France (1939-1945) /","Carrasco, J. (Juan)",1980,TRUE
+"641","ALDERMAN","DP 000269.8 .R3  E95  V.000004","X000701526","El Exilio español de 1939 [i.e. mil novecientos treinta y nueve /","",1976,TRUE
+"642","ALDERMAN","DP 000269.8 .R3  L56  2017","X031842440","Líneas de fuga : hacia otra historiografía cultural del exilio republicano español /","",2017,TRUE
+"643","ALDERMAN","DP 000269.8 .R3  M66  1977","X000049608","El exodo : pasión y muerte de españoles en el exilio /","Montseny, Federica.",1977,FALSE
+"644","ALDERMAN","DP 000269.8 .R3  R43  2007","X030275765","Recuerdos : Basque children refugees in Great Britain /","",2007,TRUE
+"645","ALDERMAN","DP 000269.8 .R3  R82  V.000001","X000108842","La emigración de la guerra civil de 1936-1939 : historia del éxodo que se produce con el fin de la II República española /","Rubio, Javier.",1977,TRUE
+"646","ALDERMAN","DP 000269.8 .R4  L68  2010","X030818562","Catholicism, war and the foundation of Francoism : the Juventud de Acción Popular in Spain, 1931-1939 /","Lowe, Sid.",2010,TRUE
+"647","ALDERMAN","DP 000269.8 .R4  R3313  2006","X004834814","Gunpowder and incense : the Catholic Church and the Spanish Civil War /","Raguer Suñer, Hilario M.",2007,TRUE
+"648","ALDERMAN","DP 000269.8 .R4  S26  1987","X001263747","The Spanish Civil War as a religious tragedy /","Sánchez, José M. (José Mariano),",1987,FALSE
+"649","ALDERMAN","DP 000269.8 .S4  G85  2014","X031719864","Espías de Franco : Josep Pla y Francesc Cambó : la red de espionaje contra la revolución en Cataluña /","Guixà, Josep,",2014,TRUE
+"650","ALDERMAN","DP 000269.8 .S65  M38  2012","X030844651","Reluctant warriors : Republican Popular Army and Nationalist Army conscripts in the Spanish Civil War, 1936-1939 /","Matthews, James,",2012,FALSE
+"651","ALDERMAN","DP 000269.8 .S65  R53  2013","X031619136","After the civil war : making memory and re-making Spain since 1936 /","Richards, Michael,",2013,TRUE
+"652","ALDERMAN","DP 000269.8 .S65  S65  2005","X004833936","The splintering of Spain : cultural history and the Spanish Civil War, 1936-1939 /","",2005,FALSE
+"653","ALDERMAN","DP 000269.8 .W7  M36  1995","X002604181","Memories of Resistance : women's voices from the Spanish Civil War /","Mangini González, Shirley,",1995,FALSE
+"654","CLEMONS","DP 000269.8 .W7  N38  1995","X004105661","Defying male civilization : women in the Spanish Civil War /","Nash, Mary,",1995,FALSE
+"655","ALDERMAN","DP 000269.8 .W7  P74  2002","X004624133","Doves of war : four women of Spain /","Preston, Paul,",2002,FALSE
+"656","ALDERMAN","DP 000269.8 .W7  R62  2013","X031645826","Mujeres olvidadas : las grandes silenciadas de la Segunda República /","Rodrigo, Antonina,",2013,TRUE
+"657","ALDERMAN","DP 000269.9 .B383  2002","X004592036","Alvah Bessie's Spanish Civil War notebooks /","Bessie, Alvah Cecil,",2002,FALSE
+"658","ALDERMAN","DP 000269.9 .B83  2013","X031620746","The life and death of the Spanish Republic : a witness to the Spanish Civil War /","Buckley, Henry,",2013,FALSE
+"659","ALDERMAN","DP 000269.9 .C22  2009","X031656687","Bajo cielos de plomo : unas memorias y el diario de Rafael Salazar Alonso /","Cabeza de Vaca y Munilla, Ámparo.",2009,FALSE
+"660","ALDERMAN","DP 000269.9 .D83  2017","X031841975","Querido diario : hoy ha empezado la guerra /","Duaygües, Pilar.",2017,FALSE
+"661","ALDERMAN","DP 000269.9 .E8217  2014","X031729516","Mi guerra de España /","Etchebehere, Mika,",2014,FALSE
+"662","ALDERMAN","DP 000269.9 .K613  1960","X000416798","Dialogue with death.","Koestler, Arthur,",1960,FALSE
+"663","ALDERMAN","DP 000269.9 .M33  1996","X002778919","Madrid 1937 : letters of the Abraham Lincoln Brigade from the Spanish Civil War /","",1996,FALSE
+"664","ALDERMAN","DP 000269.9 .M37  2014","X031615476","Guerreros y traidores : de la guerra de Españ?a a la guerra fría /","Martínez Reverte, Jorge,",2014,FALSE
+"665","ALDERMAN","DP 000269.9 .O66  2009","X030625525","Letters from Barcelona : an American woman in revolution and civil war /","Orr, Lois.",2009,FALSE
+"666","ALDERMAN","DP 000269.9 .O7  1980","X002122551","Homage to Catalonia /","Orwell, George,",1980,FALSE
+"667","ALDERMAN","DP 000269.9 .V64  1986B","X001258498","Voices from the Spanish Civil War : personal recollections of Scottish volunteers in Republican Spain 1936-39 /","",1986,FALSE
+"668","ALDERMAN","DP 000269.9 .W6  1991","X001978889","Women's voices from the Spanish Civil War /","",1991,FALSE
+"669","ALDERMAN","DP 000270 .A723  2016","X031798126","La primavera de Munich : esperanza y fracaso de una transición democrática /","Amat i Teixidó, Jordi.",2016,FALSE
+"670","ALDERMAN","DP 000270 .A757","X000068768","La política exterior de Franco /","Armero, José Mario.",1978,FALSE
+"671","ALDERMAN","DP 000270 .B53  2010","X030694647","Spain since 1939 /","Black, Stanley,",2010,FALSE
+"672","ALDERMAN","DP 000270 .B684  2006","X004895423","Spain during World War II /","Bowen, Wayne H.,",2006,FALSE
+"673","ALDERMAN","DP 000270 .C258","X000141325","Spain, dictatorship to democracy /","Carr, Raymond.",1979,FALSE
+"674","ALDERMAN","DP 000270 .C37  2015","X031720037","Cuarenta años con Franco /","",2015,FALSE
+"675","ALDERMAN","DP 000270 .C38  2010","X030607764","Fear and progress : ordinary lives in Franco's Spain, 1939-1975 /","Cazorla Sánchez, Antonio,",2010,FALSE
+"676","ALDERMAN","DP 000270 .C3818  2016","X031659292","Miedo y progreso : los españoles de a pie bajo el franquismo, 1939-1975 /","Cazorla Sánchez, Antonio,",2016,FALSE
+"677","ALDERMAN","DP 000270 .D57  2000","X004474618","Disremembering the dictatorship : the politics of memory in the Spanish transition to democracy /","",2000,FALSE
+"678","ALDERMAN","DP 000270 .F65  1989","X001611528","Making democracy in Spain : grass-roots struggle in the South, 1955-1975 /","Foweraker, Joe.",1989,FALSE
+"679","ALDERMAN","DP 000270 .G2913  1974","X000096588","Spain under Franco; a history.","Gallo, Max,",1974,FALSE
+"680","ALDERMAN","DP 000270 .G55  1985","X000928312","The transformation of Spain : from Franco to the constitutional monarchy /","Gilmour, David,",1985,FALSE
+"681","ALDERMAN","DP 000270 .G67  1984","X000906734","Spain : a nation comes of age /","Graham, R. (Robert)",1984,FALSE
+"682","ALDERMAN","DP 000270 .G78  1997","X004053565","Franco's Spain /","Grugel, Jean.",1997,FALSE
+"683","ALDERMAN","DP 000270 .M29  2015","X031641980","Mass killings and violence in Spain, 1936-1952 : grappling with the past /","",2015,FALSE
+"684","ALDERMAN","DP 000270 .M598  2014","X031725358","La victoria sangrienta, 1939-1945 : un estudio de la gran represión franquista, para el Memorial Democrático de España /","Moreno Gómez, Francisco,",2014,FALSE
+"685","ALDERMAN","DP 000270 .M672  2000","X031630911","La España de Franco, 1939-1975 : política y sociedad /","Moradiellos, Enrique.",2000,FALSE
+"686","ALDERMAN","DP 000270 .P285  2004","X004743726","The quest for survival after Franco : moderate Francoism and the slow journey to the polls, 1964-1977 /","Palomares, Cristina.",2004,FALSE
+"687","CLEMONS","DP 000270 .P36  1992","X002301719","Franco : el perfil de la historia /","Payne, Stanley G.",1992,FALSE
+"688","ALDERMAN","DP 000270 .P365  1987","X001283207","The Franco regime, 1936-1975 /","Payne, Stanley G.",1987,FALSE
+"689","ALDERMAN","DP 000270 .P37  1967","X000279939","Franco's Spain","Payne, Stanley G.",1967,FALSE
+"690","CLEMONS","DP 000270 .P37  1968","X000001653","Franco's Spain","Payne, Stanley G.",1968,FALSE
+"691","ALDERMAN","DP 000270 .P58  1987","X001294822","The paradox of Spanish foreign policy : Spain's international relations from Franco to democracy /","Pollack, Benny.",1987,FALSE
+"692","ALDERMAN","DP 000270 .S62418  1978","X032576687","España en crisis : evolución y decadencia del régimen de Franco /","",1978,FALSE
+"693","ALDERMAN","DP 000270 .S627  2007","X004832980","Spain transformed : the late Franco dictatorship, 1959-75 /","",2007,FALSE
+"694","ALDERMAN","DP 000270 .T74  2013","X030611136","Franco's crypt : Spanish culture and memory since 1936 /","Treglown, Jeremy.",2013,FALSE
+"695","ALDERMAN","DP 000270 .T835  1989","X002404294","La España de Franco : el poder, la oposición y la política exterior durante el franquismo /","Tusell, Javier,",1989,FALSE
+"696","ALDERMAN","DP 000270 .T84  1985","X001047120","Franco y Mussolini : la política española durante la segunda guerra mundial /","Tusell, Javier,",1985,FALSE
+"697","ALDERMAN","DP 000270 .V384  1980","X000448063","Crónica sentimental de España /","Vázquez Montalbán, Manuel.",1980,FALSE
+"698","ALDERMAN","DP 000270 .V557  2016","X031846760","Sobornos : de cómo Churchill y March compraron a los generales de Franco /","Viñas, Ángel,",2016,FALSE
+"699","ALDERMAN","DP 000271 .A2  S6413  2012","X031600102","Right-wing Spain in the Civil War era : soldiers of God and apostles of the Fatherland, 1914-1945 /","",2012,FALSE
+"700","ALDERMAN","DP 000271 .A93  A93  2010","X031656863","En defensa de la República : con Negrín en el exilio /","Azcárate, Pablo de,",2010,FALSE
+"701","ALDERMAN","DP 000271 .C37  A84  2016","X031803961","El atentado contra Carrero Blanco como lugar de (no-)memoria : narraciones históricas y representaciones culturales /","",2016,FALSE
+"702","ALDERMAN","DP 000271 .R42  H47  2001","X031768070","Soledad Real (1917) /","Hernández Holgado, Fernando.",2001,FALSE
+"703","ALDERMAN","DP 000272 .A426  2008","X031725261","Contra los políticos /","Albiac, Gabriel.",2008,FALSE
+"704","ALDERMAN","DP 000272 .A56  2015","X031713075","""No tenemos sueños baratos"" : una historia cultural de la crisis /","Alonso, Martín",2015,FALSE
+"705","CLEMONS","DP 000272 .A7  1985","X001065767","Spain, from repression to renewal /","Arango, E. Ramón (Ergasto Ramón)",1985,FALSE
+"706","CLEMONS","DP 000272 .A7  1995","X002689451","Spain : democracy regained /","Arango, E. Ramón (Ergasto Ramón)",1995,FALSE
+"707","ALDERMAN","DP 000272 .B34  2007","X030257105","The reinvention of Spain : nation and identity since democracy /","Balfour, Sebastian.",2007,FALSE
+"708","ALDERMAN","DP 000272 .C37  2016","X031845769","Carisma e imagen política : líderes y medios de comunicación en la Transición /","",2016,FALSE
+"709","ALDERMAN","DP 000272 .C428  2009","X030854035","Anatomía de un instante /","Cercas, Javier,",2009,FALSE
+"710","ALDERMAN","DP 000272 .C42813  2011","X030845875","The anatomy of a moment : thirty-five minutes in history and imagination /","Cercas, Javier,",2011,FALSE
+"711","ALDERMAN","DP 000272 .C645  2005","X031633339","Memoria histórica e identidad cultural : de la postguerra a la postmodernidad /","Colmeiro, José F.,",2005,FALSE
+"712","ALDERMAN","DP 000272 .C739  2009","X030633933","¿Crisis? ¿qué crisis? : España en busca de su camino /","",2009,FALSE
+"713","ALDERMAN","DP 000272 .C74  2016","X031848948","Mirar el paisaje moderno : paisaje, ingeniería e industria en los viajes por España (siglos XVI-XIX) /","Crespo Delgado, Daniel,",2016,FALSE
+"714","ALDERMAN","DP 000272 .D45  1983","X000789593","Democratic politics in Spain : Spanish politics after Franco /","",1983,FALSE
+"715","ALDERMAN","DP 000272 .E539  2015","X031740749","Encrucijadas globales : redefinir España en el siglo XXI /","",2015,FALSE
+"716","ALDERMAN","DP 000272 .G54  2007","X031804123","La lucha política a la española : tragicomedia de la crispación /","Gil Calvo, Enrique.",2007,FALSE
+"717","ALDERMAN","DP 000272 .J67","X000086158","Spain, the monarchy, and the Atlantic Community /","Jordan, David C.",1979,FALSE
+"718","ALDERMAN","DP 000272 .K7313  1984","X000821112","From dictatorship to democracy : Spanish reportage /","Krasikov, Anatoli?.",1984,FALSE
+"719","ALDERMAN","DP 000272 .M36  1982","X000402400","Transition to democracy in Spain /","Maravall, José María.",1982,FALSE
+"720","ALDERMAN","DP 000272 .M367  1977","X031866609","La devolución de España : segunda parte de la España real /","Marías, Julián,",1977,FALSE
+"721","CLEMONS","DP 000272 .M39  1994","X002592023","The new Spain : from isolation to influence /","Maxwell, Kenneth,",1994,FALSE
+"722","ALDERMAN","DP 000272 .M46","X000068832","Spain : the struggle for democracy today /","Menges, Constantine Christopher.",1978,FALSE
+"723","ALDERMAN","DP 000272 .M6633  2013","X031759006","Curso urgente de política para gente decente /","Monedero, Juan Carlos",2013,FALSE
+"724","CLEMONS","DP 000272 .N48  1984","X000949051","The New Mediterranean democracies : regime transition in Spain, Greece, and Portugal /","",1984,FALSE
+"725","ALDERMAN","DP 000272 .O514  2017","X032209954","Qué nos ha pasado, España /","Ónega, Fernando,",2017,FALSE
+"726","ALDERMAN","DP 000272 .P653  2005","X004811964","The politics of contemporary Spain /","",2005,FALSE
+"727","ALDERMAN","DP 000272 .P74  1986","X001065154","The triumph of democracy in Spain /","Preston, Paul,",1986,FALSE
+"728","ALDERMAN","DP 000272 .R39  2017","X031842499","Didáctica ciudadana : la vida política en las plazas : etnografía del movimiento 15M /","Razquin Mangado, Adriana.",2017,FALSE
+"729","ALDERMAN","DP 000272 .R527  2014","X031630313","Embodying memory in contemporary Spain /","Ribeiro de Menezes, Alison,",2014,FALSE
+"730","ALDERMAN","DP 000272 .R855  2002","X031630904","La España democrática, 1975-2000 : política y sociedad /","Ruiz, David.",2002,FALSE
+"731","ALDERMAN","DP 000272 .S254  2007","X030469854","Postmodern Spain : a cultural analysis of 1980s-1990s Spanish culture /","Sánchez, Antonio,",2007,FALSE
+"732","ALDERMAN","DP 000272 .S255  2018","X032209207","La transición sangrienta : una historia violenta del proceso democrático en España, 1975-1983 /","Sánchez Soler, Mariano,",2018,FALSE
+"733","ALDERMAN","DP 000272 .S63","X000064902","Spain and Portugal : democratic beginnings /","",1978,FALSE
+"734","ALDERMAN","DP 000272 .S635  1987","X001285056","Spain in the 1980s : the democratic transition and a new international role /","",1987,FALSE
+"735","ALDERMAN","DP 000272 .S67  2005","X004863283","Spanish and Latin American transitions to democracy /","",2005,FALSE
+"736","ALDERMAN","DP 000272 .T73  2013","X031730224","La Transición en tinta china /","",2013,FALSE
+"737","ALDERMAN","DP 000272 .V454  2017","X031842493","La Olivetti, la espía y el loro /","Vélez, Lea,",2017,FALSE
+"738","ALDERMAN","DP 000272.4 .J8  A5  1993","X031630727","El Rey : conversaciones con D. Juan Carlos I de España /","Juan Carlos",1993,FALSE
+"739","ALDERMAN","DP 000272.4 .J8  M33  1995","X030924442","Conversaciones sobre el rey /","Burns Marañón, Tom,",1995,FALSE
+"740","ALDERMAN","DP 000272.4 .J8  P69  1996","X004048027","Juan Carlos of Spain : self-made monarch /","Powell, Charles T.",1996,FALSE
+"741","ALDERMAN","DP 000272.4 .J8  P738  2004","X031630712","Juan Carlos : steering Spain from dictatorship to democracy /","Preston, Paul,",2004,FALSE
+"742","ALDERMAN","DP 000272.4 .J8  T88  1995","X031630715","Juan Carlos I : la restauración de la monarquía /","Tusell, Javier,",1995,TRUE
+"743","ALDERMAN","DP 000272.4 .J8  U32  2017","X032058211","La gran desmemoria : lo que Suárez olvidó y el Rey prefiere no recordar /","Urbano, Pilar,",2017,FALSE
+"744","ALDERMAN","DP 000285 .F44  1993","X006026744","El camino de Santiago /","Feijoo Seguin, Maria Luisa.",1993,FALSE
+"745","ALDERMAN","DP 000285 .H37  2003","X004702612","The road to Santiago /","Harrison, Kathryn.",2003,FALSE
+"746","ALDERMAN","DP 000285 .H58  1994","X002523967","Off the road : a modern-day walk down the Pilgrim's Route into Spain /","Hitt, Jack.",1994,FALSE
+"747","ALDERMAN","DP 000285 .H65  1996","X004048749","El camino : walking to Santiago de Compostela /","Hoinacki, Lee,",1996,FALSE
+"748","CLEMONS","DP 000285 .M66  2005","X004844377","Travels with my donkey : one man and his ass on a pilgrimage to Santiago /","Moore, Tim,",2005,FALSE
+"749","ALDERMAN","DP 000285 .S73  1994","X002480606","Road of stars to Santiago /","Stanton, Edward F.,",1994,FALSE
+"750","ALDERMAN","DP 000285 .T37  1990","X001841418","Pilgrimages to St James of Compostella from the British Isles during the Middle Ages /","Tate, Robert Brian.",1990,FALSE
+"751","CLEMONS","DP 000302 .A38  S74  2001","X004502214","Driving over lemons : an optimist in Spain /","Stewart, Chris,",2001,FALSE
+"752","ALDERMAN","DP 000302 .A46  C45  1964A","X031665511","Flamencología (toros, cante y baile) /","González Climent, Anselmo,",1964,TRUE
+"753","ALDERMAN","DP 000302 .A467  J67  1983","X000666699","White wall of Spain : the mysteries of Andalusian culture /","Josephs, Allen.",1983,FALSE
+"754","ALDERMAN","DP 000302 .A467  M58  1990","X001705161","Passional culture : emotion, religion, and society in Southern Spain /","Mitchell, Timothy.",1990,FALSE
+"755","ALDERMAN","DP 000302 .A467  R48  2007","X030255771","Revisiting al-Andalus : perspectives on the material culture of Islamic Iberia and beyond /","",2007,TRUE
+"756","ALDERMAN","DP 000302 .A467  U786  1990","X002045160","Pensers d'al-Andalus : la vie intellectuelle à Cordove et      Seville au temps des empires Berbères (fin XIe siècle-début XIIIe siécle) /","Urvoy, Dominique.",1990,FALSE
+"757","ALDERMAN","DP 000302 .A468  C67  2009","X030608379","Al-Andalus, Sepharad and medieval Iberia : cultural contact and diffusion /","Corfis, Ivy A.",2009,TRUE
+"758","ALDERMAN","DP 000302 .A468  S24  2013","X031618506","Defining boundaries in al-Andalus : Muslims, Christians, and Jews in Islamic Iberia /","Safran, Janina M.",2013,FALSE
+"759","ALDERMAN","DP 000302 .A47  G55  2009","X030469627","Andalucía : a cultural history /","Gill, John (John Joseph)",2009,TRUE
+"760","ALDERMAN","DP 000302 .A5  C6  V.000003","X031831851","Portugal na Espanha árabe. Organização, prólogo e notas de António Borges Coelho.","Coelho, António Borges",1972,TRUE
+"761","ALDERMAN","DP 000302 .A5  F47  2016","X031730584","The myth of the Andalusian paradise : Muslims, Christians, and Jews under Islamic rule in medieval Spain /","Fernández-Morera, Darío,",2016,TRUE
+"762","ALDERMAN","DP 000302 .A7  F36  2016","X031819154","The mercenary Mediterranean : sovereignty, religion, and violence in the medieval crown of Aragon /","Fancy, Hussein Anwar,",2016,TRUE
+"763","CLEMONS","DP 000302 .B46  K85  1999","X004341802","The Basque history of the world /","Kurlansky, Mark.",1999,FALSE
+"764","ALDERMAN","DP 000302 .B46  W75  2008","X030251998","The Basque country : a cultural history /","Woodworth, Paddy,",2008,FALSE
+"765","ALDERMAN","DP 000302 .B467  A886  2016","X031804389","Autonomía e ideología : tensiones en el campo cultural vasco /","",2016,FALSE
+"766","ALDERMAN","DP 000302 .B47  B37  1985","X001010552","Basque politics : a case study in ethnic nationalism /","",1985,FALSE
+"767","ALDERMAN","DP 000302 .B48  P67  2016","X031803964","El eco de los disparos : cultura y memoria de la violencia /","Portela, M. Edurne,",2016,FALSE
+"768","ALDERMAN","DP 000302 .B49  C65  1987","X001107992","The Basques /","Collins, Roger,",1987,TRUE
+"769","ALDERMAN","DP 000302 .B53  B46  1984","X001005717","Euskadi : sin la paz nada es posible /","Benegas, José María.",1984,FALSE
+"770","ALDERMAN","DP 000302 .B53  C54  1984","X000787031","The Basque insurgents : ETA, 1952-1980 /","Clark, Robert P.",1984,TRUE
+"771","ALDERMAN","DP 000302 .B53  C55","X006172524","The Basques, the Franco years and beyond /","Clark, Robert P.",1979,TRUE
+"772","ALDERMAN","DP 000302 .B53  C56  1990","X001831338","Negotiating with ETA : obstacles to peace in the Basque country, 1975-1988 /","Clark, Robert P.",1990,TRUE
+"773","ALDERMAN","DP 000302 .B53  D54  1995","X002644704","Divided nations : class, politics, and nationalism in the Basque Country and Catalonia /","Díez Medrano, Juan.",1995,TRUE
+"774","ALDERMAN","DP 000302 .B53  J38  1981","X000594602","Ideología y estrategia política de ETA : análisis de su evolución entre 1959 y 1968 /","Jáuregui Bereciartu, Gurutz,",1981,FALSE
+"775","ALDERMAN","DP 000302 .B53  M37  1982","X001337130","The Basques and Catalans /","Medhurst, Kenneth,",1982,FALSE
+"776","ALDERMAN","DP 000302 .B53  M374  2003","X004719582","Nationalism, violence, and democracy : the Basque clash of identities /","Mees, Ludger.",2003,FALSE
+"777","ALDERMAN","DP 000302 .B53  N8613  1997","X006012706","The Basques : their struggle for independence /","Núñez, Luis C.",1997,FALSE
+"778","ALDERMAN","DP 000302 .B53  P38","X000031466","Basque nationalism /","Payne, Stanley G.",1975,FALSE
+"779","ALDERMAN","DP 000302 .B53  S85  1988","X001355457","ETA and Basque nationalism : the flight from Euskadi /","Sullivan, John, (John L.),",1988,FALSE
+"780","ALDERMAN","DP 000302 .B53  Z57  1991","X001977961","A rebellious people : Basques, protests, and politics /","Zirakzadeh, Cyrus Ernesto,",1991,FALSE
+"781","ALDERMAN","DP 000302 .B55  A8  1994","X031630882","Auto de terminación : (raza, nación y violencia en el País Vasco) /","Aranzadi, Juan.",1994,FALSE
+"782","ALDERMAN","DP 000302 .B55  B28  1999","X004214797","Basque politics and nationalism on the eve of the millennium /","",1999,FALSE
+"783","ALDERMAN","DP 000302 .B55  C66  1997B","X006048920","The Basques, the Catalans, and Spain : alternative routes to nationalist mobilisation /","Conversi, Daniele.",1997,TRUE
+"784","ALDERMAN","DP 000302 .B55  L43  2007","X030261889","Basque nationalism and the Spanish state /","Lecours, André,",2007,TRUE
+"785","ALDERMAN","DP 000302 .B55  M87  2008","X030257107","Ethnicity and violence : the case of radical Basque nationalism /","Muro, Diego.",2008,FALSE
+"786","ALDERMAN","DP 000302 .B55  T67  2004","X004702616","Identity, culture, and politics in the Basque diaspora /","Totoricaguena, Gloria P. (Gloria Pilar),",2004,TRUE
+"787","ALDERMAN","DP 000302 .C61  V48  2013","X032209006","Notícia de Catalunya /","Vicens Vives, Jaime,",2013,TRUE
+"788","ALDERMAN","DP 000302 .C61  W44  2013","X030861442","What's up with Catalonia? : the causes which impel them to the separation /","",2013,FALSE
+"789","ALDERMAN","DP 000302 .C616  A588  2014","X032576776","Any de consulta : recull de vinyetes /","",2014,FALSE
+"790","ALDERMAN","DP 000302 .C616  C572  2011","X030306560","A companion to Catalan culture /","",2011,TRUE
+"791","ALDERMAN","DP 000302 .C616  E38  2008","X030249629","Catalonia : a cultural history /","Eaude, Michael.",2008,FALSE
+"792","ALDERMAN","DP 000302 .C616  F73  2003","X031744543","Cultura nacional en una sociedad dividida : Cataluña, 1838-1868 /","Fradera, Josep Maria.",2003,TRUE
+"793","ALDERMAN","DP 000302 .C617  V5318  2012","X032209850","Noticia de Cataluña : la obra de referencia para entender la construcción de una identidad /","Vicens Vives, Jaime.",2012,TRUE
+"794","ALDERMAN","DP 000302 .C619  A87  2012","X031214951","Authoring the past : history, autobiography, and politics in medieval Catalonia /","Aurell i Cardona, Jaume.",2012,FALSE
+"795","ALDERMAN","DP 000302 .C619  B36  2018","X031814055","Catalonia reborn : how Catalonia took on the corrupt Spanish state and the legacy of Franco /","Bambery, Chris,",2018,FALSE
+"796","ALDERMAN","DP 000302 .C619  F47  2014","X031716317","Cataluña y el absolutismo borbónico : historia y política /","Fernández, Roberto (Fernández Díaz)",2014,TRUE
+"797","ALDERMAN","DP 000302 .C62  G45","X000471330","The social structure of Catalonia /","Giner, Salvador.",1980,TRUE
+"798","ALDERMAN","DP 000302 .C62  M46  2017","X032209975","Qué está pasando en Cataluña /","Mendoza, Eduardo,",2017,FALSE
+"799","ALDERMAN","DP 000302 .C62  P39  2009","X030700817","Catalonia : history and culture /","Payne, John,",2009,FALSE
+"800","ALDERMAN","DP 000302 .C63  S65  2003","X004772955","Negotiating Spain and Catalonia : competing narratives of national identity /","Solís, Fernando León.",2003,FALSE
+"801","ALDERMAN","DP 000302 .C65  J377  2010","X030822033","Rulers and ruled in frontier Catalonia, 880-1010 : pathways of power /","Jarrett, Jonathan Andrew.",2010,FALSE
+"802","ALDERMAN","DP 000302 .C66  E4  1963","X000191071","The revolt of the Catalans, a study in the decline of Spain, 1598-1640.","Elliott, J. H. (John Huxtable)",1963,FALSE
+"803","ALDERMAN","DP 000302 .C67  B3513  1996","X002701153","Catalan nationalism : past and present /","Balcells, Albert.",1996,FALSE
+"804","ALDERMAN","DP 000302 .C68  B34813  2015","X031705987","Disdain, distrust and dissolution : the surge of support for independence in Catalonia /","Bel i Queralt, Germa.",2015,FALSE
+"805","ALDERMAN","DP 000302 .C68  B67  2018","X032576778","Dies que duraran anys /","Borràs, Jordi,",2018,FALSE
+"806","ALDERMAN","DP 000302 .C68  C38  2014","X031713127","Cataluña : el mito de la secesión : desmontando las falacias del nacionalismo /","",2014,TRUE
+"807","ALDERMAN","DP 000302 .C68  C73  2014","X031705243","Goodbye, Spain? : the question of independence for Catalonia /","Crameri, Kathryn,",2014,TRUE
+"808","ALDERMAN","DP 000302 .C68  D69  2013","X031613251","Catalonia since the Spanish Civil War : reconstructing the nation /","Dowling, Andrew.",2013,TRUE
+"809","ALDERMAN","DP 000302 .C68  F39  2013","X032576792","Manual per la independència : ara és l'hora, catalans! /","Feliu, Dolors,",2013,TRUE
+"810","ALDERMAN","DP 000302 .C68  F69  2009","X031740795","La pàtria dels catalans : història, política, cultura /","Fradera, Josep Maria.",2009,TRUE
+"811","ALDERMAN","DP 000302 .C68  G84  2006","X030246579","The failure of Catalanist opposition to Franco (1939-1950) /","Güell, Casilda.",2006,TRUE
+"812","ALDERMAN","DP 000302 .C68  J64  1991","X002032113","Tales of nationalism : Catalonia, 1939-1979 /","Johnston, Hank,",1991,FALSE
+"813","ALDERMAN","DP 000302 .C68  L554  2013","X032576777","Desmuntant la caverna : respostes a les mentides que ens volen fer creure /","Llombart, Jofre,",2013,TRUE
+"814","ALDERMAN","DP 000302 .C68  M2773  2017X","X032576793","La generació de la independència : del Bloc d'Estudiants Independentistes a l'Associació Catalana de Professionals /","Marco Palau, Francesc,",2017,FALSE
+"815","ALDERMAN","DP 000302 .C68  M2799  2018","X032576790","57 días en Piolín : procesando el Procés: el Caso, la Cosa, la Trila /","Martínez, Guillem,",2018,FALSE
+"816","ALDERMAN","DP 000302 .C68  S485  2013","X032576774","De la nació a l'estat /","Serrano Balaguer, Ivan.",2013,FALSE
+"817","ALDERMAN","DP 000302 .C68  S53  2014","X031627356","The origins of Catalan nationalism, 1770-1898 /","Smith, Angel,",2014,FALSE
+"818","ALDERMAN","DP 000302 .C68  S632  2015","X032576780","Sobre el franquisme i Catalunya : homenatge a Borja de Riquer i Permanyer /","",2015,FALSE
+"819","ALDERMAN","DP 000302 .C68  S817  2011","X030958865","What Catalans want : ""could Catalonia become Europe's next state?"" /","Strubell, Antoni,",2011,FALSE
+"820","ALDERMAN","DP 000302 .C68  V4938  2008","X032576781","Delenda est Catalonia : del tripartit a l'estatut de l'estatut a l'independentiste /","Vila Casas, Enric,",2008,TRUE
+"821","ALDERMAN","DP 000302 .C69  A55  2006","X030107491","Catalunya, one nation, two states : an ethnographic study of nonviolent resistance to assimilation /","Alland, Alexander,",2006,FALSE
+"822","ALDERMAN","DP 000302 .C69  B38  2015","X032576791","Breu història del procés /","Batllori, Toni,",2015,FALSE
+"823","ALDERMAN","DP 000302 .C69  C73  2008","X030457474","Catalonia : national identity and cultural policy, 1980-2003 /","Crameri, Kathryn.",2008,TRUE
+"824","ALDERMAN","DP 000302 .C69  G8613  2004","X004768497","Catalan nationalism : Francoism, transition and democracy /","Guibernau i Berdún, M. Montserrat (Maria Montserrat)",2004,TRUE
+"825","ALDERMAN","DP 000302 .C69  H37  2000","X004439197","Freedom for Catalonia? : Catalan nationalism, Spanish identity and the Barcelona Olympic Games /","Hargreaves, John (John E. R.)",2000,FALSE
+"826","ALDERMAN","DP 000302 .C69  M372  2018","X032576779","Cómo ganamos el proceso y perdimos la república : una crónica de la crisis de Estado desde dentro y desde fuera /","Martí, Josep,",2018,FALSE
+"827","ALDERMAN","DP 000302 .C69  M56  2017","X031839795","The struggle for Catalonia : rebel politics in Spain /","Minder, Raphael,",2017,FALSE
+"828","ALDERMAN","DP 000302 .C69  R33  2016","X031758808","Concordia, discordia /","Racionero, Luis,",2016,TRUE
+"829","ALDERMAN","DP 000302 .C69  S45  2013","X032576775","Crònica del catalanisme : de l'autonomia a la independència /","Segura, Antoni",2013,FALSE
+"830","ALDERMAN","DP 000302 .G11  G46  1980  V.000011","X000223906","Orense /","Risco, Vicente,",1980,TRUE
+"831","ALDERMAN","DP 000302 .G17  G47  2006","X004834574","A concise history of Galicia /","Gemie, Sharif.",2006,TRUE
+"832","ALDERMAN","DP 000302 .G17  T68","X030196825","El reino de los suevos /","Torres Rodríguez, Casimiro.",1977,TRUE
+"833","ALDERMAN","DP 000302 .G39  O58  2011","X030957724","The Gibraltar crusade : Castile and the battle for the Strait /","O'Callaghan, Joseph F.",2011,FALSE
+"834","ALDERMAN","DP 000302 .G4  S76  2009","X030565654","Gibraltar : 'a dagger in the spine of Spain?' /","Stockey, Gareth.",2009,FALSE
+"835","ALDERMAN","DP 000302 .G66  B37  2007","X031730229","La convivencia negada : historia de los moriscos del Reino de Granada /","Barrios Aguilera, Manuel.",2007,FALSE
+"836","ALDERMAN","DP 000302 .G66  C65  2003","X004707826","Creating Christian Granada : society & religious culture in an Old-World frontier city, 1492-1600 /","Coleman, David,",2003,TRUE
+"837","ALDERMAN","DP 000302 .L13  C4  1970","X031759996","Viaje a La Alcarria /","Cela, Camilo José,",1970,TRUE
+"838","ALDERMAN","DP 000302 .L13  C4  2010","X031788927","Viaje a la Alcarria /","Cela, Camilo José,",2010,TRUE
+"839","ALDERMAN","DP 000302 .L13  C413","X031831643","Journey to the Alcarria.","Cela, Camilo José,",1964,TRUE
+"840","ALDERMAN","DP 000302 .N30  W66  2013","X031603523","The queens regnant of Navarre : succession, politics, and partnership, 1274-1512 /","Woodacre, Elena.",2013,FALSE
+"841","ALDERMAN","DP 000302 .V13  C364  2018","X032209942","Un buen tío : cómo el populismo y la posverdad destruyen a los hombres /","Espada, Arcadio,",2018,TRUE
+"842","ALDERMAN","DP 000302 .V15  R63  2002","X030237467","Valencia & the Costa Blanca /","Roddis, Miles.",2002,TRUE
+"843","ALDERMAN","DP 000302 .V16  A73  1985","X001146219","Valencia y su provincia /","Arazo, María Angeles.",1985,FALSE
+"844","ALDERMAN","DP 000302 .V205  B83","X000125592","Islam under the crusaders, colonial survival in the thirteenth-century Kingdom of Valencia","Burns, Robert I.,",1973,FALSE
+"845","ALDERMAN","DP 000302 .V205  B85  1984","X000690957","Muslims, Christians, and Jews in the crusader kingdom of Valencia : societies in symbiosis /","Burns, Robert I.,",1984,FALSE
+"846","ALDERMAN","DP 000302 .V205  M49  1991","X001858256","The Muslims of Valencia in the age of Fernando and Isabel : between coexistence and crusade /","Meyerson, Mark D.",1991,FALSE
+"847","ALDERMAN","DP 000302 .V22  H35  2008","X031717435","Un conflicto nacional : moriscos y cristianos viejos en Valencia /","Halperín Donghi, Tulio.",2008,FALSE
+"848","ALDERMAN","DP 000302 .V225  E97  1997","X004824396","La expulsión de los Moriscos del reino de Valencia.","",1997,FALSE
+"849","ALDERMAN","DP 000354 .Q7  1980  V.000001","X000323151","A la mvy antigva, noble y coronada Villa de Madrid : historia de sv antigvedad, nobleza y grandeza /","Quintana, Jerónimo de,",1980,TRUE
+"850","ALDERMAN","DP 000357 .P37  2003","X004719014","A cultural history of Madrid : modernism and the urban spectacle /","Parsons, Deborah L.,",2003,FALSE
+"851","ALDERMAN","DP 000360 .R44  1982","X000675703","Relaciones breves de actos públicos celebrados en Madrid de 1541 a 1650 /","",1982,FALSE
+"852","ALDERMAN","DP 000361 .L37  2011","X030845523","Constructing and resisting modernity : Madrid 1900-1936 /","Larson, Susan,",2011,FALSE
+"853","ALDERMAN","DP 000361 .M325  1986  V.000002","X031711753","Madrid en la sociedad del siglo XIX /","",1986,TRUE
+"854","CLEMONS","DP 000402 .A4  I89  2004","X004791097","The Alhambra /","Irwin, Robert,",2004,FALSE
+"855","ALDERMAN","DP 000402 .A4  T7  1985B","X000970808","Shades of the Alhambra /","Trevelyan, Raleigh.",1985,TRUE
+"856","ALDERMAN","DP 000402 .A4  V5  1982","X000891958","La Alhambra de Granada : tres siglos de historia /","Viñes, Cristina.",1982,TRUE
+"857","ALDERMAN","DP 000402 .A47  K35  2000","X006111590","The urban dialogue : an analysis of the use of space in the Roman city of Empúries, Spain /","Kaiser, Alan.",2000,FALSE
+"858","ALDERMAN","DP 000402 .A85  H4713  1969","X031630738","Avila /","Hernández Martín, Félix,",1969,FALSE
+"859","ALDERMAN","DP 000402 .B24  V3913  1992","X002244479","Barcelonas /","Vázquez Montalbán, Manuel.",1992,TRUE
+"860","ALDERMAN","DP 000402 .B25  G6  1969","X000471811","Barcelona: the civic stage; a portrait in urban civilization,","Goldston, Robert C.,",1969,TRUE
+"861","ALDERMAN","DP 000402 .B25  R66  1994","X031649742","Barcelona romántica y revolucionaria : una imagen literaria de la ciudad, década de 1833 a 1843 /","Romea Castro, Celia.",1994,TRUE
+"862","ALDERMAN","DP 000402 .B265  A84  2012","X031213838","Barcelona and Madrid : social networks of the Avant-Garde /","Arenas, Aránzazu Ascunce,",2012,FALSE
+"863","ALDERMAN","DP 000402 .B265  B37174  2017","X032583664","The Barcelona reader : cultural readings of a city /","",2017,FALSE
+"864","ALDERMAN","DP 000402 .B265  H85  1992","X002051134","Barcelona /","Hughes, Robert,",1992,FALSE
+"865","CLEMONS","DP 000402 .B265  H87  2004","X004769954","Barcelona, the Great Enchantress /","Hughes, Robert,",2004,FALSE
+"866","ALDERMAN","DP 000402 .B265  M38  2018","X032561445","Barcelona /","McDonogh, Gary W.,",2018,FALSE
+"867","ALDERMAN","DP 000402 .B265  R46  2008","X030464236","Barcelona's vocation of modernity : rise and decline of an urban image /","Resina, Joan Ramon.",2008,TRUE
+"868","ALDERMAN","DP 000402 .B37  D4  1968","X031630719","El parador nacional Conde de Gondomar.","Deben, Carmen.",1968,TRUE
+"869","ALDERMAN","DP 000402 .C715  C38  2002","X031717438","Los moriscos de Cortes y los Pallás : documentos para su estudio /","Catalá Sanz, Jorge Antonio,",2002,TRUE
+"870","ALDERMAN","DP 000402 .G6  C3","X000051840","Granada and the Alhambra, a brief description of the ancient city of Granada, with a particular account of the Moorish palace;","Calvert, Albert Frederick,",1907,TRUE
+"871","ALDERMAN","DP 000402 .G6  H36  2007","X030152186","From Muslim to Christian Granada : inventing a city's past in early modern Spain /","Harris, A. Katie,",2007,FALSE
+"872","ALDERMAN","DP 000402 .G6  R636  2017","X031819024","Spain unmoored : migration, conversion, and the politics of Islam /","Rogozen-Soltar, Mikaela H.,",2017,TRUE
+"873","ALDERMAN","DP 000402 .O73  V53  T.000005 V.000001","X031914690","Historia de la Ciudad de Orihuela /","Vilar, Juan Bautista,",1975,TRUE
+"874","ALDERMAN","DP 000402 .S1  A6713  1970","X031630716","Salamanca /","Alvarez Villar, Julián.",1970,FALSE
+"875","ALDERMAN","DP 000402 .S23  D4  1968","X031630720","El Hostal de los Reyes Católicos en la historia de Santiago.","Deben, Carmen.",1968,TRUE
+"876","ALDERMAN","DP 000402 .S23  M94  1991","X002040229","Santiago : saint of two worlds /","Myers, Joan,",1991,FALSE
+"877","ALDERMAN","DP 000402 .S23  O78  1998","X004435120","Incidents of travel on the road to Santiago : with the history, the myths and legends, the monuments, a new translation of the medieval Pilgrim's guide to Santiago de Compostela and everything else you ever wanted to know about this legendary pilgrimage route /","García Osuna, Alfonso J.,",1998,FALSE
+"878","ALDERMAN","DP 000402 .S3623  T67  2012","X031645823","La memoria silenciada de Serón (Almería) : República, Guerra Civil y represión franquista (1931-1945) /","Torreblanca Martínez, Juan.",2012,TRUE
+"879","ALDERMAN","DP 000402 .S415  N37  2005","X004905827","Seville, Córdoba, and Granada : a cultural history /","Nash, Elizabeth,",2005,FALSE
+"880","ALDERMAN","DP 000402 .S48  C384  1998","X031717133","La Casa de Pilatos /","Lleó Cañal, Vicente.",1998,TRUE
+"881","ALDERMAN","DP 000402 .T36  C45  2016","X031760793","Tartessos and the Phoenicians in Iberia /","Celestino Pérez, Sebastián,",2016,TRUE
+"882","ALDERMAN","DP 000402 .T7  Z3713  1972","X031630737","Toledo /","Zarco Moreno, Francisco.",1972,FALSE
+"883","ALDERMAN","DP 000402 .T74  P57","X000289054","Descripción de la imperial civdad de Toledo, y historia de sus antigüedades, y grandeza, y cosas memorables que en ella han acontecido ...","Pisa, Francisco de.",1974,FALSE
+"884","ALDERMAN","DP 000402 .V22  B87  2013","X031614473","Warrior neighbours : Crusader Valencia in its international context : collected essays of Father Robert I. Burns, SJ /","Burns, Robert I.,",2013,FALSE
+"885","ALDERMAN","DP 000402 .V3  R4  1968","X031630721","Valladolid.","Regidor, Máximo.",1968,TRUE
+"886","ALDERMAN","DP 000402 .V54427  D33  2015","X031713427","Los moriscos de Villarrubia de los Ojos (siglos XV-XVIII) : historia de una minoría asimilada, expulsada y reintegrada /","Dadson, Trevor J.",2015,TRUE
+"887","ALDERMAN","DP 000517 .C66  2003","X004746735","Contemporary Portugal : politics, society and culture /","",2003,FALSE
+"888","ALDERMAN","DP 000517 .C668  2011","X030957722","Contemporary Portugal : politics, society and culture /","",2011,FALSE
+"889","ALDERMAN","DP 000517 .D57  2009  V.000001","X030566899","A history of Portugal and the Portuguese empire /","Disney, A. R. (Anthony R.),",2009,TRUE
+"890","ALDERMAN","DP 000517 .L44  2007","X031758703","Le Portugal /","Léglise-Costa, Pierre.",2007,FALSE
+"891","ALDERMAN","DP 000526.5 .H952  1996","X004054341","Backwards out of the big world : a voyage into Portugal /","Hyland, Paul,",1996,FALSE
+"892","ALDERMAN","DP 000532.5 .S45  2015","X031726800","Self-fashioning and assumptions of identity in medieval and early modern Iberia /","",2015,FALSE
+"893","ALDERMAN","DP 000534 .B53  C35  2008X","X030568979","Metrópole das mandingas : religiosidade negra e inquisição portuguesa no Antigo Regime /","Calainho, Daniela Buono.",2008,TRUE
+"894","ALDERMAN","DP 000534.5 .R87  1992","X002214938","A world on the move : the Portuguese in Africa, Asia and America, 1415-1808 /","Russell-Wood, A. J. R.,",1992,FALSE
+"895","ALDERMAN","DP 000534.5 .S78  2007","X030107207","A nation upon the ocean sea : Portugal's Atlantic diaspora and the crisis of the Spanish Empire, 1492-1640 /","Studnicki-Gizbert, Daviken.",2007,FALSE
+"896","ALDERMAN","DP 000536.1 .L39  2009","X030276792","The Reconquest kings of Portugal : political and cultural reorientation on the medieval frontier /","Lay, Stephen.",2009,FALSE
+"897","ALDERMAN","DP 000538 .B57  2003","X030254230","A concise history of Portugal /","Birmingham, David.",2003,FALSE
+"898","ALDERMAN","DP 000538 .B68","X000213837","The Portuguese seaborne empire, 1415-1825,","Boxer, C. R. (Charles Ralph),",1969,FALSE
+"899","ALDERMAN","DP 000538 .N49  2009","X030563069","Portugal in European and world history /","Newitt, M. D. D.",2009,FALSE
+"900","ALDERMAN","DP 000556 .I46  2009","X030565105","Império de várias faces : relações de poder no mundo ibérico da Época Moderna /","",2009,FALSE
+"901","ALDERMAN","DP 000557 .A35  H46  2004","X030036002","Os pilares da diferença : relações Portugal--Africa, séculos XV-XX /","Henriques, Isabel de Castro.",2004,FALSE
+"902","ALDERMAN","DP 000557 .B7  P37  2013","X031599873","Imperial Portugal in the age of Atlantic revolutions : the Luso-Brazilian world, c. 1770-1850 /","Paquette, Gabriel B.,",2013,FALSE
+"903","ALDERMAN","DP 000557 .C5  P82  1996  V.000002","X031847229","Pu Zhong guan xi shi zi liao hui bian /","",1996,TRUE
+"904","ALDERMAN","DP 000557 .S72  B54  2018","X032561007","(Dis)connected empires : imperial Portugal, Sri Lankan diplomacy, and the making of a Habsburg conquest in Asia /","Biedermann, Zoltán,",2018,FALSE
+"905","ALDERMAN","DP 000562 .A43  1988  V.000001","X031224929","Roman Portugal /","Alarcão, Jorge de.",1988,TRUE
+"906","ALDERMAN","DP 000582 .M367  2011","X031603429","L'invenzione di un impero : politica e cultura nel mondo portoghese, 1450-1600 /","Marcocci, Giuseppe.",2011,FALSE
+"907","ALDERMAN","DP 000583 .E47  1985","X000983920","Empire in transition : the Portuguese world in the time of Camões /","",1985,FALSE
+"908","ALDERMAN","DP 000583 .F67  1999","X004843821","Os descobrimentos e a formação do oceano Atlântico : século XIV - século XVI /","Fonseca, Luís Adão da.",1999,FALSE
+"909","ALDERMAN","DP 000583 .N49  2005","X004839137","A history of Portuguese overseas expansion, 1400-1668 /","Newitt, M. D. D.",2005,FALSE
+"910","ALDERMAN","DP 000583 .P677  2007","X030103888","Portuguese oceanic expansion, 1400-1800 /","",2007,FALSE
+"911","ALDERMAN","DP 000600 .H85  2015","X031787031","The crown, the court and the Casa da Índia : political centralization in Portugal, 1479-1521 /","Humble Ferreira, Susannah,",2015,FALSE
+"912","ALDERMAN","DP 000612 .M36  2012","X031214950","The baker who pretended to be King of Portugal /","Mackay, Ruth.",2012,FALSE
+"913","ALDERMAN","DP 000675 .G34  1983","X000485048","Portugal : a twentieth-century interpretation /","Gallagher, Tom,",1983,FALSE
+"914","ALDERMAN","DP 000676 .S25  D46  2009","X030607994","Salazar : a political biography /","De Meneses, Filipe Ribeiro,",2009,TRUE
+"915","ALDERMAN","DP 000676 .S25  K3  1970","X000238837","Salazar and modern Portugal.","Kay, Hugh.",1970,FALSE
+"916","ALDERMAN","DP 000680 .B76  1975","X000239382","Portugal, the last empire /","Bruce, Neil.",1975,FALSE
+"917","ALDERMAN","DP 000680 .C594","X000015736","Contemporary Portugal : the revolution and its antecedents /","",1979,FALSE
+"918","ALDERMAN","DP 000680 .D4  1939","X001102373","The Portugal of Salazar.","Derrick, Michael.",1939,FALSE
+"919","ALDERMAN","DP 000680 .H38  1978","X000164608","Portugal, birth of a democracy /","Harvey, Robert,",1978,FALSE
+"920","ALDERMAN","DP 000680 .R25  1988","X001362023","Fascism and resistance in Portugal : communists, liberals and military dissidents in the opposition to Salazar, 1941-1974 /","Raby, D. L.,",1988,FALSE
+"921","ALDERMAN","DP 000681 .L63  2017","X031818949","Out of the shadows : Portugal from revolution to the present day /","Lochery, Neill,",2017,FALSE
+"922","ALDERMAN","DP 000681 .M39  1995","X002681684","The making of Portuguese democracy /","Maxwell, Kenneth,",1995,FALSE
+"923","ALDERMAN","DP 000681 .S58  1987  V.000001","X001398163","Intervenções /","Soares, Mário.",9999,TRUE
+"924","ALDERMAN","DP 000702 .A99  F4  1981  T.000001","X031598552","Anais da Ilha Terceira /","Drummond, Francisco Ferreira,",1981,TRUE
+"925","ALDERMAN","DP 000756 .J23  2007","X030275558","Lisbon, city of the sea : a history /","Jack, Malcolm,",2007,FALSE
+"926","ALDERMAN","DP 000762 .K4  1956","X000502928","The Lisbon earthquake.","Kendrick, T. D. (Thomas Downing)",1956,FALSE
+"927","ALDERMAN","DP 000762 .M65  2015","X032401919","This gulf of fire : the destruction of Lisbon, or apocalypse in the age of science and reason /","Molesky, Mark.",2015,FALSE
+"928","ALDERMAN","DP 000762 .V35  2008","X032209007","La conquista de Lisboa : violencia militar y comunidad política en Portugal, 1578-1583 /","Valladares, Rafael.",2008,FALSE

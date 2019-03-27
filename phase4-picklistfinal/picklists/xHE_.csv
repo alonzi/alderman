@@ -1,0 +1,635 @@
+"","Item.Library.Code","Item.Shelving.Id","Item.Barcode","Catalog.Title","Catalog.Author","Catalog.Pub.Year","MultiVolume"
+"1","ALDERMAN","HE 000001 .R47  V.16","X030144827","Port economics /","",2006,TRUE
+"2","ALDERMAN","HE 000001 .R47  V.20","X030262513","Railroad economics /","",2007,TRUE
+"3","ALDERMAN","HE 000147.5 .S63  2013","X031650832","Smart transport networks : market structure, sustainability and decision making /","",2013,FALSE
+"4","ALDERMAN","HE 000147.6 .I28  2015","X031732830","ICT for transport : opportunities and threats /","",2015,FALSE
+"5","ALDERMAN","HE 000147.65 .B36  2005","X004833259","Unsustainable transport : city transport in the new century /","Banister, David.",2005,FALSE
+"6","ALDERMAN","HE 000147.65 .D45  2014","X031654789","Towards sustainable road transport /","Dell, Ronald",2014,FALSE
+"7","ALDERMAN","HE 000147.65 .M68  2013","X031614274","Moving towards low carbon mobility /","",2013,FALSE
+"8","ALDERMAN","HE 000147.65 .T698  2012","X031213504","Transition towards sustainable mobility : the role of instruments, individuals and institutions /","",2012,FALSE
+"9","ALDERMAN","HE 000147.65 .T735  2015","X031800590","Transport for sustainable development : the case of inland transport.","",2015,FALSE
+"10","ALDERMAN","HE 000149 .S54  2007","X004832900","Postal systems in the pre-modern Islamic world /","Silverstein, Adam J.",2007,FALSE
+"11","ALDERMAN","HE 000151 .B9  2010","X031829735","Transport economics /","Button, Kenneth,",2010,FALSE
+"12","ALDERMAN","HE 000151 .D46  2009","X030277010","After the car /","Dennis, Kingsley.",2009,FALSE
+"13","ALDERMAN","HE 000151 .G77  2018","X031814231","Transportation planning and public participation : theory, process, and practice /","Grossardt, Theodore H.,",2018,FALSE
+"14","ALDERMAN","HE 000151 .H876  2016","X031739209","Door to door : the magnificent, maddening, mysterious world of transportation /","Humes, Edward,",2016,FALSE
+"15","ALDERMAN","HE 000151 .K323  2015","X031706703","Move : putting America's infrastructure back in the lead /","Kanter, Rosabeth Moss,",2015,FALSE
+"16","ALDERMAN","HE 000151 .L48  2017","X032210421","Elements of access : transport planning for engineers, transport engineering for planners /","Levinson, David M.,",2017,FALSE
+"17","ALDERMAN","HE 000151 .M64  2011","X031215549","Mobilities : new perspectives on transport and society /","",2011,FALSE
+"18","ALDERMAN","HE 000151 .U77  2007","X030278610","Mobilities /","Urry, John.",2007,FALSE
+"19","ALDERMAN","HE 000161 .A33  2007","X004832310","Land transport in Roman Egypt : a study of economics and administration in a Roman province /","Adams, C. E. P. (Colin E. P.)",2007,FALSE
+"20","ALDERMAN","HE 000191.5 .W37  2011","X030819392","Statistical and econometric methods for transportation data analysis /","Washington, Simon.",2011,FALSE
+"21","ALDERMAN","HE 000194.5 .U6  H39  2012","X030841719","Permanent emergency : inside the TSA and the fight for the future of American security /","Hawley, Edmund S. (Edmund Summers),",2012,FALSE
+"22","ALDERMAN","HE 000195.4 .F85  1997","X004177600","The full costs and benefits of transportation : contributions to theory, method, and measurement /","",1997,FALSE
+"23","ALDERMAN","HE 000199 .A2  C37  2015","X031707186","Cargomobilities : moving materials in a global age /","",2015,TRUE
+"24","ALDERMAN","HE 000199 .A2  C58  2011","X031187006","City distribution and urban freight transport : multiple perspectives /","",2011,TRUE
+"25","ALDERMAN","HE 000199 .A2  H586  2013","X031619329","Globalization contained : the economic and strategic consequences of the container /","Hoovestal, Lance E.,",2013,FALSE
+"26","ALDERMAN","HE 000199 .A2  M39  2006","X004904101","Uncommon carriers /","McPhee, John (John A.)",2006,FALSE
+"27","ALDERMAN","HE 000199 .A2  M56  2014","X031620841","Modelling freight transport /","",2014,FALSE
+"28","ALDERMAN","HE 000202 .S74  1986","X001109687","The English Atlantic, 1675-1740 : an exploration of communication and community /","Steele, Ian K. (Ian Kenneth),",1986,FALSE
+"29","ALDERMAN","HE 000203 .B45  2014","X031625887","Best practices for transportation agency use of social media /","",2014,FALSE
+"30","ALDERMAN","HE 000203 .D377  2003","X004702862","On the move : transportation and the American story /","Davidson, Janet.",2003,FALSE
+"31","ALDERMAN","HE 000203 .N25  2018","X031839342","The road to inequality : how the federal highways program polarized American politics and undermined cities /","Nall, Clayton,",2018,FALSE
+"32","ALDERMAN","HE 000203 .P73  2003","X004703004","Technology, transport, and travel in American history /","Post, Robert C.",2003,FALSE
+"33","ALDERMAN","HE 000203 .P75  2015","X031763181","Private financing of public transportation infrastructure : utilizing public-private partnerships /","",2015,FALSE
+"34","ALDERMAN","HE 000203 .T348  1968","X000238911","The transportation revolution, 1815-1860 /","Taylor, George Rogers,",1968,FALSE
+"35","ALDERMAN","HE 000203 .W45  2013","X031618357","Wet britches and muddy boots : a history of travel in Victorian America /","White, John H.,",2013,FALSE
+"36","ALDERMAN","HE 000203 .W56  2010","X030745288","Last exit : privatization and deregulation of the U.S. transportation system /","Winston, Clifford,",2010,FALSE
+"37","ALDERMAN","HE 000204 .I5  1981","X000533935","Transportation and the early nation : papers presented at an Indiana American Revolution Bicentennial Symposium : Allen County-Fort Wayne Historical Society Museum, Fort Wayne, Indiana, April 24-26, 1981.","Indiana American Revolution Bicentennial Symposium",1982,FALSE
+"38","ALDERMAN","HE 000204 .T39  1951","X000003110","The transportation revolution, 1815-1860 /","Taylor, George Rogers,",1951,FALSE
+"39","ALDERMAN","HE 000206.2 .D55  2003","X004662714","American transportation policy /","Dilger, Robert Jay,",2003,FALSE
+"40","ALDERMAN","HE 000206.2 .L47  2010","X030743685","Too big to fall : America's failing infrastructure and the way forward /","LePatner, Barry B.",2010,FALSE
+"41","ALDERMAN","HE 000206.2 .P39  2010","X030947402","Paying our way : transforming transportation finance /","",2010,FALSE
+"42","ALDERMAN","HE 000206.2 .R65  2006","X030109923","The best transportation system in the world : railroads, trucks, airlines, and American public policy in the twentieth century /","Rose, Mark H.,",2006,FALSE
+"43","ALDERMAN","HE 000206.2 .U22  2012","X030878531","U.S. national debate topic 2012-2013 : transportation infrastructure /","",2012,FALSE
+"44","ALDERMAN","HE 000210 .S34  2003","X004663481","Going places : transportation redefines the twentieth-century West /","Schwantes, Carlos A.,",2003,FALSE
+"45","ALDERMAN","HE 000213 .P4  O5  1930","X001197984","The Conestoga six-horse bell teams of eastern Pennsylvania,","Omwake, John,",1930,FALSE
+"46","ALDERMAN","HE 000213 .V8  A12  1985","X000982277","Backsights /","",1985,FALSE
+"47","ALDERMAN","HE 000215 .A2  M69  2016","X031809725","Moving natures : mobility and the environment in Canadian history /","",2016,FALSE
+"48","ALDERMAN","HE 000231 .T8  1948  SER.B NO.000001 001950","X031769360","Vialidad,","San Miguel de Tucumán (Argentina). Universidad. Instituto de Vías de Comunicación.",1948,TRUE
+"49","ALDERMAN","HE 000243 .A2  O5  1991","X002404827","On the move : essays in labour and transport history, presented to Philip Bagwell /","",1991,FALSE
+"50","ALDERMAN","HE 000243 .T744  1988","X001461244","Transport in Victorian Britain /","",1988,FALSE
+"51","ALDERMAN","HE 000271 .Z7  B55  2012","X030845929","Communication and colonialism in Eastern India : Bihar, 1760s-1880s /","Sinha, Nitin.",2012,FALSE
+"52","ALDERMAN","HE 000271 .Z7  O733  2009","X030633837","Pathways of empire : circulation, ""public works"", and social space in colonial Orissa (c.1780-1914) /","Ahuja, Ravi.",2009,FALSE
+"53","ALDERMAN","HE 000283.9 .Z7  D37  2017","X031809784","Taken for a ride : grounding neoliberalism, precarious labour, and public transport in an African metropolis /","Rizzo, Matteo,",2017,TRUE
+"54","ALDERMAN","HE 000305 .B78  2014","X031628927","Better public transit systems : analyzing investments and performance /","Bruun, Eric Christian,",2014,FALSE
+"55","ALDERMAN","HE 000305 .C57  2015","X031708248","City logistics : mapping the future /","",2015,FALSE
+"56","ALDERMAN","HE 000305 .C87  2012","X031618371","Institutional barriers to sustainable transport /","Curtis, Carey.",2012,FALSE
+"57","ALDERMAN","HE 000305 .E56  2012","X031214150","Sustainable transport, mobility management and travel plans /","Enoch, Marcus.",2012,FALSE
+"58","ALDERMAN","HE 000305 .H53  2014","X031628706","Transport, climate change and the city /","Hickman, Robin,",2014,FALSE
+"59","ALDERMAN","HE 000305 .M32  2011","X031214215","Managing urban mobility systems /","Macário, Rosário.",2011,FALSE
+"60","ALDERMAN","HE 000305 .N49  2015","X031730598","The end of automobile dependence : how cities are moving beyond car-based planning /","Newman, Peter,",2015,FALSE
+"61","ALDERMAN","HE 000305 .S845  2013","X031627838","Strategies for sustainable mobilities : opportunities and challenges /","",2013,FALSE
+"62","ALDERMAN","HE 000305 .Y33  1984","X000910294","The decline of transit : urban transportation in German and U.S. cities, 1900-1970 /","Yago, Glenn.",1984,FALSE
+"63","ALDERMAN","HE 000308 .F87  2010","X030780610","One less car : bicycling and the politics of automobility /","Furness, Zachary Mooradian.",2010,FALSE
+"64","ALDERMAN","HE 000308 .W37  2014","X031704553","Rail and the city : shrinking our carbon footprint while reimagining urban space /","Warren, Roxanne,",2014,FALSE
+"65","ALDERMAN","HE 000308 .W45  1999","X004276370","Urban transportation planning in the United States : an historical overview /","Weiner, Edward.",1999,FALSE
+"66","ALDERMAN","HE 000308 .W56  1998","X004220775","Alternate route : toward efficient urban transportation /","Winston, Clifford,",1998,FALSE
+"67","ALDERMAN","HE 000309 .C2  C37  2013","X030610976","The car in 2035 : mobility planning for the near future /","",2013,TRUE
+"68","ALDERMAN","HE 000309 .C2  W48  1982","X000355603","Urban elites and mass transportation : the dialectics of power /","Whitt, J. Allen,",1982,FALSE
+"69","ALDERMAN","HE 000310 .B6  C45","X000086566","Moving the masses : urban public transit in New York, Boston, and Philadelphia, 1880-1912 /","Cheape, Charles W.,",1980,TRUE
+"70","ALDERMAN","HE 000310 .C45  B37  1983","X000543237","The automobile and urban transit : the formation of public policy in Chicago, 1900-1930 /","Barrett, Paul F.,",1983,FALSE
+"71","ALDERMAN","HE 000310 .D47  L44  2017","X031760558","The thirty-year war : a history of Detroit's streetcars, 1892-1922 /","Lehto, Neil J.,",2017,TRUE
+"72","ALDERMAN","HE 000310 .E27  A88  2019","X032561360","Rights in transit : public transportation and the right to the city in California's East Bay /","Attoh, Kafui Ablode,",2019,FALSE
+"73","ALDERMAN","HE 000310 .H8  S53  2017","X031825011","Power moves : transportation, politics, and development in Houston /","Shelton, Kyle,",2017,FALSE
+"74","ALDERMAN","HE 000310 .N5  S23  2016","X031782877","Streetfight : handbook for an urban revolution /","Sadik-Khan, Janette",2016,FALSE
+"75","ALDERMAN","HE 000310 .P6  T37","X000064513","Transportation innovation and changing spatial patterns in Pittsburgh, 1850-1934 /","Tarr, Joel Arthur.",1978,TRUE
+"76","ALDERMAN","HE 000311 .C6  L45  2011","X030847586","Zhou dao : feng jian shi dai de guan dao /","Lei, Jinhao,",2011,TRUE
+"77","ALDERMAN","HE 000311 .G7  P66  2013","X031615032","Promoting walking and cycling : new perspectives on sustainable travel /","Pooley, Colin G.",2013,FALSE
+"78","ALDERMAN","HE 000323 .C69  2014","X031655028","The deadly life of logistics : mapping violence in global trade /","Cowen, Deborah,",2014,FALSE
+"79","ALDERMAN","HE 000323 .S45  2014","X031627832","The transport debate /","Shaw, Jon.",2014,FALSE
+"80","ALDERMAN","HE 000326 .A595  2007  V.000001","X030561381","?uruq al-qaw?fil wa-?th?ruh? f? sham?l Jaz?rat al-?Arab /","?Anz?, S?lim Samr?n S?lim al-?aw?.",2007,TRUE
+"81","ALDERMAN","HE 000327 .S63  2014","X031652086","Spatio-temporal narratives : historical GIS and the study of global trading networks (1500-1800) /","",2014,FALSE
+"82","ALDERMAN","HE 000335 .R583  1998","X004264076","Road pricing, traffic congestion, and the environment : issues of efficiency and social feasibility /","",1998,FALSE
+"83","ALDERMAN","HE 000336 .C5  B46  1985","X001013268","Discrete choice analysis : theory and application to travel demand /","Ben-Akiva, Moshe E.",1985,FALSE
+"84","ALDERMAN","HE 000336 .C64  B35  2006","X030109186","The road more traveled : why the congestion crisis matters more than you think, and what we can do about it /","Balaker, Theodore.",2006,FALSE
+"85","ALDERMAN","HE 000336 .C66  R53  2006","X004835600","Congestion charging in London : the policy and the politics /","Richards, Martin G. (Martin Gomm)",2006,TRUE
+"86","ALDERMAN","HE 000336 .P37  D55  2010","X031601153","The dimensions of parking.","",2010,TRUE
+"87","ALDERMAN","HE 000336 .P37  S54  2005","X004864954","The High cost of free parking /","Shoup, Donald C.",2005,FALSE
+"88","ALDERMAN","HE 000336 .R68  M63  2015","X031732785","Mobility patterns and urban structure /","",2015,FALSE
+"89","ALDERMAN","HE 000336 .R85  P74  1991","X001926030","Dirt roads to Dixie : accessibility and modernization in the South, 1885-1935 /","Preston, Howard L. (Howard Lawrence),",1991,FALSE
+"90","ALDERMAN","HE 000336 .T64  W49  2003","X004742886","Urban road pricing : public and political acceptability /","Whittles, Martin J.",2003,FALSE
+"91","CLEMONS","HE 000341 .C66  2010","X030694607","The routes of man : how roads are changing the world and the way we live today /","Conover, Ted.",2010,FALSE
+"92","ALDERMAN","HE 000353 .R63  2015","X031595206","Roads and anthropology : ethnography, infrastructures, (im)mobility /","",2015,FALSE
+"93","ALDERMAN","HE 000355 .H3  1950","X000472871","The story of American roads.","Hart, Virginia.",1950,FALSE
+"94","ALDERMAN","HE 000355 .H58  2008","X030252899","The highway revolution, 1895-1925 : how the United States got out of the mud /","Holley, I. B., (Irving Brinton),",2008,FALSE
+"95","ALDERMAN","HE 000355 .K33  2000","X004473246","The American highway : the history and culture of roads in the United States /","Kaszynski, William,",2000,FALSE
+"96","CLEMONS","HE 000355 .L484  1997","X004145330","Divided highways : building the interstate highways, transforming American life /","Lewis, Tom,",1997,FALSE
+"97","ALDERMAN","HE 000355 .L84","X001179382","Rites of way; the politics of transportation in Boston and the U.S. city","Lupo, Alan.",1971,FALSE
+"98","ALDERMAN","HE 000355 .M66  1969","X001272566","Road to ruin","Mowbray, A. Q.",1969,FALSE
+"99","ALDERMAN","HE 000355 .P38  1986","X001159557","Open road : a celebration of the American highway /","Patton, Phil.",1986,FALSE
+"100","ALDERMAN","HE 000355 .R33","X000189048","The road and the car in American life","Rae, John Bell,",1971,FALSE
+"101","ALDERMAN","HE 000355.3 .C64  C47  2013","X031580116","Suburban gridlock /","Cervero, Robert.",2012,TRUE
+"102","ALDERMAN","HE 000355.3 .C64  D69  1992","X004008577","Stuck in traffic : coping with peak-hour traffic congestion /","Downs, Anthony.",1992,TRUE
+"103","ALDERMAN","HE 000355.3 .C64  D69  2004","X004774021","Still stuck in traffic : coping with peak-hour traffic congestion /","Downs, Anthony.",2004,TRUE
+"104","CLEMONS","HE 000356 .B6  J34  2010","X030720111","The King's best highway : the lost history of the Boston post road, the route that made America /","Jaffe, Eric.",2010,FALSE
+"105","ALDERMAN","HE 000356 .C8  N378  1996","X004017768","The National Road /","",1996,FALSE
+"106","ALDERMAN","HE 000356 .U55  D43  2007","X030112896","Hip to the trip : a cultural history of Route 66 /","Dedek, Peter B.,",2007,TRUE
+"107","ALDERMAN","HE 000358 .R88  2019","X032567628","The longest line on the map : the United States, the Pan-American Highway, and the quest to link the Americas /","Rutkow, Eric,",2019,FALSE
+"108","ALDERMAN","HE 000363 .G72  A32","X000217866","The old roads of England /","Addison, William Wilkinson,",1980,FALSE
+"109","ALDERMAN","HE 000387 .C6  L34","X001198139","Histoire de la navigation au Congo.","Lederer, André,",1965,TRUE
+"110","ALDERMAN","HE 000395 .A3  G6  1961","X000278387","Canals and American economic development,","Goodrich, Carter,",1961,TRUE
+"111","ALDERMAN","HE 000395 .O47  S3  1969","X000440223","Ohio canal era; a case study of government and the economy, 1820-1861,","Scheiber, Harry N.",1969,FALSE
+"112","ALDERMAN","HE 000396 .C5  H33  1984","X000907809","The Chesapeake & Ohio Canal--pathway to the Nation's Capital /","Hahn, Thomas F.",1984,FALSE
+"113","ALDERMAN","HE 000396 .E6  B47  2005","X004804808","Wedding of the waters : the Erie Canal and the making of a great nation /","Bernstein, Peter L.",2005,FALSE
+"114","ALDERMAN","HE 000396 .E6  K45  2016","X031792279","Heaven's ditch : God, gold, and murder on the Erie Canal /","Kelly, Jack,",2016,FALSE
+"115","ALDERMAN","HE 000396 .E6  S5  1966","X000308425","Erie water west; a history of the Erie Canal, 1792-1854","Shaw, Ronald E.",1966,FALSE
+"116","ALDERMAN","HE 000445 .M52  M85  2009","X030558558","Impossible engineering : technology and territoriality on the Canal du Midi /","Mukerji, Chandra.",2009,FALSE
+"117","ALDERMAN","HE 000526 .M38  2013","X031619472","Transport and the industrial city : Manchester and the canal age, 1750-1850 /","Maw, Peter.",2013,FALSE
+"118","ALDERMAN","HE 000537 .D5  2001","X004524222","How Wall Street created a nation : J.P. Morgan, Teddy Roosevelt, and the Panama Canal /","Diaz Espino, Ovidio.",2001,FALSE
+"119","ALDERMAN","HE 000551 .P76  2015","X031797809","Proceedings of the Symposium on City Ports from the Aegean to the Black Sea : Medieval-modern Networks : 22nd-29th August 2015 /","",2015,FALSE
+"120","ALDERMAN","HE 000551 .V35  2014","X031726465","Vanguards of globalization : port-cities from the classical to the modern /","",2014,FALSE
+"121","ALDERMAN","HE 000553 .G5  1967","X000457231","The growth of the seaport cities, 1790-1825; proceedings of a conference sponsored by the Eleutherian Mills-Hagley Foundation, March 17-19, 1966.","Gilchrist, David T.,",1967,FALSE
+"122","ALDERMAN","HE 000554 .B3  K44  2005","X004864303","Baltimore harbor : a pictorial history /","Keith, Robert C.",2005,FALSE
+"123","ALDERMAN","HE 000554 .B3  R84  1982","X000508283","The Port, pride of Baltimore /","Rukert, Norman G.,",1982,TRUE
+"124","ALDERMAN","HE 000554 .L7  S53  2011","X030733391","The docks /","Sharpsteen, Bill,",2011,FALSE
+"125","ALDERMAN","HE 000554 .N5  D65  2001","X004475775","Empire on the Hudson : entrepreneurial vision and political power at the Port of New York Authority /","Doig, Jameson W.",2001,TRUE
+"126","ALDERMAN","HE 000554 .N7  S35  2018","X031823617","Waterfront Manhattan : from Henry Hudson to the high line /","Schlichting, Kurt C.,",2018,FALSE
+"127","ALDERMAN","HE 000557 .A3  E87  1992","X030824441","European port cities in transition /","",1992,FALSE
+"128","ALDERMAN","HE 000557 .P6  S42  2016","X031842191","Seaports in the first global age : Portuguese agents, networks and interactions (1500-1800) /","",2016,FALSE
+"129","ALDERMAN","HE 000557 .S6  O35  2008","X030469804","Port cities of Atlantic Iberia, c. 1500-1900 /","O'Flanagan, Patrick,",2008,FALSE
+"130","ALDERMAN","HE 000559 .J3  O7  1930","X031925600","The port of Osaka, 1930.","Osaka (Japan). Municipal Harbour Department.",1930,FALSE
+"131","ALDERMAN","HE 000559 .P47  F65  2006","X030260798","The Persian Gulf : a political and economic history of five port cities, 1500-1730 /","Floor, Willem M.",2006,TRUE
+"132","ALDERMAN","HE 000560 .G87  M5  2010","X031057208","Gwadar on the global chessboard : Pakistan's identity, history and culture /","Mir, Nadir.",2010,FALSE
+"133","ALDERMAN","HE 000562 .S43  2013","X031620842","Securing the safety of navigation in east Asia : legal and political dimensions /","",2013,FALSE
+"134","ALDERMAN","HE 000564 .E4  C375  2013","X031619254","Shipowners of Cardiff : a class by themselves : a history of the Cardiff and Bristol Channel Incorproated Shipowners' Association /","Jenkins, David,",2013,TRUE
+"135","ALDERMAN","HE 000566 .C6  C83  2006","X004911331","Box boats : how container ships changed the world /","Cudahy, Brian J.",2006,TRUE
+"136","ALDERMAN","HE 000569 .S53  J46  2011","X030959894","From ship's cook to baronet : Sir William Reardon Smith's life in shipping, 1856-1935 /","Jenkins, David,",2011,FALSE
+"137","ALDERMAN","HE 000569 .T86  A25  2007","X030324802","Dong Haoyun de shi jie /","Tung, C. Y.,",2007,FALSE
+"138","ALDERMAN","HE 000569 .T86  D66  2007","X030621552","Dong Haoyun : Zhongguo xian dai hang yun xian qu /","",2007,TRUE
+"139","ALDERMAN","HE 000569 .T86  T86  2007  V.000001","X030570080","Dong Haoyun ri ji, 1948-1982 /","Tung, C. Y.,",2004,TRUE
+"140","ALDERMAN","HE 000571 .B67  2014","X031708422","Branch's elements of shipping /","Branch, Alan E.,",2014,FALSE
+"141","ALDERMAN","HE 000571 .G465  2013","X031230090","Ninety percent of everything : inside shipping, the invisible industry that puts clothes on your back, gas in your car, and food on your plate /","George, Rose,",2013,FALSE
+"142","ALDERMAN","HE 000571 .L36  2004","X004772536","The outlaw sea : a world of freedom, chaos, and crime /","Langewiesche, William.",2004,FALSE
+"143","ALDERMAN","HE 000571 .L44  2015","X031650615","Maritime logistics value in knowledge management /","Lee, Eon-Seong,",2015,FALSE
+"144","ALDERMAN","HE 000571 .L67  2009","X030277168","Shipping strategy : innovating for success /","Lorange, Peter.",2009,FALSE
+"145","ALDERMAN","HE 000571 .M367  2012","X031216466","Maritime logistics : a complete guide to effective shipping and port management /","",2012,FALSE
+"146","ALDERMAN","HE 000571 .M3673  2012","X031214915","Maritime logistics : contemporary issues /","",2012,FALSE
+"147","ALDERMAN","HE 000571 .M375  2012","X031215351","Maritime transport and the climate change challenge /","",2012,FALSE
+"148","ALDERMAN","HE 000571 .S476  2004","X004806914","Shipping and ports in the twenty-first century : globalization, technological change and the environment /","",2004,FALSE
+"149","ALDERMAN","HE 000581 .D47  2006","X030109119","Flagging standards : globalization and environmental, safety, and labor regulations at sea /","DeSombre, Elizabeth R.",2006,FALSE
+"150","ALDERMAN","HE 000582 .K38  2014","X031656493","Maritime economics : a macroeconomic approach /","Karakitsos, Elias,",2014,FALSE
+"151","ALDERMAN","HE 000582 .W55  2014","X031708811","International maritime transport costs : market structures and network configurations /","Wilmsmeier, Gordon",2014,FALSE
+"152","ALDERMAN","HE 000582 .W67  2012","X030843783","The world's key industry : history and economics of international shipping /","",2012,FALSE
+"153","ALDERMAN","HE 000589 .U5  C37  2017","X031763491","Rough waters : sovereignty and the American merchant flag /","Carlisle, Rodney P.,",2017,TRUE
+"154","ALDERMAN","HE 000627 .B76  2010","X030792941","Commerce on early American waterways : the transport of goods by arks, rafts and log drives /","Brown, Earl E.,",2010,FALSE
+"155","ALDERMAN","HE 000630 .M6  P37  2007","X030251951","Troubled waters : steamboat disasters, river improvements, and American public policy, 1821-1860 /","Paskoff, Paul F.",2007,FALSE
+"156","ALDERMAN","HE 000631 .S6  G84  2011","X031186548","Steamboats and the rise of the cotton kingdom /","Gudmestad, Robert H.,",2011,TRUE
+"157","ALDERMAN","HE 000631 .W4  H35","X000157392","Western river transportation : the era of early internal development, 1810-1860 /","Haites, Erik F.",1975,FALSE
+"158","ALDERMAN","HE 000745 .B58  2012","X031188192","Historical dictionary of the U.S. maritime industry /","Blume, Kenneth J.,",2012,FALSE
+"159","ALDERMAN","HE 000745 .R54  2008","X030257104","The way of the ship : America's maritime history reenvisioned, 1600-2000 /","Roland, Alex,",2008,FALSE
+"160","ALDERMAN","HE 000767 .N5  A7  1965","X000395163","Square-riggers on schedule: the New York sailing packets to England, France, and the cotton ports.","Albion, Robert Greenhalgh,",1965,FALSE
+"161","ALDERMAN","HE 000821 .M55  2012","X030844476","Europe and the maritime world : a twentieth-century history /","Miller, Michael B. (Michael Barry),",2012,FALSE
+"162","ALDERMAN","HE 000823 .D3  1962","X000826641","The rise of the English shipping industry in the seventeenth and eighteenth centuries.","David, Ralph.",1962,FALSE
+"163","ALDERMAN","HE 000823 .M67  1993","X002424003","Bristol and the Atlantic trade in the eighteenth century / Kenneth Morgan.","Morgan, Kenneth,",1993,FALSE
+"164","ALDERMAN","HE 000824 .W55  1967","X001648623","The English coasting trade, 1600-1750,","Willan, Thomas Stuart.",1967,FALSE
+"165","ALDERMAN","HE 000851 .J48  2014","X031650760","Creating global opportunities : Mærsk line in containerisation 1973-2013 /","Jephson, Chris,",2014,FALSE
+"166","ALDERMAN","HE 000859 .G28  2000","X031724806","El Galeón de Manila : Hospital de los Venerables, Sevilla, Museo Franz Mayer, México, D.F., Museo Histórico de Acapulco, Fuerte de San Diego, Acapulco /","",2000,FALSE
+"167","ALDERMAN","HE 000872.7 .S55  2012","X031214899","Shipping, trade and crusade in the medieval Mediterranean : studies in honour of John Pryor /","",2012,FALSE
+"168","ALDERMAN","HE 000879 .B35  2012","X031610049","Globalizing labour? : Indian seafarers and world shipping, c.1870-1945 /","Balachandran, G. (Gopalan),",2012,FALSE
+"169","ALDERMAN","HE 000879 .S79  2008","X030715394","Studies in India's maritime trade through the ages /","",2008,FALSE
+"170","ALDERMAN","HE 000894 .L48  2010","X030810277","""Nanhai 1 hao"" yu hai shang si chou zhi lu = Nanhai 1 and the maritime silk road /","Li, Qingxin,",2010,FALSE
+"171","ALDERMAN","HE 000945 .A2  D5  1979","X000903200","Morton Allan directory of European passenger steamship arrivals for the years 1890 to 1930 at the Port of New York and for the years 1904 to 1926 at the ports of New York, Philadelphia, Boston, and Baltimore.","",1979,TRUE
+"172","CLEMONS","HE 001021 .C87  2009","X030610264","Trains /","Curlee, Lynn.",2009,FALSE
+"173","ALDERMAN","HE 001021 .R36  2006","X030109223","Railways and international politics : paths of empire, 1848-1945 /","",2006,FALSE
+"174","ALDERMAN","HE 001021 .S3413  1979","X000223074","The railway journey : trains and travel in the 19th century /","Schivelbusch, Wolfgang,",1979,FALSE
+"175","CLEMONS","HE 001021 .S3413  1987","X030360589","The railway journey : the industrialization of time and space in the 19th century /","Schivelbusch, Wolfgang,",1987,FALSE
+"176","ALDERMAN","HE 001021 .W78  2010","X030694844","Blood, iron, & gold : how the railroads transformed the world /","Wolmar, Christian.",2010,FALSE
+"177","ALDERMAN","HE 001021 .Z64  2014","X031632695","Train : riding the rails that created the modern world : from the Trans-Siberian to the Southwest Chief /","Zoellner, Tom.",2014,FALSE
+"178","ALDERMAN","HE 001031 .F73  2012","X030974696","Trains, culture, and mobility : riding the rails /","Fraser, Benjamin.",2012,FALSE
+"179","ALDERMAN","HE 001041 .R35  1991","X001926431","Railway imperialism /","",1991,FALSE
+"180","ALDERMAN","HE 001051 .A33  2012","X030844035","The economics and politics of high-speed rail : lessons from experiences abroad /","Albalate, Daniel,",2012,FALSE
+"181","CLEMONS","HE 001051 .G6  1974","X000150127","Government promotion of American canals and railroads, 1800-1890.","Goodrich, Carter,",1974,FALSE
+"182","CLEMONS","HE 001061 .S94  1984","X001105702","Railroads, reconstruction, and the gospel of prosperity : aid under the radical Republicans, 1865-1877 /","Summers, Mark W. (Mark Wahlgren),",1984,FALSE
+"183","ALDERMAN","HE 001779 .B535  2012","X030846086","Train wreck : the forensics of rail disasters /","Bibel, G. D. (George D.)",2012,FALSE
+"184","ALDERMAN","HE 001781 .A54  V64  2013","X031614418","The Angola horror : the 1867 train wreck that shocked the nation and transformed American railroads /","Vogel, Charity Ann,",2013,TRUE
+"185","ALDERMAN","HE 001843 .M19  1965","X031868780","The economic effects of regulation;","MacAvoy, Paul W.",1965,FALSE
+"186","CLEMONS","HE 002741 .V73  1991","X002048894","Supertrains : solutions to America's transportation gridlock /","Vranich, Joseph.",1991,FALSE
+"187","ALDERMAN","HE 002751 .B24  1999","X004375108","Empire express : building the first transcontinental railroad /","Bain, David Haward.",1999,FALSE
+"188","ALDERMAN","HE 002751 .B67  2010","X030745890","Rival rails : the race to build America's greatest transcontinental railroad /","Borneman, Walter R.,",2010,FALSE
+"189","ALDERMAN","HE 002751 .C45  1981","X000358802","The railroads, the Nation's first big business source and readings /","Chandler, Alfred D. (Alfred Dupont),",1981,FALSE
+"190","CLEMONS","HE 002751 .F53","X000232866","American railroads and the transformation of the antebellum economy.","Fishlow, Albert.",1966,FALSE
+"191","ALDERMAN","HE 002751 .F65","X000191518","Railroads and American economic growth: essays in econometric history.","Fogel, Robert William.",1964,FALSE
+"192","ALDERMAN","HE 002751 .G337  2014","X031629164","American railroads : decline and renaissance in the twentieth century /","Gallamore, Robert E.,",2014,FALSE
+"193","ALDERMAN","HE 002751 .G64  1996","X004069776","Passage to Union : how the railroads transformed American life, 1829-1929 /","Gordon, Sarah,",1996,FALSE
+"194","ALDERMAN","HE 002751 .J35  2017","X031762543","Supplanting America's railroads : the early auto age, 1900-1940 /","Jakle, John A.,",2017,FALSE
+"195","CLEMONS","HE 002751 .J57  1967","X000117170","Boston capitalists and western railroads; a study in the nineteenth-century railroad investment process","Johnson, Arthur Menzies,",1967,FALSE
+"196","ALDERMAN","HE 002751 .K37  2019","X032583789","Empire's tracks : indigenous nations, Chinese workers, and the transcontinental railroad /","Karuka, Manu,",2019,FALSE
+"197","CLEMONS","HE 002751 .M35  1992","X002119863","Railroads triumphant : the growth, rejection, and rebirth of a vital American force /","Martin, Albro.",1992,FALSE
+"198","ALDERMAN","HE 002751 .M56  2010","X030745435","A most magnificent machine : America adopts the railroad, 1825-1862 /","Miner, H. Craig.",2010,FALSE
+"199","ALDERMAN","HE 002751 .R534  2005","X004861142","Home on the rails : women, the railroad, and the rise of public domesticity /","Richter, Amy G.",2005,FALSE
+"200","ALDERMAN","HE 002751 .S68  1983","X000544966","Metropolitan corridor : railroads and the American scene /","Stilgoe, John R.,",1983,FALSE
+"201","ALDERMAN","HE 002751 .S683  2007","X030330823","Train time : railroads and the imminent reshaping of the United States landscape /","Stilgoe, John R.,",2007,FALSE
+"202","ALDERMAN","HE 002751 .S7  1997","X004145790","American railroads /","Stover, John F.",1997,FALSE
+"203","ALDERMAN","HE 002751 .S73","X000064457","Iron road to the West : American railroads in the 1850s /","Stover, John F.",1978,FALSE
+"204","ALDERMAN","HE 002751 .S74","X000196827","The life and decline of the American railroad","Stover, John F.",1970,FALSE
+"205","ALDERMAN","HE 002751 .W23  1986","X001080264","Railroads and the character of America, 1820-1887 /","Ward, James Arthur,",1986,FALSE
+"206","CLEMONS","HE 002751 .W55  2011","X030951028","Railroaded : the transcontinentals and the making of modern America /","White, Richard,",2011,FALSE
+"207","ALDERMAN","HE 002751 .W73  2012","X030845922","The great railroad revolution : the history of trains in America /","Wolmar, Christian.",2012,FALSE
+"208","ALDERMAN","HE 002752 .H34  2013","X031603962","Harriman vs. Hill : Wall Street's great railroad war /","Haeg, Larry,",2013,FALSE
+"209","ALDERMAN","HE 002752 .L68  2006","X004904110","The men who loved trains : the story of men who battled greed to save an ailing industry /","Loving, Rush.",2006,FALSE
+"210","ALDERMAN","HE 002754 .B37  G73  2018","X031839573","John W. Barriger III : railroad legend /","Grant, H. Roger,",2018,TRUE
+"211","ALDERMAN","HE 002754 .F7  L37  1984","X000667371","Bonds of enterprise : John Murray Forbes and western development in America's railway age /","Larson, John Lauritz,",1984,TRUE
+"212","ALDERMAN","HE 002754 .G37  S25  2017","X031805510","John W. Garrett and the Baltimore & Ohio Railroad /","Sander, Kathleen Waters,",2017,FALSE
+"213","ALDERMAN","HE 002754 .M33  A3  2017","X031806141","My life with trains : memoir of a railroader /","McClellan, Jim (James W.),",2017,FALSE
+"214","ALDERMAN","HE 002757 .A54  2004","X004806257","The railroad and the state : war, politics, and technology in nineteenth-century America /","Angevine, Robert G.",2004,FALSE
+"215","ALDERMAN","HE 002757 .B47  1994","X002330183","Alternative tracks : the constitution of American industrial order, 1865-1917 /","Berk, Gerald.",1994,FALSE
+"216","ALDERMAN","HE 002757 .D63  1994","X002480011","Forging industrial policy : the United States, Britain, and France in the railway age /","Dobbin, Frank.",1994,FALSE
+"217","ALDERMAN","HE 002757 .D86  1994","X002442752","Politics and industrialization : early railroads in the United States and Prussia /","Dunlavy, Colleen A.,",1994,FALSE
+"218","ALDERMAN","HE 002757 .W45  2001","X004556021","Recasting American liberty : gender, race, law, and the railroad revolution, 1865-1920 /","Welke, Barbara Young,",2001,FALSE
+"219","ALDERMAN","HE 002757 1976  .H66","X000237076","A history of the ICC : from panacea to palliative /","Hoogenboom, Ari Arthur,",1976,FALSE
+"220","ALDERMAN","HE 002771 .A11  C66  2003","X004745693","Capitalism, politics, and railroads in Jacksonian New England /","Connolly, Michael J.,",2003,TRUE
+"221","ALDERMAN","HE 002771 .A13  A47","X000497213","Travel on southern antebellum railroads, 1828-1860 /","Alvarez, Eugene.",1974,FALSE
+"222","ALDERMAN","HE 002771 .A13  M37  2009","X030468285","Railroads in the Old South : pursuing progress in a slave society /","Marrs, Aaron W.,",2009,FALSE
+"223","ALDERMAN","HE 002771 .A13  S8  1955","X000444572","The railroads of the South, 1865-1900; a study in finance and control.","Stover, John F.",1955,FALSE
+"224","ALDERMAN","HE 002771 .A17  S39  2008","X030254453","The West the railroads made /","Schwantes, Carlos A.,",2008,FALSE
+"225","ALDERMAN","HE 002771 .N7  B4  1955","X001181042","Merchants, farmers & railroads; railroad regulation and New York politics, 1850-1887.","Benson, Lee.",1955,FALSE
+"226","ALDERMAN","HE 002771 .N7  B4  1969","X000111336","Merchants, farmers & railroads; railroad regulation and New York politics, 1850-1887.","Benson, Lee.",1969,FALSE
+"227","ALDERMAN","HE 002771 .P4  M35  2000","X004423198","A house dividing : economic development in Pennsylvania and Virginia before the Civil War /","Majewski, John D.,",2000,FALSE
+"228","ALDERMAN","HE 002771 .V8  N64  1994","X002531909","Southwest Virginia's railroad : modernization and the sectional crisis /","Noe, Kenneth W.,",1994,FALSE
+"229","ALDERMAN","HE 002771 .V8  P52  2006","X030115024","Trackside around Charlottesville, Virginia 1967-1984 with Jeremy F. Plant /","Plant, Jeremy F.,",2006,FALSE
+"230","ALDERMAN","HE 002781 .C4  Y68  2005","X004860945","The iron horse and the windy city : how railroads shaped Chicago /","Young, David,",2005,FALSE
+"231","ALDERMAN","HE 002781 .M6  H64  2005","X004905020","Minneapolis and the age of railways /","Hofsommer, Donovan L.",2005,FALSE
+"232","ALDERMAN","HE 002791 .B3  S76  1987","X001260859","History of the Baltimore and Ohio Railroad /","Stover, John F.",1987,FALSE
+"233","ALDERMAN","HE 002791 .C451  D73  2012","X030876024","The great American railroad war : how Ambrose Bierce and Frank Norris took on the notorious Central Pacific Railroad /","Drabelle, Dennis.",2012,TRUE
+"234","ALDERMAN","HE 002791 .C573  D67","X000358891","The Chesapeake and Ohio Railway, George Washington's railroad /","Dorin, Patrick C.",1981,TRUE
+"235","ALDERMAN","HE 002791 .C674153  S36  2013","X031603617","Rock Island requiem : the collapse of a mighty fine line /","Schneider, Gregory L.,",2013,FALSE
+"236","ALDERMAN","HE 002791 .G775  G73  1988","X001363579","The Great Northern Railway : a history /","",1988,TRUE
+"237","ALDERMAN","HE 002791 .M663  H637  2009","X030567377","The Minneapolis & St. Louis Railway : a photographic history /","Hofsommer, Donovan L.",2009,FALSE
+"238","ALDERMAN","HE 002791 .M663  H64  2005","X004859428","The Tootin' Louie : a history of the Minneapolis & St. Louis Railway /","Hofsommer, Donovan L.",2005,FALSE
+"239","ALDERMAN","HE 002791 .N79853  M66  1998","X004358090","Virginia's Belt Line Railroad : the Norfolk & Portsmouth, 1898-1997 /","Moomaw, W. Hugh,",1998,FALSE
+"240","ALDERMAN","HE 002791 .N855  B43  2018","X032583736","Wheat country railroad : the Northern Pacific's Spokane & Palouse and competitors /","Beach, Phil,",2018,FALSE
+"241","ALDERMAN","HE 002791 .N857  L83  2006","X004910791","Jay Cooke's gamble : the Northern Pacific Railroad, the Sioux, and the Panic of 1873 /","Lubetkin, M. John.",2006,TRUE
+"242","ALDERMAN","HE 002809 .N7  M33  2012","X031214645","Cape Breton railways : an illustrated history /","MacDonald, Herb.",2012,FALSE
+"243","ALDERMAN","HE 002820 .F38  L48  2007","X030103546","Iron horse imperialism : the Southern Pacific of Mexico, 1880-1951 /","Lewis, Daniel,",2007,TRUE
+"244","ALDERMAN","HE 003005 .N55  2008","X030466311","Railways and the Western European capitals : studies of implantation in London, Paris, Berlin, and Brussels /","Nilsen, Micheline.",2008,FALSE
+"245","ALDERMAN","HE 003008 .E27  2013","X031625883","Eastern European railways in transition : nineteenth to twenty-first centuries /","",2013,FALSE
+"246","ALDERMAN","HE 003017 .G68  2008","X030471484","Britain's railways 1997-2005 : Labour's strategic experiment /","Gourvish, T. R. (Terence Richard)",2008,FALSE
+"247","ALDERMAN","HE 003017 .R35  2006","X030475958","The railways, the market and the government /","",2006,FALSE
+"248","ALDERMAN","HE 003018 .I45  2003","X004703535","The impact of the railway on society in Britain : essays in honour of Jack Simmons /","",2003,FALSE
+"249","ALDERMAN","HE 003018 .W65  2007","X030262997","Fire & steam : a new history of the railways in Britain /","Wolmar, Christian.",2007,FALSE
+"250","ALDERMAN","HE 003018 .W67  2009","X030277353","The World's First Railway System Enterprise, Competition, and Regulation on the Railway Network in Victorian Britain.","",2009,FALSE
+"251","ALDERMAN","HE 003020 .G8  M32  V.000003","X000484069","History of the Great Western Railway,","MacDermot, Edward Terence,",1964,TRUE
+"252","ALDERMAN","HE 003020 .G8  N65  1984","X000865630","Tales of the Great Western Railway : informal recollections of a near-lifetime's association with the line /","Nock, O. S. (Oswald Stevens),",1984,FALSE
+"253","ALDERMAN","HE 003020 .G8  N67  1987B","X001826015","Edwardian enterprise : a review of Great Western Railway development in the first decade of this century /","Norris, John,",1987,FALSE
+"254","ALDERMAN","HE 003020 .G8  S45  1985  V.000002","X000904030","A history of the Great Western Railway /","Semmens, P. W. B. (Peter William Brett)",1985,TRUE
+"255","ALDERMAN","HE 003070 .S65  B76  2016","X031792126","Ordinary workers, Vichy, and the Holocaust : French railwaymen and the Second World War /","Broch, Ludivine M. E. (Ludivine Marie Elisabeth),",2016,FALSE
+"256","ALDERMAN","HE 003078 .B75  2006","X030196991","Fotomotiv Reichsbahn : Bildschätze aus dem Reichsverkehrsministerium 1925-1945 /","Brinker, Helmut.",2006,FALSE
+"257","ALDERMAN","HE 003140.2 .V45  W65  2013","X031649679","To the edge of the world : the story of the Trans-Siberian Express, the world's greatest railroad /","Wolmar, Christian.",2014,FALSE
+"258","ALDERMAN","HE 003243 .M66  2009","X030468297","Africa's freedom railway : how a Chinese development project changed lives and livelihoods in Tanzania /","Monson, Jamie.",2009,FALSE
+"259","ALDERMAN","HE 003288 .M48  1984  V.000002","X031723375","Jin dai Zhongguo tie lu shi zi liao /","Mi, Rucheng.",1977,TRUE
+"260","ALDERMAN","HE 003288 .X566  2011","X030853762","Tie lu yu Hua bei xiang cun she hui bian qian, 1880-1937 = Tielu yu huabei xiangcun shehui bianqian /","Xiong, Yaping,",2011,FALSE
+"261","ALDERMAN","HE 003288 .Z479  2002","X030011454","Zhonghua Minguo tie lu shi zi liao, 1912-1949 /","",2002,FALSE
+"262","ALDERMAN","HE 003289 .Y864  D536  2014  V.000002","X031712978","Dian Yue tie lu shi liao hui bian /","",2014,TRUE
+"263","ALDERMAN","HE 003289 .Y864  Y82  2010","X030853988","Yuan qu de xiao huo che : Dian Yue tie lu 100 nian /","Ding, Jianming.",2010,FALSE
+"264","ALDERMAN","HE 003298 .A14  2007","X030367143","27 down : new departures in Indian railway studies /","",2007,FALSE
+"265","ALDERMAN","HE 003298 .B38  2007","X030261137","Lines of the nation : Indian railway workers, bureaucracy, and the intimate historical self /","Bear, Laura.",2007,FALSE
+"266","ALDERMAN","HE 003298 .H97  2012","X030865278","India's railway history : a research handbook /","Hurd, John,",2012,FALSE
+"267","ALDERMAN","HE 003381.6 .Z7  D376  2008","X030735140","al-Kha?? al-?ad?d? al-?ij?z? : t?r?kh wa-ta?awwur qi??r Dar??-?ayf? /","Man??r, J?n?.",2008,TRUE
+"268","ALDERMAN","HE 003390 .B2  S67  2007","X030244410","The train that disappeared into history : the Berlin-to-Bagdad railway and how it led to the Great War /","Somerwil-Ayrton, Kathie.",2007,FALSE
+"269","ALDERMAN","HE 004211 .W27  2012","X030959620","Human transit : how clearer thinking about public transit can enrich our communities and our lives /","Walker, Jarrett,",2012,FALSE
+"270","ALDERMAN","HE 004451 .N67  2008","X030467802","My kind of transit : rethinking public transportation in America /","Nordahl, Darrin.",2008,FALSE
+"271","ALDERMAN","HE 004451 .S387  2015","X031738850","Street smart : the rise of cities and the fall of cars /","Schwartz, Samuel I.,",2015,FALSE
+"272","ALDERMAN","HE 004471 .R68  1956","X000681219","Trolley car treasury; a century of American streetcars, horsecars, cable cars, interurbans, and trolleys.","Rowsome, Frank.",1956,FALSE
+"273","ALDERMAN","HE 004491 .B372  H37  2003","X004707164","Baltimore streetcars : the postwar years /","Harwood, Herbert H.",2003,FALSE
+"274","ALDERMAN","HE 004491 .B782  M67  2014","X031607122","The race underground : Boston, New York, and the incredible rivalry that built America's first subway /","Most, Doug.",2014,FALSE
+"275","ALDERMAN","HE 004491 .L75  E45  2014","X031626393","Railtown : the fight for the Los Angeles metro rail and the future of the city /","Elkind, Ethan N.,",2014,FALSE
+"276","ALDERMAN","HE 004491 .L75  H87  2003","X004658736","Imagining transit : race, gender, and transportation politics in Los Angeles /","Hutchinson, Sikivu",2003,FALSE
+"277","ALDERMAN","HE 004491 .N65  S63  2015","X031715722","From a nickel to a token : the journey from Board of Transportation to MTA /","Sparberg, Andrew J.,",2015,FALSE
+"278","ALDERMAN","HE 004491 .N65  S74  2013","X031621191","Underground movements : modern culture on the New York City subway /","Stalter-Pace, Sunny,",2013,FALSE
+"279","ALDERMAN","HE 004491 .N68  F58","X006095159","Uptown, downtown : a trip through time on New York's subways /","Fischler, Stan.",1976,TRUE
+"280","ALDERMAN","HE 004491 .N7  D47  2001","X004479368","Tunneling to the future : the story of the great subway expansion that saved New York /","Derrick, Peter,",2001,TRUE
+"281","ALDERMAN","HE 004491 .P52  1913  V.000001","X004194161","Report of transit commissioner, city of Philadelphia, July, 1913.","Philadelphia (Pa.). Transit Commissioner.",1913,TRUE
+"282","ALDERMAN","HE 004491 .P52  W65  2016","X031792073","Running the rails : capital and labor in the Philadelphia transit industry /","Wolfinger, James,",2016,FALSE
+"283","ALDERMAN","HE 004491 .W44  W376  2006","X004908131","The Great Society subway : a history of the Washington Metro /","Schrag, Zachary M.",2006,FALSE
+"284","ALDERMAN","HE 004500 .M53  2003","X004664545","Metropolitan railways : rapid transit in America /","Middleton, William D.,",2003,FALSE
+"285","ALDERMAN","HE 004769 .P3  L3813  1996","X002755029","Aramis, or, The love of technology /","Latour, Bruno.",1996,TRUE
+"286","CLEMONS","HE 004769 .P3  O94  2009","X004087796","Paris underground : the maps, stations, and design of the Métro /","Ovenden, Mark,",2009,FALSE
+"287","ALDERMAN","HE 004839 .M474  N498  2001","X004563002","Die Moskauer Metro : von den erten Plänen bis zur Grossbaustelle des Stalinismus (1897-1935) /","Neutatz, Dietmar.",2001,FALSE
+"288","ALDERMAN","HE 004889 .S88  C43  2013","X031620627","Moving safely : crime and perceived safety in Stockholm's subway stations /","Ceccato, Vania",2013,TRUE
+"289","ALDERMAN","HE 004994 .R36  2012","X030861579","Metro rail projects in India : a study in project planning /","Ramachandran, M.",2012,FALSE
+"290","ALDERMAN","HE 005611 .A36  2006","X030154814","Against automobility /","",2006,FALSE
+"291","ALDERMAN","HE 005611 .C279  2004","X004771368","Cars, carriers of regionalism? /","",2004,FALSE
+"292","ALDERMAN","HE 005611 .G5813  2012","X030945933","The cultural life of the automobile : roads to modernity /","Giucci, Guillermo,",2012,FALSE
+"293","CLEMONS","HE 005611 .L26  2008","X030507703","Autophobia : love and hate in the automotive age /","Ladd, Brian,",2008,FALSE
+"294","ALDERMAN","HE 005611 .L56  2015","X031762568","Congestion : rationalising automobility in the face of climate change /","Lindegaard, Laura Bang,",2015,FALSE
+"295","ALDERMAN","HE 005611 .P38  2007","X030255266","Automobile politics : ecology and cultural political economy /","Paterson, Matthew,",2007,FALSE
+"296","ALDERMAN","HE 005611 .S67  2009","X030471056","Two billion cars : driving toward sustainability /","Sperling, Daniel.",2009,FALSE
+"297","ALDERMAN","HE 005611 .U73  2015","X031651894","The Urban political economy and ecology of automobility : driving cities, driving inequality, driving politics /","",2015,FALSE
+"298","ALDERMAN","HE 005613 .R4213  1982","X000370904","The automobile revolution : the impact of an industry /","",1982,FALSE
+"299","ALDERMAN","HE 005613 .S2313  1992","X002141128","For love of the automobile : looking back into the history of our desires /","Sachs, Wolfgang.",1992,FALSE
+"300","ALDERMAN","HE 005614 .C368  2002","X004587118","Car crash culture /","",2002,FALSE
+"301","ALDERMAN","HE 005614 .E97  R63  2016","X031800808","Road safety 2015 : how is your country doing? = Strassenverkehrssicherheit : wie sieht es in Ihrem Land aus? = Sécurité routière : quelle est la situation dans votre pays? /","European Commission. Directorate General for Mobility and Transport.",2016,TRUE
+"302","ALDERMAN","HE 005614.2 .N28  2009","X030565853","Implementing the results of the second Strategic Highway Research Program : saving lives, reducing congestion, improving quality of life /","National Research Council (U.S.). Transportation Research Board. Committee for the Strategic Highway Research Program 2: Implementation.",2009,FALSE
+"303","ALDERMAN","HE 005614.5 .E85  T64  2015","X031785329","Together with UNECE on the road to safety : cutting road traffic deaths and injuries in half by 2020 /","",2015,TRUE
+"304","ALDERMAN","HE 005620 .D59  D748  2013","X031600026","Driver distraction and inattention : advances in research and countermeasures /","",2013,TRUE
+"305","ALDERMAN","HE 005620 .D59  R53  2014","X030824255","A deadly wandering : a tale of tragedy and redemption in the age of attention /","Richtel, Matt",2014,TRUE
+"306","ALDERMAN","HE 005620 .D7  G87","X001492535","The culture of public problems : drinking-driving and the symbolic order /","Gusfield, Joseph R.,",1981,TRUE
+"307","ALDERMAN","HE 005620 .D7  S66  1988","X001298328","Social control of the drinking driver /","",1988,FALSE
+"308","ALDERMAN","HE 005620 .D72  L47  2011","X031194746","One for the road : drunk driving since 1900 /","Lerner, Barron H.",2011,TRUE
+"309","ALDERMAN","HE 005620 .R53  L37  2017","X031815884","Wild ride : inside Uber's quest for world domination /","Lashinsky, Adam,",2017,TRUE
+"310","ALDERMAN","HE 005620 .R53  R67  2018","X031822317","Uberland : how algorithms are rewriting the rules of work /","Rosenblat, Alex,",2018,TRUE
+"311","ALDERMAN","HE 005620 .R53  W55  2017","X031816281","Buzz ride : driven to disruption : memoirs of an Uber driver /","White, P. M.,",2017,FALSE
+"312","ALDERMAN","HE 005620 .W54  P37  2017","X031817965","Women at the wheel : a century of buying, driving, and fixing cars /","Parkin, Katherine J.,",2017,FALSE
+"313","ALDERMAN","HE 005623 .A1  N3  NO.R12  1937","X002178463","Economic and social values of the motor vehicle.","National Highway Users Conference.",1937,TRUE
+"314","ALDERMAN","HE 005623 .B58  2007","X030103009","Hell on wheels : the promise and peril of America's car culture, 1900-1940 /","Blanke, David,",2007,FALSE
+"315","ALDERMAN","HE 005623 .C33  1992","X002135236","The Car and the city : the automobile, the built environment, and daily urban life /","",1992,FALSE
+"316","CLEMONS","HE 005623 .G63  1994","X002533550","Getting there : the epic struggle between road and rail in the American century /","Goddard, Stephen B.,",1994,FALSE
+"317","ALDERMAN","HE 005623 .J658  2008","X030457554","Mass motorization + mass transit : an American history and policy analysis /","Jones, David W.,",2008,FALSE
+"318","ALDERMAN","HE 005623 .M35  1994","X002442704","Down the asphalt path : the automobile and the American city /","McShane, Clay.",1994,FALSE
+"319","ALDERMAN","HE 005623 .N67  2008","X030258464","Fighting traffic : the dawn of the motor age in the American city /","Norton, Peter D.",2008,FALSE
+"320","CLEMONS","HE 005623 .R62  1990","X001979180","Roadside America : the automobile in design and culture /","",1990,FALSE
+"321","ALDERMAN","HE 005623 .S42  2008","X030473659","Republic of drivers : a cultural history of automobility in America /","Seiler, Cotten.",2008,FALSE
+"322","ALDERMAN","HE 005623 .S586  2018","X032560783","Trains, buses, people : an opinionated atlas of US transit /","Spieler, Christof",2018,FALSE
+"323","ALDERMAN","HE 005623 .S617  1986","X001207874","The motorization of American cities /","St. Clair, David James,",1986,FALSE
+"324","ALDERMAN","HE 005623 .W45  2012","X031612663","Car country : an environmental history /","Wells, Christopher W.",2012,FALSE
+"325","ALDERMAN","HE 005634 .L7  B68  1987","X001262293","Los Angeles and the automobile : the making of the modern city /","Bottles, Scott L.",1987,FALSE
+"326","ALDERMAN","HE 005662.9 .A6  S63  2011","X031188844","The socialist car : automobility in the Eastern Bloc /","",2011,FALSE
+"327","ALDERMAN","HE 005664 .A6  M655  2012","X031617767","Carscapes : the motor car, architecture and landscape in England /","Morrison, Kathryn A.",2012,FALSE
+"328","ALDERMAN","HE 005736 .C65  2018","X031813906","Copenhagenize : the definitive guide to global bicycle urbanism /","Colville-Andersen, Mikael,",2018,FALSE
+"329","ALDERMAN","HE 005736 .C95  2012","X030843970","Cycling and sustainability /","",2012,FALSE
+"330","ALDERMAN","HE 005737 .H64  2016","X031791906","Bike lanes are white lanes : bicycle advocacy and urban planning /","Hoffmann, Melody L.,",2016,FALSE
+"331","ALDERMAN","HE 005783 .H3  P35  2009","X031646053","The SuperFerry chronicles : Hawaii's uprising against militarism, commercialism and the desecration of the earth /","Paik, Koohan.",2009,FALSE
+"332","ALDERMAN","HE 005783 .V8  S56  2009","X030566411","Chesapeake ferries : a waterborne tradition, 1636-2000 /","Simmons, Clara Ann,",2009,FALSE
+"333","ALDERMAN","HE 005896 .W49  1936","X031972427","Treasure express; epic days of the Wells Fargo,","Wilson, Neill C. (Neill Compton),",1936,FALSE
+"334","ALDERMAN","HE 005999 .Z7  G74  1993","X002160216","Road transport before the railways : Russell's London flying waggons /","Gerhold, Dorian.",1993,TRUE
+"335","ALDERMAN","HE 006182 .B47  2017","X031818287","Nowherelands : an atlas of vanished countries 1840-1975 /","Berge, Bjørn.",2017,FALSE
+"336","ALDERMAN","HE 006184 .C3  A45  1985  V.000001","X000971467","American stampless cover catalog : the standard reference catalog of American postal history.","",1985,TRUE
+"337","ALDERMAN","HE 006184 .C65  B69  2010","X030732819","Patriotic envelopes of the Civil War : the iconography of Union and Confederate covers /","Boyd, Steven R.",2010,FALSE
+"338","ALDERMAN","HE 006184 .R3  B37  2017","X031773414","The one-cent magenta : inside the quest to own the most valuable stamp in the world /","Barron, James,",2017,FALSE
+"339","ALDERMAN","HE 006185 .L29  C46  2008","X030464321","Miniature messages : the semiotics and politics of Latin American postage stamps /","Child, Jack.",2008,TRUE
+"340","ALDERMAN","HE 006185 .U5  A2  1964","X030752806","Postage stamps of the United States : an illustrated description of all United States postage and special service stamps issued by the Post Office Dept. from July 1, 1847, to December 31, 1963.","United States. Post Office Department",1964,FALSE
+"341","ALDERMAN","HE 006185 .U5  J634  1995","X002686364","Spreading the news : the American postal system from Franklin to Morse /","John, Richard R.,",1995,FALSE
+"342","ALDERMAN","HE 006204 .U5  E94  2014","X031705125","Every stamp tells a story : the National Philatelic Collection /","",2014,FALSE
+"343","ALDERMAN","HE 006371 .B35  2011","X030817733","Sorting letters, sorting lives : delivering diversity in the United States Postal Service /","Benbow, Linda B.,",2011,FALSE
+"344","ALDERMAN","HE 006371 .F68","X000708436","Unmailable : Congress and the Post Office /","Fowler, Dorothy Ganfield,",1977,FALSE
+"345","ALDERMAN","HE 006371 .F846  2003","X004632092","Morality and the mail in nineteenth-century America /","Fuller, Wayne E. (Wayne Edison),",2003,FALSE
+"346","ALDERMAN","HE 006371 .F85","X000029821","The American mail : enlarger of the common life /","Fuller, Wayne E. (Wayne Edison),",1972,FALSE
+"347","ALDERMAN","HE 006371 .G35  2016","X031772597","How the Post Office created America : a history /","Gallagher, Winifred,",2016,FALSE
+"348","ALDERMAN","HE 006371 .H46  2006","X030113524","The postal age : the emergence of modern communications in nineteenth-century America /","Henkin, David M.",2006,FALSE
+"349","ALDERMAN","HE 006371 .L46  2016","X031772604","Neither snow nor rain : a history of the United States Postal Service /","Leonard, Devin,",2016,FALSE
+"350","ALDERMAN","HE 006371 .P68","X000291255","The Posted letter in Colonial and Revolutionary America /","",1975,FALSE
+"351","ALDERMAN","HE 006371 .R5","X000540813","The history of the United States Post Office to the year 1829,","Rich, Wesley Everett,",1924,FALSE
+"352","ALDERMAN","HE 006375 .P65  C69  2003","X004708744","Orphans preferred : the twisted truth and lasting legend of the Pony Express /","Corbett, Christopher.",2003,TRUE
+"353","ALDERMAN","HE 006375 .P65  D44  2018","X032069434","West like lightning : the brief, legendary ride of the Pony Express /","DeFelice, Jim,",2018,TRUE
+"354","ALDERMAN","HE 006497 .M3  G74  2015","X031704684","Art deco mailboxes : an illustrated design history /","Greene, Karen (Karen J.),",2015,TRUE
+"355","ALDERMAN","HE 006499 .R82  2010","X030620230","There's always work at the post office : African American postal workers and the fight for jobs, justice, and equality /","Rubio, Philip F.",2010,FALSE
+"356","ALDERMAN","HE 006499 .S6","X002056139","The labor movement in a government industry; a study of employee organization in the postal service,","Spero, Sterling D. (Sterling Denhard),",1924,FALSE
+"357","ALDERMAN","HE 006499 .W26  1992","X002171125","Labor struggle in the Post Office : from selective lobbying to collective bargaining /","Walsh, John,",1992,FALSE
+"358","ALDERMAN","HE 006925 .C29  2016","X031757783","Postal culture in Europe, 1500-1800 /","Caplan, Jay,",2016,FALSE
+"359","ALDERMAN","HE 006965 .F47  2012","X030843790","GPO staff in 1916 : business as usual /","Ferguson, Stephen,",2012,FALSE
+"360","ALDERMAN","HE 006985 .V32  1947  V.000006 PT.000001","X031972464","Histoire générale des postes françaises.","Vaillé, Eugène,",1947,TRUE
+"361","ALDERMAN","HE 006995 .B448  2003","X004943588","Im Zeichen des Merkur : Reichspost und Kommunikationsrevolution in der Frühen Neuzeit /","Behringer, Wolfgang.",2003,FALSE
+"362","ALDERMAN","HE 007275 .M233  2011","X031227862","The people's post office : the history and politics of the Japanese postal system, 1871-2010 /","Maclachlan, Patricia L.",2011,FALSE
+"363","ALDERMAN","HE 007568 .G68  1997","X006035977","The governance of cyberspace : politics, technology and global restructuring /","",1997,FALSE
+"364","ALDERMAN","HE 007572 .U6  G38  001995","X002705034","The road ahead /","Gates, Bill,",1995,TRUE
+"365","ALDERMAN","HE 007572 .U6  N383  1997","X004091333","National information infrastructure initiatives : vision and policy design /","",1997,FALSE
+"366","ALDERMAN","HE 007581.5 .S86  2010","X030762624","Internet policy in China : a field study of internet cafés /","Sun, Helen.",2010,FALSE
+"367","CLEMONS","HE 007583 .U6  K54  2003","X004699357","Stealing time : Steve Case, Jerry Levin, and the collapse of AOL Time Werner /","Klein, Alec.",2003,FALSE
+"368","ALDERMAN","HE 007583 .U6  Z45  2013","X031623615","The illusion of net neutrality : political alarmism, regulatory creep, and the real threat to Internet freedom /","Zelnick, Robert,",2013,FALSE
+"369","CLEMONS","HE 007631 .C34  1997","X004115220","The death of distance : how the communications revolution will change our lives /","Cairncross, Frances.",1997,FALSE
+"370","ALDERMAN","HE 007631 .L34  2000","X004423269","Competition in telecommunications /","Laffont, Jean-Jacques,",2000,FALSE
+"371","ALDERMAN","HE 007631 .L83  1997","X004126499","The telegraph : how technology innovation caused social change /","Lubrano, Annteresa,",1997,FALSE
+"372","ALDERMAN","HE 007631 .M37513  2000","X004397675","Networking the world, 1794-2000 :","Mattelart, Armand.",2000,FALSE
+"373","ALDERMAN","HE 007631 .M58  1999","X004255661","E-topia : ""urban life, Jim--but not as we know it"" /","Mitchell, William J. (William John),",1999,FALSE
+"374","ALDERMAN","HE 007631 .M85  2016","X031791611","Wiring the world : the social and cultural creation of global telegraph networks /","Müller, Simone M.,",2016,FALSE
+"375","ALDERMAN","HE 007631 .N516  2003","X004702205","Under the wire : how the telegraph changed diplomacy /","Nickles, David Paull,",2003,FALSE
+"376","CLEMONS","HE 007631 .S677  1998","X004187681","The Victorian Internet : the remarkable story of the telegraph and the nineteenth century?s on-line pioneers /","Standage, Tom.",1998,FALSE
+"377","ALDERMAN","HE 007631 .T453  2009","X030559290","Telecommunication markets : drivers and impediments /","",2009,FALSE
+"378","ALDERMAN","HE 007631 .W46  2013","X031617564","Connecting the nineteenth-century world : the telegraph and globalization /","Wenzlhuemer, Roland.",2013,FALSE
+"379","ALDERMAN","HE 007631 .W8  2010","X030792607","The master switch : the rise and fall of information empires /","Wu, Tim.",2010,FALSE
+"380","ALDERMAN","HE 007645 .B4896  2013","X030610612","Beyond broadband access : developing data-based information policy strategies /","",2013,FALSE
+"381","ALDERMAN","HE 007645 .B76  2012","X031231742","Broadband strategies handbook /","",2012,FALSE
+"382","ALDERMAN","HE 007645 .C385  2015","X031730599","Spectrum management : using the airwaves for maximum social and economic benefit /","Cave, Martin,",2015,FALSE
+"383","ALDERMAN","HE 007645 .D83  1991","X001979912","Privatizing the economy : telecommunications policy in comparative perspective /","Duch, Raymond M.,",1991,FALSE
+"384","ALDERMAN","HE 007645 .N46  2017","X031806074","The net and the nation state : multidisciplinary perspectives on Internet governance /","",2017,FALSE
+"385","ALDERMAN","HE 007645 .R4  1996","X004017781","Telecommunications strategy for economic development /","Read, William H.",1996,FALSE
+"386","ALDERMAN","HE 007645 .R4184  2015","X031733372","Regulating the cloud : policy for computing infrastructure /","",2015,FALSE
+"387","ALDERMAN","HE 007645 .R635  2013","X031599963","Global markets and government regulation in telecommunications /","Rodine-Hardy, Kirsten.",2013,FALSE
+"388","ALDERMAN","HE 007645 .S56  1999","X004255192","Leapfrogging development? : the political economy of telecommunications restructuring /","Singh, J. P.,",1999,FALSE
+"389","ALDERMAN","HE 007645 .W55  2000","X004378525","Deregulating telecommunications : U. S. and Canadian telecommunications, 1840-1997 / Kevin G. Wilson.","Wilson, Kevin G.,",2000,FALSE
+"390","ALDERMAN","HE 007700 .T46  1994","X002396663","Telecommunications in transition : policies, services, and technologies in the European Community /","",1994,FALSE
+"391","ALDERMAN","HE 007775 .E75  2011","X030945488","Communication in modern social ordering : history and philosophy /","Eriksson, Kai.",2011,FALSE
+"392","ALDERMAN","HE 007775 .H39  2000","X004439229","Having all the right connections : telecommunications and rural viability /","",2000,FALSE
+"393","ALDERMAN","HE 007775 .T5  1947","X001158838","Wiring a continent, the history of the telegraph industry in the United States, 1832-1866.","Thompson, Robert Luther,",1947,FALSE
+"394","ALDERMAN","HE 007775 .W35  2011","X030843515","The information needs of communities : the changing media landscape in a broadband age /","Waldman, Steven.",2011,FALSE
+"395","ALDERMAN","HE 007781 .B75  1994","X002532369","Telecommunication policy for the information age : from monopoly to competition /","Brock, Gerald W.",1994,FALSE
+"396","ALDERMAN","HE 007781 .F47  2004","X004769188","The broadband problem : anatomy of a market failure and a policy dilemma /","Ferguson, Charles H.",2004,FALSE
+"397","ALDERMAN","HE 007781 .H67  1989","X001458761","The irony of regulatory reform : the deregulation of American telecommunications /","Horowitz, Robert Britt.",1989,FALSE
+"398","ALDERMAN","HE 007781 .R45  2013","X031612680","Regulating the Web : network neutrality and the fate of the open Internet /","",2013,FALSE
+"399","ALDERMAN","HE 007781 .S53  1998","X004107036","Telecommunications deregulation /","Shaw, James,",1998,FALSE
+"400","ALDERMAN","HE 007781 .V64  1997","X004093986","Telecommunications competition : the last ten miles /","Vogelsang, Ingo.",1997,FALSE
+"401","ALDERMAN","HE 007781 .Z367  2006","X004911625","The Federal Communications Commission : front line in the culture and regulation wars /","Zarkin, Kimberly.",2006,FALSE
+"402","ALDERMAN","HE 007797 .I75  C65  2018","X031839716","A telephone for the world : iridium, Motorola, and the making of a global age /","Collins, Martin J.,",2018,TRUE
+"403","ALDERMAN","HE 007797 .W53  W65  2013","X031613869","Western Union and the creation of the American corporate order, 1845-1893 /","Wolff, Joshua D.,",2013,FALSE
+"404","ALDERMAN","HE 008084 .D96  2015","X031653440","The Dynamics of broadband markets in Europe : realizing the 2020 digital agenda /","",2015,FALSE
+"405","ALDERMAN","HE 008374 .L34  2010","X030817148","Telegraphic imperialism : crisis and panic in the Indian Empire, c.1830 /","Lahiri Choudhury, Deep Kanta,",2010,FALSE
+"406","ALDERMAN","HE 008398 .A2  R54","X031972480","Race and industrial conflict: a study in a group of Midland foundries.","Rimmer, Malcolm.",1972,TRUE
+"407","ALDERMAN","HE 008479 .Z5  G34  2016","X031793146","The politics of technology in Africa : communication, development, and nation-building in Ethiopia /","Gagliardone, Iginio,",2016,TRUE
+"408","ALDERMAN","HE 008620.7 .O33  2012","X031215254","Telecommunications regulatory reform in small island developing states : the impact of the WTO's telecommunications commitment /","?Ofa, Siope Vakataki.",2012,FALSE
+"409","CLEMONS","HE 008689.4 .D82  2013","X031580012","Radio in the digital age /","Dubber, Andrew.",2013,FALSE
+"410","CLEMONS","HE 008689.4 .R83  2011","X031187018","Broadcasting in the 21st century /","Rudin, Richard.",2011,FALSE
+"411","CLEMONS","HE 008689.7 .P82  B74  2013","X031620568","Public service broadcasting online : a comparative European policy study of PSB 2.0 /","Brevini, Benedetta,",2013,FALSE
+"412","CLEMONS","HE 008689.7 .P82  D665  2012","X030948227","Public service media and policy in Europe /","Donders, Karen,",2012,TRUE
+"413","CLEMONS","HE 008689.7 .P82  H46  2013","X031607937","Public service broadcasting /","Hendy, David.",2013,FALSE
+"414","CLEMONS","HE 008689.7 .P82  H57  2012","X030975114","Histories of public service broadcasters on the Web /","",2012,FALSE
+"415","ALDERMAN","HE 008689.7 .P82  L43  1997","X004053827","Made possible by-- : the death of public broadcasting in the United States /","Ledbetter, James.",1997,TRUE
+"416","ALDERMAN","HE 008689.7 .P82  T73  2018","X031846795","Transparency and funding of public service media : die deutsche Debatte im internationalen Kontext /","",2017,TRUE
+"417","ALDERMAN","HE 008689.8 .B63  2004","X004808498","New media and popular imagination : launching radio, television, and digital media in the United States /","Boddy, William,",2004,FALSE
+"418","ALDERMAN","HE 008689.8 .C73  2015","X031708935","African Americans and mass media : a case for diversity in media ownership /","Craig, Richard T.,",2015,FALSE
+"419","ALDERMAN","HE 008689.8 .E53  1996","X004049581","Public radio and television in America : a political history /","Engelman, Ralph.",1996,FALSE
+"420","CLEMONS","HE 008689.8 .H55  2007","X004972501","Only connect : a cultural history of broadcasting in the United States /","Hilmes, Michele,",2007,FALSE
+"421","ALDERMAN","HE 008689.8 .K625  2007","X030106882","Fighting for air : the battle to control America's media /","Klinenberg, Eric.",2007,FALSE
+"422","ALDERMAN","HE 008689.8 .S56  2000","X004420831","Radio and television regulation : broadcast technology in the United States, 1920-1960 /","Slotten, Hugh Richard.",2000,FALSE
+"423","ALDERMAN","HE 008689.8 .S567  2009","X030561791","Radio's hidden voice : the origins of public broadcasting in the United States /","Slotten, Hugh Richard.",2009,FALSE
+"424","CLEMONS","HE 008689.9 .C3  C657  2011","X030947713","Everyone says no : public service broadcasting and the failure of translation /","Conway, Kyle,",2011,TRUE
+"425","CLEMONS","HE 008689.9 .C3  R69  2013","X031599611","Saving the CBC : balancing profit and public service /","Rowland, Wade.",2013,TRUE
+"426","ALDERMAN","HE 008689.9 .C3  T45  2012","X030846362","La télévision de Radio-Canada et l'évolution de la conscience politique au Québec /","",2012,TRUE
+"427","ALDERMAN","HE 008689.9 .G7  C687  2014","X031628601","Content cultures : transformations of user generated content in public service broadcasting /","",2014,TRUE
+"428","CLEMONS","HE 008689.9 .G7  H65  2013","X031618832","Broadcasting and the NHS in the Thatcherite 1980s : the challenge to public service /","Holland, Patricia,",2013,FALSE
+"429","ALDERMAN","HE 008689.9 .G7  M55  2016","X031793401","The BBC : myth of a public service /","Mills, Tom,",2016,FALSE
+"430","CLEMONS","HE 008689.9 .G7  N49  2011","X030975109","Paving the empire road : BBC television and Black Britons /","Newton, Darrell M.",2011,FALSE
+"431","CLEMONS","HE 008689.9 .G7  P65  2012","X031214681","Towards a market in broadcasting : communications policy in the UK and Germany /","Potschka, Christian,",2012,FALSE
+"432","ALDERMAN","HE 008689.9 .I7  W38  2003","X004684769","Broadcasting in Irish : minority language, radio, television and identity /","Watson, Iarfhlaith.",2003,FALSE
+"433","ALDERMAN","HE 008694 .R23  2012","X031216439","Radio and society : new thinking for an old medium /","",2012,FALSE
+"434","CLEMONS","HE 008694 .R25  2013","X031600553","Radio's new wave : global sound in the digital era /","",2013,FALSE
+"435","CLEMONS","HE 008694 .R33  2012","X031613269","Radio in small nations : production, programmes, audiences /","",2012,FALSE
+"436","ALDERMAN","HE 008694 .S66  2012","X031852586","Radio propaganda and the broadcasting of hatred : historical development and definitions /","Somerville, Keith.",2012,FALSE
+"437","ALDERMAN","HE 008697.45 .E852  A379  2013","X031608469","Airy curtains in the European ether : broadcasting and the Cold War? /","",2013,FALSE
+"438","CLEMONS","HE 008697.45 .E852  C866  2010","X030732507","Radio free Europe's ""Crusade for freedom"" : rallying Americans behind Cold War broadcasting, 1950-1960 /","Cummings, Richard H.,",2010,TRUE
+"439","ALDERMAN","HE 008697.45 .E852  J64  2010","X030817393","Radio free Europe and Radio Liberty : the CIA years and beyond /","Johnson, A. Ross.",2010,FALSE
+"440","ALDERMAN","HE 008697.45 .E852  P83  2000","X004400657","Broadcasting freedom : the Cold War triumph of Radio Free Europe and Radio Liberty /","Puddington, Arch.",2000,FALSE
+"441","CLEMONS","HE 008697.45 .G7  D53  2013","X031612990","Diasporas and diplomacy : cosmopolitan contact zones at the BBC World Service (1932-2012) /","",2013,TRUE
+"442","CLEMONS","HE 008697.45 .G7  W43  2014","X031629233","London calling : Britain, the BBC World Service, and the cold war /","Webb, Alban,",2014,FALSE
+"443","ALDERMAN","HE 008697.45 .U6  H44  2003","X004706701","Voice of America : a history /","Heil, Alan L.",2003,FALSE
+"444","ALDERMAN","HE 008697.45 .U6  K78  2000","X004478414","The Voice of America and the domestic propaganda battles, 1945-1953 /","Krugler, David F.,",2000,FALSE
+"445","ALDERMAN","HE 008697.65 .C37  2004","X004746254","40 watts from nowhere : a journey into pirate radio /","Carpenter, Sue,",2004,FALSE
+"446","ALDERMAN","HE 008697.65 .G7  J64  2011","X030732646","Death of a pirate : British radio and the making of the information age /","Johns, Adrian.",2011,FALSE
+"447","ALDERMAN","HE 008697.65 .U6  S65  1999","X004290347","Free radio : electronic civil disobedience /","Soley, Lawrence C.",1999,FALSE
+"448","ALDERMAN","HE 008697.75 .U6  K45  1997","X004096930","Voices in the purple haze : underground radio and the sixties /","Keith, Michael C.,",1997,FALSE
+"449","ALDERMAN","HE 008697.75 .U6  L37  1999","X004276346","Pacifica radio : the rise of alternative network /","Lasar, Matthew,",1999,TRUE
+"450","ALDERMAN","HE 008697.8 .N45  1997","X004151879","War of the black heavens : the battles of Western broadcasting in the Cold War /","Nelson, Michael,",1997,FALSE
+"451","ALDERMAN","HE 008697.8 .U73  1997","X004151015","Radio Free Europe and the pursuit of democracy : my war within the Cold War /","Urban, G. R. (George R.),",1997,FALSE
+"452","ALDERMAN","HE 008697.85 .F8  S34  2016","X031794732","Radio and the politics of sound in interwar France, 1921-1939 /","Scales, Rebecca,",2016,FALSE
+"453","ALDERMAN","HE 008697.85 .U6  H67  2002","X004591853","Radio goes to war : the cultural politics of propaganda during World War II /","Horten, Gerd,",2002,FALSE
+"454","ALDERMAN","HE 008697.95 .C3  F38  2015","X031740651","Music in range : the culture of Canadian campus radio /","Fauteux, Brian,",2015,TRUE
+"455","ALDERMAN","HE 008697.95 .U6  F34  2001","X004593598","Community radio and public culture : being an examination of media access and equity in the nations of North America /","Fairchild, Charles,",2001,TRUE
+"456","ALDERMAN","HE 008697.95 .U6  G76  2004","X004808559","All I did was ask : conversations with writers, actors, musicians, and artists /","Gross, Terry.",2004,TRUE
+"457","ALDERMAN","HE 008697.95 .U6  M33  2005","X004863723","NPR : the trials and triumphs of National Public Radio /","McCauley, Michael P.,",2005,FALSE
+"458","ALDERMAN","HE 008697.95 .U6  M363  1999","X004375052","Conflicting communication interests in America : the case of National Public Radio /","McCourt, Tom,",1999,FALSE
+"459","ALDERMAN","HE 008697.95 .U6  M58  2005","X004859407","Listener supported : the culture and history of public radio /","Mitchell, Jack W.,",2005,FALSE
+"460","ALDERMAN","HE 008698 .B35  1966  V.000002","X000301475","A history of broadcasting in the United States.","Barnouw, Erik,",1966,TRUE
+"461","CLEMONS","HE 008698 .D68  1987","X001318483","The early days of radio broadcasting /","Douglas, George H.,",1987,FALSE
+"462","ALDERMAN","HE 008698 .D68  1999","X004302086","Listening in : radio and the American imagination, from Amos 'n' Andy and Edward R. Murrow to Wolfman Jack and Howard Stern /","Douglas, Susan J. (Susan Jeanne),",1999,FALSE
+"463","CLEMONS","HE 008698 .D685  1987","X001283348","Inventing American broadcasting, 1899-1922 /","Douglas, Susan J. (Susan Jeanne),",1987,FALSE
+"464","ALDERMAN","HE 008698 .F47  2007","X030107172","Something in the air : radio, rock, and the revolution that shaped a generation /","Fisher, Marc.",2007,FALSE
+"465","CLEMONS","HE 008698 .F64  2008","X030384577","Right of the dial : the rise of clear channel and the fall of commercial radio /","Foege, Alec.",2008,FALSE
+"466","ALDERMAN","HE 008698 .F68  2000","X004415540","Big voices of the air : the battle over clear channel radio /","Foust, James C.",2000,FALSE
+"467","ALDERMAN","HE 008698 .G63  1997","X004143145","WCFL, Chicago's voice of labor, 1926-78 /","Godfried, Nathan.",1997,FALSE
+"468","CLEMONS","HE 008698 .G66  2011","X030618989","Radio's civic ambition : American broadcasting and democracy in the 1930s /","Goodman, David,",2011,FALSE
+"469","ALDERMAN","HE 008698 .H55  2005","X004909464","The quieted voice : the rise and demise of localism in American radio /","Hilliard, Robert L.,",2005,FALSE
+"470","ALDERMAN","HE 008698 .M34  1993","X002153810","Telecommunications, Mass Media, and Democracy : the battle for  the control of U.S. broadcasting, 1928-1935 /","McChesney, Robert Waterman,",1993,FALSE
+"471","CLEMONS","HE 008698 .S529  1950","X000201567","Radio, television and society.","Siepmann, Charles Arthur,",1950,FALSE
+"472","CLEMONS","HE 008698 .S6  1994","X002578248","Selling radio : the commercialization of American broadcasting, 1920-1934 /","Smulyan, Susan.",1994,FALSE
+"473","CLEMONS","HE 008698 .S755  2011","X030947207","Sound business : newspapers, radio, and the politics of new media /","Stamm, Michael.",2011,FALSE
+"474","ALDERMAN","HE 008699 .A35  A33  2000","X004438858","African broadcast cultures : radio in transition /","",2000,FALSE
+"475","ALDERMAN","HE 008699 .C2  A56  V.000002 PT.000001","X031874293","Report /","Canada. Royal Commission on Broadcasting.",1957,TRUE
+"476","ALDERMAN","HE 008699 .C2  K87  2016","X031793443","Canada before television : radio, taste, and the struggle for cultural democracy /","Kuffert, L. B. (Leonard B.),",2016,FALSE
+"477","ALDERMAN","HE 008699 .G3  Z95  2004","X004855745","Zwischen Pop und Propaganda : Radio in der DDR /","",2004,FALSE
+"478","ALDERMAN","HE 008699 .G7  S76  2010","X030774381","Sounds of your life : the history of independent radio in the UK /","Stoller, Tony.",2010,FALSE
+"479","CLEMONS","HE 008699 .I73  M69  2013","X031629690","Broadcasting diversity : migrant representation in Irish radio /","Moylan, Katie",2013,FALSE
+"480","ALDERMAN","HE 008699 .P32  S73  2013","X031579885","This is Jerusalem calling : state radio in mandate Palestine /","Stanton, Andrea L.",2013,FALSE
+"481","ALDERMAN","HE 008699 .S72  L68  2015","X031733301","Russia in the microphone age : a history of Soviet radio, 1919-1970 /","Lovell, Stephen,",2015,TRUE
+"482","ALDERMAN","HE 008699 .Z33  E54  2017","X031825259","Gogo Breeze : Zambia's radio elder and the voices of free speech /","Englund, Harri,",2018,FALSE
+"483","CLEMONS","HE 008700.4 .A38  2013","X031619462","After the break : television theory today /","",2013,FALSE
+"484","ALDERMAN","HE 008700.4 .W54  1975","X000206934","Television : technology and cultural form /","Williams, Raymond.",1975,FALSE
+"485","CLEMONS","HE 008700.4 .W54  1992","X006134230","Television : technology and cultural form /","Williams, Raymond.",1992,FALSE
+"486","ALDERMAN","HE 008700.65 .H55  2007","X004832832","Restyling factual TV : audiences and news, documentary and reality genres /","Hill, Annette.",2007,FALSE
+"487","ALDERMAN","HE 008700.65 .K82  1990","X001815461","Television and the quality of life : how viewing shapes everyday experience /","Kubey, Robert William,",1990,FALSE
+"488","ALDERMAN","HE 008700.65 .R63  2018","X032560546","America, as seen on TV : how television shapes immigrant expectations around the globe /","Rodriguez, Clara E.,",2018,FALSE
+"489","ALDERMAN","HE 008700.65 .R67  2008","X030457021","Beyond the box : television and the Internet /","Ross, Sharon Marie.",2008,FALSE
+"490","CLEMONS","HE 008700.65 .T45  2014","X031628072","Television audiences across the world : deconstructing the ratings machine /","",2014,FALSE
+"491","ALDERMAN","HE 008700.65 .W42  1991","X002010059","Ratings analysis : theory and practice /","Webster, James G.",1991,FALSE
+"492","CLEMONS","HE 008700.65 .W42  2014","X031603884","Ratings analysis : audience measurement and analytics /","Webster, James G.",2014,FALSE
+"493","ALDERMAN","HE 008700.66 .G7  M67  1986B","X001158966","Family television : cultural power and domestic leisure /","Morley, David,",1986,FALSE
+"494","CLEMONS","HE 008700.66 .U6  A54  1991","X002039065","Desperately seeking the audience /","Ang, Ien.",1991,FALSE
+"495","CLEMONS","HE 008700.66 .U6  B895  2012","X030844212","Tracking the audience : the ratings industry from analog to digital /","Buzzard, Karen.",2012,FALSE
+"496","CLEMONS","HE 008700.66 .U6  M67  2011","X030947200","Listening to Latina/o youth : television consumption within families /","Moran, Kristin Clare Engstrand.",2011,FALSE
+"497","ALDERMAN","HE 008700.7 .C6  P65","X000430300","Talking back: citizen feedback and cable technology.","Pool, Ithiel de Sola,",1973,FALSE
+"498","ALDERMAN","HE 008700.7 .M85  2008","X030248908","Television in the multichannel age : a brief history of cable television /","Mullen, Megan Gwynne,",2008,FALSE
+"499","ALDERMAN","HE 008700.72 .G7  H65  1984","X000925028","Beyond broadcasting : into the cable age /","Hollins, Timothy.",1984,FALSE
+"500","ALDERMAN","HE 008700.72 .U6  C355  2007","X030251404","Cable visions : television beyond broadcasting /","",2007,TRUE
+"501","ALDERMAN","HE 008700.72 .U6  M46  2017","X031763236","Republic on the wire : cable television, pluralism, and the politics of new technologies, 1948-1984 /","McMurria, James,",2017,FALSE
+"502","ALDERMAN","HE 008700.72 .U6  P36  2008","X030250363","Blue skies : a history of cable television /","Parsons, Patrick.",2008,FALSE
+"503","ALDERMAN","HE 008700.72 .U6  Z37  2010","X030818888","The FCC and the politics of cable TV regulation, 1952-1980 : organizational learning and policy development /","Zarkin, Michael J.",2010,FALSE
+"504","ALDERMAN","HE 008700.76 .I4  R34  2001","X004474017","Politics after television : religious nationalism and the reshaping of the Indian public /","Rajagopal, Arvind.",2001,TRUE
+"505","ALDERMAN","HE 008700.76 .U6  J66  2005","X004805809","Entertaining politics : new political television and civic culture /","Jones, Jeffrey P.,",2005,FALSE
+"506","CLEMONS","HE 008700.76 .U6  J663  2010","X030618591","Entertaining politics : satiric television and political engagement /","Jones, Jeffrey P.,",2010,FALSE
+"507","ALDERMAN","HE 008700.76 .U6  L52  2014","X031658638","Politics is a joke! : how TV comedians are remaking political life /","Lichter, S. Robert.",2014,TRUE
+"508","ALDERMAN","HE 008700.76 .U6  S34  1999","X004255624","The sound bite society : television and the American mind /","Scheuer, Jeffrey,",1999,FALSE
+"509","ALDERMAN","HE 008700.76 .U6  S37  2009","X030466537","Satire TV : politics and comedy in the post-network era /","",2009,FALSE
+"510","ALDERMAN","HE 008700.78 .D43  2010","X030763240","Reinventing public service television for the digital future /","Debrett, Mary.",2010,FALSE
+"511","ALDERMAN","HE 008700.79 .B35  2003","X004634135","Recovering a public vision for public television /","Balas, Glenda R.,",2003,FALSE
+"512","ALDERMAN","HE 008700.79 .B6  L67  2015","X032058252","TV Brasil e a reconstrução da rede nacional de televisão pública /","Lopes, Ivonete da Silva,",2015,TRUE
+"513","ALDERMAN","HE 008700.79 .U6  O94  2002","X004633921","Viewers like you? : how public TV failed the people /","Ouellette, Laurie.",2002,FALSE
+"514","ALDERMAN","HE 008700.79 .U6  S65  2002","X004558632","The other face of public television : censoring the American dream /","Smith, Roger P. (Roger Phillips),",2002,FALSE
+"515","ALDERMAN","HE 008700.79 .U6  S73  1999","X004253311","The PBS companion : a history of public television /","Stewart, David C.,",1999,FALSE
+"516","ALDERMAN","HE 008700.8 .B37","X000275766","Tube of plenty : the evolution of American television /","Barnouw, Erik,",1975,FALSE
+"517","CLEMONS","HE 008700.8 .B37  1977","X000594435","Tube of plenty : the evolution of American television /","Barnouw, Erik,",1977,FALSE
+"518","CLEMONS","HE 008700.8 .B37  1982","X000593779","Tube of plenty : the evolution of American television /","Barnouw, Erik,",1982,FALSE
+"519","CLEMONS","HE 008700.8 .B37  1990","X002719680","Tube of plenty : the evolution of American television /","Barnouw, Erik,",1990,FALSE
+"520","ALDERMAN","HE 008700.8 .B38  1985","X000908412","Television's guardians : the FCC and the politics of programming, 1958-1967 /","Baughman, James L.,",1985,FALSE
+"521","ALDERMAN","HE 008700.8 .C654","X000142766","Television in America /","Comstock, George (George A.)",1980,FALSE
+"522","ALDERMAN","HE 008700.8 .E37  2004","X004704798","Media diversity : economics, ownership, and the FCC /","Einstein, Mara.",2004,FALSE
+"523","ALDERMAN","HE 008700.8 .G55  2015","X031708649","Television brandcasting : the return of the content-promotion hybrid /","Gillan, Jennifer,",2015,FALSE
+"524","CLEMONS","HE 008700.8 .H56  2012","X031187950","Branding television /","Johnson, Catherine,",2012,FALSE
+"525","ALDERMAN","HE 008700.8 .M35","X000051996","Four arguments for the elimination of television /","Mander, Jerry.",1978,FALSE
+"526","ALDERMAN","HE 008700.8 .O826  1999","X004276299","The Internet challenge to television /","Owen, Bruce M.",1999,FALSE
+"527","ALDERMAN","HE 008700.8 .O93  1992","X002073055","Video economics /","Owen, Bruce M.",1992,FALSE
+"528","CLEMONS","HE 008700.8 .P66  2016","X031822475","That's the way it is : a history of television news in America /","Ponce de Leon, Charles L. (Charles Leonard),",2016,FALSE
+"529","ALDERMAN","HE 008700.8 .P824  2003","X004657519","Public broadcasting and the public interest /","",2003,FALSE
+"530","CLEMONS","HE 008700.8 .T34","X000153364","Television and human behavior /","",1978,FALSE
+"531","CLEMONS","HE 008700.8 .W57  2014","X031655583","Wired TV : laboring over an interactive future /","",2014,FALSE
+"532","CLEMONS","HE 008700.9 .A65  L34  2011","X031189352","Contemporary Arab broadcast media /","Lahlali, El Mustapha.",2011,TRUE
+"533","ALDERMAN","HE 008700.9 .B6  M46  2015","X031194383","O Brasil e os brasis na televisão regional aberta /","Meneses, Verônica Dantas.",2015,FALSE
+"534","ALDERMAN","HE 008700.9 .B7  B737  2015","X031848886","Novas imagens do Brasil : telejornalismo, TV, Internet, inovação /","Brasil, Antonio,",2015,FALSE
+"535","CLEMONS","HE 008700.9 .C2  T39  2013","X031612989","Shut off : the Canadian digital television transition /","Taylor, Gregory.",2013,TRUE
+"536","ALDERMAN","HE 008700.9 .C3  T55  2005","X004863251","On location : Canada's television industry in a global market /","Tinic, Serra A. (Serra Ayse),",2005,TRUE
+"537","ALDERMAN","HE 008700.9 .C6  K435  2015","X031792526","The Chinese television industry /","Keane, Michael,",2015,FALSE
+"538","ALDERMAN","HE 008700.9 .C9  R58  2015","X031705912","Broadcasting modernity : Cuban commercial television, 1950-1960 /","Rivero, Yeidy M.,",2015,TRUE
+"539","ALDERMAN","HE 008700.9 .E3  A28  2005","X004807162","Dramas of nationhood : the politics of television in Egypt /","Abu-Lughod, Lila.",2005,FALSE
+"540","CLEMONS","HE 008700.9 .E8  P75  2013","X030610734","Private television in Western Europe : content, markets, policies /","",2013,FALSE
+"541","ALDERMAN","HE 008700.9 .G7  M43  2010","X030745124","A history of independent television in Wales /","Medhurst, Jamie.",2010,FALSE
+"542","ALDERMAN","HE 008700.9 .G7  S43  2015","X031709453","'Pinkoes and traitors' : the BBC and the nation, 1974-1987 /","Seaton, Jean.",2015,FALSE
+"543","ALDERMAN","HE 008700.9 .G7  S73  2007","X030262973","Switching to digital television : UK public policy and the market /","Starks, Michael,",2007,FALSE
+"544","ALDERMAN","HE 008700.9 .I5  M36  1999","X004324281","Screening culture, viewing politics : an ethnography of television, womanhood, and nation in postcolonial India /","Mankekar, Purnima,",1999,FALSE
+"545","ALDERMAN","HE 008700.9 .J3  L85  2010","X030762601","Scripted affects, branded selves : television, subjectivity, and capitalism in 1990s Japan /","Lukács, Gabriella",2010,TRUE
+"546","ALDERMAN","HE 008700.9 .L38  S55  2013","X031626620","Latin American television industries /","Sinclair, John,",2013,FALSE
+"547","ALDERMAN","HE 008700.9 .Q22  A4  2004","X030024870","The credibility of Arab broadcasting : the case of AlJazeera /","Al-Jaber, Khalid.",2004,FALSE
+"548","ALDERMAN","HE 008700.9 .Q22  E4  2002","X004558583","Al-Jazeera : how the free Arab news network scooped the world and changed the Middle East /","El-Nawawy, Mohammed,",2002,FALSE
+"549","ALDERMAN","HE 008700.9 .Q22  M55  2005","X004839788","Al-Jazeera : how Arab TV news challenged the world /","Miles, Hugh,",2005,FALSE
+"550","CLEMONS","HE 008700.9 .Q22  M55  2005","X004824762","Al-Jazeera : the inside story of the Arab news channel that is challenging the West /","Miles, Hugh,",2005,FALSE
+"551","ALDERMAN","HE 008700.9 .Q22  R87  2007","X030101986","Mission Al Jazeera : build a bridge, seek the truth, change the world /","Rushing, Josh.",2007,TRUE
+"552","ALDERMAN","HE 008735 .S65","X000270675","The Social impact of the telephone /","",1977,FALSE
+"553","ALDERMAN","HE 008788 .B67  2016","X031763002","Borders in service : enactments of nationhood in transnational call centres /","",2016,FALSE
+"554","ALDERMAN","HE 008788 .L55  2013","X031613742","Labour markets and identity on the post-industrial assembly line /","Lloyd, Anthony.",2013,FALSE
+"555","ALDERMAN","HE 008789 .I4  A54  2015","X031650396","Neutral accent : how language, labor, and life become global /","Aneesh, A. (Aneesh),",2015,FALSE
+"556","ALDERMAN","HE 008789 .I4  B37  2009","X031650199","Women, identity and India's call centre industry /","Basi, JK Tina.",2009,FALSE
+"557","ALDERMAN","HE 008789 .I4  C37  2013","X031627572","Answer the call : virtual migration in Indian call centers /","Carrillo Rowe, Aimee",2013,TRUE
+"558","ALDERMAN","HE 008789 .I4  M57  2012","X030974956","Phone clones : authenticity work in the transnational service economy /","Mirchandani, Kiran,",2012,FALSE
+"559","ALDERMAN","HE 008789 .P6  P33  2018","X031838663","A nation on the line : call center as postcolonial predicaments in the Philippines /","Padios, Jan M.,",2018,FALSE
+"560","ALDERMAN","HE 008789 .U6  D64  2012","X030608767","Disintegrating democracy at work : labor unions and the future of good jobs in the service economy /","Doellgast, Virginia Lee,",2012,TRUE
+"561","ALDERMAN","HE 008815 .B76","X000291268","Telephone : the first hundred years /","Brooks, John.",1976,FALSE
+"562","ALDERMAN","HE 008815 .C73  1991","X001904599","After the breakup : U.S. telecommunications in a more competitive era /","Crandall, Robert W.",1991,FALSE
+"563","ALDERMAN","HE 008815 .K37  1999","X004295355","Connections : social and cultural studies of the telephone in American life /","Katz, James Everett.",1999,FALSE
+"564","ALDERMAN","HE 008817 .F56  1992","X002159994","America calling : a social history of the telephone to 1940 /","Fischer, Claude S.,",1992,FALSE
+"565","ALDERMAN","HE 008817 .S86  1994","X002592098","Once upon a telephone : an illustrated social history /","Stern, Ellen",1994,FALSE
+"566","ALDERMAN","HE 008819 .M843  1997","X004070662","Universal service : competition, interconnection, and monopoly in the making of the American telephone system /","Mueller, Milton.",1997,FALSE
+"567","ALDERMAN","HE 008841 .D26  001955","X032319773","Danville, Chatham, telephone directory","The Chesapeake and Potomac Telephone Company of Virginia",1935,FALSE
+"568","ALDERMAN","HE 008841 .N82  C43A 001966 MAY","X032319969","Norfolk-Portsmouth, Chesapeake-Virginia Beach : telephone directory ... : area code 703","The C&P Telephone Company of Virginia",1965,TRUE
+"569","ALDERMAN","HE 008846 .A55  C58  1986","X001159058","The deal of the century : the breakup of AT&T /","Coll, Steve.",1986,TRUE
+"570","ALDERMAN","HE 008846 .A55  G64  2001","X004477421","Race on the line : gender, labor, and technology in the Bell System, 1880-1980 /","Green, Venus.",2001,TRUE
+"571","ALDERMAN","HE 008846 .A55  T44  1987","X001283252","The fall of the Bell system : a study in prices and politics /","Temin, Peter.",1987,TRUE
+"572","ALDERMAN","HE 008846 .S55  L57  1989","X001782493","The Bell System and regional business : the telephone in the South, 1877-1920 /","Lipartito, Kenneth,",1989,TRUE
+"573","ALDERMAN","HE 009713 .D6813  2014","X031653797","Where Are You? An Ontology of the Cell Phone /","Ferraris, Maurizio.",2014,FALSE
+"574","ALDERMAN","HE 009713 .G35  2002","X004635035","Anytime, anywhere : entrepreneurship and the creation of a wireless world /","Galambos, Louis.",2002,FALSE
+"575","ALDERMAN","HE 009713 .G67  2013","X031579777","The ringtone dialectic : economy and cultural form /","Gopinath, Sumanth S.",2013,FALSE
+"576","ALDERMAN","HE 009713 .H36  2008","X030259763","Handbook of mobile communication studies /","",2008,FALSE
+"577","ALDERMAN","HE 009713 .H365  2007","X030250767","24/7 : how cell phones and the Internet change the way we live, work, and play /","Hanson, Jarice.",2007,FALSE
+"578","ALDERMAN","HE 009713 .K38  2006","X030105253","Magic in the air : mobile communication and the transformation of social life /","Katz, James Everett.",2006,FALSE
+"579","ALDERMAN","HE 009713 .L563  2004","X004774095","The mobile connection : the cell phone's impact on society /","Ling, Richard Seyler.",2004,FALSE
+"580","ALDERMAN","HE 009713 .L564  2012","X030847226","Taken for grantedness : the embedding of mobile communication into society /","Ling, Richard Seyler.",2012,FALSE
+"581","ALDERMAN","HE 009713 .M43  2008","X030248878","New tech, new ties : how mobile communication is reshaping social cohesion /","Ling, Richard Seyler.",2008,FALSE
+"582","ALDERMAN","HE 009713 .M64  2005","X004905047","Mobile communications : re-negotiation of the social sphere /","",2005,FALSE
+"583","ALDERMAN","HE 009713 .P47  2002","X004589118","Perpetual contact : mobile communication, private talk, public performance /","",2002,FALSE
+"584","ALDERMAN","HE 009713 .W69  2014","X031653653","The smartphone : anatomy of an industry /","Woyke, Elizabeth,",2014,FALSE
+"585","ALDERMAN","HE 009713 .Y36  2018","X031824957","Mobile phone behavior /","Yan, Zheng,",2018,FALSE
+"586","ALDERMAN","HE 009715 .I4  D67  2013","X031599764","The great Indian phone book : how the cheap cell phone changes business, politics, and daily life /","Doron, Assa.",2013,TRUE
+"587","ALDERMAN","HE 009715 .J25  H67  2006","X004834206","The cell phone : an anthropology of communication /","Horst, Heather A.",2006,FALSE
+"588","ALDERMAN","HE 009715 .P16  M67  2018","X031822158","The moral economy of mobile phones : Pacific Islands perspectives /","",2018,FALSE
+"589","ALDERMAN","HE 009715 .U6  M87  2001","X004524195","Wireless nation : the frenzied launch of the cellular revolution in America /","Murray, James B.",2001,FALSE
+"590","ALDERMAN","HE 009751 .C85  2001","X004477387","The immortal class : bike messengers and the cult of human power /","Culley, Travis Hugh.",2001,FALSE
+"591","ALDERMAN","HE 009753 .K53  2011","X030947448","Urban flow : bike messengers and the city /","Kidder, Jeffrey L. (Jeffrey Lowell),",2011,FALSE
+"592","ALDERMAN","HE 009762 .A375  2006","X004913875","Competition policy and antitrust /","Lee, Darin M.",2006,FALSE
+"593","ALDERMAN","HE 009762 .D64  2006","X004835354","The airline business /","Doganis, Rigas.",2006,FALSE
+"594","ALDERMAN","HE 009774 .G46  2014","X031652400","The geographies of air transport /","",2014,FALSE
+"595","ALDERMAN","HE 009776 .T366  2011","X030843508","The passenger has gone digital and mobile : accessing and connecting through information and technology /","Taneja, Nawal K.",2011,FALSE
+"596","ALDERMAN","HE 009777.7 .A37  2011","X031189002","Air transport in the 21st century : key strategic developments /","",2011,FALSE
+"597","ALDERMAN","HE 009778 .G37  2010","X030773935","Discrete choice modelling and air travel demand : theory and applications /","Garrow, Laurie A.",2010,FALSE
+"598","ALDERMAN","HE 009779 .R32  2007","X030262153","Terror in black September : the first eyewitness account of the infamous 1970 hijackings /","Raab, David.",2007,FALSE
+"599","ALDERMAN","HE 009780 .G64  2010","X031758114","Networks in aviation : strategies and structures /","Goedeking, Philipp.",2010,FALSE
+"600","ALDERMAN","HE 009780 .H32  2013","X031603812","Confronting mistakes : lessons from the aviation industry when dealing with error /","Hagen, Jan U.,",2013,FALSE
+"601","ALDERMAN","HE 009780 .L53  2013","X031613737","Liberalization in aviation : competition, cooperation and public policy /","",2013,FALSE
+"602","ALDERMAN","HE 009781 .S35  2011","X030976105","Airline marketing and management /","Shaw, Stephen,",2011,FALSE
+"603","ALDERMAN","HE 009782 .E26  2007","X030262097","The economics of airline institutions, operations and marketing /","",2007,FALSE
+"604","ALDERMAN","HE 009782 .E26  2014","X031651896","The economics of international airline transport /","",2014,FALSE
+"605","ALDERMAN","HE 009782 .J67  2014","X031627787","Aviation investment : economic appraisal for airports, air traffic management, airlines and aeronautics /","Jorge-Calderón, Doramas,",2014,FALSE
+"606","ALDERMAN","HE 009783 .L69  2013","X031619332","The low cost carrier worldwide /","",2013,FALSE
+"607","ALDERMAN","HE 009783.5 .B69  2007","X030262715","The future of pricing : how airline ticket pricing has inspired a revolution /","Boyd, E. Andrew.",2007,FALSE
+"608","ALDERMAN","HE 009787 .H82","X000069942","Diamonds in the sky : a social history of air travel /","Hudson, Kenneth.",1979,FALSE
+"609","ALDERMAN","HE 009787 .R87  2009","X030467722","Flying across America : the airline passenger experience /","Rust, Daniel L.,",2009,FALSE
+"610","ALDERMAN","HE 009787 .S73  2014","X031639912","Jet set : the people, the planes, the glamour, and the romance in aviation's glory years /","Stadiem, William,",2014,FALSE
+"611","ALDERMAN","HE 009787.5 .G7  P57  2012","X030844532","Cultures and caricatures of British imperial aviation : passengers, pilots, publicity /","Pirie, Gordon H. (Gordon Harvey)",2012,FALSE
+"612","CLEMONS","HE 009797 .K36  2011","X030810848","Aerotropolis : the way we'll live next /","Kasarda, John D.",2011,FALSE
+"613","ALDERMAN","HE 009797 .S329  2017","X031814214","Airportness : the nature of flight /","Schaberg, Christopher,",2017,FALSE
+"614","ALDERMAN","HE 009797 .S33  2016","X031796312","The end of airports /","Schaberg, Christopher.",2016,FALSE
+"615","ALDERMAN","HE 009797.4 .E3  A95  2008","X030259402","Aviation infrastructure performance : a study in comparative political economy /","",2008,FALSE
+"616","ALDERMAN","HE 009797.4 .S4  H35  2015","X031731527","The transparent traveler : the performance and culture of airport security /","Hall, Rachel,",2015,FALSE
+"617","ALDERMAN","HE 009797.4 .S4  P65  2008","X030457010","Politics at the airport /","",2008,FALSE
+"618","ALDERMAN","HE 009797.4 .S4  P76  2009","X030559425","Protecting airline passengers in the age of terrorism /","",2009,FALSE
+"619","CLEMONS","HE 009797.5 .G72  L625  2010","X030701333","A week at the airport /","De Botton, Alain.",2010,TRUE
+"620","ALDERMAN","HE 009797.5 .G72  L6422  2014","X031652030","The Heathrow report 2015 : ""what the Airports Commission missed"" /","Glass, Gordan.",2014,TRUE
+"621","ALDERMAN","HE 009797.5 .U5  B429  2016","X031810177","Airports, cities, and the jet age : US airports since 1945 /","Bednarek, Janet R. Daly (Janet Rose Daly),",2016,FALSE
+"622","ALDERMAN","HE 009797.5 .U5  O77  2017","X031806070","Jim Crow terminals : the desegregation of American airports /","Ortlepp, Anke",2017,FALSE
+"623","ALDERMAN","HE 009803 .A3  B83  2012","X031213939","Landing in Las Vegas : commercial aviation and the making of a tourist city /","Bubb, Daniel K. (Daniel Kenneth)",2012,FALSE
+"624","ALDERMAN","HE 009803 .A3  H47  1995","X002680793","Turbulent skies : the history of commercial aviation /","Heppenheimer, T. A.,",1995,FALSE
+"625","CLEMONS","HE 009803 .A3  M67  1995","X002689444","The evolution of the airline industry /","Morrison, Steven,",1995,FALSE
+"626","ALDERMAN","HE 009803 .A3  V26  2013","X031655828","Empire of the air : aviation and the American ascendancy /","Van Vleck, Jenifer,",2013,TRUE
+"627","ALDERMAN","HE 009803 .A4  M42  2012","X031214073","Attention all passengers : the airlines' dangerous descent -- and how to reclaim our skies /","McGee, William J.",2012,FALSE
+"628","ALDERMAN","HE 009803 .P36  Y36  2011","X030817734","Airborne dreams : ""Nisei"" stewardesses and Pan American World Airways /","Yano, Christine Reiko.",2011,FALSE
+"629","CLEMONS","HE 009803 .Z7  H5352  2011","X030951452","Skyjack : the hunt for D.B. Cooper /","Gray, Geoffrey.",2011,FALSE
+"630","ALDERMAN","HE 009803 .Z7  H545  2013","X031229975","The skies belong to us : love and terror in the golden age of hijacking /","Koerner, Brendan I.",2013,FALSE
+"631","ALDERMAN","HE 009815 .A95  C3713  2013","X031625601","Taking aviation to new heights : a biography of Pierre Jeanniot /","Cardinal, Jacqueline.",2013,TRUE
+"632","ALDERMAN","HE 009843 .A3  H54  2013","X030611088","Speedbird : the complete history of BOAC /","Higham, Robin,",2013,FALSE
+"633","ALDERMAN","HE 009843 .I45  B45  2017","X031824895","Empire in the air : airline travel and the African diaspora /","Bhimull, Chandra D.,",2017,FALSE
+"634","ALDERMAN","HE 009849 .D4  L84  2012","X031191496","Lufthansa + graphic design : visuelle Geschichte einer Fluggesellshaft = visual history of an airline /","",2012,TRUE

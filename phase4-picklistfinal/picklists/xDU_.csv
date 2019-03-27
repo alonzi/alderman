@@ -1,0 +1,481 @@
+"","Item.Library.Code","Item.Shelving.Id","Item.Barcode","Catalog.Title","Catalog.Author","Catalog.Pub.Year","MultiVolume"
+"1","ALDERMAN","DU 000001 .I44  1945  V.000002 NO.000001","X031955551","The Australian balance of payments /","Giblin, L. F. (Lyndhurst Falkiner),",1945,TRUE
+"2","ALDERMAN","DU 000001 .I44  1945  V.000005 NO.000003","X031955550","A program of social and cultural activity in Indo-China /","De La R. (De La Roche)",1945,TRUE
+"3","ALDERMAN","DU 000001 .I525  1947  NO.000001","X030533117","United States economic policy towards the Philippine Republic. Based on a larger IPR research report on United States relations with the Philippine Republic to be pub. later. Submitted by the American IPR as a document for the Tenth Conference of the Institute of Pacific Relations to be held at Stratford-upon-Avon, England, Sept","Jenkins, Shirley.",1947,TRUE
+"4","ALDERMAN","DU 000001 .I525  1947  NO.000002","X030574082","Two problems related to economic development in the Orient : Based on a larger research study for the IPR on economic development in the Orient /","Staley, Eugene,",1947,TRUE
+"5","ALDERMAN","DU 000001 .I54  1950  NO.000001","X030574083","Japan's economy--present and future /","Tsuru, Shigeto,",1950,TRUE
+"6","ALDERMAN","DU 000001 .I54  1958  NO.000003","X001137198","Some problems of Japan's foreign relations; excerpts from the Foreign policy Blue book,","Japan. Gaimush?.",1958,TRUE
+"7","ALDERMAN","DU 000001 .S6  NO.000022","X031955521","Grammaire & dictionnaire de la langue tahitienne.","Jaussen, Tepano,",1969,TRUE
+"8","ALDERMAN","DU 000001 .Z434  2012","X031615289","Zhongguo Taiping Yang guo ji xue hui yan jiu (1925-1945) = China Institute of Pacific Relations (1925-1945) /","Zhang, Jing,",2012,FALSE
+"9","ALDERMAN","DU 000015 .G74  1943  V.000002","X030533105","Pacific Island","Great Britain. Naval Intelligence Division.",1943,TRUE
+"10","ALDERMAN","DU 000018 .B83  2016","X031758209","Health and disease in the prehistoric Pacific Islands /","Buckley, Hallie,",2016,FALSE
+"11","CLEMONS","DU 000018 .P33  2009","X030618628","Pacific Rim modernisms /","",2009,FALSE
+"12","ALDERMAN","DU 000018 .W55  2000","X004439789","Reimagining the American Pacific : from South Pacific to Bamboo Ridge and beyond /","Wilson, Rob,",2000,FALSE
+"13","ALDERMAN","DU 000018 .W56  1991","X001926209","Pacific rising : the emergence of a new world culture /","Winchester, Simon.",1991,FALSE
+"14","ALDERMAN","DU 000019 .D63","X000023540","Islands and empires : Western impact on the Pacific and east Asia /","Dodge, Ernest S. (Ernest Stanley),",1976,FALSE
+"15","ALDERMAN","DU 000019 .E94  2014","X031711755","Exhibition Pacífico : Spain and the adventure of the South Sea /","",2014,FALSE
+"16","ALDERMAN","DU 000019 .E95  2000","X004479058","Exploration & exchange : a South Seas anthology, 1680-1900 /","",2000,FALSE
+"17","ALDERMAN","DU 000020 .A53  2003","X004708456","The Bounty : the true story of the mutiny on the Bounty /","Alexander, Caroline,",2003,FALSE
+"18","ALDERMAN","DU 000020 .C36  2008","X030522168","Exploring the explorers : Spaniards in Oceania, 1519-1794 /","Camino, Mercedes Maroto.",2008,FALSE
+"19","ALDERMAN","DU 000020 .I45  2013","X031626293","The great ocean : Pacific worlds from Captain Cook to the gold rush /","Igler, David,",2013,FALSE
+"20","ALDERMAN","DU 000020 .L54  2006","X030360801","The travelers' world : Europe to the Pacific /","Liebersohn, Harry.",2006,FALSE
+"21","ALDERMAN","DU 000020 .M66  1987","X001284289","The fatal impact : the invasion of the South Pacific, 1767-1840 /","Moorehead, Alan,",1987,FALSE
+"22","ALDERMAN","DU 000020 .Z37  2000","X004825784","Historia del descubrimiento de las regiones austriales : hecho por el general Pedro Fernández de Quirós : el Pacífico hispano y la búsqueda de la ""Terra Australis"" /","Zaragoza, Justo,",2000,FALSE
+"23","ALDERMAN","DU 000021 .M54  P8713  1982A","X001594603","Nikolai Miklouho-Maclay, traveller, scientist and humanist /","Putilov, B. N. (Boris Nikolaevich)",1989,FALSE
+"24","ALDERMAN","DU 000021 .O18  1972","X031945078","A residence of eleven years in new holland and the caroline islands","O'Connell, James F.",1972,FALSE
+"25","ALDERMAN","DU 000021 .S74  2004","X004789824","The cruise of the Janet Nichol among the South Sea Islands : a diary /","Stevenson, Fanny Van de Grift,",2004,FALSE
+"26","ALDERMAN","DU 000021 .W24  1966  V.000002","X031963465","American activities in the central Pacific, 1790-1870; a history, geography, and ethnography pertaining to American involvement and Americans in the Pacific taken from contemporary newspapers etc.","Ward, R. Gerard.",1966,TRUE
+"27","ALDERMAN","DU 000022 .L8","X031945080","From a South Seas diary, 1938-1942 /","Luke, Harry,",1945,FALSE
+"28","ALDERMAN","DU 000023.5 .M67  2003","X004704785","Beyond the coral sea : travels in the old empires of the South-West Pacific /","Moran, Michael,",2003,FALSE
+"29","ALDERMAN","DU 000023.5 .T47  1992","X002117287","The happy isles of Oceania : paddling the Pacific /","Theroux, Paul.",1992,FALSE
+"30","ALDERMAN","DU 000028 .A78  1999","X004395811","Art and performance in Oceania /","",1999,FALSE
+"31","ALDERMAN","DU 000028 .G46  2007","X030331035","Genes, language, and culture history in the Southwest Pacific /","",2007,FALSE
+"32","ALDERMAN","DU 000028 .K4  1945","X031945079","Native peoples of the Pacific world /","Keesing, Felix Maxwell,",1945,FALSE
+"33","ALDERMAN","DU 000028 .S83  2006","X004895747","Strangers in the South Seas : the idea of the Pacific in Western thought : an anthology /","",2006,FALSE
+"34","ALDERMAN","DU 000028 .V69  2000","X004401022","Voyaging through the contemporary Pacific /","",2000,FALSE
+"35","ALDERMAN","DU 000028.3 .B6913  2016","X031741497","The Boxer Codex : transcription and translation of an illustrated late sixteenth-century Spanish manuscript concerning the geography, ethnography and history of the Pacific, South-East Asia and East Asia /","",2016,FALSE
+"36","ALDERMAN","DU 000028.3 .C33  1997","X004126484","The Cambridge history of the Pacific Islanders /","",1997,FALSE
+"37","ALDERMAN","DU 000028.3 .C35  1989","X001742253","A history of the Pacific islands /","Campbell, I. C. (Ian Christopher),",1989,FALSE
+"38","ALDERMAN","DU 000028.3 .C66  1993","X002158640","Contemporary Pacific societies : studies in development and change /","",1993,FALSE
+"39","ALDERMAN","DU 000028.3 .F57  2002","X004624650","A history of the Pacific Islands /","Fischer, Steven R.",2002,FALSE
+"40","ALDERMAN","DU 000028.3 .J34  2016","X031842496","500 años de la cuenca del Pacífico : hacia una historia global /","Jaén Suárez, Omar,",2016,FALSE
+"41","ALDERMAN","DU 000028.3 .M34  2012","X031579535","Pacific worlds : a history of seas, peoples, and cultures /","Matsuda, Matt K.",2012,FALSE
+"42","ALDERMAN","DU 000028.3 .N37  1997","X004095236","Narratives of nation in the South Pacific /","",1997,FALSE
+"43","ALDERMAN","DU 000028.3 .P33  2014","X031788536","Pacific histories : ocean, land, people /","",2014,FALSE
+"44","ALDERMAN","DU 000028.3 .R45  2000","X004634835","Remembrance of Pacific pasts : an invitation to remake history /","",2000,FALSE
+"45","ALDERMAN","DU 000028.3 .S24  1985","X004796018","Islands of history /","Sahlins, Marshall,",1985,FALSE
+"46","ALDERMAN","DU 000029 .B24  2007","X030263420","Possessing the Pacific : land, settlers, and indigenous people from Australia to Alaska /","Banner, Stuart,",2007,FALSE
+"47","ALDERMAN","DU 000029 .C4  1945  NO.000005","X031955557","China and Southeastern Asia,","Ch?êng, Hsü-ching,",1945,TRUE
+"48","ALDERMAN","DU 000029 .C78  2007","X004832930","Asia-Pacific /","Crump, Thomas.",2007,FALSE
+"49","ALDERMAN","DU 000029 .F74  2015","X031595453","The Pacific /","Freeman, Donald B.,",2015,FALSE
+"50","ALDERMAN","DU 000029 .M32  2013","X030824325","Nihon no Nan'y? senryaku : Minami Taiheiy? de hajimatta aratanaru ""sens?"" no yukue /","Marutani, Hajime,",2013,FALSE
+"51","ALDERMAN","DU 000029 .T47  2010","X030816005","Islanders : the Pacific in the age of empire /","Thomas, Nicholas,",2010,FALSE
+"52","ALDERMAN","DU 000030 .D83  1992","X002048764","The American Pacific : from the old China trade to the present /","Dudden, Arthur Power,",1992,FALSE
+"53","ALDERMAN","DU 000030 .G73  2017","X031815702","By more than providence : grand strategy and American power in the Asia Pacific since 1783 /","Green, Michael J.,",2017,FALSE
+"54","ALDERMAN","DU 000040 .E976  1997","X004072256","European impact and Pacific influence : British and German colonial policy in the Pacific Islands and the indigenous response /","",1997,FALSE
+"55","ALDERMAN","DU 000040 .S26  1998","X004190506","Imperial benevolence : making British authority in the Pacific islands /","Samson, Jane,",1998,FALSE
+"56","ALDERMAN","DU 000065 .B86  2014","X031758495","Iberian visions of the Pacific Ocean, 1507-1899 /","Buschmann, Rainer F.",2014,FALSE
+"57","ALDERMAN","DU 000065 .B87  2014","X031641592","Navigating the Spanish Lake : the Pacific in the Iberian world, 1521-1898 /","Buschmann, Rainer F.,",2014,FALSE
+"58","ALDERMAN","DU 000080 .A94  1945  NO.3","X030574084","Australia's attitude to the post-war government of the Pacific depenencies /","Phillips, Philip David.",1944,TRUE
+"59","ALDERMAN","DU 000080 .A94  1950  NO.000001-000004","X030533098","Australian papers. Implications for Australia of recent developments in the Far East.","Australian Institute of International Affairs.",1950,TRUE
+"60","ALDERMAN","DU 000080 .C58  001977 V.000002","X030341222","Select documents in Australian history.","Clark, C. M. H. (Charles Manning Hope),",1950,TRUE
+"61","ALDERMAN","DU 000082 .A9  1966  V.000017","X030356980","Australian dictionary of biography.","",1966,TRUE
+"62","ALDERMAN","DU 000090 .A82  1983  V.000001","X030197706","The Australian encyclopaedia.","",1983,TRUE
+"63","ALDERMAN","DU 000090 .B38  1994","X002582972","The concise Oxford dictionary of Australian history /","Bassett, Jan,",1994,FALSE
+"64","ALDERMAN","DU 000090 .B39  1993","X002328717","The Oxford illustrated dictionary of Australian history /","Bassett, Jan,",1993,FALSE
+"65","ALDERMAN","DU 000090 .C364  1994","X002601551","The Cambridge encyclopedia of Australia /","",1994,FALSE
+"66","ALDERMAN","DU 000090 .D63  2015","X031722169","Historical dictionary of Australia /","Abjorensen, Norman",2015,FALSE
+"67","ALDERMAN","DU 000090 .M87  1982","X000919168","Dictionary of Australian history /","Murphy, Brian,",1982,FALSE
+"68","ALDERMAN","DU 000093 .F57  1998","X004206153","Wild shores of Australia /","Fisher, Ron.",1998,FALSE
+"69","ALDERMAN","DU 000095 .W52  2003","X004744059","Understanding Australia : a guide for international students /","White, Sally A.",2003,FALSE
+"70","ALDERMAN","DU 000096 .A975  1987  V.000003","X001299012","Australians, 1888 /","",1987,TRUE
+"71","ALDERMAN","DU 000096 .A975  1987  V.000009","X001299013","Australians, historical statistics /","",1987,TRUE
+"72","ALDERMAN","DU 000096 .M64  1987","X001360745","The Penguin bicentennial history of Australia : the story of 200 years /","Molony, John N. (John Neylon),",1987,FALSE
+"73","ALDERMAN","DU 000096.5 .T38  1990","X001857125","The atlas of Australian history /","Taylor, Peter,",1990,FALSE
+"74","ALDERMAN","DU 000097 .F27  1983","X000787950","The history of Australian exploration from 1788 to 1888 : compiled from state documents, private papers, and the most authentic sources of information. Issued under the auspices of the governments of the Australian colonies /","Favenc, Ernest,",1983,FALSE
+"75","ALDERMAN","DU 000098.1 .M18  1987","X001736614","The secret discovery of Australia : Portuguese ventures 250 years before Captain Cook /","McIntyre, Kenneth Gordon.",1987,FALSE
+"76","ALDERMAN","DU 000099 .K46  2006","X004897580","The commonwealth of thieves /","Keneally, Thomas.",2006,FALSE
+"77","CLEMONS","DU 000099 .K46  2006B","X030139688","A commonwealth of thieves : the improbable birth of Australia /","Keneally, Thomas.",2006,FALSE
+"78","ALDERMAN","DU 000099 .P47  1963","X030280416","Australia's first frontier, the spread of settlement in New South Wales, 1788-1829.","Perry, T. M. (Thomas Melville),",1963,FALSE
+"79","CLEMONS","DU 000102 .M8  1963","X000122223","Cooper's Creek.","Moorehead, Alan,",1963,FALSE
+"80","ALDERMAN","DU 000102 .M8  1987","X001281129","Cooper's creek : the opening of Australia /","Moorehead, Alan,",1987,FALSE
+"81","ALDERMAN","DU 000104 .M36  2012","X031636634","Moh?l? se Melabarna : y?tr?vr?tta /","Ph?lacanda M?nava,",2012,FALSE
+"82","ALDERMAN","DU 000105 .D35  1980","X000223589","Tracks /","Davidson, Robyn,",1980,FALSE
+"83","ALDERMAN","DU 000105 .Z47  2008","X030505216","Zhu zai nan ban qiu de ri zi /","Zhou, Jiachuan.",2008,FALSE
+"84","ALDERMAN","DU 000105.2 .B83  2000","X004439018","In a sunburned country /","Bryson, Bill.",2000,FALSE
+"85","CLEMONS","DU 000105.2 .B83  2001","X030258824","In a sunburned country /","Bryson, Bill.",2001,FALSE
+"86","CLEMONS","DU 000105.2 .C43  1987","X001261569","The songlines /","Chatwin, Bruce,",1987,FALSE
+"87","ALDERMAN","DU 000105.2 .C43  1987B","X006114413","The songlines /","Chatwin, Bruce,",1987,FALSE
+"88","ALDERMAN","DU 000105.2 .S55  1999","X004400643","Australia : journey through a timeless land /","Smith, Roff Martin.",1999,FALSE
+"89","ALDERMAN","DU 000107 .A92  1986","X001730307","Australia's yesterdays : a look at our recent past /","",1986,FALSE
+"90","ALDERMAN","DU 000107 .C37  1987B","X001262559","The road to Botany Bay : an essay in spatial history /","Carter, Paul,",1987,FALSE
+"91","ALDERMAN","DU 000107 .C85  2001","X004552793","Culture in Australia : policies, publics, and programs /","",2001,FALSE
+"92","ALDERMAN","DU 000107 .F64  2014","X031630064","'For those who've come across the seas-' : Australian multicultural theory, policy and practice /","",2014,FALSE
+"93","ALDERMAN","DU 000107 .R48  1988","X001491800","Australia, a cultural history /","Rickard, John,",1988,FALSE
+"94","ALDERMAN","DU 000107 .W3  1978","X000088946","The Australian legend /","Ward, Russel Braddock.",1978,FALSE
+"95","ALDERMAN","DU 000108 .A88  2005","X004943598","Telling the truth about Aboriginal history /","Attwood, Bain.",2005,FALSE
+"96","ALDERMAN","DU 000108 .O75  1989","X001640033","The Origins of Australia's capital cities /","",1989,FALSE
+"97","ALDERMAN","DU 000109 .B4  M2  1983","X000851005","Gallipoli to the Somme : the story of C.E.W. Bean /","McCarthy, Dudley.",1983,FALSE
+"98","ALDERMAN","DU 000110 .A46  1991","X001963622","A documentary history : Australian nationalism /","Alomes, Stephen.",1991,FALSE
+"99","ALDERMAN","DU 000110 .A8975  2008","X030254119","Australia's empire /","",2008,FALSE
+"100","ALDERMAN","DU 000110 .B3  1963","X001271084","A history of Australia. /","Barnard, Marjorie,",1972,FALSE
+"101","ALDERMAN","DU 000110 .B54  1968","X001085517","The tyranny of distance: how distance shaped Australia's history.","Blainey, Geoffrey.",1968,FALSE
+"102","ALDERMAN","DU 000110 .B54  1983","X002482318","The tyranny of distance : how distance shaped Australia's history /","Blainey, Geoffrey.",1983,FALSE
+"103","ALDERMAN","DU 000110 .C48  1963  V.000002","X000603293","A history of Australia /","Clark, C. M. H. (Charles Manning Hope),",1963,TRUE
+"104","ALDERMAN","DU 000110 .C53  2002","X004470578","The history of Australia /","Clarke, F. G. (Francis Gordon),",2002,FALSE
+"105","ALDERMAN","DU 000110 .C87  2010","X030818973","The unknown nation : Australia after empire /","Curran, James.",2010,FALSE
+"106","CLEMONS","DU 000110 .E38  2008","X030570638","Luca Antara : passages in search of Australia /","Edmond, Martin.",2008,FALSE
+"107","ALDERMAN","DU 000110 .K58  2001","X006128620","Australia : a biography of a nation /","Knightley, Phillip,",2001,FALSE
+"108","ALDERMAN","DU 000110 .N56  1997","X004029778","1901 : our future's past : documenting Australia's federation /","",1997,FALSE
+"109","ALDERMAN","DU 000110 .O94  1986  V.000002","X002085806","The Oxford history of Australia /","",1986,TRUE
+"110","ALDERMAN","DU 000110 .S85  1978  V.000002","X000401510","Such was life : select documents in Australian social history /","",1978,TRUE
+"111","ALDERMAN","DU 000110 .W45  2005","X030259697","Great southern land : a new history of Australia /","Welsh, Frank.",2005,FALSE
+"112","ALDERMAN","DU 000112 .C54  1981","X000352616","A short history of Australia /","Clark, C. M. H. (Charles Manning Hope),",1981,FALSE
+"113","ALDERMAN","DU 000112 .M13  1999","X004393770","A concise history of Australia /","Macintyre, Stuart,",1999,FALSE
+"114","ALDERMAN","DU 000112.3 .G74  1999","X004295712","A military history of Australia /","Grey, Jeffrey.",1999,FALSE
+"115","ALDERMAN","DU 000113 .A52  1988","X002580323","A history of Australian foreign policy /","Andrews, E. M. (Eric Montgomery),",1988,FALSE
+"116","ALDERMAN","DU 000113.5 .T55  C66  2010","X030779706","Crisis policymaking : Australia and the East Timor crisis of 1999 /","Connery, David.",2010,TRUE
+"117","ALDERMAN","DU 000113.5 .U6  A48  1998","X004324538","Americanization and Australia /","",1998,FALSE
+"118","ALDERMAN","DU 000113.5 .U6  C65  1991","X002048415","Commonality and difference : Australia and the United States /","",1991,TRUE
+"119","ALDERMAN","DU 000115 .C57  1985","X000903139","The governesses : letters from the colonies 1862-1882 /","Clarke, Patricia.",1985,FALSE
+"120","ALDERMAN","DU 000115 .C62  1989","X001684799","Colonial voices : letters, diaries, journalism and other accounts of nineteenth-century Australia /","",1989,FALSE
+"121","ALDERMAN","DU 000115 .F5","X000044761","Colonial Australia before 1850 /","Fletcher, Brian H.",1976,FALSE
+"122","ALDERMAN","DU 000115 .F67  1979","X000493967","The colonial Australians /","Denholm, David,",1979,FALSE
+"123","ALDERMAN","DU 000115 .G37  2002","X004636397","The Enlightenment and the origins of European Australia /","Gascoigne, John,",2002,FALSE
+"124","ALDERMAN","DU 000115 .H27  1990","X001857114","Haunts of the bushrangers : the lives and deaths of eight Australian Bushrangers /","Haddon, Frank,",1990,FALSE
+"125","CLEMONS","DU 000115 .H78  1987","X001211665","The fatal shore /","Hughes, Robert,",1987,FALSE
+"126","ALDERMAN","DU 000115 .J64  2005","X030104584","Australia imagined : views from the British periodical press 1800-1900 /","Johnston, Judith,",2005,FALSE
+"127","ALDERMAN","DU 000115 .O44  1999","X006029328","The great republic of the southern seas : republicans in nineteenth-century Australia /","Oldfield, Audrey.",1999,FALSE
+"128","ALDERMAN","DU 000115 .R57  1985  V.000001","X000969763","The hatch and brood of time : a study of the first generation of native-born white Australians, 1788-1828 /","Robinson, Portia.",1985,TRUE
+"129","ALDERMAN","DU 000115 .T73  1994","X002550567","British imperialism and Australian nationalism : manipulation, conflict, and compromise in the late nineteenth century /","Trainor, Luke.",1994,FALSE
+"130","ALDERMAN","DU 000115 .W66  2015","X031733021","Settler society in the Australian colonies : self-government and imperial culture /","Woollacott, Angela,",2015,FALSE
+"131","ALDERMAN","DU 000115.2 .A2  E88  1987","X001360742","Pioneer women, pioneer land : yesterday's tall Poppies    /","De Vries, Susanna.",1987,FALSE
+"132","ALDERMAN","DU 000115.2 .A2  H43  1986","X001779349","The bedside book of colonial doings /","Heaton, J. Henniker.",1986,FALSE
+"133","ALDERMAN","DU 000115.2 .A2  N6  1984","X000917418","No place for a nervous lady : voices from the Australian bush /","",1984,FALSE
+"134","ALDERMAN","DU 000115.2 .L44  H87  2018","X032577288","Ludwig Leichhardt's ghosts : the strange career of a traveling myth /","Hurley, Andrew Wright,",2018,FALSE
+"135","ALDERMAN","DU 000116 .A42  1982","X000756586","Australia since federation : a narrative and critical analysis /","Alexander, Fred,",1982,FALSE
+"136","ALDERMAN","DU 000116 .J65  1989","X001923061","Australia 1939 /","Johnston, Susan.",1989,FALSE
+"137","ALDERMAN","DU 000116 .W37  1978","X000035405","The history of Australia : the twentieth century, 1901-1975 /","Ward, Russel Braddock.",1978,FALSE
+"138","ALDERMAN","DU 000116.18 .F68  1986","X001218515","High hopes : the men and motives of the Australian Round Table /","Foster, Leonie,",1986,FALSE
+"139","ALDERMAN","DU 000116.2 .M67  C66  2001","X004587054","Morshead : hero of Tobruk and El Alamein /","Coombes, David.",2001,TRUE
+"140","ALDERMAN","DU 000117 .A87  1991","X002036817","Australia compared : people, policies and politics /","",1991,FALSE
+"141","ALDERMAN","DU 000117.14 .A95  1984  V.000001","X031848506","Australia's first cold war, 1945-1953 /","",1984,TRUE
+"142","ALDERMAN","DU 000117.17 .C36  2009","X030613779","Howard's long march : the strategic depiction of China in Howard government policy, 1996-2006 /","Campbell McDowall, Roy.",2009,FALSE
+"143","ALDERMAN","DU 000117.18 .A75  2003","X030204375","Asia-Pacific security : policy challenges /","",2003,FALSE
+"144","ALDERMAN","DU 000117.18 .D35  2003","X004705668","Continental drift : Australia's search for a regional identity /","Dalrymple, Rawdon,",2003,FALSE
+"145","ALDERMAN","DU 000117.18 .P38  2006","X030115949","Little America : Australia, the 51st state /","Paul, E. C. (Erik Charles),",2006,FALSE
+"146","ALDERMAN","DU 000117.2 .B66  B87","X031920157","Neville Bonner, a biography /","Burger, Angela Sutherland.",1979,FALSE
+"147","ALDERMAN","DU 000120 .A67  NO.000001","X030531025","The structure and growth of Australia's aboriginal population /","Jones, F. Lancaster (Frank Lancaster)",1970,TRUE
+"148","ALDERMAN","DU 000120 .A67  NO.000003","X030531026","Aboriginal settlements; a survey of institutional communities in eastern Australia","Long, J. P. M. (Jeremy Phillip Merrick)",1970,TRUE
+"149","ALDERMAN","DU 000120 .A67  NO.000007","X030232374","Aboriginal policy and practice","Rowley, C. D. (Charles Dunford)",1970,TRUE
+"150","ALDERMAN","DU 000120 .A67  NO.000008","X030531027","Urban Aborigines /","Gale, Fay.",1972,TRUE
+"151","ALDERMAN","DU 000120 .A67  NO.000010","X004939763","A blanket a year /","Broom, Leonard.",1973,TRUE
+"152","ALDERMAN","DU 000120 .A67  NO.11","X030531028","Aborigines in the Northern Territory cattle industry /","Stevens, Frank S.",1974,TRUE
+"153","ALDERMAN","DU 000120 .A68  2007","X004913957","Race and the crisis of humanism /","Anderson, Kay,",2007,FALSE
+"154","ALDERMAN","DU 000120 .H26  2000","X004478086","White nation : fantasies of white supremacy in a multicultural society /","Hage, Ghassan.",2000,FALSE
+"155","ALDERMAN","DU 000120 .P68  1987","X031944223","Prejudice in the public arena : racism /","",1987,FALSE
+"156","ALDERMAN","DU 000120 .S65  1987","X001339956","Songs of aboriginal Australia /","",1987,FALSE
+"157","ALDERMAN","DU 000121 .M67  2002","X004587047","Australia, the recreational society /","Mosler, David,",2002,FALSE
+"158","ALDERMAN","DU 000121 .W55  2004","X004854678","Whitening race : essays in social and cultural criticism /","",2004,FALSE
+"159","ALDERMAN","DU 000122 .A5  A37  1986","X001158127","The Americans in Australia /","Aitchison, Raymond,",1986,FALSE
+"160","ALDERMAN","DU 000122 .A73  J39  1999","X004401794","The Asianisation of Australia? : some facts about the myths /","Jayasuriya, Laksiri.",1999,FALSE
+"161","ALDERMAN","DU 000122 .B7  C57  2005","X004858245","Dancing with strangers : Europeans and Australians at first contact /","Clendinnen, Inga.",2005,TRUE
+"162","ALDERMAN","DU 000122 .B7  J87  2004","X004802857","The English in Australia /","Jupp, James.",2004,FALSE
+"163","ALDERMAN","DU 000122 .I7  M38  2011","X030946971","Free passage : the reunion of Irish convicts and their families in Australia, 1788-1852 /","McIntyre, Perry,",2011,FALSE
+"164","ALDERMAN","DU 000122 .I7  O25  1994","X002600527","Oceans of consolation : personal accounts of Irish migration to Australia /","",1994,FALSE
+"165","ALDERMAN","DU 000122 .I8  C68  2012","X031729728","L'emigrazione italiana in Australia /","Cortese, Antonio,",2012,TRUE
+"166","ALDERMAN","DU 000122 .J36  N295  2013","X031639998","Nihon shakai o ""nogareru"" : ?sutoraria e no raifu sutairu ij? = Lifestyle immigration : the Japanese immigrants in Australia /","Nagatomo, Jun,",2013,FALSE
+"167","ALDERMAN","DU 000122 .M87  V65  2017","X031810234","A Muslim diaspora in Australia : Bosnian migration and questions of identity /","Voloder, Lejla,",2017,TRUE
+"168","ALDERMAN","DU 000122 .P87  K3  2006","X030769870","The economic plight of the Afghans in Australia, 1860-2000 /","Kabir, Nahid Afrose.",2006,FALSE
+"169","ALDERMAN","DU 000122 .W3  M4  1965","X000213746","Desert people; a study of the Walbiri Aborigines of Central Australia,","Meggitt, Mervyn J.,",1965,FALSE
+"170","ALDERMAN","DU 000122 .W3  M42","X001488369","Gadjari among the Walbiri aborigines of central Australia /","Meggitt, Mervyn J.,",1967,FALSE
+"171","ALDERMAN","DU 000123.3 .M83  A3  2004","X004793147","Very big journey : my life as I remember it /","Muir, Hilda Jarman,",2004,FALSE
+"172","ALDERMAN","DU 000123.3 .S56  2008","X030407343","Back on the block : Bill Simon's story /","Simon, Bill,",2009,FALSE
+"173","ALDERMAN","DU 000123.4 .F46  2006","X030112617","The original Australians : story of the Aboriginal people /","Flood, Josephine.",2006,FALSE
+"174","ALDERMAN","DU 000123.4 .G86  2007","X030395553","Unfinished business : the Australian formal reconciliation process /","Gunstone, Andrew.",2007,FALSE
+"175","ALDERMAN","DU 000123.4 .M35  2008","X030215864","Holding men : kanyirninpa and the health of Aboriginal men / Brian F. McCoy.","McCoy, Brian F.",2008,FALSE
+"176","ALDERMAN","DU 000123.4 .P38  2008","X030250405","The lost legions : culture contact in colonial Australia /","Paterson, Alistair,",2008,FALSE
+"177","ALDERMAN","DU 000124 .E74  M67  2015","X031732878","The White possessive : property, power, and indigenous sovereignty /","Moreton-Robinson, Aileen,",2015,FALSE
+"178","ALDERMAN","DU 000124 .G68  C64  2007","X030360580","Coercive reconciliation : stabilise, normalise, exit Aboriginal Australia /","",2007,TRUE
+"179","ALDERMAN","DU 000124 .P64  E36  2016","X031762788","Settler colonialism and (re)conciliation : frontier violence, affective performances, and imaginative refoundings /","Edmonds, Penelope,",2016,FALSE
+"180","ALDERMAN","DU 000124 .P64  H63  2005","X004953087","Unfinished constitutional business? : rethinking indigenous self-determination /","Hocking, Barbara Ann.",2005,FALSE
+"181","ALDERMAN","DU 000124 .P64  M39  2007","X030356709","Fight for liberty and freedom : the origins of Australian Aboriginal activism /","Maynard, John,",2007,FALSE
+"182","ALDERMAN","DU 000124 .S63  L58  2008","X030407069","The little red, yellow, black book : an introduction to indigenous Australia.","",2008,TRUE
+"183","ALDERMAN","DU 000125 .B7  H36  1995","X006016757","Nineteenth century government assisted immigrants from the United Kingdom to Australia : schemes, regulations and arrivals, 1831-1900 and some vital statistics 1834-1860 /","Haines, Robin F.",1995,FALSE
+"184","ALDERMAN","DU 000125 .L37  M35  1995","X004047693","Lardil : keepers of the dreamtime /","McKnight, David.",1995,FALSE
+"185","ALDERMAN","DU 000125 .M8  M65  1991","X002048680","Ancestral connections : art and an aboriginal system of knowledge /","Morphy, Howard.",1991,FALSE
+"186","ALDERMAN","DU 000125 .M8  W55  1986","X032003536","The Yolngu and their land : a system of land tenure and the fight for its recognition /","Williams, Nancy M.",1986,FALSE
+"187","ALDERMAN","DU 000125 .T67  N35  2007","X030237416","Disciplining the savages, savaging the disciplines /","Nakata, Martin N.",2007,FALSE
+"188","ALDERMAN","DU 000125 .T67  O83  2009","X030699647","Throwing off the cloak : reclaiming self-reliance in Torres Strait /","Osborne, Elizabeth,",2009,FALSE
+"189","ALDERMAN","DU 000125 .T67  W68  2004","X004812239","Woven histories, dancing lives : Torres Strait Islander identity, culture and history /","",2004,FALSE
+"190","ALDERMAN","DU 000125 .W3  D87  2000","X004438848","The politics of ritual in an aboriginal settlement : kinship, gender, and the currency of knowledge /","Dussart, Françoise.",2000,TRUE
+"191","ALDERMAN","DU 000125 .W3  J33  1995","X002604237","At home in the world /","Jackson, Michael,",1995,FALSE
+"192","ALDERMAN","DU 000125 .W3  M53  1994","X002481669","Bad Aboriginal art : tradition, media, and technological horizons /","Michaels, Eric,",1994,FALSE
+"193","ALDERMAN","DU 000125 .W3  M85  1973","X000213742","Walbiri iconography: graphic representation and cultural symbolism in a central Australian society","Munn, Nancy D.,",1973,FALSE
+"194","ALDERMAN","DU 000160 .T27  1996","X006038151","1788 : comprising A narrative of the expedition to Botany Bay and A complete account of the settlement at Port Jackson /","Tench, Watkin,",1996,FALSE
+"195","ALDERMAN","DU 000170 .F76","X000322632","Convicts and empire : a naval question, 1776-1811 /","Frost, Alan,",1980,FALSE
+"196","ALDERMAN","DU 000170 .H57  1988","X001664403","The strange birth of colonial democracy : New South Wales, 1848-1884 /","Hirst, J. B. (John Bradley)",1988,FALSE
+"197","ALDERMAN","DU 000180 .P54  R64  1984","X000837962","A million wild acres /","Rolls, Eric C.",1984,TRUE
+"198","ALDERMAN","DU 000200 .H48  V.000002 PT.B","X031963297","The aborigines of Port Phillip, 1835-1839 /","",1982,TRUE
+"199","ALDERMAN","DU 000270 .C5  1959","X031963303","Triumph in the tropics, a historical sketch of Queensland [1770-1959].","Cilento, R. W. (Raphael West),",1959,FALSE
+"200","ALDERMAN","DU 000280 .G68  M44  2014","X031649564","The reef : a passionate history /","McCalman, Iain.",2014,FALSE
+"201","ALDERMAN","DU 000280 .P35  W38  2010","X030767227","Palm Island : through a long lens /","Watson, Joanne,",2010,FALSE
+"202","ALDERMAN","DU 000310 .B45  1972","X000209623","South Australia","Berekmeri, Steve,",1972,FALSE
+"203","ALDERMAN","DU 000320 .G53  1984","X001020146","A history of South Australia from colonial days to the present /","Gibbs, R. M. (Ronald Malcolm)",1984,FALSE
+"204","ALDERMAN","DU 000322 .H36  H36  2010","X031767785","Colony : strange origins of one of the earliest modern democracies /","Hamilton, Reg,",2010,FALSE
+"205","ALDERMAN","DU 000325 .D44  1984","X000823650","Indians in a white Australia : an account of race, class, and Indian immigration to eastern Australia /","De Lepervanche, Marie M.",1984,FALSE
+"206","ALDERMAN","DU 000328 .W47","X000062779","Adelaide, 1836-1976 : a history of difference /","Whitelock, Derek A.",1977,FALSE
+"207","ALDERMAN","DU 000396 .R63  2005","X004911640","Frontier justice : a history of the Gulf country to 1900 /","Roberts, Tony,",2005,FALSE
+"208","ALDERMAN","DU 000398 .A9  L35  1986","X001239349","Uluru : an aboriginal history of Ayers Rock /","Layton, Robert,",1986,TRUE
+"209","ALDERMAN","DU 000400 .I5  001942 NO.000001","X031945113","A New Zealand view of the war and peace aims in the Pacific.","",1942,TRUE
+"210","ALDERMAN","DU 000400 .I5  001942 NO.000002","X031963276","New Zealand's war effort,","Wood, F. L. W. (Frederick Lloyd Whitfeld),",1942,TRUE
+"211","ALDERMAN","DU 000400 .I5  001950 NO.000001","X031945112","New Zealand's interests and policies in the Far East /","Leathem, Samuel.",1950,TRUE
+"212","ALDERMAN","DU 000400 .I5  1954  NO.000003-000004","X031918693","The conflict in Asia of capitalism, communism and indigenous culture /","New Zealand Institute of International Affairs. Auckland Branch.",1954,TRUE
+"213","ALDERMAN","DU 000408 .N435  2009","X030612431","The new Oxford history of New Zealand /","",2009,FALSE
+"214","ALDERMAN","DU 000411 .M277  2001","X006120255","Old New Zealand and other writings /","Maning, Frederick Edward,",2001,FALSE
+"215","CLEMONS","DU 000413 .M37  2004","X004791180","Slipping into paradise : why I live in New Zealand /","Masson, J. Moussaieff (Jeffrey Moussaieff),",2004,FALSE
+"216","ALDERMAN","DU 000420 .B36  1989B","X001741440","New Zealand : a short history /","Barber, Laurie.",1989,FALSE
+"217","ALDERMAN","DU 000420 .B45  1996","X004071846","Making peoples : a history of the New Zealanders, from Polynesian settlement to the end of the nineteenth century /","Belich, James,",1996,FALSE
+"218","ALDERMAN","DU 000420 .B45  2001B","X004589924","Paradise reforged : a history of the New Zealanders from the 1880s to the year 2000 /","Belich, James,",2001,FALSE
+"219","ALDERMAN","DU 000420 .J24  2016","X031800006","Historical dictionary of New Zealand /","Hayward, Janine,",2016,FALSE
+"220","ALDERMAN","DU 000420 .M45  2005","X004896367","A concise history of New Zealand /","Mein Smith, Philippa.",2005,FALSE
+"221","ALDERMAN","DU 000420 .O9  1992","X002328765","The Oxford history of New Zealand /","",1992,FALSE
+"222","ALDERMAN","DU 000420 .O94  1990","X001844464","The Oxford illustrated history of New Zealand /","",1990,FALSE
+"223","ALDERMAN","DU 000420 .S526  1986","X001219982","A destiny apart : New Zealand's search for national identity /","Sinclair, Keith,",1986,FALSE
+"224","ALDERMAN","DU 000420.12 .B35  2014","X031708876","Entanglements of empire : missionaries, M?ori, and the question of the body /","Ballantyne, Tony,",2014,FALSE
+"225","ALDERMAN","DU 000420.12 .V34  2000","X004438335","History of New Zealand and its inhabitants /","Vaggioli, D. Felice (Dominic Felice)",2000,FALSE
+"226","ALDERMAN","DU 000420.16 .B35  2012","X031708987","Webs of empire : locating New Zealand's colonial past /","Ballantyne, Tony,",2012,FALSE
+"227","ALDERMAN","DU 000420.16 .G46  2015","X031732686","History, heritage, and colonialism : historical consciousness, Britishness, and cultural identity in New Zealand, 1870-1940 /","Gentry, Kynan.",2015,FALSE
+"228","ALDERMAN","DU 000420.5 .B45  1986","X001277195","The New Zealand wars and the Victorian interpretation of racial conflict /","Belich, James,",1986,FALSE
+"229","ALDERMAN","DU 000420.5 .R83  1986","X001158001","The colonial New Zealand wars /","Ryan, Tim,",1986,FALSE
+"230","ALDERMAN","DU 000422.82 .N42  A4  1986  V.000002","X030531050","Na to hoa aroha = From your dear friend : the correspondence between Sir Apirana Ngata and Sir Peter Buck, 1925-50 /","Ngata, Apirana Turupa,",1986,TRUE
+"231","ALDERMAN","DU 000423 .A1  B32  1991","X002038880","Tikanga whakaaro : key concepts in M?ori culture /","Barlow, Cleve.",1991,FALSE
+"232","ALDERMAN","DU 000423 .A1  B45  1979  V.000001","X000159613","The Maori /","Best, Elsdon,",1979,TRUE
+"233","ALDERMAN","DU 000423 .A1  G24  2013","X031574172","Being M?ori in the city : indigenous everyday life in Auckland /","Gagné, Natacha.",2013,TRUE
+"234","ALDERMAN","DU 000423 .A1  M56  1981","X001559253","Maori /","Mitcalfe, Barry.",1981,FALSE
+"235","ALDERMAN","DU 000423 .A1  O73  1985","X001065521","The natural world of the Maori /","Orbell, Margaret,",1985,FALSE
+"236","ALDERMAN","DU 000423 .A1  R42","X000675897","The concise Maori handbook /","Reed, A. W. (Alexander Wyclif),",1978,TRUE
+"237","ALDERMAN","DU 000423 .A1  S25  1997","X004151875","Between worlds : early exchanges between Maori and Europeans, 1773-1815 /","Salmond, Anne.",1997,FALSE
+"238","ALDERMAN","DU 000423 .A1  T42  1991","X002040355","Mana wahine Maori : selected writings on Maori women's art, culture and politics /","Te Awekotuku, Ngahuia.",1991,TRUE
+"239","ALDERMAN","DU 000423 .A1  Y66","X001465108","Maori mind, Maori land : essays on the cultural geography of the Maori people from an outsider's perspective /","Yoon, Hong-key.",1986,FALSE
+"240","ALDERMAN","DU 000423 .A55  D379  1984","X000969764","The Prehistory of New Zealand /","Davidson, Janet M.",1984,TRUE
+"241","ALDERMAN","DU 000423 .B6  N45  1991","X002243225","Nga waka Maori = Maori canoes /","Nelson, Anne,",1991,FALSE
+"242","ALDERMAN","DU 000423 .E85  R58  1992","X002161445","Becoming bicultural /","Ritchie, James E.",1992,TRUE
+"243","ALDERMAN","DU 000423 .F48  S25  1991","X002149465","Two worlds : first meetings between Maori and Europeans, 1642-1772 /","Salmond, Anne.",1991,FALSE
+"244","CLEMONS","DU 000423 .F48  T48  2008","X030459529","Come on shore and we will kill and eat you all : a New Zealand story /","Thompson, Christina,",2008,TRUE
+"245","ALDERMAN","DU 000423 .G6  H65  1989","X031918739","Honouring the treaty : an introduction for Pakeha to the Treaty of Waitangi /","",1989,FALSE
+"246","ALDERMAN","DU 000423 .G6  K44  1990","X002058694","A question of honour? : Labour and the treaty, 1984-1989 /","Kelsey, Jane.",1990,FALSE
+"247","ALDERMAN","DU 000423 .L35  H53  2011","X031198566","Lords of the land : indigenous property rights and the jurisprudence of empire /","Hickford, Mark.",2011,FALSE
+"248","ALDERMAN","DU 000423 .P63  M87  2016","X031822242","Tupuna awa : people and politics of the Waikato River /","Muru-Lanning, Marama,",2016,FALSE
+"249","ALDERMAN","DU 000423 .P63  W35  1990","X002114795","Ka whawhai tonu matou = Struggle without end /","Walker, Ranginui.",1990,FALSE
+"250","ALDERMAN","DU 000423 .R55  K37  1993","X002330387","Haka! : the dance of a noble people = Te tohu o te whenua rangatira /","K?retu, T. S. (T?moti Sam)",1993,FALSE
+"251","ALDERMAN","DU 000423 .S6  D88  2005","X004907025","Ng? tai Matat? = Tides of M?ori endurance /","Durie, Mason.",2005,TRUE
+"252","ALDERMAN","DU 000423 .S6  S73  2006","X030113593","State of the M?ori nation : twenty-first century issues in Aotearoa /","",2006,FALSE
+"253","ALDERMAN","DU 000424.5 .M87  M87  2016","X031763052","Muslim integration : pluralism and multiculturalism in New Zealand and Australia /","",2016,FALSE
+"254","ALDERMAN","DU 000430 .C6  T4  2000","X006132393","History and traditions of Rarotonga /","Ariki Tara ?Are.",2000,TRUE
+"255","ALDERMAN","DU 000430 .H3  B69  1984","X030531052","City of the plains : a history of Hastings /","Boyd, Mary.",1984,FALSE
+"256","ALDERMAN","DU 000490 .S79  1988","X001462196","The gender of the gift : problems with women with society in Melanesia /","Strathern, Marilyn.",1988,FALSE
+"257","ALDERMAN","DU 000500 .H35  1998","X004177979","Remaking Micronesia : discourses over development in a Pacific territory, 1944-1982 /","Hanlon, David L.",1998,FALSE
+"258","ALDERMAN","DU 000500 .W54  2000","X004423160","National security and self-determination : United States policy in Micronesia (1961-1972) /","Willens, Howard P.,",2000,FALSE
+"259","ALDERMAN","DU 000510 .B77  1938","X001335513","Vikings of the sunrise /","Buck, Peter Henry,",1938,FALSE
+"260","ALDERMAN","DU 000510 .G58  1970","X000113702","Ancient Polynesian society.","Goldman, Irving,",1970,FALSE
+"261","CLEMONS","DU 000510 .G6  1972","X000125039","Polynesian navigation; a symposium on Andrew Sharp's theory of accidental voyages.","Golson, Jack",1972,FALSE
+"262","ALDERMAN","DU 000510 .S29  1958","X000231164","Social stratification in Polynesia.","Sahlins, Marshall,",1958,FALSE
+"263","ALDERMAN","DU 000565 .H496  1995","X002668392","Strangers in their own land : a century of colonial rule in the Caroline and Marshall Islands /","Hezel, Francis X.",1995,FALSE
+"264","ALDERMAN","DU 000568 .P8  F57  1992","X002119260","Diplomas and thatch houses : asserting tradition in a changing Micronesia /","Flinn, Juliana,",1992,TRUE
+"265","ALDERMAN","DU 000568 .T7  M37  1990","X001712194","Silent voices speak : women and prohibition in Truk /","Marshall, Mac.",1990,FALSE
+"266","ALDERMAN","DU 000580 .S34  T.000001 001970","X031918734","Me'udana : (Südost-Neuguinea).","Schlesier, E. (Erhard)",1970,TRUE
+"267","ALDERMAN","DU 000600 .A67  2011","X031657006","The anthropology of empathy : experiencing the lives of others in Pacific societies /","",2011,FALSE
+"268","ALDERMAN","DU 000600 .I53","X000087111","The Indo-Fijian experience /","",1979,FALSE
+"269","ALDERMAN","DU 000600 .K38  1991","X002038303","A politics of virtue : Hinduism, sexuality, and countercolonial discourse in Fiji /","Kelly, John Dunham,",1991,FALSE
+"270","ALDERMAN","DU 000600 .L29445  2015","X031781621","Historical dictionary of Fiji /","Lal, Brij V.",2015,FALSE
+"271","ALDERMAN","DU 000600 .M327  1997","X004093511","The Pacific way : a memoir /","Mara, Kamisese,",1997,FALSE
+"272","ALDERMAN","DU 000600 .R38  1983","X001262669","The Fijian way of life = Vaka i Taukei /","Ravuvu, Asesela.",1983,FALSE
+"273","ALDERMAN","DU 000600 .R54  2001","X004660548","Government by the gun : the unfinished business of Fiji's 2000 coup /","Robertson, Robbie.",2001,FALSE
+"274","ALDERMAN","DU 000600 .S27","X031999186","Jaba m?navat? kar?ha u?h? /","?arm?, Vivek?nanda,",1976,FALSE
+"275","ALDERMAN","DU 000600 .S53","X000365267","Disconcerting issue; meaning and struggle in a resettled Pacific community","Silverman, Martin G.",1971,FALSE
+"276","CLEMONS","DU 000600 .T75  2006","X030088505","Getting stoned with savages : a trip through the Islands of Fiji and Vanuatu /","Troost, J. Maarten.",2006,FALSE
+"277","ALDERMAN","DU 000623 .B54  1928","X031944484","""My dear! He says Hawaii is American!!"" /","Blythe, Samuel G. (Samuel George),",1928,FALSE
+"278","ALDERMAN","DU 000623.2 .G66","X006136030","The Hawaiians.","Goodman, Robert B.",1970,FALSE
+"279","ALDERMAN","DU 000624.5 .H36  1984","X000822749","Hanahana : an oral history anthology of Hawaii's working people /","",1984,FALSE
+"280","ALDERMAN","DU 000624.5 .H59  2012","X030845727","Ancestry of experience : a journey into Hawaiian ways of knowing /","Holmes, Leilani,",2012,FALSE
+"281","ALDERMAN","DU 000624.5 .H66  2013","X030609433","The ancient Hawaiian state : origins of a political society /","Hommon, Robert J.",2013,FALSE
+"282","ALDERMAN","DU 000624.5 .K33  1986","X001080259","K? kanaka, stand tall : a search for Hawaiian values /","Kanahele, George S.",1986,FALSE
+"283","ALDERMAN","DU 000624.5 .K34  2016","X031761423","Kanaka ??iwi methodologies : mo?olelo and metaphor /","",2016,FALSE
+"284","ALDERMAN","DU 000624.5 .K57  2012","X031213901","A shark going inland is my chief : the island civilization of ancient Hawai?i /","Kirch, Patrick Vinton.",2012,FALSE
+"285","ALDERMAN","DU 000624.6 .O86  2002","X004553427","Dismembering Lãhui : a history of the Hawaiian nation to 1887 /","Osorio, Jon Kamakawiwo?ole.",2002,FALSE
+"286","ALDERMAN","DU 000624.65 .B83  1993","X002244033","Paradise remade : the politics of culture and history in Hawai'i /","Buck, Elizabeth Bentzel.",1993,FALSE
+"287","ALDERMAN","DU 000624.65 .H345  2002","X004631379","In the name of Hawaiians : native identities and cultural politics /","Halualani, Rona Tamiko.",2002,FALSE
+"288","ALDERMAN","DU 000624.65 .H36  1958","X031944488","The Polynesian family system in Ka-'U, Hawai'i.","Handy, E. S. Craighill (Edward Smith Craighill),",1958,FALSE
+"289","ALDERMAN","DU 000624.65 .J65  2007","X030247444","Sacred claims : repatriation and living tradition /","Johnson, Greg,",2007,FALSE
+"290","ALDERMAN","DU 000624.65 .K46  1998","X004222860","Hawaiian heritage plants /","Kepler, Angela Kay,",1998,FALSE
+"291","ALDERMAN","DU 000624.65 .K56  1992  V.000001","X002140938","Anahulu : the anthropology of history in the Kingdom of Hawaii /","Kirch, Patrick Vinton.",1992,TRUE
+"292","ALDERMAN","DU 000624.65 .K57  1985","X000929640","Feathered gods and fishhooks : an introduction to Hawaiian archaeology and prehistory /","Kirch, Patrick Vinton.",1985,FALSE
+"293","ALDERMAN","DU 000624.65 .K573  2001","X004523689","Hawaiki, ancestral Polynesia : an essay in historical anthropology /","Kirch, Patrick Vinton.",2001,FALSE
+"294","ALDERMAN","DU 000624.65 .M47  2000","X004401833","Colonizing Hawai'i : the cultural power of law /","Merry, Sally Engle,",2000,FALSE
+"295","ALDERMAN","DU 000624.65 .N358  2014","X031651443","A nation rising : Hawaiian movements for life, land, and sovereignty /","",2014,FALSE
+"296","ALDERMAN","DU 000624.65 .P36  1999","X004323067","Pana O?ahu = Sacred stones, sacred land /","",1999,FALSE
+"297","ALDERMAN","DU 000624.65 .T48  2018","X031824283","Defiant indigeneity : the politics of Hawaiian performance /","Teves, Stephanie N.,",2018,FALSE
+"298","ALDERMAN","DU 000624.65 .W66  1999","X004283229","Displacing natives : the rhetorical production of Hawai?i /","Wood, Houston,",1999,FALSE
+"299","ALDERMAN","DU 000624.7 .A1  B8  1970","X000404062","Hawaiian Americans; an account of the mingling of Japanese, Chinese, Polynesian, and American cultures.","Burrows, Edwin G. (Edwin Grant),",1970,FALSE
+"300","ALDERMAN","DU 000624.7 .C5  C46","X000154995","Sojourners and settlers, Chinese migrants in Hawaii /","Glick, Clarence Elmer,",1980,TRUE
+"301","ALDERMAN","DU 000624.7 .J3  A75  2000","X004471177","From Kona to Yenan : the political memoirs of Koji Ariyoshi /","Ariyoshi, Koji,",2000,FALSE
+"302","ALDERMAN","DU 000624.7 .J3  H39  1937","X031822953","Hawai Nihongo ky?ikushi /","",1937,FALSE
+"303","ALDERMAN","DU 000624.7 .J3  K56  1988","X001453223","Issei : Japanese immigrants in Hawaii /","Kimura, Yukiko,",1988,FALSE
+"304","ALDERMAN","DU 000624.7 .J3  O36  1978","X000007207","Jan ken po : the world of Hawaii's Japanese Americans /","Ogawa, Dennis M.",1978,FALSE
+"305","ALDERMAN","DU 000624.7 .J3  O377  2014","X031704733","From race to ethnicity : interpreting Japanese American experiences in Hawai?i /","Okamura, Jonathan Y.",2014,FALSE
+"306","ALDERMAN","DU 000624.7 .J3  T36  1994","X002331510","Americanization, acculturation, and ethnic identity : the Nisei generation in Hawaii /","Tamura, Eileen.",1993,TRUE
+"307","ALDERMAN","DU 000624.7 .K67  C474164  2014","X031757962","Hawai Hanin sahoe ?i s?ngjangsa, 1903-1940 : ch'och'anggi iminjad?l kwa?i int'?byu /","Chang, Roberta,",2014,TRUE
+"308","ALDERMAN","DU 000624.7 .K67  O5213  2005","X030164892","A Study on Korean immigration and independence movements in Hawaii : relating to Korean churches and picture bride, 1903-2003 /","O, In-ch?*ol,",2005,FALSE
+"309","ALDERMAN","DU 000624.7 .T66  K35  2017","X031818374","Marking indigeneity : the Tongan art of sociospatial relations /","Ka?ili, T?vita O.,",2017,FALSE
+"310","ALDERMAN","DU 000624.7 .W45  R64  2010","X030823906","Haoles in Hawai?i /","Rohrer, Judy.",2010,TRUE
+"311","ALDERMAN","DU 000624.7 .W45  W48  1986","X001033703","The mainland haole : the white experience in Hawaii /","Whittaker, Elvi W.",1986,FALSE
+"312","ALDERMAN","DU 000625 .D28  1968","X000420190","Shoal of time; history of the Hawaiian Islands.","Daws, Gavan.",1968,FALSE
+"313","ALDERMAN","DU 000625 .H28  2014","X031653677","Captive paradise : a history of Hawai'i /","Haley, James L.",2014,FALSE
+"314","ALDERMAN","DU 000625 .K778  1948","X004638594","Hawaii: a history, from Polynesian kingdom to American commonwealth,","Kuykendall, Ralph S. (Ralph Simpson),",1948,FALSE
+"315","CLEMONS","DU 000625 .K778  1961","X000013021","Hawaii: a history, from Polynesian kingdom to American State,","Kuykendall, Ralph S. (Ralph Simpson),",1961,FALSE
+"316","ALDERMAN","DU 000625 .O37  2008","X030464013","Island world : a history of Hawai'i and the United States /","Okihiro, Gary Y.,",2008,FALSE
+"317","ALDERMAN","DU 000625 .R65  2016","X031795630","Staking claim : settler colonialism and racialization in Hawai'i /","Rohrer, Judy,",2016,FALSE
+"318","ALDERMAN","DU 000625 .S49  2004","X004808549","Aloha betrayed : native Hawaiian resistance to American colonialism /","Silva, Noenoe K.,",2004,FALSE
+"319","CLEMONS","DU 000625 .V89  2011","X030933903","Unfamiliar fishes /","Vowell, Sarah,",2011,FALSE
+"320","ALDERMAN","DU 000625 .W57  1987","X032209629","Hawaiian monarchs and their palaces : a pictorial history /","Wisniewski, Richard A.",1987,FALSE
+"321","ALDERMAN","DU 000626 .O28  1992","X002142279","The apotheosis of James Cook : European mythmaking in the Pacific /","Obeyesekere, Gananath.",1992,FALSE
+"322","CLEMONS","DU 000626 .O28  1997","X004107699","The apotheosis of Captain Cook : European mythmaking in the Pacific : with a new afterword by the author /","Obeyesekere, Gananath.",1997,FALSE
+"323","ALDERMAN","DU 000626 .O283  S35  1995","X002627095","How ""natives"" think : about Captain Cook, for example /","Sahlins, Marshall,",1995,FALSE
+"324","CLEMONS","DU 000627 .B7  1968","X000110960","The American frontier in Hawaii; the pioneers 1789-1843.","Bradley, Harold Whitman.",1968,FALSE
+"325","ALDERMAN","DU 000627 .T45  2014","X031628531","Island queens and mission wives : how gender and empire remade Hawai'i's Pacific world /","Thigpen, Jennifer,",2014,FALSE
+"326","ALDERMAN","DU 000627.17 .N94  A3  2004","X004773159","The journal of a sea captain's wife, 1841-1845 : during a passage and sojourn in Hawaii and of a trading voyage to Oregon and California /","Nye, Lydia Rider,",2004,FALSE
+"327","ALDERMAN","DU 000627.18 .S55  2012B","X031618198","Lost kingdom : Hawaii's last queen, the sugar kings, and America's first imperial adventure /","Siler, Julia Flynn.",2012,FALSE
+"328","ALDERMAN","DU 000627.2 .L72  2013","X031707827","Hawaii's story by Hawaii's Queen Liliuokalani /","Liliuokalani,",2013,FALSE
+"329","ALDERMAN","DU 000627.2 .R8  1959","X001406149","The Hawaiian Revolution, 1893-94.","Russ, William Adam,",1959,FALSE
+"330","ALDERMAN","DU 000627.4 .M58  2011","X030946889","Pacific Gibraltar : U.S.-Japanese rivalry over the annexation of Hawai?i, 1885-1898 /","Morgan, William Michael.",2011,FALSE
+"331","ALDERMAN","DU 000627.4 .O83","X000323802","""Empire can wait"" : American opposition to Hawaiian annexation, 1893-1898 /","Osborne, Thomas J.,",1981,FALSE
+"332","ALDERMAN","DU 000627.4 .T27","X000836103","Hawaii: reciprocity or annexation.","Tate, Merze,",1968,FALSE
+"333","ALDERMAN","DU 000627.5 .B44  1984","X000788090","Last among equals : Hawaiian statehood and American politics /","Bell, Roger J. (Roger John),",1984,FALSE
+"334","ALDERMAN","DU 000627.5 .C64  2003","X004767372","The island edge of America : a political history of Hawai'i /","Coffman, Tom.",2003,FALSE
+"335","ALDERMAN","DU 000627.5 .I74  2011","X030817331","The US military in Hawai'i : colonialism, memory, and resistance /","Ireland, Brian,",2011,FALSE
+"336","ALDERMAN","DU 000627.8 .M37  2011","X030816393","Potent mana : lessons in power and healing /","Marshall, Wende Elizabeth,",2011,FALSE
+"337","ALDERMAN","DU 000627.8 .T73  1999","X004267223","From a native daughter : colonialism and sovereignty in Hawai'i /","Trask, Haunani-Kay.",1999,FALSE
+"338","ALDERMAN","DU 000628 .I65  A55  1978","X032209628","Hawaii's monarchy : kings, queens and the Royal Palace /","Allen, Gwenfread E. (Gwenfread Elaine),",1978,FALSE
+"339","ALDERMAN","DU 000628 .O3  C43  1988","X032209671","Chinese historic sites and pioneer families of rural Oahu /","Char, Wai Jane.",1988,TRUE
+"340","ALDERMAN","DU 000645 .F7413  1986","X001396639","The Chamorro : a history and ethnography of the Marianas /","Fritz, Georg,",1986,FALSE
+"341","ALDERMAN","DU 000647 .R63  1995","X002627413","Destiny's landfall : a history of Guam /","Rogers, Robert F.",1995,FALSE
+"342","ALDERMAN","DU 000647 .S7  1998","X006076193","Pacific passages : world culture and local politics in Guam /","Stade, Ronald.",1998,FALSE
+"343","ALDERMAN","DU 000647 .Y36  2007","X030508332","Guamu to Nihonjin : sens? o umetateta rakuen /","Yamaguchi, Makoto,",2007,FALSE
+"344","ALDERMAN","DU 000710 .B37  2013","X031601154","Bravo for the Marshallese : regaining control in a post-nuclear, post-colonial world /","Barker, Holly M.",2013,FALSE
+"345","ALDERMAN","DU 000720 .B86  2000","X004473790","Exile to paradise : savagery and civilization in Paris and the South Pacific, 1790-1900 /","Bullard, Alice.",2000,FALSE
+"346","ALDERMAN","DU 000739 .M66  2003","X004774073","New Guinea : crossing boundaries and history /","Moore, Clive.",2003,FALSE
+"347","ALDERMAN","DU 000740 .B3  1958","X000383119","Naven, a survey of the problems suggested by a composite picture of the culture of a New Guinea tribe drawn from three points of view.","Bateson, Gregory,",1958,FALSE
+"348","ALDERMAN","DU 000740 .B3  H68  1998","X004192459","Naven or the other self : a relational approach to ritual action /","Houseman, Michael.",1998,FALSE
+"349","ALDERMAN","DU 000740 .B84","X000841182","Tangu traditions: a study of the way of life, mythology, and developing experience of a New Guinea people.","Burridge, Kenelm.",1969,FALSE
+"350","ALDERMAN","DU 000740 .M62  1998","X004289886","Modern Papua New Guinea /","",1998,FALSE
+"351","ALDERMAN","DU 000740 .P36  2005","X030138685","Papuan pasts : cultural, linguistic and biological histories of Papuan-speaking peoples /","",2005,FALSE
+"352","ALDERMAN","DU 000740 .R27  1968","X000095115","Pigs for the ancestors; ritual in the ecology of a New Guinea people,","Rappaport, Roy A.",1968,FALSE
+"353","ALDERMAN","DU 000740 .S384  1973","X000459367","Exchange in the social structure of the Orokaiva; traditional and emergent ideologies in the Northern District of Papua,","Schwimmer, Eric,",1973,FALSE
+"354","CLEMONS","DU 000740 .W3","X000188662","Habu; the innovation of meaning in Daribi religion.","Wagner, Roy,",1972,FALSE
+"355","ALDERMAN","DU 000740.2 .C45  1978","X000324891","Across New Guinea from the Fly to the Sepik /","Champion, Ivan F.",1978,FALSE
+"356","ALDERMAN","DU 000740.2 .M55  1983","X001297792","The highlands of Papua New Guinea /","Miller, Brian.",1983,FALSE
+"357","ALDERMAN","DU 000740.2 .S25  2001","X004591010","Four corners : one woman's solo journey into the heart of Papua New Guinea /","Salak, Kira,",2001,FALSE
+"358","ALDERMAN","DU 000740.2 .T74  1996","X006007180","Islands in the clouds : travels in the highlands of New Guinea /","Tree, Isabella,",1996,FALSE
+"359","ALDERMAN","DU 000740.4 .K57  2006","X030108237","Reverse anthropology : indigenous analysis of social and environmental relations in New Guinea /","Kirsch, Stuart.",2006,FALSE
+"360","ALDERMAN","DU 000740.4 .P66  2015","X031734683","Lost among the Baining : adventure, marriage, and other fieldwork /","Pool, Gail,",2015,FALSE
+"361","ALDERMAN","DU 000740.42 .A57  1987","X001218092","Anthropology in the high valleys : essays on the New Guinea highlands in honor of Kenneth E. Read /","",1987,FALSE
+"362","ALDERMAN","DU 000740.42 .B36  1987","X001259457","Cosmologies in the making : a generative approach to cultural variation in inner New Guinea /","Barth, Fredrik,",1987,FALSE
+"363","ALDERMAN","DU 000740.42 .B37  1975","X000418240","Ritual and knowledge among the Baktaman of New Guinea /","Barth, Fredrik,",1975,FALSE
+"364","ALDERMAN","DU 000740.42 .B375  2006","X030370740","The meaning of whitemen : race and modernity in the Orokaiva cultural world /","Bashkow, Ira.",2006,FALSE
+"365","ALDERMAN","DU 000740.42 .B75  1992","X002159837","Just talk : gossip, meetings, and power in a Papua New Guinea village /","Brison, Karen.",1992,FALSE
+"366","ALDERMAN","DU 000740.42 .C455  1990","X002046359","Children of Afek : tradition and change among the Mountain-Ok of central New Guinea /","",1990,FALSE
+"367","ALDERMAN","DU 000740.42 .C575  2000","X004532756","Steel to stone : a chronicle of colonialism in the Southern Highlands of Papua New Guinea /","Clark, Jeffrey (Jeffrey L.)",2000,FALSE
+"368","ALDERMAN","DU 000740.42 .C595  1992","X002254783","Clowning as critical practice : performance humor in the South Pacific /","",1992,FALSE
+"369","ALDERMAN","DU 000740.42 .D36  1990","X006132015","From Muyuw to the Trobriands : transformations along the northern side of the Kula Ring /","Damon, Frederick H.",1990,FALSE
+"370","ALDERMAN","DU 000740.42 .D43  1989","X001665433","Death rituals and life in the societies of the kula ring /","",1989,FALSE
+"371","ALDERMAN","DU 000740.42 .E77  1987","X001612000","Cultural alternatives and a feminist anthropology : an analysis of culturally constructed gender interests in Papua New Guinea /","Errington, Frederick Karl.",1987,FALSE
+"372","ALDERMAN","DU 000740.42 .F35  1997","X004143861","They make themselves : work and play among the Baining of Papua New Guinea /","Fajans, Jane.",1997,FALSE
+"373","ALDERMAN","DU 000740.42 .F44  1982","X000398587","Sound and sentiment : birds, weeping, poetics, and song in Kaluli expression /","Feld, Steven.",1982,FALSE
+"374","ALDERMAN","DU 000740.42 .F44  1990","X002219294","Sound and sentiment : birds, weeping, poetics, and song in Kaluli expression /","Feld, Steven.",1990,FALSE
+"375","ALDERMAN","DU 000740.42 .F58  1983","X000907120","Bundi : the culture of a Papua New Guinea people /","Fitz-Patrick, David G. (David Gowran),",1983,FALSE
+"376","ALDERMAN","DU 000740.42 .F67  1995","X002609365","Social reproduction and history in Melanesia : mortuary ritual, gift exchange, and custom in the Tanga Islands /","Foster, Robert John,",1995,FALSE
+"377","ALDERMAN","DU 000740.42 .G485  1991","X001978887","Twisted histories, altered contexts : representing the Chambri in a world system /","Gewertz, Deborah B.,",1991,FALSE
+"378","ALDERMAN","DU 000740.42 .G6213  1986","X004190937","The making of great men : male domination and power among the New Guinea Baruya /","Godelier, Maurice.",1986,FALSE
+"379","ALDERMAN","DU 000740.42 .G63  1993","X002212540","The culture of coincidence : accident and absolute liability in Huli. /","Goldman, Laurence.",1993,FALSE
+"380","ALDERMAN","DU 000740.42 .G66  1995","X002667039","To sing with pigs is human : the concept of person in Papua New Guinea /","Goodale, Jane C. (Jane Carter),",1995,FALSE
+"381","ALDERMAN","DU 000740.42 .G67  1985","X000909220","Law and order in the New Guinea highlands : encounters with Enga /","Gordon, Robert J.,",1985,FALSE
+"382","ALDERMAN","DU 000740.42 .H34","X031944342","Bloodshed and vengeance in the papuan mountains : the generation of conflict in tauade society","Hallpike, C. R.",1977,FALSE
+"383","ALDERMAN","DU 000740.42 .H375  2006","X031230230","Stealing people's names : history and politics in a Sepik River cosmology /","Harrison, Simon,",2006,FALSE
+"384","ALDERMAN","DU 000740.42 .H44  1994","X002557912","Guardians of the flutes : idioms of masculinity : with a new preface /","Herdt, Gilbert H.,",1994,FALSE
+"385","ALDERMAN","DU 000740.42 .H445  1990","X001784235","Intimate communications : erotics and the study of a culture /","Herdt, Gilbert H.,",1990,FALSE
+"386","ALDERMAN","DU 000740.42 .H45  1987","X001337050","The Sambia : ritual and gender in New Guinea /","Herdt, Gilbert H.,",1987,FALSE
+"387","ALDERMAN","DU 000740.42 .H46  1999","X004283241","Sambia sexual culture : essays from the field /","Herdt, Gilbert H.,",1999,FALSE
+"388","ALDERMAN","DU 000740.42 .H464  2003","X004774050","Secrecy and cultural reality : utopian ideologies of the New Guinea men's house /","Herdt, Gilbert H.,",2003,FALSE
+"389","ALDERMAN","DU 000740.42 .H96  1994","X002596104","Ancestral rain forests and the mountain of gold : indigenous peoples and mining in New Guinea /","Hyndman, David.",1994,FALSE
+"390","ALDERMAN","DU 000740.42 .J8613  1996","X004054762","Children of the blood : society, reproduction, and cosmology in New Guinea /","Juillerat, Bernard.",1996,FALSE
+"391","ALDERMAN","DU 000740.42 .K34  1986","X001156986","Always hungry, never greedy : food and the expression of gender relations in a Melanesian society /","Kahn, Miriam.",1986,FALSE
+"392","ALDERMAN","DU 000740.42 .K437  1993","X002335675","Constructing inequality : the fabrication of a hierarchy of virtue among the Etoro /","Kelly, Raymond C. (Raymond Case),",1993,FALSE
+"393","ALDERMAN","DU 000740.42 .K52  2002","X004553713","Exchanging the past : a rainforest world of before and after /","Knauft, Bruce M.",2002,FALSE
+"394","CLEMONS","DU 000740.42 .K524  2012","X031579984","The Gebusi : lives transformed in a rainforest world /","Knauft, Bruce M.",2012,FALSE
+"395","ALDERMAN","DU 000740.42 .K53  1985","X000994485","Good company and violence : sorcery and social action in a lowland New Guinea society /","Knauft, Bruce M.",1985,FALSE
+"396","CLEMONS","DU 000740.42 .K84  1983","X006025502","The Kula : new perspectives on Massim exchange /","",1983,FALSE
+"397","ALDERMAN","DU 000740.42 .L42  2003","X004767169","Creative land : place and procreation on the Rai Coast of Papua New Guinea /","Leach, James,",2003,FALSE
+"398","ALDERMAN","DU 000740.42 .L47  1993","X002395912","Fruit of the motherland : gender in an egalitarian society /","Lepowsky, Maria Alexandra.",1993,FALSE
+"399","ALDERMAN","DU 000740.42 .L477","X000071053","Day of shining red : an essay on understanding ritual /","Lewis, Gilbert.",1979,FALSE
+"400","ALDERMAN","DU 000740.42 .L565  1997","X004150902","Mangrove man : dialogics of culture in the Sepik estuary /","Lipset, David,",1997,FALSE
+"401","ALDERMAN","DU 000740.42 .L566  2000","X004439430","Encompassing others : the magic of modernity in Melanesia /","LiPuma, Edward,",2000,FALSE
+"402","ALDERMAN","DU 000740.42 .L57  1988","X001356810","The gift of kinship : structure and practice in Maring social organization /","LiPuma, Edward,",1988,FALSE
+"403","ALDERMAN","DU 000740.42 .M345  1991","X002049471","Androgynous objects : string bags and gender in central New Guinea /","MacKenzie, Maureen Anne.",1991,FALSE
+"404","ALDERMAN","DU 000740.42 .M35  1988","X001500132","Malinowski among the Magi : The natives of Mailu /","Malinowski, Bronislaw,",1988,FALSE
+"405","ALDERMAN","DU 000740.42 .M373  1994","X002453851","To remember the faces of the dead : the plenitude of memory in southwestern New Britain /","Maschio, Thomas.",1994,FALSE
+"406","ALDERMAN","DU 000740.42 .M3954  2002  V.000001","X004757939","The mountain Arapesh /","Mead, Margaret,",2002,TRUE
+"407","ALDERMAN","DU 000740.42 .M56  1988","X001364784","Intimations of infinity : the mythopoeia of the Iqwaye counting system and number /","Mimica, Jadran.",1988,FALSE
+"408","ALDERMAN","DU 000740.42 .M68  1988","X001459350","Mountain Papuans : historical and comparative perspectives from New Guinea fringe highlands societies /","",1988,FALSE
+"409","ALDERMAN","DU 000740.42 .M86  1986","X001211984","The fame of Gawa : a symbolic study of value transformation in a Massim (Papua New Guinea) society /","Munn, Nancy D.,",1986,FALSE
+"410","ALDERMAN","DU 000740.42 .P37  1995","X002685242","Papuan borderlands : Huli, Duna, and Ipili perspectives on the Papua New Guinea highlands /","",1995,FALSE
+"411","ALDERMAN","DU 000740.42 .R36  1984","X000789785","Pigs for the ancestors : ritual in the ecology of a New Guinea people /","Rappaport, Roy A.",1984,FALSE
+"412","ALDERMAN","DU 000740.42 .S33  1990","X001810962","The give and take of everyday life : language socialization of Kaluli children /","Schieffelin, Bambi B.",1990,FALSE
+"413","ALDERMAN","DU 000740.42 .S34","X000213741","The sorrow of the lonely and the burning of the dancers /","Schieffelin, Edward L.",1976,FALSE
+"414","ALDERMAN","DU 000740.42 .S37  1992","X002113982","Initiation and religion : a case study from the Wosera of Papua New Guinea /","Schroeder, Roger,",1992,FALSE
+"415","ALDERMAN","DU 000740.42 .S543  2009","X030566567","Grass-clearing man : a factional ethnography of life in the New Guinea Highlands /","Sillitoe, Paul,",2009,FALSE
+"416","ALDERMAN","DU 000740.42 .S57  2001","X004552780","Masculinity, motherhood, and mockery : psychoanalyzing culture and the Iatmul Naven rite in New Guinea /","Silverman, Eric Kline.",2001,FALSE
+"417","ALDERMAN","DU 000740.42 .S66  2002","X004631166","Village on the edge : changing times in Papua New Guinea /","Smith, Michael French.",2002,FALSE
+"418","ALDERMAN","DU 000740.42 .S75  1995","X002600515","A'aisa's gifts : a study of magic and the self /","Stephen, Michele.",1995,FALSE
+"419","ALDERMAN","DU 000740.42 .S766  2002","X004586231","Remaking the world : myth, mining, and ritual change among the Duna of Papua New Guinea /","Stewart, Pamela J.",2002,FALSE
+"420","ALDERMAN","DU 000740.42 .T45  1998","X004187873","Dancing through time : a Sepik cosmology /","Telban, Borut.",1998,FALSE
+"421","ALDERMAN","DU 000740.42 .T84  1997","X004157821","The Cassowary's revenge : the life and death of masculinity in a New Guinea society /","Tuzin, Donald F.",1997,FALSE
+"422","ALDERMAN","DU 000740.42 .W32  1986","X001065844","Asiwinarong : ethos, image, and social power among the Usen Barok of New Ireland /","Wagner, Roy,",1986,FALSE
+"423","ALDERMAN","DU 000740.42 .W33","X006165752","Lethal speech : Daribi myth as symbolic obviation /","Wagner, Roy,",1978,FALSE
+"424","ALDERMAN","DU 000740.42 .W354  2006","X030036949","Wayward women : sexuality and agency in a New Guinea society /","Wardlow, Holly.",2006,FALSE
+"425","ALDERMAN","DU 000740.42 .W37  2016","X031758330","The gently bowing person : an ideal among the Yupno in Papua New Guinea /","Wassmann, Jürg.",2016,FALSE
+"426","ALDERMAN","DU 000740.42 .W4  1991","X002036191","The empty place : poetry, space, and being among the Foi of Papua New Guinea /","Weiner, James F.",1991,FALSE
+"427","ALDERMAN","DU 000740.42 .W43  1988","X002036620","The heart of the pearl shell : the mythological dimension of Foi sociality /","Weiner, James F.",1988,FALSE
+"428","ALDERMAN","DU 000740.42 .W464  2006","X004895748","Conservation is our government now : the politics of ecology in Papua New Guinea /","West, Paige,",2006,FALSE
+"429","ALDERMAN","DU 000740.42 .W49  1998","X004190493","Historical vines : Enga networks of exchange, ritual, and warfare in Papua New Guinea /","Wiessner, Polly,",1998,FALSE
+"430","ALDERMAN","DU 000740.42 .W643  2016","X031795760","Dispossession and the environment : rhetoric and inequality in Papua New Guinea /","West, Paige,",2016,FALSE
+"431","ALDERMAN","DU 000740.42 .W65  2004","X004917373","Women as unseen characters : male ritual in Papua New Guinea /","",2004,FALSE
+"432","ALDERMAN","DU 000740.42 .Y68  1983","X004028413","Magicians of manumanua : living myth in Kalauna /","Young, Michael W.,",1983,FALSE
+"433","ALDERMAN","DU 000740.43 .G55  G54  2002","X004553079","New Guinea ceremonies /","Gillison, David.",2002,TRUE
+"434","ALDERMAN","DU 000740.5 .C65  1984","X001115474","Colonial intrusion : Papua New Guinea, 1884 /","",1984,FALSE
+"435","ALDERMAN","DU 000740.5 .W34  1993","X002213899","A short history of Papua New Guinea /","Waiko, John.",1993,FALSE
+"436","ALDERMAN","DU 000740.6 .N27  1983","X001279346","Life and leadership in Melanesia /","Narokobi, Bernard.",1983,FALSE
+"437","ALDERMAN","DU 000740.7 .F57  1983","X000667987","New Guinea under the Germans /","Firth, Stewart.",1983,FALSE
+"438","ALDERMAN","DU 000740.8 .D67  1990","X001879270","Papua New Guinea : people politics and history since 1975 /","Dorney, Sean,",1990,FALSE
+"439","ALDERMAN","DU 000740.8 .S28  1988","X001662530","Papua New Guinea, which way ? : essays on identity and development /","Samana, Utula.",1988,FALSE
+"440","ALDERMAN","DU 000740.8 .W36  1996","X004030985","The state and its enemies in Papua New Guinea /","Wanek, Alexander.",1996,FALSE
+"441","ALDERMAN","DU 000740.9 .B68  B68  1990","X002059089","Bougainville : perspectives on a crisis /","",1990,FALSE
+"442","ALDERMAN","DU 000740.9 .B68  B682  1992","X002194552","The Bougainville crisis : 1991 update /","",1992,FALSE
+"443","ALDERMAN","DU 000740.9 .B68  C53  1998","X006027250","Bougainville 1988-98 : five searches for security in the North Solomons Province of Papua New Guinea /","Claxton, Karl,",1998,TRUE
+"444","ALDERMAN","DU 000740.9 .N4  G68  2001","X006120626","Collecting colonialism : material culture and colonial change /","Gosden, Chris,",2001,TRUE
+"445","ALDERMAN","DU 000740.9 .P66  G655  2014","X031626697","Leviathans at the gold mine : creating indigenous and corporate actors in Papua New Guinea /","Golub, Alex,",2014,TRUE
+"446","ALDERMAN","DU 000740.9 .P66  J33  2015","X031734091","Alchemy in the rain forest : politics, ecology, and resilience in a New Guinea mining area /","Jacka, Jerry K.,",2015,FALSE
+"447","ALDERMAN","DU 000742 .S3","X000042826","Historische Probleme in Nordost-Neuguinea; Huon Halbinsel.","Schmitz, Carl August.",1960,FALSE
+"448","ALDERMAN","DU 000742 .Z8  1891A","X030240816","Deutsch-Neuguinea und meine ersteigung des Finisterre-gebirges. Eine schilderung des ersten erfolgreichen vordringens zu den hochgebirgen inner-Neuguineas, der natur des landes, der sitten der eingeborenen und des gegenwärtigen standes der deutschen kolonisationsthätigkeit in Kaiser-Wilhelms-land, Bismarck- und Salomoarchipel,","Zöller, Hugo,",2009,FALSE
+"449","ALDERMAN","DU 000744 .B3","X000463106","Dema. Description and analysis of Marind-anim culture (South New Guinea)","Baal, Jan van.",1966,FALSE
+"450","ALDERMAN","DU 000744.3 .M5  1983","X000668003","The lost world of Irian Jaya /","Mitton, Robert D.",1983,FALSE
+"451","ALDERMAN","DU 000744.35 .A82  H64  2014","X031580235","Savage harvest : a tale of cannibals, colonialism, and Michael Rockefeller's tragic quest for primitive art /","Hoffman, Carl,",2014,FALSE
+"452","ALDERMAN","DU 000744.35 .D32  D53  2012","X031229833","The world until yesterday : what can we learn from traditional societies? /","Diamond, Jared M.",2012,TRUE
+"453","ALDERMAN","DU 000744.35 .D32  D53  2013","X030824164","The world until yesterday : what can we learn from traditional societies? /","Diamond, Jared M.",2013,TRUE
+"454","ALDERMAN","DU 000744.35 .D32  H44","X006126232","Grand Valley Dani, peaceful warriors /","Heider, Karl G.,",1979,FALSE
+"455","ALDERMAN","DU 000744.35 .J32  B63  1981","X000774161","Head-hunters about themselves : an ethnographic report from Irian Jaya, Indonesia /","Boelaars, J. H. M. C. (Jan Honoré Maria Cornelis)",1981,FALSE
+"456","ALDERMAN","DU 000744.35 .K33  S65  2013","X031614198","A faraway, familiar place : an anthropologist returns to Papua New Guinea /","Smith, Michael French,",2013,FALSE
+"457","ALDERMAN","DU 000744.35 .M42  C687  2008","X030475777","Restoring the balance : performing healing in West Papua /","Courtens, Ien.",2008,TRUE
+"458","ALDERMAN","DU 000744.35 .P33  L59  2018","X032582042","Living in the Stone Age : reflections on the origins of a colonial fantasy /","Rutherford, Danilyn,",2018,TRUE
+"459","ALDERMAN","DU 000744.5 .B476  1986","X001246550","Between two nations : the Indonesia--Papua New Guinea border and West Papua nationalism /","",1986,FALSE
+"460","ALDERMAN","DU 000744.5 .K45  2006","X030105566","Peace in Papau : widening a window of opportunity /","King, Blair A.",2006,FALSE
+"461","ALDERMAN","DU 000744.5 .K565  2012","X030945523","Freedom in entangled worlds : West Papua and the architecture of global power /","Kirksey, Eben,",2012,FALSE
+"462","ALDERMAN","DU 000744.5 .M35  1981","X031833702","Mediation of the West New Guinea dispute, 1962 : a case study /","McMullen, Christopher J.",1981,FALSE
+"463","ALDERMAN","DU 000744.5 .R88  2012","X030975209","Laughing at Leviathan : sovereignty and audience in West Papua /","Rutherford, Danilyn.",2012,FALSE
+"464","ALDERMAN","DU 000760 .B6713  1994","X002556842","The tree and the canoe : history and ethnogeography of Tanna /","Bonnemaison, Joël,",1994,FALSE
+"465","ALDERMAN","DU 000760 .M55  1998","X004159067","Bridging mental boundaries in a postcolonial microcosm : identity and development in Vanuatu /","Miles, William F. S.",1998,FALSE
+"466","ALDERMAN","DU 000800 .D43  1992","X002120013","Mr Bligh's bad language : passion, power, and theatre on the Bounty /","Dening, Greg.",1992,FALSE
+"467","ALDERMAN","DU 000813 .M4  1953","X000237251","Coming of age in Samoa;","Mead, Margaret,",1953,FALSE
+"468","CLEMONS","DU 000813 .M4  1961","X000170425","Coming of age in Samoa : a psychological study of primitive youth for Western civilization /","Mead, Margaret,",1961,FALSE
+"469","ALDERMAN","DU 000813 .S8  1983","X000902477","Old Samoa, or, Flotsam and jetsam from the Pacific Ocean /","Stair, John Bettridge.",1983,FALSE
+"470","ALDERMAN","DU 000813 .S97  1990","X001826947","Samoa : Western & American Samoa /","Swaney, Deanna.",1990,FALSE
+"471","ALDERMAN","DU 000818 .O4  A4","X031945077","Omai : ?noble savage' /","Alexander, Michael,",1977,FALSE
+"472","ALDERMAN","DU 000819 .A2  M43  1987","X001632872","The making of modern Samoa : traditional authority and colonial administration in the history of Western Samoa /","Meleisea, Malama.",1987,FALSE
+"473","ALDERMAN","DU 000819 .F58  H65","X000337167","Samoan village,","Holmes, Lowell D. (Lowell Don),",1974,FALSE
+"474","ALDERMAN","DU 000870 .N53  2001","X004478450","The word, the pen, and the pistol : literature and power in Tahiti /","Nicole, Robert.",2000,FALSE
+"475","ALDERMAN","DU 000870 .O43  V.000003","X000703538","Ancient Tahitian society /","Oliver, Douglas L.",1974,TRUE
+"476","ALDERMAN","DU 000880 .E92  2001","X004593528","Persistence of the gift : Tongan tradition in transnational context /","Evans, Mike,",2001,FALSE
+"477","ALDERMAN","DU 000880 .L42","X001044744","The Tongan past /","Ledyard, Patricia.",1982,FALSE
+"478","ALDERMAN","DU 000880.5 .T65  1990","X002227938","Tongan culture and history : papers from the 1st Tongan History Conference, held in Canberra, 14-17 January 1987 /","",1990,FALSE
+"479","ALDERMAN","DU 000885 .U2  1971","X000309703","Politics of the Kula ring; an analysis of the findings of Bronislaw Malinowski,","Uberoi, J. P. Singh.",1971,FALSE
+"480","ALDERMAN","DU 000950 .C3  C6  1960","X031945111","Eighth pmr site survey canton island","Cochran, J. D.",1960,TRUE

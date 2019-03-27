@@ -1,0 +1,505 @@
+"","Item.Library.Code","Item.Shelving.Id","Item.Barcode","Catalog.Title","Catalog.Author","Catalog.Pub.Year","MultiVolume"
+"1","ALDERMAN","BC 000006 .F6  1951","X030237618","Essays on logic and language","Flew, Antony,",1951,FALSE
+"2","ALDERMAN","BC 000006 .H36  1983  V.000001","X000669306","Elements of classical logic /","",1983,TRUE
+"3","ALDERMAN","BC 000006 .H36  1983  V.000002","X000905193","Extensions of classical logic /","",1984,TRUE
+"4","ALDERMAN","BC 000009 .C66  2009","X030278444","A dictionary of philosophical logic /","Cook, Roy T.,",2009,FALSE
+"5","ALDERMAN","BC 000009 .D48","X000325003","Dictionary of logic as applied in the study of language : concepts, methods, theories /","",1981,FALSE
+"6","ALDERMAN","BC 000009 .L585  2004","X030011134","Luo ji xue da ci dian = Luojixue dacidian /","",2004,FALSE
+"7","ALDERMAN","BC 000015 .B643  1961","X001585677","A history of formal logic.","Bochenski, Joseph M.,",1961,FALSE
+"8","ALDERMAN","BC 000015 .H36  2004  V.000001","X031721692","Handbook of the history of logic /","",2004,TRUE
+"9","ALDERMAN","BC 000015 .H37  2010","X030732873","The evolution of logic /","Hart, W. D. (Wilbur Dyre),",2010,FALSE
+"10","ALDERMAN","BC 000015 .H56  1997","X004107003","Historical foundations of informal logic /","",1997,FALSE
+"11","ALDERMAN","BC 000015 .K55  1962","X006172634","The development of logic,","Kneale, W. C. (William Calvert)",1962,FALSE
+"12","ALDERMAN","BC 000015 .S54  2013","X031613819","If A, then B : how the world discovered logic /","Shenefelt, Michael,",2013,FALSE
+"13","ALDERMAN","BC 000015 .T74  2003","X004745098","Trends in logic : 50 years of Studia logica /","",2003,FALSE
+"14","ALDERMAN","BC 000021 .E64  R47  2005","X004862927","Epistemic logic : a survey of the logic of knowledge /","Rescher, Nicholas.",2005,TRUE
+"15","ALDERMAN","BC 000021 .S9  E4  2010","X031190856","Relational syllogisms and the history of Arabic logic, 900-1900 /","El-Rouayheb, Khaled.",2010,FALSE
+"16","ALDERMAN","BC 000025 .A43  2010","X031610217","Studies in Indian logic /","Ambikadevi, K. K.",2010,FALSE
+"17","CLEMONS","BC 000025 .A65  2011","X031788568","Apoha : Buddhist nominalism and human cognition /","",2011,FALSE
+"18","ALDERMAN","BC 000025 .B83  1986","X001080103","Buddhist logic and epistemology : studies in the Buddhist analysis of inference and language /","",1986,FALSE
+"19","ALDERMAN","BC 000025 .D25913","X002454306","A compendium of ways of knowing : a clear mirror of what should be accepted and rejected /","Dbya?s-can-dga?-ba?i-blo-gros,",1976,FALSE
+"20","ALDERMAN","BC 000025 .F324  1962","X030891294","Yin ming lun li gai lun /","Fafeng.",1962,FALSE
+"21","ALDERMAN","BC 000025 .G362  2007","X031609906","Fo jiao yin ming lun /","Gangxiao.",2007,FALSE
+"22","ALDERMAN","BC 000025 .H84  2002","X004717668","Le Rtags kyi rnam gzhag rigs lam gsal ba?i sgron me de Glo bo mkhan chen bsod nams lhun grub : un manuel tibétain d'introduction à la logique : édition et traduction annotée /","Hugon, Pascale.",2002,FALSE
+"23","ALDERMAN","BC 000025 .L64  2010","X004087991","Logic in earliest classical India /","",2010,FALSE
+"24","ALDERMAN","BC 000025 .L64  2015","X031799376","Logic in Buddhist Scholasticism from philosophical, philological, historical and comparative perspectives /","",2015,FALSE
+"25","ALDERMAN","BC 000025 .M37  2010","X030745471","Buddhist philosophy of language in India : Jñ?na?r?mitra on exclusion /","McCrea, Lawrence J.",2010,FALSE
+"26","ALDERMAN","BC 000025 .M58  2006","X030332953","Vaidika-Bauddha-Jaina tarkabh?????? tulan?tmaka? sam?k??tmakamadhyayanam /","Mi?r?, Indumat?,",2006,FALSE
+"27","ALDERMAN","BC 000025 .N39  2002","X030374255","Nay?mr?tam /","",2002,FALSE
+"28","ALDERMAN","BC 000025 .O38  1994","X030267440","Studies on the doctrine of trair?pya /","Oetke, Claus.",1994,FALSE
+"29","ALDERMAN","BC 000025 .O66  1992","X030126356","Monastic Debate in Tibet : a study on the history and structures of bsdus grwa logic /","Onoda, Shunz?.",1992,FALSE
+"30","ALDERMAN","BC 000025 .P463  P468  1992","X030126333","Debate in Tibetan Buddhism /","Perdue, Daniel.",1992,FALSE
+"31","ALDERMAN","BC 000025 .P463  P47  1980","X002454377","Introductory debate in Tibetan Buddhism /","Perdue, Daniel.",1980,FALSE
+"32","ALDERMAN","BC 000025 .P463  R65  2009","X030467966","Tibetan logic /","Rogers, Katherine,",2009,TRUE
+"33","ALDERMAN","BC 000025 .P83","X030598033","Knowledge and reality : a comparative study of quine and some  buddhist logicians /","Puhakka, Kaisa.",1975,FALSE
+"34","ALDERMAN","BC 000025 .R34  2013","X031581555","?ippan?sahita? ?khy?tav?da? Nañv?da? ca /","Raghun?tha ?iroma?i.",2013,FALSE
+"35","ALDERMAN","BC 000025 .S253  H84  2008  V.000001","X030407039","Trésors du raisonnement : Sa skya Pa??ita et ses prédécesseurs tibétains sur les modes de fonctionnement de la pensée et le fondement de l'inférence : édition et traduction annotée du quatrième chapitre et d'une section du dixième chapitre du Tshad ma rigs pa 'i gter /","Hugon, Pascale.",2008,TRUE
+"36","ALDERMAN","BC 000025 .S346  2008","X030504914","Dunhuang yin ming wen xian yan jiu /","Shen, Jianying.",2008,FALSE
+"37","ALDERMAN","BC 000025 .S462  1970  V.000001","X006075096","Buddhist logic /","Shcherbatsko?, F. I. (Fedor Ippolitovich),",1970,TRUE
+"38","ALDERMAN","BC 000025 .T36  2010","X030933846","Fo jiao luo ji xue zhi yan jiu /","Takemura, Sh?h?,",2010,FALSE
+"39","ALDERMAN","BC 000025 .T363  G36  2011","X031611792","Ny?yaparicayakalpalatik? /","Ga?gop?dhy?ya, ?ivar?ma.",2011,TRUE
+"40","ALDERMAN","BC 000025 .U35  1933","X030266557","Bukky? ronrigaku /","Ui, Hakuju.",1933,FALSE
+"41","ALDERMAN","BC 000025 .W42  1999  V.000001","X004383575","A millennium of Buddhist logic /","Wayman, Alex.",1999,TRUE
+"42","ALDERMAN","BC 000025 .X56  1939","X030878704","Yin ming zhi yan jiu : bu fen juan /","Xiong, Shaokun.",1939,FALSE
+"43","ALDERMAN","BC 000025 .Y37  2009","X030852761","Jainatarkabh??? /","Ya?ovijaya,",2009,FALSE
+"44","ALDERMAN","BC 000025 .Y8  1939","X030891310","Yindu luo ji /","Yu, Yu.",1939,FALSE
+"45","ALDERMAN","BC 000025 .Z42  2010","X030813221","Han chuan yin ming shi lun /","Zhang, Zhongyi,",2010,FALSE
+"46","ALDERMAN","BC 000026 .A6  M33  2010","X031611774","Kath?lak?anam = the art of philosophical debate /","",2010,FALSE
+"47","ALDERMAN","BC 000026 .A6  R85  2009","X031716811","Ars topica : the classical technique of constructing arguments from Aristotle to Cicero /","Rubinelli, Sara.",2009,TRUE
+"48","ALDERMAN","BC 000026 .E64  N56  2012","X032592887","Ninshikiron to ronrigaku /","",2012,FALSE
+"49","ALDERMAN","BC 000026 .I6  N38  2009","X031781811","Nature of anum?na : an overview of Indian theories /","National Seminar on Nature of Anum?na: an Overview of Indian Theories",2015,FALSE
+"50","ALDERMAN","BC 000026 .S9  V33  2010","X030852749","Mah?vidy?vi?ambanam : Bhuvanasundaras?rikr?tay? Sa?skr?tavy?khyay?, R?maki?oratrip??hikr?tay? 'Candrik?'-Hind?vy?khyay? [sahita] /","V?d?ndra,",2010,TRUE
+"51","ALDERMAN","BC 000029 .A6  L5","X000392253","Polarity and analogy; two types of argumentation in early Greek thought,","Lloyd, G. E. R. (Geoffrey Ernest Richard),",1966,TRUE
+"52","ALDERMAN","BC 000029 .I6  A55  2001","X004559027","Inference from signs : ancient debates about the nature of evidence /","Allen, James V.,",2001,FALSE
+"53","ALDERMAN","BC 000031 .B37  1997","X004105494","Logic and the imperial Stoa /","Barnes, Jonathan.",1997,FALSE
+"54","ALDERMAN","BC 000034 .A56  2017","X031814515","Anonymi Introductiones Montane maiores /","",2017,FALSE
+"55","ALDERMAN","BC 000034 .B76  1987","X001262336","Introduction to medieval logic /","Broadie, Alexander.",1987,FALSE
+"56","ALDERMAN","BC 000034 .C36  2016","X031796323","The Cambridge companion to medieval logic /","",2016,FALSE
+"57","ALDERMAN","BC 000034 .M34  2007","X030384894","The many roots of medieval logic : the aristotelian and the non-aristotelian traditions : special offprint of Vivarium 45, 2-3 (2007) /","",2007,FALSE
+"58","ALDERMAN","BC 000034 .P37  2014","X031626529","Articulating Medieval logic /","Parsons, Terence.",2014,FALSE
+"59","ALDERMAN","BC 000034 .S27  1994  V.000001","X030248279","Dir?s?t man?iq?yah ?inda fal?sifat al-Isl?m /","?aqr, Ibr?h?m Mu?ammad Ibr?h?m.",1994,TRUE
+"60","ALDERMAN","BC 000034 .S38  1988","X001730310","Logical problems of the medieval theory of consequences : with the edition of the Liber consequentiarum /","Schupp, Franz.",1988,FALSE
+"61","ALDERMAN","BC 000034 .S88  1989","X001587012","Dialectic and its place in the development of medieval logic /","Stump, Eleonore,",1989,FALSE
+"62","ALDERMAN","BC 000035 .I6  M43  2001","X004479475","Medieval formal logic : obligations, insolubles, and consequences /","",2001,FALSE
+"63","ALDERMAN","BC 000035 .M63  T48  2003","X004741835","Medieval modal systems : problems and concepts /","Thom, Paul.",2003,TRUE
+"64","ALDERMAN","BC 000038 .A83","X000281146","Language and logic in the post-medieval period /","Ashworth, E. J.",1974,FALSE
+"65","ALDERMAN","BC 000038 .C46  1990","X002038850","Evoluzione e crisi di un paradigma : Peano e Croce /","Centrone, Marino,",1990,FALSE
+"66","ALDERMAN","BC 000038 .H59","X000380377","Eighteenth-century British logic and rhetoric.","Howell, Wilbur Samuel,",1971,FALSE
+"67","ALDERMAN","BC 000038 .H6  1961","X000170195","Logic and rhetoric in England, 1500-1700.","Howell, Wilbur Samuel,",1961,FALSE
+"68","ALDERMAN","BC 000038 .J33  2010","X030781412","Logic and how it gets that way /","Jacquette, Dale.",2010,FALSE
+"69","ALDERMAN","BC 000038 .M54  1981","X030499132","Modern logic--a survey : historical, philosophical, and mathematical aspects of modern logic and its applications /","",1981,FALSE
+"70","ALDERMAN","BC 000039.5 .C47  F36  1985","X030011728","Zhongguo bian zheng fa si xiang shi.","Fang, Ke.",1985,TRUE
+"71","ALDERMAN","BC 000039.5 .C47  H85  2011","X030813364","Hui gu yu qian zhan : Zhongguo luo ji shi yan jiu 30 nian /","",2011,FALSE
+"72","ALDERMAN","BC 000039.5 .C47  Z436  2012","X031605014","Tui lei yu Zhongguo gu dai luo ji /","Zhang, Xiaoguang,",2012,FALSE
+"73","ALDERMAN","BC 000039.5 .C47  Z468  2004","X030505378","Zhongguo luo ji shi /","Zhou, Yunzhi.",2004,FALSE
+"74","ALDERMAN","BC 000039.5 .I4  A67  2006","X030332955","?r?madannambha??aviracit? Tattvacint?ma?y?lokavy?khy? Siddh?ñjanam : Pr?m??yav?de jñ?ptiv?daparyanto bh?ga? /","Annambha??a,",2006,FALSE
+"75","ALDERMAN","BC 000039.5 .I4  D35  2005","X030158600","Problem of inherence in Indian logic /","Dalai, B. K. (Bata Kishor)",2005,TRUE
+"76","ALDERMAN","BC 000039.5 .I4  G35  2016","X032404301","M?thur?, J?gad??? and K???d? on Ga?ge?a's Avayacint?ma?i : with the m?la and translation, D?dhiti annexed at the end /","Ga?ge?a,",2016,TRUE
+"77","ALDERMAN","BC 000039.5 .I4  G355513  2012  V.000002","X031606153","Perception, The Pratyak?a kha??a of the Tattvacintama?i : with introduction, Sanskrit text, translation and explanation /","Ga?ge?a,",2012,TRUE
+"78","ALDERMAN","BC 000039.5 .I4  G36  2011","X031231925","Vyaptipancakam /","",2011,TRUE
+"79","ALDERMAN","BC 000039.5 .I4  I58  1997","X004817109","The role of the example (dr????nta) in classical Indian logic /","International Dharmak?rti Conference",2004,FALSE
+"80","ALDERMAN","BC 000039.5 .I4  J34  2010","X030942244","Vy?dhikara?aprakara?am /","Jagad??atark?la?k?ra.",2010,FALSE
+"81","ALDERMAN","BC 000039.5 .I4  M37  1998","X004190627","The character of logic in India /","Matilal, Bimal Krishna.",1998,FALSE
+"82","ALDERMAN","BC 000039.5 .I4  N38  2010","X030852741","Dvit?yahetv?bh?salak?a?avimar?a?, Siddh?ntakaumudy?? acsandhyantabh?gavivara?añca /","Nav?na?, R?.",2010,FALSE
+"83","ALDERMAN","BC 000041 .M27  2004","X004743485","Relevant logic : a philosophical interpretation /","Mares, Edwin David.",2004,FALSE
+"84","ALDERMAN","BC 000041 .O45  2013","X030611396","Plural logic /","Oliver, Alex.",2013,FALSE
+"85","ALDERMAN","BC 000041 .O5  2009","X030566520","On preserving : essays on preservationism and paraconsistent logic /","",2009,FALSE
+"86","ALDERMAN","BC 000050 .B5713  1965","X030598041","The methods of contemporary thought","Bochenski, Joseph M.,",1965,FALSE
+"87","ALDERMAN","BC 000050 .D42  2007","X030107410","Essays in experimental logic /","Dewey, John,",2007,FALSE
+"88","ALDERMAN","BC 000050 .D43  1938","X000449864","Logic, the theory of inquiry,","Dewey, John,",1938,FALSE
+"89","ALDERMAN","BC 000050 .D43  1955","X001122379","Logic : the theory of inquiry.","Dewey, John,",1955,FALSE
+"90","ALDERMAN","BC 000050 .E5413  1991","X002088508","The norm of truth : an introduction to the philosophy of logic /","Engel, Pascal,",1991,FALSE
+"91","ALDERMAN","BC 000050 .F713  1977","327435-2001","Logical investigations /","Frege, Gottlob,",1977,FALSE
+"92","ALDERMAN","BC 000050 .F713  1977B","X000138473","Logical investigations /","Frege, Gottlob,",1977,FALSE
+"93","CLEMONS","BC 000050 .G38  1972","X000069239","Logic matters","Geach, P. T. (Peter Thomas),",1972,FALSE
+"94","ALDERMAN","BC 000050 .L5595  2000","X004387783","Logic, cause & action : essays in honour of Elizabeth Anscombe /","",2000,FALSE
+"95","ALDERMAN","BC 000050 .M36  2000","X004410421","Before logic /","Mason, Richard,",2000,FALSE
+"96","ALDERMAN","BC 000050 .M44  2014","X031654056","The metaphysics of logic /","",2014,FALSE
+"97","ALDERMAN","BC 000050 .N49  2012","X030844319","New waves in philosophical logic /","",2012,FALSE
+"98","ALDERMAN","BC 000050 .P68  1976","X000694676","Papers in logic and ethics /","Prior, A. N. (Arthur N.),",1976,FALSE
+"99","ALDERMAN","BC 000050 .T56  2015","X031707479","The philosophy of argument and audience reception /","Tindale, Christopher W. (Christopher William),",2015,FALSE
+"100","ALDERMAN","BC 000051 .B58  1998","X004177863","Logic, logic, and logic /","Boolos, George.",1998,FALSE
+"101","ALDERMAN","BC 000051 .B67  1974B","X002588885","Philosophy of logic : papers and discussions /","Bristol Conference on Critical Philosophy",1976,FALSE
+"102","ALDERMAN","BC 000051 .D85  1991","X002039915","The logical basis of metaphysics /","Dummett, Michael,",1991,FALSE
+"103","ALDERMAN","BC 000051 .H3","X000474431","Deviant logic : some philosophical issues /","Haack, Susan.",1974,FALSE
+"104","ALDERMAN","BC 000051 .H3  1996","X004068428","Deviant logic, fuzzy logic : beyond the formalism /","Haack, Susan.",1996,FALSE
+"105","ALDERMAN","BC 000051 .P88  1971","X000600247","Philosophy of logic.","Putnam, Hilary.",1971,FALSE
+"106","ALDERMAN","BC 000051 .Q5  1986","X001086803","Philosophy of logic /","Quine, W. V. (Willard Van Orman)",1986,FALSE
+"107","ALDERMAN","BC 000051 .R4","X000834760","Topics in philosophical logic /","Rescher, Nicholas.",1968,FALSE
+"108","ALDERMAN","BC 000053 .F57  2009","X030471267","Self, logic, and figurative thinking /","Fisher, Harwood.",2009,FALSE
+"109","ALDERMAN","BC 000053 .H36  2006","X030106334","Rationality and logic /","Hanna, Robert,",2006,FALSE
+"110","ALDERMAN","BC 000057 .D42  1990","X001844856","Demonstratives /","",1990,FALSE
+"111","ALDERMAN","BC 000057 .G83  BD.1","X030598044","Beiträge zur Grundlegung einer operationsfähigen Dialektik /","Günther, Gotthard.",1976,TRUE
+"112","ALDERMAN","BC 000057 .H34  1991","X002042781","Essentialism : a Wittgensteinian critique /","Hallett, Garth L.,",1991,FALSE
+"113","ALDERMAN","BC 000057 .H36  2010","X030773794","The logical leap : induction in physics /","Harriman, David.",2010,FALSE
+"114","ALDERMAN","BC 000057 .K35  1993  PT.000001","X002287046","From discourse to logic : introduction to model theoretic semantics of natural language, formal logic and discourse representation theory /","Kamp, Hans.",1993,TRUE
+"115","ALDERMAN","BC 000057 .M365  2004","X004811322","Themes in Neoplatonic and Aristotelian logic : order, negation, and abstraction /","Martin, John N.",2004,FALSE
+"116","ALDERMAN","BC 000060 .J5724  1985","X001014018","Tractatus de signis : the semiotic of John Poinsot /","John of St. Thomas,",1985,FALSE
+"117","ALDERMAN","BC 000060 .K54  2008","X030395650","Die Syncategoremata des Wilhem von Sherwood : Kommentierung und historische Einordnung /","Kirchhoff, Raina.",2008,FALSE
+"118","ALDERMAN","BC 000060 .L64  1988","X001560170","Logic and the philosophy of language /","",1988,FALSE
+"119","ALDERMAN","BC 000060 .O252","X000057339","Ockham's theory of terms, part I of the Summa logicae /","William,",1974,FALSE
+"120","ALDERMAN","BC 000060 .O25213  1980","X000154553","Ockham's theory of propositions : part II of the Summa logicae /","William,",1980,FALSE
+"121","ALDERMAN","BC 000060 .P45  2008","X030395663","Philoponus : on Aristotle Posterior analytics 1.1-8 /","Philoponus, John,",2008,FALSE
+"122","ALDERMAN","BC 000061 .B38  1999","X004358937","Language, proof, and logic /","Barwise, Jon.",1999,FALSE
+"123","ALDERMAN","BC 000061 .S64  1628A","X000939221","The art of logic, 1628.","Spencer, Thomas,",1970,FALSE
+"124","ALDERMAN","BC 000062 .A7  1970","X000382052","La logique;","Arnauld, Antoine,",1970,FALSE
+"125","ALDERMAN","BC 000062 .A713  1964","X000392210","The art of thinking; Port-Royal logic.","Arnauld, Antoine,",1964,FALSE
+"126","ALDERMAN","BC 000071 .B43  1982","X000529211","Traditional logic /","Bethel, A. C. W.",1982,FALSE
+"127","ALDERMAN","BC 000071 .B89  2009","X004087130","Philosophical logic /","Burgess, John P.,",2009,FALSE
+"128","ALDERMAN","BC 000071 .C53  1998","X004208363","Deductive logic : an introduction to evaluation techniques and logical theory /","Clarke, D. S. (David S.),",1998,FALSE
+"129","ALDERMAN","BC 000071 .E57  1994","X002577363","The Semantic foundations of logic /","Epstein, Richard L.,",1994,FALSE
+"130","ALDERMAN","BC 000071 .E57  1995  V.000001","X004196256","The semantic foundations of logic /","Epstein, Richard L.,",1995,TRUE
+"131","ALDERMAN","BC 000071 .F734  2005","X004811834","Acceptable premises : an epistemic approach to an informal logic problem /","Freeman, James B.",2005,FALSE
+"132","ALDERMAN","BC 000071 .F738  1991","X002110421","Dialectics and the macrostructure of arguments : a theory of argument structure /","Freeman, James B.",1991,FALSE
+"133","ALDERMAN","BC 000071 .G337  2013","X031626565","What logics mean : from proof theory to model-theoretic semantics /","Garson, James W.,",2013,FALSE
+"134","ALDERMAN","BC 000071 .G34  1980","X000169951","Reference and generality : an examination of some medieval and modern theories /","Geach, P. T. (Peter Thomas),",1980,FALSE
+"135","ALDERMAN","BC 000071 .G37  2017","X032069416","Introduction to logic /","Gensler, Harry J.,",2017,FALSE
+"136","ALDERMAN","BC 000071 .G7  1982","X000498692","An introduction to philosophical logic /","Grayling, A. C.",1982,FALSE
+"137","ALDERMAN","BC 000071 .G7  1997","X006057904","An introduction to philosophical logic /","Grayling, A. C.",1997,FALSE
+"138","ALDERMAN","BC 000071 .H35  1999","X006006620","The snake and the fox : an introduction to logic /","Haight, M. R. (Mary Rowland)",1999,FALSE
+"139","CLEMONS","BC 000071 .J38  1981","X000908695","Formal logic : its scope and limits /","Jeffrey, Richard C.",1981,FALSE
+"140","ALDERMAN","BC 000071 .L625  2011","X031216498","Logic and knowledge /","",2011,FALSE
+"141","ALDERMAN","BC 000071 .L69  2013","X031600201","Forms of thought : a study in philosophical logic /","Lowe, E. J. (E. Jonathan)",2013,FALSE
+"142","ALDERMAN","BC 000071 .M36  2000","X004475924","Logical properties : identity, existence, predication, necessity, truth /","McGinn, Colin,",2000,FALSE
+"143","ALDERMAN","BC 000071 .P38  2000","X004418861","I think, therefore I laugh : the flip side of philosophy /","Paulos, John Allen.",2000,FALSE
+"144","CLEMONS","BC 000071 .P75  2000","X004473385","Logic : a very short introduction /","Priest, Graham.",2000,FALSE
+"145","ALDERMAN","BC 000071 .Q48  1953","X000023931","From a logical point of view; 9 logico-philosophical essays.","Quine, W. V. (Willard Van Orman)",1953,FALSE
+"146","ALDERMAN","BC 000071 .Q48  1961","X000164355","From a logical point of view;","Quine, W. V. (Willard Van Orman)",1961,FALSE
+"147","ALDERMAN","BC 000071 .Q5  1982","X000506713","Methods of logic /","Quine, W. V. (Willard Van Orman)",1982,FALSE
+"148","ALDERMAN","BC 000071 .R465  2014","X031641716","Logical inquiries : basic issues in philosophical logic /","Rescher, Nicholas.",2014,FALSE
+"149","ALDERMAN","BC 000071 .S44  2014","X031650922","Varieties of logic /","Shapiro, Stewart,",2014,FALSE
+"150","ALDERMAN","BC 000071 .S47  1991","X002042651","The bounds of logic : a generalized viewpoint /","Sher, Gila.",1991,FALSE
+"151","ALDERMAN","BC 000071 .S616  2012","X031215541","Logic : the laws of truth /","Smith, Nicholas J. J. (Nicholas Jeremy Josef),",2012,FALSE
+"152","ALDERMAN","BC 000071 .T6  1999","X006018896","Logic /","Tomassi, Paul,",1999,FALSE
+"153","ALDERMAN","BC 000071 .W53  1988","X001460861","Beyond deduction : ampliative aspects of philosophical reflection /","Will, Frederick L.",1988,FALSE
+"154","ALDERMAN","BC 000071 .W65  1989","X001544026","Philosophical logic : an introduction /","Wolfram, Sybil,",1989,FALSE
+"155","ALDERMAN","BC 000073 .H798  1975","X000286769","Introduction to the logical investigations : a draft of a preface to the Logical investigations (1913) /","Husserl, Edmund,",1975,FALSE
+"156","ALDERMAN","BC 000073 .H8213  1970  V.000002","X000380541","Logical investigations.","Husserl, Edmund,",1970,TRUE
+"157","ALDERMAN","BC 000073 .H8214  1959  T.000002 PT.000002","X030335127","Recherches logiques.","Husserl, Edmund,",1959,TRUE
+"158","ALDERMAN","BC 000074 .S3613  1988","X006056909","Logic and gnoseology /","Sanguineti, Juan José.",1988,FALSE
+"159","ALDERMAN","BC 000078 .A7  A28  2000","X032085298","Rectificacion de la mente : tratado de lógica /","Ab? al-?alt, Umayyah ibn ?Abd al-?Az?z,",2000,FALSE
+"160","ALDERMAN","BC 000078 .A7  I2  1992","X002679572","al-Mantiq wa-man?hij al-ba?th /","Ibn al-Dahh?n, Mu?ammad ibn ?Al?,",1992,FALSE
+"161","ALDERMAN","BC 000078 .D8  A66  1978  V.000002","X030598050","Formele logika /","Apostel, Leo.",1978,TRUE
+"162","ALDERMAN","BC 000078 .L3  L3613  2015","X031732777","Logica, or Summa Lamberti /","Lambert,",2015,TRUE
+"163","ALDERMAN","BC 000091 .C42  2010","X030781674","Classical Indian philosophy of induction : the Ny?ya viewpoint /","Chakrabarti, Kisor Kumar.",2010,FALSE
+"164","ALDERMAN","BC 000091 .G66  1983","X000483705","Fact, fiction, and forecast /","Goodman, Nelson.",1983,FALSE
+"165","ALDERMAN","BC 000091 .G78  1994","X002520759","Grue! : the new riddle of induction /","",1994,FALSE
+"166","ALDERMAN","BC 000091 .H69  2000","X004644008","Hume's problem : induction and the justification of belief /","Howson, Colin.",2000,FALSE
+"167","ALDERMAN","BC 000091 .J64  2016","X031762898","Argument and inference : an introduction to inductive logic /","Johnson, Gregory",2016,FALSE
+"168","ALDERMAN","BC 000091 .M6  1874","X000364653","A system of logic, ratiocinative and inductive: being a connected view of the principles of evidence and the methods of scientific investigation.","Mill, John Stuart,",1874,FALSE
+"169","ALDERMAN","BC 000091 .M6  1980Z","X001825613","A system of logic, ratiocinative and inductive : being a connected view of the principles of evidence and the methods of scientific investigation /","Mill, John Stuart,",1980,FALSE
+"170","ALDERMAN","BC 000091 .P37  2015","X031706123","Pure inductive logic /","Paris, J. B. (Jeff B.),",2015,FALSE
+"171","ALDERMAN","BC 000101 .L64  2005","X030117609","Logic : key concepts in philosophy /","",2005,FALSE
+"172","ALDERMAN","BC 000101 .R4","X000895262","Introduction to logic.","Rescher, Nicholas.",1964,FALSE
+"173","ALDERMAN","BC 000108 .B25  1980","X000954948","The elements of logic /","Barker, Stephen Francis.",1980,FALSE
+"174","ALDERMAN","BC 000108 .B25  1989","X004114409","The elements of logic /","Barker, Stephen Francis.",1989,FALSE
+"175","ALDERMAN","BC 000108 .C69  1968","X000022928","Introduction to logic","Copi, Irving M.",1968,FALSE
+"176","CLEMONS","BC 000108 .C69  1978","X000133161","Introduction to logic /","Copi, Irving M.",1978,FALSE
+"177","ALDERMAN","BC 000108 .G7  2003","X004707653","Deductive logic /","Goldfarb, Warren D.",2003,FALSE
+"178","ALDERMAN","BC 000108 .H58","X000064799","Logic /","Hodges, Wilfrid.",1977,FALSE
+"179","CLEMONS","BC 000108 .K59  1993","X002253977","Fuzzy thinking : the new science of fuzzy logic /","Kosko, Bart.",1993,FALSE
+"180","ALDERMAN","BC 000108 .L4  1967","X031647363","Principles of reasoning; an introduction to logic, methodology, and the theory of signs.","Leonard, Henry Siggins,",1967,FALSE
+"181","CLEMONS","BC 000108 .S2  1984","X002135802","Logic /","Salmon, Wesley C.",1984,FALSE
+"182","ALDERMAN","BC 000108 .S75  2016","X031795199","A cabinet of philosophical curiosities : a collection of puzzles, oddities, riddles and dilemmas /","Sorensen, Roy A.,",2016,FALSE
+"183","ALDERMAN","BC 000108 .S9  1957","X000161963","Introduction to logic.","Suppes, Patrick,",1957,FALSE
+"184","ALDERMAN","BC 000108 .T455  2017","X031817806","Core logic /","Tennant, Neil,",2017,FALSE
+"185","ALDERMAN","BC 000108 .V67  1996","X002750074","The power of logical thinking : easy lessions in the art of reasoning...and hard facts about its absence in our lives /","Vos Savant, Marilyn Mach.",1996,FALSE
+"186","ALDERMAN","BC 000108 .Z35  2000","X004401955","Introduction to the theory of logic /","Zalabardo, José L.",2000,FALSE
+"187","ALDERMAN","BC 000117 .C6  F39  1994","X030590584","Li ze xue /","Faxing,",1994,TRUE
+"188","ALDERMAN","BC 000117 .C6  J56  1947","X031822641","Ming li xin tan /","Jing, Younan.",1947,FALSE
+"189","ALDERMAN","BC 000117 .S7  V33  1979","X032405418","Lógica viva ; Moral para intelectuales /","Vaz Ferreira, Carlos,",1979,TRUE
+"190","ALDERMAN","BC 000122 .S3813  1975","X000281149","Logic and transcendence /","Schuon, Frithjof,",1975,FALSE
+"191","ALDERMAN","BC 000126 .R4  1969","X000474515","Many-valued logic.","Rescher, Nicholas.",1969,FALSE
+"192","ALDERMAN","BC 000128 .H85  1996","X006054726","Metalogic : an introduction to the metatheory of standard first order logic /","Hunter, Geoffrey.",1996,FALSE
+"193","ALDERMAN","BC 000128 .P55  1993","X004254008","A philosophical companion to first-order logic /","",1993,FALSE
+"194","ALDERMAN","BC 000129 .L34  2003","X004662536","Free logic : selected essays /","Lambert, Karel,",2003,FALSE
+"195","ALDERMAN","BC 000135 .B42  2001","X004551608","Logical options : an introduction to classical and alternative logics /","Bell, J. L. (John Lane)",2001,FALSE
+"196","ALDERMAN","BC 000135 .B473  1997","X006008175","Intermediate logic /","Bostock, David.",1997,FALSE
+"197","ALDERMAN","BC 000135 .C58  1973","X000207995","Symbolic logic","Copi, Irving M.",1973,FALSE
+"198","ALDERMAN","BC 000135 .D67  1977","X000389845","Lewis Carroll's Symbolic logic. : Symbolic logic /","Carroll, Lewis,",1977,FALSE
+"199","ALDERMAN","BC 000135 .E54  1996","X004113592","Something to reckon with : the logic of terms /","Englebretsen, George.",1996,FALSE
+"200","ALDERMAN","BC 000135 .E83  1990","X001832229","The concept of logical consequence /","Etchemendy, John,",1990,FALSE
+"201","CLEMONS","BC 000135 .F48  1952","X000121513","Symbolic logic, an introduction.","Fitch, Frederic Brenton.",1952,FALSE
+"202","ALDERMAN","BC 000135 .F6813  1964","X000200607","The basic laws of arithmetic; exposition of the system.","Frege, Gottlob,",1964,FALSE
+"203","ALDERMAN","BC 000135 .H514  1950","X000382097","Principles of mathematical logic,","Hilbert, David,",1950,FALSE
+"204","ALDERMAN","BC 000135 .H68  1997","X006034694","Logic with trees : an introduction to symbolic logic /","Howson, Colin.",1997,FALSE
+"205","ALDERMAN","BC 000135 .K53  2008","X030102512","Understanding symbolic logic /","Klenk, Virginia,",2008,FALSE
+"206","ALDERMAN","BC 000135 .L44  1998","X004072646","Papers in philosophical logic /","Lewis, David K. (David Kellogg),",1998,FALSE
+"207","ALDERMAN","BC 000135 .L53  1996","X004038939","The limits of logic : higher-order logic and the Löwenheim-Skolem theorem /","",1996,FALSE
+"208","CLEMONS","BC 000135 .M37  1972","X002588762","Elementary logic.","Mates, Benson,",1972,FALSE
+"209","ALDERMAN","BC 000135 .P64  1991","X001925120","Philosophical applications of free logic /","",1991,FALSE
+"210","ALDERMAN","BC 000135 .P775","X001272005","Past, present and future,","Prior, A. N. (Arthur N.),",1967,FALSE
+"211","ALDERMAN","BC 000135 .Q4913  2018","X031839580","The significance of the new logic /","Quine, W. V. (Willard Van Orman),",2018,FALSE
+"212","ALDERMAN","BC 000135 .R39  2013","X031618540","The construction of logical space /","Rayo, Agustín.",2013,FALSE
+"213","ALDERMAN","BC 000135 .R47  2000","X006121248","An Introduction to substructural logics /","Restall, Greg,",2000,FALSE
+"214","ALDERMAN","BC 000135 .R4913  1936","X030693190","Luo ji zhi yuan li ji xian dai ge pai zhi ping shu /","Reymond, Arnold,",1936,FALSE
+"215","ALDERMAN","BC 000135 .S14  1991","X001982251","Logical forms : an introduction to philosophical logic /","Sainsbury, R. M. (Richard Mark)",1991,FALSE
+"216","ALDERMAN","BC 000135 .T35  1956","X000592545","Logic, semantics, metamathematics; papers from 1923 to 1938.","Tarski, Alfred,",1956,FALSE
+"217","ALDERMAN","BC 000135 .T48","X000109162","Symbolic logic; an introduction","Thomason, Richmond H.",1969,FALSE
+"218","ALDERMAN","BC 000135 .W5  1961","X000022925","Tractatus logico-philosophicus.","Wittgenstein, Ludwig,",1961,FALSE
+"219","ALDERMAN","BC 000135 .W5  1971","X000114438","Prototractatus; an early version of Tractatus logico-philosophicus.","Wittgenstein, Ludwig,",1971,FALSE
+"220","ALDERMAN","BC 000135 .W52  A5  1963","X000396353","An introduction to Wittgenstein's Tractatus.","Anscombe, G. E. M. (Gertrude Elizabeth Margaret)",1963,FALSE
+"221","ALDERMAN","BC 000135 .W52  A5  1971","X006137222","An Introduction to Wittgenstein's Tractatus","Anscombe, G. E. M. (Gertrude Elizabeth Margaret)",1971,FALSE
+"222","ALDERMAN","BC 000135 .W52  S8  1981","X000928986","Wittgenstein's Tractatus : a critical exposition of its main lines of thought /","Stenius, Erik.",1981,FALSE
+"223","ALDERMAN","BC 000135 .W65  2009","X030614459","Abhandlung über die Prinzipien der Logik : mit einer Rekonstruktion der Aristotelischen Syllogistik /","Wolff, Michael,",2009,FALSE
+"224","ALDERMAN","BC 000136 .N67  2006","X031730080","After Euclid : visual reasoning & the epistemology of diagrams /","Norman, Jesse.",2006,FALSE
+"225","ALDERMAN","BC 000141 .A9  1972","X000302419","Probability and evidence","Ayer, A. J. (Alfred Jules),",1972,FALSE
+"226","ALDERMAN","BC 000141 .C45  2014","X031651153","Chance and temporal asymmetry /","",2014,FALSE
+"227","ALDERMAN","BC 000141 .G35  2005","X004859280","Philosophical introduction to probability /","Galavotti, Maria Carla.",2005,FALSE
+"228","ALDERMAN","BC 000141 .G55  2000","X006101629","Philosophical theories of probability /","Gillies, Donald,",2000,FALSE
+"229","ALDERMAN","BC 000141 .H36  2012","X031214370","A philosophical guide to chance /","Handfield, Toby.",2012,FALSE
+"230","ALDERMAN","BC 000141 .M44  2005","X004896483","Probability : a philosophical introduction /","Mellor, D. H.",2005,FALSE
+"231","ALDERMAN","BC 000141 .W4  1982","X000399298","Philosophical foundations of probability theory /","Weatherford, Roy,",1982,FALSE
+"232","ALDERMAN","BC 000145 .A687  1987","X001640545","Introduction to deontic logic and the theory of normative systems /","Åqvist, Lennart.",1987,FALSE
+"233","ALDERMAN","BC 000145 .H43  2008","X030566755","Following the rules : practical reasoning and deontic constraint /","Heath, Joseph,",2008,FALSE
+"234","ALDERMAN","BC 000171 .B35  2009","X030559167","Spandrels of truth /","Beall, J. C.",2009,FALSE
+"235","ALDERMAN","BC 000171 .B58  2005","X004863593","Truth : a guide  /","Blackburn, Simon,",2005,FALSE
+"236","ALDERMAN","BC 000171 .B76  2018","X031839605","Fallibilism : evidence and knowledge /","Brown, Jessica (Jessica Anne),",2018,FALSE
+"237","ALDERMAN","BC 000171 .D38  2005","X004864236","Truth and predication /","Davidson, Donald,",2005,FALSE
+"238","ALDERMAN","BC 000171 .E23  2009","X030562456","Truth and words /","Ebbs, Gary.",2009,FALSE
+"239","ALDERMAN","BC 000171 .E54  2002","X004662981","Truth /","Engel, Pascal,",2002,FALSE
+"240","ALDERMAN","BC 000171 .K55  1992","X002149910","Theories of truth : a critical introduction /","Kirkham, Richard L.",1992,FALSE
+"241","ALDERMAN","BC 000171 .M37  2011","X030976014","Good science : the pursuit of truth and the evolution of reality /","McGettigan, Timothy.",2011,FALSE
+"242","ALDERMAN","BC 000171 .M63  2017","X031818709","Believable evidence /","Mitova, Veli",2017,FALSE
+"243","ALDERMAN","BC 000171 .P54  2010","X030732834","Finding and confirming truth /","Pletz, John.",2010,FALSE
+"244","ALDERMAN","BC 000171 .S38  2001","X004474557","The evidential foundations of probabilistic reasoning /","Schum, David A.",2001,FALSE
+"245","ALDERMAN","BC 000171 .S63  1999","X004192113","Understanding truth /","Soames, Scott.",1999,FALSE
+"246","ALDERMAN","BC 000171 .T75  2005","X004839450","Truth : engagements across philosophical traditions /","",2005,FALSE
+"247","ALDERMAN","BC 000171 .T76  1999","X006006688","Truth /","",1999,FALSE
+"248","ALDERMAN","BC 000172 .C378  2017","X031824698","Categories for the working philosopher /","",2017,FALSE
+"249","ALDERMAN","BC 000172 .K6  1970B","X031635560","Categorial frameworks.","Körner, Stephan,",1970,FALSE
+"250","ALDERMAN","BC 000173 .B67  2005","X004911227","Proof and disproof in formal logic : an introduction for programmers /","Bornat, Richard,",2005,FALSE
+"251","ALDERMAN","BC 000173 .E84  2008","X030279237","Evidence /","",2008,FALSE
+"252","ALDERMAN","BC 000173 .W57  1990","X030958870","Proof and explanation : the Virginia lectures /","Wisdom, John,",1991,FALSE
+"253","ALDERMAN","BC 000175 .C446  2010","X031195724","Ming jia yu ming xue : xian Qin gui bian xue pai yan jiu /","Chen, Guimiao,",2010,FALSE
+"254","ALDERMAN","BC 000175 .F35  1995","X002667019","Fallacies : classical and contemporary readings /","",1995,FALSE
+"255","ALDERMAN","BC 000175 .H3  1970","X000027133","Fallacies,","Hamblin, C. L. (Charles Leonard),",1970,FALSE
+"256","ALDERMAN","BC 000175 .K25  1984","X000919981","Logic and contemporary rhetoric : the use of reason in everyday life /","Kahane, Howard,",1984,FALSE
+"257","ALDERMAN","BC 000175 .P57  1985","X000953518","The book of the fallacy : the training manual for intellectual subversives /","Pirie, Madsen,",1985,FALSE
+"258","ALDERMAN","BC 000175 .P573  2015","X031705766","How to win every argument : the use and abuse of logic /","Pirie, Madsen,",2015,FALSE
+"259","ALDERMAN","BC 000175 .W322  1999","X004289274","Appeal to popular opinion /","Walton, Douglas N.",1999,FALSE
+"260","ALDERMAN","BC 000175 .W325  1996","X004070557","Fallacies arising from ambiguity /","Walton, Douglas N.",1996,FALSE
+"261","ALDERMAN","BC 000175 .W34  1987","X001215717","Informal fallacies : towards a theory of argument criticisms /","Walton, Douglas N.",1987,FALSE
+"262","ALDERMAN","BC 000175 .W355  2000","X004214542","Scare tactics : arguments that appeal to fear and threats /","Walton, Douglas N.",2000,FALSE
+"263","ALDERMAN","BC 000177 .A59  2003","X004774720","Anyone who has a view : theoretical contributions to the study of argumentation /","",2003,FALSE
+"264","CLEMONS","BC 000177 .A77  2010","X030690879","The upside of irrationality : the unexpected benefits of defying logic at work and at home /","Ariely, Dan.",2010,FALSE
+"265","ALDERMAN","BC 000177 .A84  2006","X004835661","Practical reasoning and ethical decision /","Audi, Robert,",2006,FALSE
+"266","ALDERMAN","BC 000177 .A843  2015","X031705954","Reasons, rights, and values /","Audi, Robert,",2015,FALSE
+"267","ALDERMAN","BC 000177 .B18925  2016","X031795874","The edge of reason : a rational skeptic in an irrational world /","Baggini, Julian,",2016,FALSE
+"268","CLEMONS","BC 000177 .B19  2003","X004633497","The philosopher's toolkit : a compendium of philosophical concepts and methods /","Baggini, Julian.",2003,FALSE
+"269","ALDERMAN","BC 000177 .B19  2010","X030621159","The philosopher's toolkit : a compendium of philosophical concepts and methods /","Baggini, Julian.",2010,FALSE
+"270","CLEMONS","BC 000177 .B42  2004","X004768598","Logic made easy : how to know when language deceives you /","Bennett, Deborah J.,",2004,FALSE
+"271","ALDERMAN","BC 000177 .B595  2015","X031654354","Irrationality /","Bortolotti, Lisa,",2015,FALSE
+"272","ALDERMAN","BC 000177 .C3455  2009","X030277385","You've got to be kidding! : how jokes can help you think /","Capps, John M.,",2009,FALSE
+"273","ALDERMAN","BC 000177 .C657  2002","X004591747","Common sense, reasoning, & rationality /","",2002,FALSE
+"274","ALDERMAN","BC 000177 .C755  1992","X002215096","Critical reasoning in contemporary culture /","",1992,FALSE
+"275","ALDERMAN","BC 000177 .C86  2008","X030244165","Current issues and enduring questions : a guide to critical thinking and argument, with readings /","",2008,FALSE
+"276","ALDERMAN","BC 000177 .D36  2018","X031813524","Practical shape : a theory of practical reasoning /","Dancy, Jonathan,",2018,FALSE
+"277","ALDERMAN","BC 000177 .D37  1983","X000508454","Impartial reason /","Darwall, Stephen L.,",1983,FALSE
+"278","ALDERMAN","BC 000177 .D377  2004","X004774724","Problems of rationality /","Davidson, Donald,",2004,FALSE
+"279","ALDERMAN","BC 000177 .E3613  1987","X001215725","Handbook of argumentation theory : a critical survey of classical backgrounds and modern studies /","Eemeren, F. H. van (Frans Hendrik),",1987,FALSE
+"280","ALDERMAN","BC 000177 .E4713  2009","X030469174","Reason and rationality /","Elster, Jon,",2009,FALSE
+"281","ALDERMAN","BC 000177 .E94  2008","X030458059","On reason : rationality in a world of cultural conflict and racism /","Eze, Emmanuel Chukwudi.",2008,FALSE
+"282","ALDERMAN","BC 000177 .F36  2018","X031840317","The limitations of the open mind /","Fantl, Jeremy,",2018,FALSE
+"283","ALDERMAN","BC 000177 .F47  C38  2003","X004714379","Ferrier and the blackout of the Scottish enlightenment /","Davie, George Elder.",2003,TRUE
+"284","ALDERMAN","BC 000177 .F56  1985","X001011150","Reasoning with arbitrary objects /","Fine, Kit.",1985,FALSE
+"285","ALDERMAN","BC 000177 .F565  2005","X004896247","Arguments about arguments : systematic, critical, and historical essays in logical theory /","Finocchiaro, Maurice A.,",2005,FALSE
+"286","CLEMONS","BC 000177 .F64  2003","X004706336","Walking the tightrope of reason : the precarious life of a rational animal /","Fogelin, Robert J.",2003,FALSE
+"287","ALDERMAN","BC 000177 .F68  2008","X030467275","The ethical practice of critical thinking /","Fowler, Martin Clay,",2008,FALSE
+"288","ALDERMAN","BC 000177 .F69  2004","X004746038","The reasons of love /","Frankfurt, Harry G.,",2004,FALSE
+"289","ALDERMAN","BC 000177 .G38  1976","X000211709","Reason and argument /","Geach, P. T. (Peter Thomas),",1976,FALSE
+"290","ALDERMAN","BC 000177 .G48  2017","X031818066","Changing the subject : philosophy from Socrates to Adorno /","Geuss, Raymond,",2017,FALSE
+"291","ALDERMAN","BC 000177 .G53  2000","X004214521","Adaptive thinking : rationality in the real world /","Gigerenzer, Gerd.",2000,FALSE
+"292","ALDERMAN","BC 000177 .G64  2009","X030565955","Reason, truth, and reality /","Goldstick, D. (Daniel),",2009,FALSE
+"293","ALDERMAN","BC 000177 .G74  1984","X000970416","Argument evaluation /","Grennan, Wayne,",1984,FALSE
+"294","ALDERMAN","BC 000177 .G74  1997","X004094612","Informal logic : issues and techniques /","Grennan, Wayne,",1997,FALSE
+"295","ALDERMAN","BC 000177 .H37  1986","X000971469","Change in view : principles of reasoning /","Harman, Gilbert.",1986,FALSE
+"296","ALDERMAN","BC 000177 .H375  1999","X006029494","Reasoning, meaning, and mind /","Harman, Gilbert.",1999,FALSE
+"297","ALDERMAN","BC 000177 .H377  2007","X030112818","Reliable reasoning : induction and statistical learning theory /","Harman, Gilbert.",2007,FALSE
+"298","ALDERMAN","BC 000177 .H43  2005","X004862522","Rationality, hermeneutics, and dialogue : toward a viable postfoundationalist account of rationality /","Healy, Paul,",2005,FALSE
+"299","ALDERMAN","BC 000177 .H653  2004","X004746561","Critical reasoning and philosophy : a concise guide to reading, evaluating, and writing philosophical works /","Holowchak, Andrew,",2004,FALSE
+"300","ALDERMAN","BC 000177 .H655  2002","X004662908","Apprehension : reason in the absence of rules /","Holt, Lynn,",2002,FALSE
+"301","ALDERMAN","BC 000177 .I55  2012","X030846770","Inside arguments : logic and the study of argumentation /","",2012,FALSE
+"302","ALDERMAN","BC 000177 .J54  2000","X004423117","Manifest rationality : a pragmatic theory of argument /","Johnson, Ralph H.",2000,FALSE
+"303","ALDERMAN","BC 000177 .K39  2004","X004808415","A history of reasonableness : testimony and authority in the art of thinking /","Kennedy, Rick,",2004,FALSE
+"304","ALDERMAN","BC 000177 .K517  2017","X031817799","The normativity of rationality /","Kiesewetter, Benjamin",2017,FALSE
+"305","ALDERMAN","BC 000177 .L23  2012","X031214248","Reasoning : a social picture /","Laden, Anthony Simon,",2012,FALSE
+"306","ALDERMAN","BC 000177 .L27","X000082117","The nature of argument /","Lambert, Karel,",1980,FALSE
+"307","ALDERMAN","BC 000177 .L48  1997","X006044785","The covenant of reason : rationality and the commitments of thought /","Levi, Isaac,",1997,FALSE
+"308","ALDERMAN","BC 000177 .L486  2016","X031762931","A field guide to lies : critical thinking in the information age /","Levitin, Daniel J.",2016,FALSE
+"309","ALDERMAN","BC 000177 .L56  2018","X031825388","The ambivalences of rationality : ancient and modern cross-cultural explorations /","Lloyd, G. E. R. (Geoffrey Ernest Richard),",2018,FALSE
+"310","ALDERMAN","BC 000177 .L58  1984","X000821340","The man of reason : 'male' and 'female' in Western philosophy /","Lloyd, Genevieve.",1984,FALSE
+"311","ALDERMAN","BC 000177 .L59  2015","X031762038","Analogical investigations : historical and cross-cultural perspectives on human reasoning /","Lloyd, G. E. R. (Geoffrey Ernest Richard),",2015,FALSE
+"312","ALDERMAN","BC 000177 .L635  2010","X030745911","Reflection and the stability of belief : essays on Descartes, Hume, and Reid /","Loeb, Louis E.",2010,FALSE
+"313","ALDERMAN","BC 000177 .M224  1990","X001784269","Rationality and dynamic choice : foundational explorations /","McClennen, Edward F. (Edward Francis),",1990,FALSE
+"314","ALDERMAN","BC 000177 .M227  2014","X031628102","Emotive language in argumentation /","Macagno, Fabrizio,",2014,FALSE
+"315","ALDERMAN","BC 000177 .M3","X000457412","Analyzing philosophical arguments; an introduction to philosophical method.","McGreal, Ian Philip,",1967,FALSE
+"316","ALDERMAN","BC 000177 .M34  2001","X004527504","Cooperative argumentation : a model for deliberative community /","Makau, Josina M.",2001,FALSE
+"317","ALDERMAN","BC 000177 .M3895  2016","X031796436","Reasonableness and fairness : a historical theory /","McMahon, Christopher,",2016,FALSE
+"318","ALDERMAN","BC 000177 .M39  2009","X030277099","Reasonable disagreement : a theory of political morality /","McMahon, Christopher,",2009,FALSE
+"319","ALDERMAN","BC 000177 .M52  1997","X004092446","Practical induction /","Millgram, Elijah.",1997,FALSE
+"320","ALDERMAN","BC 000177 .M55  2005","X004811363","Transforming knowledge /","Minnich, Elizabeth Kamarck.",2005,FALSE
+"321","ALDERMAN","BC 000177 .M57  2015","X031756122","Mirabiliratio : das Wunderbare im Zugriff der Frühneuzeitlichen Vernunft /","",2015,FALSE
+"322","ALDERMAN","BC 000177 .N57  2015","X031230441","Mindware : tools for smart thinking /","Nisbett, Richard E.,",2015,FALSE
+"323","ALDERMAN","BC 000177 .N69  1993","X002282689","The nature of rationality /","Nozick, Robert.",1993,FALSE
+"324","ALDERMAN","BC 000177 .O94  2004","X004741118","The Oxford handbook of rationality /","",2004,FALSE
+"325","ALDERMAN","BC 000177 .P377  1970","X001423387","Le champ de l'argumentation.","Perelman, Chaïm.",1970,FALSE
+"326","ALDERMAN","BC 000177 .P38413  1982","X000402655","The realm of rhetoric /","Perelman, Chaïm.",1982,FALSE
+"327","CLEMONS","BC 000177 .P413  1969","X000148499","The new rhetoric: a treatise on argumentation","Perelman, Chaïm.",1969,FALSE
+"328","ALDERMAN","BC 000177 .P55  2001","X004591177","Argument, inference and dialectic : collected papers on informal logic /","Pinto, Robert C.",2001,FALSE
+"329","ALDERMAN","BC 000177 .P58  2012","X030846277","Politics of practical reasoning : integrating action, discourse and argument /","",2012,FALSE
+"330","ALDERMAN","BC 000177 .P72  2004","X004746043","Practical conflicts : new philosophical essays /","",2004,FALSE
+"331","ALDERMAN","BC 000177 .P73","X001154082","Practical reasoning /","",1978,FALSE
+"332","ALDERMAN","BC 000177 .P734  2001","X004526884","Practical rationality and preference : essays for David Gauthier /","",2001,FALSE
+"333","ALDERMAN","BC 000177 .P74  1984","X001339207","Principles of philosophical reasoning /","",1984,FALSE
+"334","ALDERMAN","BC 000177 .R32  1995","X030462551","Racionalidad epistémica /","",1995,FALSE
+"335","ALDERMAN","BC 000177 .R33  2000","X004438788","Rationality, rules, and structure /","",2000,FALSE
+"336","ALDERMAN","BC 000177 .R342  1999","X004412499","Engaging reason : on the theory of value and action /","Raz, Joseph.",1999,FALSE
+"337","ALDERMAN","BC 000177 .R3445  2008","X030278319","Reasons and intentions /","",2008,FALSE
+"338","ALDERMAN","BC 000177 .R3447  2009","X030278362","Reasons for action /","",2009,FALSE
+"339","ALDERMAN","BC 000177 .R345  1989","X001740985","The anatomy of judgment /","Regal, Philip J.",1989,FALSE
+"340","ALDERMAN","BC 000177 .R4344  2008","X030259611","Reasoning : studies of human inference and its foundations /","",2008,FALSE
+"341","ALDERMAN","BC 000177 .R623  2006","X004897700","Arguing to better conclusions : a human odyssey /","Robinson, W. P. (William Peter),",2006,FALSE
+"342","ALDERMAN","BC 000177 .R65  1997","X006083311","Thinking things through : critical thinking for decisions you can live with /","Romain, Dianne Elise.",1997,FALSE
+"343","ALDERMAN","BC 000177 .R77  2010","X030794494","Uneasy relations : reason in literature & science from Aristotle to Darwin & Blake /","Rupert, Jane,",2010,FALSE
+"344","ALDERMAN","BC 000177 .S28  1992","X002120218","Voltaire's bastards : the dictatorship of reason in the West /","Saul, John Ralston,",1992,FALSE
+"345","ALDERMAN","BC 000177 .S29  2014","X031629583","Being realistic about reasons /","Scanlon, Thomas.",2014,FALSE
+"346","ALDERMAN","BC 000177 .S32  2014","X031829788","How to think about weird things : critical thinking for a new age /","Schick, Theodore.",2014,FALSE
+"347","ALDERMAN","BC 000177 .S42  2001","X004593140","Rationality in action /","Searle, John R.",2001,FALSE
+"348","CLEMONS","BC 000177 .S45  2000","X004378645","Arguing well /","Shand, John,",2000,FALSE
+"349","ALDERMAN","BC 000177 .S559  2018","X031824361","Think again : how to reason and argue /","Sinnott-Armstrong, Walter,",2018,FALSE
+"350","ALDERMAN","BC 000177 .S68  2015","X031733272","Ockham's razors : a user's manual /","Sober, Elliott,",2015,FALSE
+"351","ALDERMAN","BC 000177 .S73  1996","X006036379","Myth and the limits of reason /","Stambovsky, Phillip,",1996,FALSE
+"352","ALDERMAN","BC 000177 .S74  2010","X030823764","Metaphors, narratives, emotions : their interplay and impact /","Stefán Snævarr,",2010,FALSE
+"353","ALDERMAN","BC 000177 .S935  2018","X031824109","Time biases : a theory of rational planning and personal persistence /","Sullivan, Meghan,",2018,FALSE
+"354","ALDERMAN","BC 000177 .T38","X000025758","The art of argument,","Taylor, Vernon Lyle,",1971,FALSE
+"355","ALDERMAN","BC 000177 .T53  1996","X006040091","Critical reasoning : a practical introduction /","Thomson, Anne.",1996,FALSE
+"356","ALDERMAN","BC 000177 .T533  1999","X004400387","Acts of arguing : a rhetorical model of argument /","Tindale, Christopher W. (Christopher William)",1999,FALSE
+"357","ALDERMAN","BC 000177 .T58  V.000001","X006136178","Human understanding","Toulmin, Stephen,",1972,TRUE
+"358","ALDERMAN","BC 000177 .T59","X000169521","An introduction to reasoning /","Toulmin, Stephen,",1979,FALSE
+"359","ALDERMAN","BC 000177 .T596  2001","X004527799","Return to reason /","Toulmin, Stephen,",2001,FALSE
+"360","ALDERMAN","BC 000177 .T6  1958","X000121527","The uses of argument.","Toulmin, Stephen,",1958,FALSE
+"361","ALDERMAN","BC 000177 .T6  2003","X004659634","The uses of argument /","Toulmin, Stephen,",2003,FALSE
+"362","ALDERMAN","BC 000177 .V37  2001","X004557882","Varieties of practical reasoning /","",2001,FALSE
+"363","ALDERMAN","BC 000177 .V45  2009","X030567015","How we get along /","Velleman, James David.",2009,FALSE
+"364","ALDERMAN","BC 000177 .W315  1997","X004145204","Appeal to expert opinion : arguments from authority /","Walton, Douglas N.",1997,FALSE
+"365","ALDERMAN","BC 000177 .W317  2008","X030464447","Argumentation schemes /","Walton, Douglas N.",2008,FALSE
+"366","ALDERMAN","BC 000177 .W32135  1996","X004093272","Argument structure : a pragmatic theory /","Walton, Douglas N.",1996,FALSE
+"367","ALDERMAN","BC 000177 .W3215  1996","X002685147","Arguments from ignorance /","Walton, Douglas N.",1996,FALSE
+"368","ALDERMAN","BC 000177 .W323  1995","X002680357","Commitment in dialogue : basic concepts of interpersonal reasoning /","Walton, Douglas N.",1995,FALSE
+"369","ALDERMAN","BC 000177 .W3237  2015","X031733215","Goal-based reasoning for argumentation /","Walton, Douglas N.",2015,FALSE
+"370","ALDERMAN","BC 000177 .W324  1989","X001594230","Informal logic : a handbook for critical argumentation /","Walton, Douglas N.",1989,FALSE
+"371","ALDERMAN","BC 000177 .W324  2008","X030260419","Informal logic : a pragmatic approach /","Walton, Douglas N.",2008,FALSE
+"372","ALDERMAN","BC 000177 .W3245  2007","X030262022","Media argumentation : dialectic, persuasion, and rhetoric /","Walton, Douglas N.",2007,FALSE
+"373","ALDERMAN","BC 000177 .W325  1998","X004206255","The new dialectic : conversational contexts of argument /","Walton, Douglas N. (Douglas Neil),",1998,FALSE
+"374","ALDERMAN","BC 000177 .W3255  1999","X004255243","One-sided arguments : a dialectical analysis of bias /","Walton, Douglas N.",1999,FALSE
+"375","ALDERMAN","BC 000177 .W345  2000","X004415168","Thinking from A to Z /","Warburton, Nigel,",2000,FALSE
+"376","ALDERMAN","BC 000177 .W345  2007","X030275813","Thinking from A to Z /","Warburton, Nigel,",2007,FALSE
+"377","ALDERMAN","BC 000177 .W347  1989","X001604892","Philosophical finesse : studies in the art of rational persuasion /","Warner, Martin.",1989,FALSE
+"378","CLEMONS","BC 000177 .W47  2000","X004541733","A rulebook for arguments /","Weston, Anthony,",2000,FALSE
+"379","ALDERMAN","BC 000177 .W66  2008","X030257838","Reasons, patterns, and cooperation /","Woodard, Christopher,",2008,FALSE
+"380","ALDERMAN","BC 000181 .C534  2016","X031731553","Surfing uncertainty : prediction, action, and the embodied mind /","Clark, Andy,",2016,FALSE
+"381","ALDERMAN","BC 000181 .G46  2004","X004743123","From naming to saying : the unity of the proposition /","Gibson, Martha I.",2004,FALSE
+"382","ALDERMAN","BC 000181 .H34  2000","X004478670","The pursuit of destiny : a history of prediction /","Halpern, Paul,",2000,FALSE
+"383","ALDERMAN","BC 000181 .H36  2015","X031732690","Propositional content /","Hanks, Peter.",2015,FALSE
+"384","ALDERMAN","BC 000181 .H45  2001","X004525957","Judgment, rhetoric, and the problem of incommensurability : recalling practical wisdom /","Heidlebaugh, Nola J.,",2001,FALSE
+"385","ALDERMAN","BC 000181 .H55  2002","X004636553","Thought and world : an austere portrayal of truth, reference, and semantic correspondence /","Hill, Christopher S.",2002,FALSE
+"386","ALDERMAN","BC 000181 .H58  1985","X000909933","How things are : studies in predication and the history of philosophy and science /","",1984,FALSE
+"387","ALDERMAN","BC 000181 .K56  2007","X030260653","The nature and structure of content /","King, Jeffrey C.",2007,FALSE
+"388","ALDERMAN","BC 000181 .K56  2014","X031627768","New thinking about propositions /","King, Jeffrey C.,",2014,FALSE
+"389","ALDERMAN","BC 000181 .M38  2007","X004832861","The measure of mind : propositional attitudes and their attribution /","Matthews, Robert J.,",2007,FALSE
+"390","ALDERMAN","BC 000181 .M47  2015","X031706550","Propositions /","Merricks, Trenton.",2015,FALSE
+"391","ALDERMAN","BC 000181 .N78  1983","X000836845","Judgment and proposition from Descartes to Kant /","Nuchelmans, Gabriël.",1983,FALSE
+"392","ALDERMAN","BC 000181 .N79","X000304743","Late-scholastic and humanist theories of the proposition /","Nuchelmans, Gabriël.",1980,FALSE
+"393","ALDERMAN","BC 000181 .N8","X002075709","Theories of the proposition. Ancient and medieval conceptions of the bearers of truth and falsity.","Nuchelmans, Gabriël.",1973,FALSE
+"394","ALDERMAN","BC 000181 .P45  2017","X032583862","Philosophy and logic of predication /","",2017,FALSE
+"395","ALDERMAN","BC 000181 .P75  1988","X001558272","Propositions and attitudes /","",1988,FALSE
+"396","ALDERMAN","BC 000181 .V5","X000694691","Belief and probability /","Vickers, John M.",1976,FALSE
+"397","ALDERMAN","BC 000183 .R42  2006","X030106043","Presumption and the practices of tentative cognition /","Rescher, Nicholas.",2006,FALSE
+"398","ALDERMAN","BC 000185 .A38  2018","X031813585","The aftermath of syllogism : Aristotelian logical argument from Avicenna to Hegel /","",2018,FALSE
+"399","ALDERMAN","BC 000199 .A26  W35  2004","X004861034","Abductive reasoning /","Walton, Douglas N.",2004,FALSE
+"400","ALDERMAN","BC 000199 .B4  C37  2004","X004804635","Putting logic in its place : formal constraints on rational belief /","Christensen, David Phiroze,",2004,TRUE
+"401","ALDERMAN","BC 000199 .B4  L64  2010","X030949956","Logic and belief in Indian philosophy /","",2010,TRUE
+"402","ALDERMAN","BC 000199 .C5  L56  1998","X004220079","The imperative /","Lingis, Alphonso,",1998,TRUE
+"403","ALDERMAN","BC 000199 .C55  B89  2002","X004586092","The logic of concept expansion /","Buzaglo, Meir,",2002,FALSE
+"404","ALDERMAN","BC 000199 .C56  B46  2003","X004703131","A philosophical guide to conditionals /","Bennett, Jonathan,",2003,FALSE
+"405","ALDERMAN","BC 000199 .C56  J33  1987","X001263118","Conditionals /","Jackson, Frank,",1987,FALSE
+"406","ALDERMAN","BC 000199 .C56  J34  1998","X004218693","Mind, method, and conditionals : selected essays /","Jackson, Frank,",1998,FALSE
+"407","ALDERMAN","BC 000199 .C56  R47  2007","X030102572","Conditionals /","Rescher, Nicholas.",2007,TRUE
+"408","ALDERMAN","BC 000199 .C56  S26  2003","X004634915","If P, then Q : conditionals and the foundations of reasoning /","Sanford, David H.,",2003,FALSE
+"409","ALDERMAN","BC 000199 .C57  F68  2015","X031732716","Foundations of logical consequence /","",2015,TRUE
+"410","ALDERMAN","BC 000199 .C6  L39  2004","X004804645","The law of non-contradiction : new philosophical essays /","",2004,TRUE
+"411","ALDERMAN","BC 000199 .C66  L48  1973","X000286774","Counterfactuals","Lewis, David K. (David Kellogg),",1973,TRUE
+"412","ALDERMAN","BC 000199 .D38  A58  2005","X004896022","Grounded consequence for defeasible logic /","Antonelli, G. Aldo.",2005,FALSE
+"413","ALDERMAN","BC 000199 .D4  I56  2008","X030467930","Indeterminacy : the mapped, the navigable, and the uncharted /","",2008,FALSE
+"414","ALDERMAN","BC 000199 .D4  S38  2003","X004705885","Defining reality : definitions and the politics of meaning /","Schiappa, Edward,",2003,FALSE
+"415","ALDERMAN","BC 000199 .D8  A47  2015","X031741019","The book of twos : the power of contrasts, polarities, and contradictions /","Amato, Joseph Anthony",2015,FALSE
+"416","ALDERMAN","BC 000199 .F5  A76  2015","X031738597","Pretense and pathology : philosophical fictionalism and its applications /","Armour-Garb, Bradley P.,",2015,FALSE
+"417","ALDERMAN","BC 000199 .F5  F86  1983","X000912333","Funktionen des Fiktiven /","",1983,TRUE
+"418","ALDERMAN","BC 000199 .F5  T48  1999","X004220820","Fiction and metaphysics /","Thomasson, Amie L. (Amie Lynn),",1999,TRUE
+"419","ALDERMAN","BC 000199 .I4  B74  1988","X001357518","Conditions of identity : a study in identity and survival /","Brennan, Andrew.",1988,FALSE
+"420","ALDERMAN","BC 000199 .I4  C48  1988","X001923871","The problem of personal identity /","Chaturvedi, Vibha.",1988,TRUE
+"421","ALDERMAN","BC 000199 .I4  D82  1995","X002689669","Mind, self and interiority /","Duddy, Thomas.",1995,TRUE
+"422","ALDERMAN","BC 000199 .I4  G37  1998","X004187199","Personal identity and self-consciousness /","Garrett, Brian,",1998,TRUE
+"423","ALDERMAN","BC 000199 .I4  H55  1997","X004096879","Rethinking identity and metaphysics : on the foundations of analytic philosophy /","Hill, Claire Ortiz.",1997,FALSE
+"424","ALDERMAN","BC 000199 .I4  L69  1989","X001610538","Kinds of being : a study of individuation, identity, and the logic of sortal terms /","Lowe, E. J. (E. Jonathan)",1989,TRUE
+"425","ALDERMAN","BC 000199 .I4  S33  1996","X004066435","The constitution of selves /","Schechtman, Marya,",1996,FALSE
+"426","ALDERMAN","BC 000199 .I4  S537  1997","X031767976","To?samo?? i ró?nica : eseje metafizyczne /","Skarga, Barbara.",1997,FALSE
+"427","ALDERMAN","BC 000199 .I45  R47  1980","X000082332","The logic of inconsistency : a study in non-standard possible-world semantics and ontology /","Rescher, Nicholas.",1980,TRUE
+"428","ALDERMAN","BC 000199 .I45  S7413  2017","X031818259","Inconsistencies /","Steinweg, Marcus,",2017,FALSE
+"429","ALDERMAN","BC 000199 .I47  B56  2006","X030109430","Biological and cultural bases of human inference /","",2006,FALSE
+"430","ALDERMAN","BC 000199 .I47  E94  2003","X004705513","Evidence and inference in history and law : interdisciplinary dialogues /","",2003,FALSE
+"431","ALDERMAN","BC 000199 .I47  R4  1988","X001591366","Relevant logic : a philosophical examination of inference /","Read, Stephen,",1988,TRUE
+"432","ALDERMAN","BC 000199 .I47  W65  2013","X031607187","The limits of inference without theory /","Wolpin, Kenneth I.",2013,FALSE
+"433","ALDERMAN","BC 000199 .I5  A5  2000","X004473633","Intention /","Anscombe, G. E. M. (Gertrude Elizabeth Margaret)",2000,FALSE
+"434","ALDERMAN","BC 000199 .I5  I57","X000069852","Intention and intentionality : essays in honour of G. E. M. Anscombe /","",1979,FALSE
+"435","ALDERMAN","BC 000199 .L54  B68  2001","X004477597","Philosophy at the boundary of reason : ethics and postmodernity /","Bourgeois, Patrick L.",2001,FALSE
+"436","ALDERMAN","BC 000199 .L54  P75  2002","X004658926","Beyond the limits of thought /","Priest, Graham.",2002,FALSE
+"437","ALDERMAN","BC 000199 .M6  B43  2003","X004703405","Possibilities and paradox : an introduction to modal and many-valued logic /","Beall, J. C.",2003,FALSE
+"438","ALDERMAN","BC 000199 .M6  B65  1993","X002474688","The logic of provability /","Boolos, George.",1993,FALSE
+"439","ALDERMAN","BC 000199 .M6  C4  1998","X004187381","The Worlds of possibility : modal realism and the semantics of modal logic /","Chihara, Charles S.,",1998,TRUE
+"440","ALDERMAN","BC 000199 .M6  C47","X000157556","Modal logic : an introduction /","Chellas, Brian F.",1980,TRUE
+"441","ALDERMAN","BC 000199 .M6  C63  2008","X030467918","Modal logic : an introduction to its syntax and semantics /","Cocchiarella, Nino B.",2008,TRUE
+"442","ALDERMAN","BC 000199 .M6  F56  2005","X004911231","Modality and tense : philosophical papers /","Fine, Kit.",2005,TRUE
+"443","ALDERMAN","BC 000199 .M6  F58  1998","X004220901","First-order modal logic /","Fitting, Melvin,",1998,TRUE
+"444","ALDERMAN","BC 000199 .M6  F65  1985","X000949352","The metaphysics of modality /","Forbes, Graeme.",1985,TRUE
+"445","ALDERMAN","BC 000199 .M6  G38  2013","X031845872","Modal logic for philosophers /","Garson, James W.,",2013,TRUE
+"446","ALDERMAN","BC 000199 .M6  H8  1968","X001005100","An introduction to modal logic","Hughes, G. E. (George Edward),",1968,FALSE
+"447","ALDERMAN","BC 000199 .M6  K58  1993","X002267578","Modalities in medieval philosophy /","Knuutila, Simo,",1993,FALSE
+"448","ALDERMAN","BC 000199 .M6  L54","X000114882","Reference and modality;","Linsky, Leonard.",1971,TRUE
+"449","ALDERMAN","BC 000199 .M6  M35  2001","X004479478","Modality and anti-metaphysics /","McLeod, Stephen K.",2001,FALSE
+"450","ALDERMAN","BC 000199 .M6  M44  2003","X004746979","Modality /","Melia, Joseph.",2003,FALSE
+"451","ALDERMAN","BC 000199 .M6  M55  1992","X002174365","A short introduction to modal logic /","Mint?s, G. E.",1992,FALSE
+"452","ALDERMAN","BC 000199 .M6  M613  2010","X030620214","Modality : metaphysics, logic, and epistemology /","",2010,FALSE
+"453","ALDERMAN","BC 000199 .M6  M62  1995","X002597415","Modality, morality, and belief : essays in honor of Ruth Barcan Marcus /","",1995,FALSE
+"454","ALDERMAN","BC 000199 .M6  M63  1988","X001363148","Modern modalities : studies of the history of modal theories from medieval nominalism to logical positivism /","",1988,FALSE
+"455","ALDERMAN","BC 000199 .M6  N65  2002","X004558161","Topics in the philosphy of possible worlds /","Nolan, Daniel Patrick,",2002,FALSE
+"456","ALDERMAN","BC 000199 .M6  P55","X001971865","The nature of necessity /","Plantinga, Alvin.",1974,FALSE
+"457","ALDERMAN","BC 000199 .M6  P55  1982","X030374908","The nature of necessity /","Plantinga, Alvin.",1982,FALSE
+"458","ALDERMAN","BC 000199 .M6  P66","X000078514","The Possible and the actual : readings in the metaphysics of modality /","",1979,FALSE
+"459","ALDERMAN","BC 000199 .M6  P7  1968","X000121535","Papers on time and tense,","Prior, A. N. (Arthur N.),",1968,FALSE
+"460","ALDERMAN","BC 000199 .M6  P7  2003","X004663316","Papers on time and tense /","Prior, A. N. (Arthur N.),",2003,FALSE
+"461","ALDERMAN","BC 000199 .M6  P73","X000694693","Worlds, times, and selves /","Prior, A. N. (Arthur N.),",1977,FALSE
+"462","ALDERMAN","BC 000199 .N4  B73  2001","X004472087","The ways of naysaying : no, not, nothing, and nonbeing /","Brann, Eva T. H.",2001,FALSE
+"463","ALDERMAN","BC 000199 .O6  B68  2003","X004662965","""Every valley shall be exalted"" : the discourse of opposites in twelfth-century thought /","Bouchard, Constance Brittain.",2003,FALSE
+"464","ALDERMAN","BC 000199 .P2  B34  2007","X030255136","The uses of paradox : religion, self-transformation, and the absurd /","Bagger, Matthew C.",2007,FALSE
+"465","ALDERMAN","BC 000199 .P2  B37  1987","X001206991","The liar : an essay on truth and circularity /","Barwise, Jon.",1987,FALSE
+"466","CLEMONS","BC 000199 .P2  C38","X000036302","Paradoxes, a study in form and predication /","Cargile, James.",1979,TRUE
+"467","ALDERMAN","BC 000199 .P2  C57  2002","X004558462","Paradoxes from A to Z /","Clark, Michael,",2002,TRUE
+"468","ALDERMAN","BC 000199 .P2  C57  2007","X004832492","Paradoxes from A to Z /","Clark, Michael,",2007,TRUE
+"469","ALDERMAN","BC 000199 .P2  C57  2012","X030845057","Paradoxes from A to Z /","Clark, Michael,",2012,TRUE
+"470","ALDERMAN","BC 000199 .P2  C66  2013","X030609092","Paradoxes /","Cook, Roy T.,",2013,TRUE
+"471","ALDERMAN","BC 000199 .P2  C66  2014","X031654538","The Yablo paradox : an essay on circularity /","Cook, Roy T.,",2014,TRUE
+"472","ALDERMAN","BC 000199 .P2  C86  2014","X031630082","Paradox /","Cuonzo, Margaret,",2014,TRUE
+"473","ALDERMAN","BC 000199 .P2  E48  2010","X030621289","Paradox lost : a cross-contextual definition of levels of abstraction /","Elson, Linda G.",2010,FALSE
+"474","ALDERMAN","BC 000199 .P2  F53  2008","X030258551","Saving truth from paradox /","Field, Hartry H.,",2008,TRUE
+"475","ALDERMAN","BC 000199 .P2  G75  2007","X030365932","The ways of paradox from Lando to Donne /","Grimaldi Pizzorno, Patrizia,",2007,TRUE
+"476","ALDERMAN","BC 000199 .P2  H67  2017","X031793021","Essays on paradoxes /","Horgan, Terry,",2017,FALSE
+"477","ALDERMAN","BC 000199 .P2  K34  2006","X004899906","Five metaphysical paradoxes /","Kainz, Howard P.",2006,FALSE
+"478","ALDERMAN","BC 000199 .P2  L5  2003","X004770322","Liars and heaps : new essays on paradox /","",2003,TRUE
+"479","CLEMONS","BC 000199 .P2  M37  1992","X002314027","There are two errors in the the title of this book : a sourcebook of philosophical puzzles, problems, and paradoxes /","Martin, Robert M.",1992,FALSE
+"480","ALDERMAN","BC 000199 .P2  N49  2009","X030277014","New essays on the knowability paradox /","",2009,FALSE
+"481","ALDERMAN","BC 000199 .P2  O45  2003","X004744549","Paradox /","Olin, Doris,",2003,FALSE
+"482","ALDERMAN","BC 000199 .P2  P38  1991","X002013976","Paradoxien, Dissonanzen, Zusammenbrüche : Situationen offener Epistemologie /","",1991,FALSE
+"483","ALDERMAN","BC 000199 .P2  R47  2001","X004477565","Paradoxes : their roots, range, and resolution /","Rescher, Nicholas.",2001,TRUE
+"484","ALDERMAN","BC 000199 .P2  R48  2007","X030278822","Revenge of the liar : new essays on the paradox /","",2007,TRUE
+"485","CLEMONS","BC 000199 .P2  S25  1988","X001518661","Paradoxes /","Sainsbury, R. M. (Richard Mark)",1988,FALSE
+"486","ALDERMAN","BC 000199 .P2  S25  1995","X002647508","Paradoxes /","Sainsbury, R. M. (Richard Mark)",1995,FALSE
+"487","ALDERMAN","BC 000199 .P2  S25  2009","X030278151","Paradoxes /","Sainsbury, R. M. (Richard Mark)",2009,FALSE
+"488","ALDERMAN","BC 000199 .P2  S57  2018","X031823735","Semantic singularities : paradoxes of reference, predication, and truth /","Simmons, Keith,",2018,FALSE
+"489","ALDERMAN","BC 000199 .P2  S67  2003","X004707697","A brief history of the paradox : philosophy and the labyrinths of the mind /","Sorensen, Roy A.",2003,FALSE
+"490","ALDERMAN","BC 000199 .P7  A76  1989","X001663608","A combinatorial theory of possibility /","Armstrong, D. M. (David Malet),",1989,FALSE
+"491","ALDERMAN","BC 000199 .P7  B46  2013","X031626446","Return from exile : a theory of possibility /","Bencivenga, Ermanno,",2013,FALSE
+"492","ALDERMAN","BC 000199 .P7  B47  2017","X031818835","Futurability : the age of impotence and the horizon of possibility /","Berardi, Franco,",2017,FALSE
+"493","ALDERMAN","BC 000199 .P7  C66  2002","X031635561","Conceivability and possibility /","",2002,TRUE
+"494","ALDERMAN","BC 000199 .P7  G57  2003","X004701344","Possible worlds /","Girle, Rod.",2003,TRUE
+"495","ALDERMAN","BC 000199 .P7  J83  2009","X030467263","Possibility /","Jubien, Michael.",2009,FALSE
+"496","ALDERMAN","BC 000199 .P7  P78  2011","X031188755","Actuality, possibility, and worlds /","Pruss, Alexander R.",2011,FALSE
+"497","ALDERMAN","BC 000199 .P7  S73  2012","X030959676","Mere possibilities : metaphysical foundations of modal semantics /","Stalnaker, Robert.",2012,FALSE
+"498","ALDERMAN","BC 000199 .P7  Z36  2002","X030568877","The art of possibility /","Zander, Rosamund Stone,",2002,FALSE
+"499","ALDERMAN","BC 000199 .R44  W35  2004","X004701355","Relevance in argumentation /","Walton, Douglas N.",2004,FALSE
+"500","ALDERMAN","BC 000199 .T4  B46  1983","X000819768","The logic of time : a model-theoretic investigation into the varieties of temporal ontology and temporal discourse /","Benthem, Johan van,",1983,FALSE
+"501","ALDERMAN","BC 000199 .T4  O37  1995","X002662332","Temporal logic : from ancient ideas to artificial intelligence /","Øhrstrøm, Peter.",1995,FALSE
+"502","ALDERMAN","BC 000199 .V34  W55  1996","X004038020","Vagueness /","Williamson, Timothy.",1996,FALSE
+"503","ALDERMAN","BC 000199 .V5  C48  1973","X000599225","Ontology and the vicious-circle principle","Chihara, Charles S.,",1973,TRUE
+"504","ALDERMAN","BC 000199.2 .S56  1993","X002280286","Universality and the liar : an essay on truth and the diagonal argument /","Simmons, Keith.",1993,FALSE

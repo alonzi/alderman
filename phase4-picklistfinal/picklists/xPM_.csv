@@ -1,0 +1,403 @@
+"","Item.Library.Code","Item.Shelving.Id","Item.Barcode","Catalog.Title","Catalog.Author","Catalog.Pub.Year","MultiVolume"
+"1","ALDERMAN","PM 000015 .M38  2003","X004779703","Dependent-head synthesis in Nivkh : a contribution to a typology of polysynthesis /","Mattissen, Johanna.",2003,FALSE
+"2","ALDERMAN","PM 000017 .G467  2007  V.000001","X030262287","A descriptive grammar of Ket (Yenisei-Ostyak) /","Georg, Stefan.",2007,TRUE
+"3","ALDERMAN","PM 000050 .Z9  N863  2007","X030115786","Names and Nunavut : culture and identity in Arctic Canada /","Alia, Valerie,",2007,FALSE
+"4","ALDERMAN","PM 000050 .Z95  E5  1999","X004412467","Umyuugwagka : my mind, my consciousness : an anthology of poetry from the Arctic regions /","",1999,FALSE
+"5","ALDERMAN","PM 000062 .S236  2003","X004765302","A grammar of Kalaallisut : (West Greenlandic Inuttut) /","Sadock, Jerrold M.",2003,FALSE
+"6","ALDERMAN","PM 000063 .M34  2014","X031654778","Iñupiatun Uqaluit Taniktun Sivuninit = Iñupiaq to English Dictionary /","MacLean, Edna Ahgeak,",2014,FALSE
+"7","ALDERMAN","PM 000094 .R48  1994","X002442931","Siberian Yupik Eskimo : the language and its contacts with Chukchi /","Reuse, Willem Joseph de,",1994,FALSE
+"8","ALDERMAN","PM 000101 .A5  V.000014 001932","X001406161","Dakota texts,","Deloria, Ella Cara.",1932,TRUE
+"9","ALDERMAN","PM 000101 .A5  V.000019 001942","X000458368","Arapesh.","Fortune, Reo,",1942,TRUE
+"10","ALDERMAN","PM 000102 .G46  1989","X001547368","General and Amerindian ethnolinguistics : in remembrance of Stanley Newman /","",1989,FALSE
+"11","ALDERMAN","PM 000102 .S78  1998","X004267310","Studies in American Indian languages : description and theory /","",1998,FALSE
+"12","ALDERMAN","PM 000108 .C36  1997","X004107701","American Indian languages : the historical linguistics of Native America /","Campbell, Lyle.",1997,FALSE
+"13","CLEMONS","PM 000108 .L35","X000931784","The Languages of Native America : historical and comparative assessment /","",1979,FALSE
+"14","CLEMONS","PM 000108 .L35  2001","X030281382","The languages of native North America /","Mithun, Marianne.",2001,FALSE
+"15","ALDERMAN","PM 000108 .N28  2009","X030469316","Native American language ideologies : beliefs, practices, and struggles in Indian country /","",2009,FALSE
+"16","ALDERMAN","PM 000108 .N3  V.000001","X031740698","Native languages of the Americas /","",1976,TRUE
+"17","ALDERMAN","PM 000108 .S26  1990  V.000001","X001666140","American Indian languages.","Sapir, Edward,",1990,TRUE
+"18","ALDERMAN","PM 000108 .T423  2012","X031759107","Telling stories in the face of danger : language renewal in Native American communities /","",2012,FALSE
+"19","ALDERMAN","PM 000108 .T43  1999","X004267214","Theorizing the Americanist tradition /","",1999,FALSE
+"20","ALDERMAN","PM 000115 .L35  1999","X006120877","Languages different in all their sounds-- : descriptive approaches to indigenous languages of the Americas, 1500 to 1850 /","",1999,FALSE
+"21","ALDERMAN","PM 000128 .L67  2018","X032400952","El botón de seda negra : traducción religiosa y cultura material en las Indias /","López Parada, Esperanza,",2018,FALSE
+"22","ALDERMAN","PM 000128 .T73  2000","X004397942","Translating native Latin American verbal art : ethnopoetics and ethnography of speaking /","",2000,FALSE
+"23","ALDERMAN","PM 000130 .L49  2006","X030151784","Lexical categories and root classes in Amerindian languages /","",2006,FALSE
+"24","ALDERMAN","PM 000155 .A7  V.000001","X032321090","History of Indoamerican literature.","Arias-Larreta, Abraham.",1964,TRUE
+"25","ALDERMAN","PM 000155 .B68  1993","X002498480","Histoire de la littérature amérindienne au Québec : oralité et écriture : essai /","Boudreau, Diane,",1993,FALSE
+"26","ALDERMAN","PM 000155 .B73  2012","X030948062","Queequeg's coffin : indigenous literacies & early American literature /","Brander Rasmussen, Birgit,",2012,FALSE
+"27","ALDERMAN","PM 000155 .N38  1987","X001261908","Native American discourse : poetics and rhetoric /","",1987,FALSE
+"28","CLEMONS","PM 000155 .N48  1993","X002421766","New voices in native American literary criticism /","",1993,FALSE
+"29","ALDERMAN","PM 000155 .R35  1983","X000543194","Reading the fire : essays in the traditional Indian literatures of the Far West /","Ramsey, Jarold,",1983,FALSE
+"30","ALDERMAN","PM 000155 .R35  1999","X004325829","Reading the fire : the traditional Indian literatures of America /","Ramsey, Jarold,",1999,FALSE
+"31","ALDERMAN","PM 000155 .R86  1990","X001856240","American Indian literatures : an introduction, bibliographic review, and selected bibliography /","Ruoff, A. LaVonne Brown.",1990,FALSE
+"32","ALDERMAN","PM 000155 .T55  2007","X030279028","Contemporary Native American literature /","Tillett, Rebecca.",2007,FALSE
+"33","ALDERMAN","PM 000156 .C75  1985","X000910234","Critical essays on Native American literature /","",1985,FALSE
+"34","ALDERMAN","PM 000157 .K78  2012","X030846591","""That the people might live"" : loss and renewal in Native American elegy /","Krupat, Arnold.",2012,FALSE
+"35","ALDERMAN","PM 000157 .W42  2006","X030114383","American Indian literary nationalism /","Weaver, Jace,",2006,FALSE
+"36","ALDERMAN","PM 000157 .W43  1997","X004120196","That the people might live : Native American literatures and Native American community /","Weaver, Jace,",1997,FALSE
+"37","CLEMONS","PM 000159 .O5  1992","X002161188","On the translation of Native American literatures /","",1992,FALSE
+"38","ALDERMAN","PM 000167 .V58  2015","X031804367","Komuya uai : poética ancestral contemporánea /","Vivas, Selnich,",2015,FALSE
+"39","ALDERMAN","PM 000170 .H96  2003","X004704664","Now I know only so far : essays in ethnopoetics /","Hymes, Dell H.",2003,FALSE
+"40","CLEMONS","PM 000197 .E3  S22  1983","X000822560","The Sacred path : spells, prayers, & power songs of the American Indians /","",1983,FALSE
+"41","ALDERMAN","PM 000202 .H36  1986","X001592353","In honor of Mary Haas : from the Haas Festival Conference on Native American Linguistics /","Haas Festival Conference on Native American Linguistics",1988,FALSE
+"42","ALDERMAN","PM 000202 .R47  1999","X004855495","Revitalizing indigenous languages /","",1999,FALSE
+"43","ALDERMAN","PM 000205 .T43  1997","X004855945","Teaching indigenous languages /","",1997,FALSE
+"44","ALDERMAN","PM 000206 .B74  1984","X000904916","American Indian linguistics and literature /","Bright, William,",1984,FALSE
+"45","ALDERMAN","PM 000206 .L27  1995","X004020288","Language and culture in native North America : studies in honor of Heinz-Jürgen Pinnow /","",1995,FALSE
+"46","ALDERMAN","PM 000209 .S55  1997","X004141694","American Indian languages : cultural and social contexts /","Silver, Shirley.",1997,FALSE
+"47","ALDERMAN","PM 000217 .E37  2000","X004418717","The native American oral tradition : voices of the spirit and soul /","Einhorn, Lois J.,",2000,FALSE
+"48","ALDERMAN","PM 000217 .M66  2014","X031651345","Plateau Indian ways with words : the rhetorical tradition of the tribes of the Inland Pacific Northwest /","Monroe, Barbara,",2014,FALSE
+"49","ALDERMAN","PM 000218 .C54  1996","X004049823","Native American verbal art : texts and contexts /","Clements, William M.,",1996,FALSE
+"50","CLEMONS","PM 000218 .M8  1991","X002169786","Forked tongues : speech, writing, and representation in North American Indian texts /","Murray, David,",1991,FALSE
+"51","ALDERMAN","PM 000220 .B76  1999","X004265720","Lexical acculturation in Native American languages /","Brown, Cecil H.,",1999,FALSE
+"52","ALDERMAN","PM 000231 .L55","X000067171","Linguistic studies of native Canada /","",1978,FALSE
+"53","ALDERMAN","PM 000441 .N37  2005","X004811809","Native languages of the southeastern United States /","",2005,FALSE
+"54","ALDERMAN","PM 000483.5 .H9  1981","X000322978","""In vain I tried to tell you"" : essays in Native American ethnopoetics /","Hymes, Dell H.",1981,FALSE
+"55","ALDERMAN","PM 000501 .C2  G65  2011","X030976259","California Indian languages /","Golla, Victor.",2011,TRUE
+"56","ALDERMAN","PM 000501 .C2  H56  1994","X002524130","Flutes of fire : essays on California Indian languages /","Hinton, Leanne.",1994,FALSE
+"57","ALDERMAN","PM 000501 .C2  O54  2008","X030258255","Cultural contact and linguistic relativity among the Indians of northwestern California /","O'Neill, Sean,",2008,FALSE
+"58","ALDERMAN","PM 000602 .M36  1991","X001904470","The language of the Inka since the European invasion /","Mannheim, Bruce.",1991,FALSE
+"59","ALDERMAN","PM 000635 .C69  2008","X030465924","The Arapaho language /","Cowell, Andrew,",2008,FALSE
+"60","ALDERMAN","PM 000635 .Z5  P5  1994","X002532007","Principles and methods in historical phonology : from Proto-Algonkian to Arapaho /","Picard, Marc,",1994,FALSE
+"61","ALDERMAN","PM 000635 .Z77  H46  2005","X004906026","Hinóno'éínoo3ítoono = Arapaho historical traditions /","",2005,FALSE
+"62","ALDERMAN","PM 000641 .A92  1996","X004017955","Athabaskan language studies : essays in honor of Robert W. Young /","",1996,FALSE
+"63","ALDERMAN","PM 000641 .A93  2000","X004397106","The Athabaskan languages : perspectives on a Native American language family /","",2000,FALSE
+"64","ALDERMAN","PM 000641 .A94  1989","X001638991","Athapaskan linguistics : current perspectives on a language family /","",1989,FALSE
+"65","ALDERMAN","PM 000641 .R53  2000","X004400413","Morpheme order and semantic scope : word formation in the Athapaskan verb /","Rice, Keren,",2000,FALSE
+"66","ALDERMAN","PM 000641 .W67  2000","X004903159","Athabaskan prosody /","Workshop on Athabaskan Prosody",2005,FALSE
+"67","ALDERMAN","PM 000702 .E4  1976","X000163701","A grammar of Biloxi /","Einaudi, Paula Ferris.",1976,FALSE
+"68","ALDERMAN","PM 000721 .C5","X000501946","The Caddoan, Iroquoian and Siouan languages /","Chafe, Wallace L.",1976,FALSE
+"69","ALDERMAN","PM 000721 .M45  2004","X004746989","Caddo verb morphology /","Melnar, Lynette R.",2004,FALSE
+"70","ALDERMAN","PM 000781 .C87  2011","X031231582","The Cherokee syllabary : writing the people's perseverance /","Cushman, Ellen,",2011,FALSE
+"71","ALDERMAN","PM 000782 .F6  1980","X001057951","Phonological variation in western Cherokee /","Foley, Lawrence M.",1980,FALSE
+"72","ALDERMAN","PM 000782 .H6","X000376514","Beginning Cherokee /","Holmes, Ruth Bradley,",1976,FALSE
+"73","ALDERMAN","PM 000783.5 .J87  2006","X004904643","Our fire survives the storm : a Cherokee literary history /","Justice, Daniel Heath.",2006,FALSE
+"74","ALDERMAN","PM 000783.5 .N48  2014","X031666583","Progressive traditions : identity in Cherokee literature and culture /","Nelson, Joshua B.,",2014,FALSE
+"75","ALDERMAN","PM 000821 .J36  2009","X030942032","Chimariko grammar : areal and typological perspective /","Jany, Carmen,",2009,FALSE
+"76","ALDERMAN","PM 000846 .L35  2008","X030469319","Making Wawa : the genesis of Chinook jargon /","Lang, George,",2008,FALSE
+"77","ALDERMAN","PM 000848 .C55  2012","X031215985","Chinuk Wawa : kakwa nsayka ulman-tilixam laska munk-kemteks nsayka = As our elders teach us to speak it /","",2012,FALSE
+"78","ALDERMAN","PM 000850 .C2  W55  2007","X030112430","Telicity and durativity : a study of aspect in Dëne S??iné (Chipewyan) and German /","Wilhelm, Andrea.",2007,FALSE
+"79","ALDERMAN","PM 000851 .W55  1991","X002075333","The dog's children : Anishinaable texts /","Williams, Angeline.",1991,FALSE
+"80","ALDERMAN","PM 000852 .J59  2007","X030112821","Anishinaubae thesaurus /","Johnston, Basil.",2006,FALSE
+"81","ALDERMAN","PM 000854 .Z8  N66  2014","X031630352","Bawaajimo : a dialect of dreams in Anishinaabe language and literature /","Noodin, Margaret,",2014,FALSE
+"82","ALDERMAN","PM 000854 .Z9  N57  2001","X004587867","Nishnaabemwin reference grammar /","Valentine, Randy,",2001,FALSE
+"83","ALDERMAN","PM 000872 .B76  2006","X030114364","A Choctaw reference grammar /","Broadwell, George Aaron.",2006,FALSE
+"84","ALDERMAN","PM 000895 .M665  2015","X031706798","Klallam grammar /","Montler, Timothy,",2015,FALSE
+"85","ALDERMAN","PM 000895 .Z5  M66  2012","X031617602","Klallam dictionary /","Montler, Timothy.",2012,FALSE
+"86","ALDERMAN","PM 000916 .Z5  B57  2010","X030817883","Formal notes on Coeur d'Alene clause structure /","Bischoff, Shannon.",2010,FALSE
+"87","ALDERMAN","PM 000987 .W58  1981","X000484821","Meet Cree : a guide to the Cree language /","Wolfart, H. Christoph.",1981,FALSE
+"88","ALDERMAN","PM 000988 .L42  1998","X004276875","Alberta elders' Cree dictionary = Alperta ohci kehteyak nehiyaw otwestamakewin masinahikan /","LeClaire, Nancy,",1998,FALSE
+"89","ALDERMAN","PM 000989 .A2  V36  1987","X001365055","Wâskahikaniwiyiniw-âcimowina = stories of the House People /","Vandall, Peter.",1987,TRUE
+"90","ALDERMAN","PM 000991 .M37  2011","X031191217","A grammar of Creek (Muskogee) /","Martin, Jack B.,",2011,FALSE
+"91","ALDERMAN","PM 000991 .Z5  M37  2000","X004422919","A dictionary of Creek/Muskogee : with notes on the Florida and Oklahoma Seminole dialects of Creek /","Martin, Jack B.,",2000,FALSE
+"92","ALDERMAN","PM 000991 .Z77  H33  2015","X032084620","Creek (Muskogee) texts /","Haas, Mary R. (Mary Rosamond),",2015,FALSE
+"93","ALDERMAN","PM 001001 .G73  2007","X030261789","A grammar of Crow = Apsáalooke Aliláau /","Graczyk, Randolph,",2007,FALSE
+"94","ALDERMAN","PM 001004 .H55  2005","X004901122","A grammar of Cupeño /","Hill, Jane H.",2005,FALSE
+"95","ALDERMAN","PM 001022 .B6  1979","X000080074","Dakota grammar /","Boas, Franz,",1979,FALSE
+"96","ALDERMAN","PM 001023 .W68","X000462583","An English-Dakota dictionary. Wa?icun ?a Dakota ieska wowapi.","Working Indians Civil Association.",1969,FALSE
+"97","ALDERMAN","PM 001024 .Z9  L333  2002","X004660084","Lakota dictionary : Lakota-English/English-Lakota /","Buechel, Eugene.",2002,TRUE
+"98","ALDERMAN","PM 001033 .O43  1996","X004414195","Delaware-English/English-Delaware dictionary /","O'Meara, John,",1996,FALSE
+"99","ALDERMAN","PM 001272 .E57  2003  V.000001","X004705226","Haida syntax /","Enrico, John,",2003,TRUE
+"100","ALDERMAN","PM 001351 .G75  1995","X006071931","Hopi : survey of an Uto-Aztecan language (Arizona) /","Grune, Dick,",1995,FALSE
+"101","ALDERMAN","PM 001351 .K34","X001683676","Lessons in Hopi /","Kalectaca, Milo.",1978,FALSE
+"102","ALDERMAN","PM 001351 .M29  1983","X000788571","Hopi time : a linguistics analysis of the temporal concepts in the Hopi language /","Malotki, Ekkehart.",1983,FALSE
+"103","ALDERMAN","PM 001351 .Z5  R66  1985","X000953431","A concise Hopi and English lexicon /","Roy, Albert.",1985,TRUE
+"104","ALDERMAN","PM 001351 .Z77  S53  2002","X004470402","Hopi traditional literature /","Shaul, David Leedom.",2002,FALSE
+"105","ALDERMAN","PM 001366 .S74  2007","X030113445","Words of the Huron /","Steckley, John,",2007,FALSE
+"106","CLEMONS","PM 002007 .H68  2002","X030358039","Language shift among the Navajos : identity politics and cultural continuity /","House, Deborah.",2002,FALSE
+"107","ALDERMAN","PM 002008.5 .W33  2015","X031707486","Intimate grammars : an ethnography of Navajo poetry /","Webster, Anthony K.,",2015,FALSE
+"108","ALDERMAN","PM 002019 .Z77  1979","X000157126","Nez Perce texts /","Aoki, Haruo.",1979,FALSE
+"109","ALDERMAN","PM 002031 .N34  2001","X004586119","Nuuchahnulth (Nootka) morphosyntax /","Nakayama, Toshihide,",2001,FALSE
+"110","ALDERMAN","PM 002031 .S76  2004","X004771834","Linguistic theory and complex words : Nuuchahnulth word formation /","Stonham, John T.",2004,FALSE
+"111","ALDERMAN","PM 002031 .W65  2008","X030253557","The linearization of affixes : evidence from Nuu-chah-nulth /","Wojdak, Rachel.",2008,FALSE
+"112","ALDERMAN","PM 002081 .Q56  2004","X004861020","Osage grammar /","Quintero, Carolyn.",2004,FALSE
+"113","ALDERMAN","PM 002081 .Z5  Q85  2010","X030620714","Osage dictionary /","Quintero, Carolyn.",2010,FALSE
+"114","ALDERMAN","PM 002094 .Z5  L55  2012","X030975095","The Northern Paiute-Bannock dictionary : with an English-Northern Paiute-Bannock finder list and a Northern Paiute-Bannock-English finder list /","Liljeblad, Sven S. (Sven Samuel),",2012,TRUE
+"115","ALDERMAN","PM 002135 .Z9  T637  2011","X030947524","Defying Maliseet language death : emergent vitalities of language, culture, and identity in Eastern Canada /","Perley, Bernard C.",2011,TRUE
+"116","ALDERMAN","PM 002137 .Z5  P37  2008","X030472519","A dictionary of Skiri Pawnee /","Parks, Douglas R. (Douglas Richard),",2008,FALSE
+"117","ALDERMAN","PM 002261 .S35  1997","X004133589","Salish languages and linguistics : theoretical and descriptive perspectives /","",1997,FALSE
+"118","ALDERMAN","PM 002262 .S88  2004","X004769696","Musqueam reference grammar /","Suttles, Wayne P.,",2004,FALSE
+"119","ALDERMAN","PM 002262 .U73  2001","X004523337","Patterns of reduplication in Lushootseed /","Urbanczyk, Suzanne,",2001,FALSE
+"120","ALDERMAN","PM 002296 .C43  2015","X031726719","A grammar of the Seneca language /","Chafe, Wallace L.",2015,FALSE
+"121","ALDERMAN","PM 002325 .K78  1989","X002111220","A report on Shuswap, with a Squamish lexical appendix /","Kuipers, Aert Hendrik.",1989,FALSE
+"122","ALDERMAN","PM 002365 .R53  1989","X001784215","A grammar of Slave /","Rice, Keren,",1989,FALSE
+"123","ALDERMAN","PM 002381 .S81  G28  2009  V.000001","X030562673","Dictionary of upriver Halkomelem /","Galloway, Brent Douglas.",2009,TRUE
+"124","ALDERMAN","PM 002381 .S81  G3  1993","X002428152","A grammar of upriver Halkomelem /","Galloway, Brent Douglas.",1993,TRUE
+"125","ALDERMAN","PM 002401 .S34  1990","X001845747","Takelma texts and grammar /","Sapir, Edward,",1990,FALSE
+"126","ALDERMAN","PM 002412 .Z5  K37  2007","X030257881","Dena'ina topical dictionary /","Kari, James M.",2007,FALSE
+"127","ALDERMAN","PM 002431 .K76  1993","X002405520","Language, history, and identity : ethnolinguistic studies of the Arizona Tewa /","Kroskrity, Paul V.,",1993,FALSE
+"128","ALDERMAN","PM 002547 .T46  2006","X030114694","A reference grammar of Wappo /","Thompson, Sandra A.",2006,FALSE
+"129","ALDERMAN","PM 002583 .B38  1990","X001732123","Western Apache language and culture : essays in linguistic anthropology /","Basso, Keith H.,",1990,FALSE
+"130","ALDERMAN","PM 002583 .B39  1996","X004017864","Wisdom sits in places : landscape and language among the Western Apache /","Basso, Keith H.,",1996,FALSE
+"131","ALDERMAN","PM 002586 .R6","X000163705","Wichita grammar /","Rood, David S.",1976,FALSE
+"132","ALDERMAN","PM 002595 .S44  2006","X030107816","Proto-Wintun /","Shepherd, Alice.",2006,FALSE
+"133","ALDERMAN","PM 002691 .B35  2016","X032084624","Yuki grammar : with sketches of Huchnom and Coast Yuki /","Balodis, Uldis",2016,FALSE
+"134","ALDERMAN","PM 002711 .Z5  N4","X001308841","Zuni dictionary.","Newman, Stanley S. (Stanley Stewart),",1958,FALSE
+"135","ALDERMAN","PM 002711 .Z95  E5  1972","X000118584","Finding the center; narrative poetry of the Zuñi Indians.","Tedlock, Dennis,",1972,FALSE
+"136","ALDERMAN","PM 002711 .Z95  T43  1999","X004351900","Finding the center : the art of the Zuni storyteller /","Tedlock, Dennis,",1999,TRUE
+"137","ALDERMAN","PM 003002 .H6  1990","X002087859","Homenaje a Jorge A. Suárez : lingüística indoamericana e hispánica /","",1990,FALSE
+"138","ALDERMAN","PM 003008 .M48  2006","X004910475","Mexican indigenous languages at the dawn of the twenty-first century /","",2006,FALSE
+"139","ALDERMAN","PM 003008 .S9  1983","X000597202","The Mesoamerican Indian languages /","Suárez, Jorge A.",1983,FALSE
+"140","ALDERMAN","PM 003015 .P3","X000327520","Tone languages; a technique for determining the number and type of pitch contrasts in a language, with studies in tonemic substitution and fusion.","Pike, Kenneth L. (Kenneth Lee),",1948,FALSE
+"141","ALDERMAN","PM 003027 .D57  V.000001","X000077607","Discourse studies in Mesoamerican languages /","",1979,TRUE
+"142","ALDERMAN","PM 003055 .L47  1992","X002159172","Literaturas indígenas de México /","León Portilla, Miguel.",1992,FALSE
+"143","ALDERMAN","PM 003055 .M47  2005","X004900352","Mesoamerican voices : native-language writings from Colonial Mexico, Oaxaca, Yucatan, and Guatemala /","",2005,FALSE
+"144","ALDERMAN","PM 003097 .E1  I5  2001","X004523898","In the language of kings : an anthology of Mesoamerican literature--pre-Columbian to the present /","",2001,FALSE
+"145","ALDERMAN","PM 003361 .H39  2013","X031602884","Wellness beyond words : Maya compositions of speech and silence in medical care /","Harvey, T. S.,",2013,FALSE
+"146","ALDERMAN","PM 003361 .X56  1993","X002335391","Arte de las tres lenguas, Kaqchikel, Kíche ?y Tzútujil : (ms. en the Newberry Library, Chicago, Illinois) /","Ximénez, Francisco,",1993,FALSE
+"147","ALDERMAN","PM 003549 .Z5  M37  1989","X001712251","Diccionario cabécar-español, español-cabécar /","Margery Peña, Enrique.",1989,FALSE
+"148","ALDERMAN","PM 003576 .G68  1988","X001945458","Gramática del idioma kaqchikel /","",1988,FALSE
+"149","ALDERMAN","PM 003576 .L54  1998","X004200796","The life of our language : Kaqchikel Maya maintenance, shift, and revitalization /","",1998,FALSE
+"150","ALDERMAN","PM 003576 .O78  1989  T.000001","X001986433","Vocabulario en lengua Castellana y Guatemalteca que se llama Cakchiquel Chi : análisis gramatical y lexicológico del Cakchiquel colonial según un antiguo diccionario anónimo /","Smailus, Ortwin.",1989,TRUE
+"151","ALDERMAN","PM 003576 .Z3  G37  2011","X031798272","El Arte y el vocabulario de la lengua cakchiquel de Benito de Villacañas (¿1537?-1610) /","García Aranda, Ma. Ángeles (Maria Ángeles)",2011,TRUE
+"152","ALDERMAN","PM 003576 .Z5  X5  1985","X001228497","Primera parte del Tesoro de las lenguas cakchiquel, quiché y zutuhil, en que las dichas lenguas se traducen a la nuestra, española /","Ximénez, Francisco,",1985,FALSE
+"153","ALDERMAN","PM 003743 .S53  1983","X000629963","Kuna ways of speaking : an ethnographic perspective /","Sherzer, Joel.",1983,FALSE
+"154","ALDERMAN","PM 003743.1 .S54  1990","X001856611","Verbal art in San Blas : Kuna culture through its discourse /","Sherzer, Joel.",1990,FALSE
+"155","ALDERMAN","PM 003831 .B47  2013","X031798304","Arte y vocabulario del idioma huasteco (1711) /","Bernardo de Quirós, Seberino.",2013,FALSE
+"156","ALDERMAN","PM 003836 .Z5  1981","X000836286","Diccionario huave de San Mateo del Mar /","Stairs, Glenn Albert.",1981,FALSE
+"157","ALDERMAN","PM 003913 .Z5  C78  1988","X001947198","Gramática del idioma q?eqchi? /","Cuc Caal, Alfonso.",1988,TRUE
+"158","ALDERMAN","PM 003913 .Z5  H34  1979","X032321280","Diccionario k?ekchi? español /","Haeserijn V., Esteban.",1979,FALSE
+"159","ALDERMAN","PM 003916 .Z5  H64  2014","X031704591","Lacandon Maya-Spanish-English dictionary = Diccionario Maya Lacadón-Español-Inglés /","Hofling, Charles Andrew,",2014,FALSE
+"160","ALDERMAN","PM 003936 .E54  2011","X031846828","A grammar of Mam, a Mayan language /","England, Nora C.",2011,FALSE
+"161","ALDERMAN","PM 003941 .H64  2011","X031188870","Mopan Maya-Spanish-English dictionary = diccionario Maya Mopan-Español-Ingles /","Hofling, Charles Andrew.",2011,FALSE
+"162","ALDERMAN","PM 003961 .E54  1992","X002215539","La autonomía de los idiomas mayas : historia e identidad /","England, Nora C.",1992,FALSE
+"163","ALDERMAN","PM 003961 .L37  1990","X001860959","Lecturas sobre la lingüística maya /","",1990,FALSE
+"164","ALDERMAN","PM 003961 .M66  2017","X031811945","Indigene Sprachen in Mexiko : eine sprecherzentrierte Studie zur Vitalität des yukatekischen Maya /","Montemayor Gracia, Julia,",2017,FALSE
+"165","ALDERMAN","PM 003962 .L67  1989","X002018487","Acerca de los alfabetos para escribir los idiomas mayas de Guatemala : proyecto lingüístico Francisco Marroquín, Antigua Guatemala, Julio 1988 /","López Raquec, Margarita.",1989,FALSE
+"166","ALDERMAN","PM 003962 .P455  1999","X004467113","Así escriben los niños mayas su lengua materna /","Pellicer, A. (Alejandra)",1999,FALSE
+"167","ALDERMAN","PM 003963 .L455  1998","X006080805","Possession in Yucatec Maya /","Lehmann, Christian.",1998,FALSE
+"168","ALDERMAN","PM 003963 .L658  2003","X004765304","Polyvalence of root classes in Yukatekan Mayan languages /","Lois, Ximena.",2003,FALSE
+"169","ALDERMAN","PM 003963 .R54  1992","X002153513","The history of tense/aspect/mood/voice in the Mayan verbal complex /","Robertson, John S.,",1992,FALSE
+"170","ALDERMAN","PM 003963 .S63  1989","X006081040","Gramática del Maya Yucateco colonial /","Smailus, Ortwin.",1989,FALSE
+"171","ALDERMAN","PM 003963 .V56  2016","X031798342","Tense/aspect/mood systems of Cholan-Tseltalan Mayan languages /","Vinogradov, Igor",2016,FALSE
+"172","ALDERMAN","PM 003965 .B48  1995","X002623796","Maya for travelers and students : a guide to language and culture in Yucatan /","Bevington, Gary Loyd.",1995,FALSE
+"173","ALDERMAN","PM 003965 .L464  1988","X001937361","Lenguas Mayas de Guatemala : documento de referencia para la pronunciación de los nuevos alfabetos oficiales.","",1988,FALSE
+"174","ALDERMAN","PM 003966 .D54  1989  V.000001","X001826337","The Mayan languages : a comparative vocabulary /","Dienhart, John.",1989,TRUE
+"175","ALDERMAN","PM 003968 .A75  2016","X031797549","Recuperando las huellas perdidas : el surgimiento de narrativas indígenas contemporáneas en Abya Yala /","Arias, Arturo,",2016,FALSE
+"176","ALDERMAN","PM 003968 .P37  2012","X031213938","Parallel worlds : genre, discourse, and poetics in contemporary, colonial, and classic period Maya literature /","",2012,FALSE
+"177","ALDERMAN","PM 003968 .W67  2013","X031619168","Telling and being told : storytelling and cultural control in contemporary Yucatec Maya literatures /","Worley, Paul M.,",2013,FALSE
+"178","ALDERMAN","PM 003968.2 .C73  2006","X031673345","Voci e canti della civiltà maya /","Craveri, Michela.",2006,FALSE
+"179","ALDERMAN","PM 003968.55 .E5  B87  1983","X000504447","An epoch of miracles : oral literature of the Yucatec Maya /","Burns, Allan F. (Allan Frank),",1983,FALSE
+"180","ALDERMAN","PM 003968.55 .S6  L57  1992","X031782088","Literatura maya /","",1992,TRUE
+"181","ALDERMAN","PM 003968.65 .S73  U58  2010","X031651251","Uk'u'x kaj, uk'u'x ulew : antología de poesía maya quatemalteca contemporánea /","",2010,FALSE
+"182","ALDERMAN","PM 003968.9 .C53  B75  1990","X002014641","A morpheme concordance of the Book of Chilam Balam of Tizimin /","Bricker, Victoria Reifler,",1990,FALSE
+"183","ALDERMAN","PM 003969 .H36  1990","X006134265","Referential practice : language and lived space among the Maya /","Hanks, William F.",1990,FALSE
+"184","ALDERMAN","PM 003969 .I89  H64  1991","X002048289","Itza Maya texts with a grammatical overview /","Hofling, Charles Andrew.",1991,FALSE
+"185","ALDERMAN","PM 003969 .J64  2013","X031653074","Translating Maya Hieroglyphs /","Johnson, Scott A. J.,",2013,FALSE
+"186","ALDERMAN","PM 003969 .L44  2000","X004765303","Person prominence and relation prominence : on the typology of syntactic relations with special reference to Yucatec Maya /","Lehmann, Christian.",2000,FALSE
+"187","ALDERMAN","PM 003969 .M4  1973","X000599164","Meaning in Mayan languages. Ethnolinguistic studies.","",1973,FALSE
+"188","ALDERMAN","PM 003969.5 .I89  H6  2000","X004214507","Itzaj Maya grammar /","Hofling, Charles Andrew.",2000,FALSE
+"189","ALDERMAN","PM 003969.5 .M65  D36  2001","X004474943","Relatively speaking : language, thought, and kinship among the Mopan Maya /","Danziger, Eve.",2001,TRUE
+"190","ALDERMAN","PM 004016 .F37  2002","X006140892","Diccionario básico del Mixteco de Yosondúa, Oaxaca /","Farris, Kathryn Beaty de.",2002,FALSE
+"191","ALDERMAN","PM 004016 .S89  1988  V.000003","X002167324","Studies in the syntax of Mixtecan languages /","",1988,TRUE
+"192","ALDERMAN","PM 004016 .Z5  D53  1986","X001224598","Diccionario Mixteco de San Juan Colorado /","",1986,TRUE
+"193","ALDERMAN","PM 004016 .Z9  C55  1996","X002783485","A grammar of Chalcatongo Mixtec /","Macaulay, Monica Ann.",1996,TRUE
+"194","ALDERMAN","PM 004016 .Z9  S364  1999","X004324346","Phonology and phonetics in Coatzospan Mixtec /","Gerfen, Chip.",1999,FALSE
+"195","ALDERMAN","PM 004062 .L37  1980","X000596100","El náhuatl de Tetzcoco en la actualidad /","Lastra, Yolanda,",1980,FALSE
+"196","ALDERMAN","PM 004063 .A66  1975","X001779434","Introduction to classical Nahuatl /","Andrews, J. Richard (James Richard),",1975,FALSE
+"197","ALDERMAN","PM 004063 .C313  2001","X004557262","Grammar of the Mexican language : with an explanation of its adverbs (1645) /","Carochi, Horacio,",2001,FALSE
+"198","ALDERMAN","PM 004063 .S8713  1988","X001433322","Thelma D. Sullivan's compendium of Nahuatl grammar /","Sullivan, Thelma D.",1988,FALSE
+"199","ALDERMAN","PM 004066 .B76  2000","X006111034","Diccionario náhuatl del norte del estado de Puebla /","Brockway, Earl.",2000,FALSE
+"200","ALDERMAN","PM 004066 .L67  2010","X031719068","Tesoro castellano del primer diccionario de América : lemas y concordancias del Vocabulario español-náhuatl (1555) de Alonso de Molina /","López Bernasocchi, Augusta.",2010,FALSE
+"201","ALDERMAN","PM 004066 .M7  1970","X002037326","Vocabulario en lengua castellana y mexicana y castellana.","Molina, Alonso de,",1970,FALSE
+"202","ALDERMAN","PM 004068 .65  .S6  T56  2008","X031648361","La tinta negra y roja : antología de poesía náhuatl /","",2008,TRUE
+"203","ALDERMAN","PM 004068.6 .A2  F57","X000165599","Flower and song : poems of the Aztec peoples /","",1977,TRUE
+"204","ALDERMAN","PM 004068.6 .C3  1985","X001520882","Cantares mexicanos = Songs of the Aztecs : translated from the Nahuatl, with an introduction and commentary /","",1985,FALSE
+"205","ALDERMAN","PM 004068.6 .R65  2009","X030561513","Ballads of the lords of New Spain : the codex Romances de los señores de la Nueva España /","",2009,FALSE
+"206","ALDERMAN","PM 004068.7 .B87  1996","X002776926","Holy Wednesday : a Nahua drama from early colonial Mexico /","Burkhart, Louise M.,",1996,FALSE
+"207","ALDERMAN","PM 004068.7 .H6  V.000001","X000715103","El teatro náhuatl : épocas novohispana y moderna /","Horcasitas, Fernando.",1974,TRUE
+"208","CLEMONS","PM 004068.7 .N35  2004  V.000001","X032210423","Nahuatl theater /","",2004,TRUE
+"209","ALDERMAN","PM 004068.7 .R3","X000300056","Early Colonial religious drama in Mexico: from Tzompantli to Golgotha.","Ravicz, Marilyn Ekdahl.",1970,FALSE
+"210","ALDERMAN","PM 004068.9 .N4  Z7","X001123781","Nezahualcóyotl; poesía y pensamiento, 1402-1472.","León Portilla, Miguel.",1972,FALSE
+"211","ALDERMAN","PM 004069 .B38  1989","X002610764","Etimologías de la lengua náhuatl /","Bautista Lara, Gregorio.",1989,FALSE
+"212","ALDERMAN","PM 004069 .G3","X000060252","Pajapan, un dialecto mexicano del Golfo /","García de León, Antonio.",1976,FALSE
+"213","ALDERMAN","PM 004069 .K3","X000715104","Nahuatl in the middle years : language contact phenomena in texts of the colonial period /","Karttunen, Frances E.",1976,FALSE
+"214","ALDERMAN","PM 004070 .H55  1986","X001158941","Speaking Mexicano : dynamics of syncretic language in Central Mexico /","Hill, Jane H.",1986,FALSE
+"215","ALDERMAN","PM 004231 .C53  1990Z","X002140762","Kí-Chè Zib : escritura Kí-Chè y otros temas /","Chávez, Adrián I. (Adrián Inés)",1990,FALSE
+"216","ALDERMAN","PM 004231 .S3  1983","X000983731","Idioma quiché con traducción al español e inglés estructural-funcional = Quiche language with translation in Spanish and English structural-functional /","Saquic Calel, Felipe Rosalío.",1983,FALSE
+"217","ALDERMAN","PM 004231 .S89  1988","X001945436","Gramática del idioma k?iche? /","Suy Tum, Bonifacio Diego.",1988,FALSE
+"218","ALDERMAN","PM 004231 .Z5  H46  1989","X002065243","Diccionario quiché-español /","Henne Pontious, David.",1989,FALSE
+"219","ALDERMAN","PM 004231 .Z6  M2","X000334330","Popol vuh. Structure and meaning.","McClear, Margaret.",1973,FALSE
+"220","ALDERMAN","PM 004231 .Z77  1975","X031710698","Introducción al estudio del Rabinal Achí /","Acuña, René.",1975,FALSE
+"221","ALDERMAN","PM 004231 .Z77  R3313  2007","X030255957","Rabinal achi : a fifteenth-century Maya dynastic drama /","",2007,TRUE
+"222","ALDERMAN","PM 004231 .Z77  V523  2017","X031811599","The Americas' first theologies : early sources of post-contact indigenous religion /","Vico, Domingo de,",2017,TRUE
+"223","CLEMONS","PM 004231 .Z95  E5  2003","X004704305","Rabinal Achi : a Mayan drama of war and sacrifice /","",2003,FALSE
+"224","ALDERMAN","PM 004291 .M4  1975","X031665630","Cuentos tarahumaras (edición bilingüe) /","Mexico. Secretaría de Educación Pública.",1975,FALSE
+"225","ALDERMAN","PM 004426 .M33  1999","X004253446","A grammar of Misantla Totonac /","MacKay, Carolyn J. (Carolyn Joyce),",1999,FALSE
+"226","CLEMONS","PM 004466 .Z77  L38  2008","X030260404","Monkey Business Theatre /","Laughlin, Robert M.",2008,TRUE
+"227","ALDERMAN","PM 004479 .S53  2014","X031651110","A prehistory of western North America : the impact of Uto-Aztecan languages /","Shaul, David Leedom,",2014,FALSE
+"228","ALDERMAN","PM 004526 .D44  1999","X004417934","Sonora Yaqui language structures /","Dedrick, John M.,",1999,FALSE
+"229","ALDERMAN","PM 004526 .Z77  Y36  1987","X001284808","Yaqui deer songs, Maso Bwikam : a native American poetry /","",1987,FALSE
+"230","ALDERMAN","PM 004547 .L44  2006","X030105792","Remnant raising and VSO clausal architecture : a case study of San Lucas Quiaviní Zapotec /","Lee, Felicia.",2006,FALSE
+"231","ALDERMAN","PM 004548 .L65  1999","X006003699","Diccionario zapoteco de San Bartolomé Zoogocho, Oaxaca /","Long C., Rebecca.",1999,FALSE
+"232","ALDERMAN","PM 005002 .A43  1990","X001704263","Amazonian linguistics : studies in lowland South American languages /","",1990,FALSE
+"233","ALDERMAN","PM 005008 .F32  1998  V.000001","X032114596","Manual de las lenguas indígenas sudamericanas /","Fabre, Alain.",1998,TRUE
+"234","ALDERMAN","PM 005008 .L46  2007","X031782010","Lenguas indígenas de América del Sur : estudios descriptivo-tipológicos y sus contribuciones para la lingüística teórica /","",2007,FALSE
+"235","ALDERMAN","PM 005008 .S68  1985","X001059127","South American Indian languages : retrospect and prospect /","",1985,FALSE
+"236","ALDERMAN","PM 005009 .N38  2014","X031635719","The native languages of South America : origins, development, typology /","",2014,FALSE
+"237","ALDERMAN","PM 005027 .N37  1990","X002135630","Native Latin American cultures through their discourse /","",1990,FALSE
+"238","ALDERMAN","PM 005099 .A68  G73  2004","X004802766","Languages of the pre-Columbian Antilles /","Granberry, Julian.",2004,TRUE
+"239","ALDERMAN","PM 005099.8 .A48  1999","X004767132","The Amazonian languages /","",1999,FALSE
+"240","ALDERMAN","PM 005099.8 .D59  2004","X004767454","The Jarawara language of Southern Amazonia /","Dixon, Robert M. W.,",2004,FALSE
+"241","ALDERMAN","PM 005099.8 .L45  2006","X031848789","Lenguas y tradiciones orales de la Amazonía : ¿diversidad en peligro? /","",2006,FALSE
+"242","ALDERMAN","PM 005100 .C667  2005","X031595373","Contribuciones a las lenguas y culturas de los Andes : homenaje a Alfredo Torero /","",2005,FALSE
+"243","ALDERMAN","PM 005100 .H57  2011","X031797572","History and language in the Andes /","",2011,FALSE
+"244","ALDERMAN","PM 005100 .T66  2011  T.000001","X031803710","Cuestiones de lingüística e historia andinas : compilación de artículos /","Torero, Alfredo,",2011,TRUE
+"245","ALDERMAN","PM 005151 .H36  1986  V.000001","X001158241","Handbook of Amazonian languages /","",1986,TRUE
+"246","ALDERMAN","PM 005431 .Z5  C36  2002","X031639592","Léxico bilingüe aparai-português/português-aparai /","Camargo, Eliane.",2002,TRUE
+"247","ALDERMAN","PM 005463 .A95  1990","X002018018","Gramática mapuche bilingüe /","Augusta, Félix José de,",1990,FALSE
+"248","ALDERMAN","PM 005466 .M67  2016","X031846487","Diccionario Mapuche : Zungun : palabras que brotan de la tierra /","Mora Penroz, Ziley,",2016,FALSE
+"249","ALDERMAN","PM 005468.2 .B38  202017","X032404844","Tensiones y diálogos interculturales en la poesía mapuche contemporánea : vivir en un mundo heterogéneo /","Baudagna, Rodrigo",2017,FALSE
+"250","ALDERMAN","PM 005468.6 .W45  2012","X031647539","Weichapeyuchi ül = Cantos de guerrero : antología de poesía política mapuche /","",2012,FALSE
+"251","ALDERMAN","PM 005468.9 .A35  Z46  2017","X031842314","Hombre pájaro : vida y poesía de un mapuche = Üñümche : kiñe mapuche wentxu ñi mogen ka ñi ülkan /","Aillapán Cayuleo, Lorenzo,",2017,FALSE
+"252","ALDERMAN","PM 005476 .A93  2004","X031782128","África y Asia en las Antillas : la ruta de Colón por el mar de las palabras /","Ayala Lafée-Wilbert, Cecilia.",2004,FALSE
+"253","ALDERMAN","PM 005579 .M46  2015","X032404531","El espejo aymara : ilusiones ideológicas en Bolivia /","Mendoza Pizarro, Javier,",2015,FALSE
+"254","ALDERMAN","PM 005757 .H6  1968","X000363498","The Carib language. Phonology, morphonology, morphology, texts and word index.","Hoff, B. J.",1968,FALSE
+"255","ALDERMAN","PM 005801 .K38  1961","X032020149","Fonontácticas del cayuvava /","Key, Harold H.",1962,FALSE
+"256","ALDERMAN","PM 005811 .L8  2010","X031782014","Gramática en la lengua general del Nuevo Reino, llamada mosca /","Lugo, Bernardo de,",2010,FALSE
+"257","ALDERMAN","PM 005817 .C2  P39  1992","X002437677","Diccionario chiriguano-español /","Paz Echazú, Juan de Dios,",1992,FALSE
+"258","ALDERMAN","PM 005817 .C6  M38  2007","X031798305","Arte de la lengua cholona (1748) /","Mata, Pedro de la.",2007,FALSE
+"259","ALDERMAN","PM 005981 .C37  2015","X032404707","Neologismos en la gramática wayuunaiki /","Castillo García, Ana Josefa,",2015,FALSE
+"260","ALDERMAN","PM 005981 .Z95  S6  2014","X032131713","Voces originarias de Abya Yala /","",2014,FALSE
+"261","ALDERMAN","PM 006051 .Z5  J35  2013","X031847189","La lengua chaná : patrimonio cultural de Entre Ríos /","Jaime, Blas W. Omar,",2013,FALSE
+"262","ALDERMAN","PM 006058 .S74  2013","X031600225","A reference grammar of Kotiria (Wanano) /","Stenzel, Kristine,",2013,FALSE
+"263","ALDERMAN","PM 006082 .C43  2009","X031768286","Decir el cuerpo : historia y etnografía del cuerpo en los pueblos Guaraní /","Chamorro, Graciela.",2009,FALSE
+"264","ALDERMAN","PM 006082 .R35  2007","X031657014","El Guaranihablante ante la justicia : de los primeros documentos hacia una terminología jurídica en guaraní /","Ramírez Machuca, Martin,",2007,FALSE
+"265","ALDERMAN","PM 006082 .Z9  P35  2016","X032209723","Cómo hablan los paraguayos con dos lenguas?  : gramática del jopara /","Kallfell, Guido",2016,FALSE
+"266","ALDERMAN","PM 006101 .M67  1974","X032321269","New poems","Morris, Peter",1974,FALSE
+"267","ALDERMAN","PM 006163 .D47  1985","X001043290","Hixkaryana and linguistic typology /","Derbyshire, Desmond C.",1985,FALSE
+"268","ALDERMAN","PM 006261 .A75  2016","X031798306","El vocabulario de la lengua xebera, una doctrina cristiana en xebero y quechua, y la gramática de la lengua xebera (Siglo XVIII) /","Alexander-Bakkerus, Astrid",2016,FALSE
+"269","ALDERMAN","PM 006273 .J85  2005","X030841545","Etnografía de la comunicacíon verbal shuar /","Juncosa, José E.",2005,FALSE
+"270","ALDERMAN","PM 006301 .D87  2007","X030263486","Pastoral Quechua : the history of Christian translation in colonial Peru, 1550-1650 /","Durston, Alan,",2007,FALSE
+"271","ALDERMAN","PM 006301 .H37  2014","X031650949","Sin and confession in Colonial Peru : Spanish-Quechua penitential texts, 1560-1650 /","Harrison, Regina,",2014,FALSE
+"272","ALDERMAN","PM 006301 .H56  2011","X031198041","Crossing aspectual frontiers : emergence, evolution, and interwoven semantic domains in South Conchucos Quechua discourse /","Hintz, Daniel J.",2011,FALSE
+"273","ALDERMAN","PM 006301 .Q43  1992","X002186188","El Quechua en debate : ideología, normalización y enseñanza /","",1992,FALSE
+"274","ALDERMAN","PM 006302 .B88  1993","X002442778","Uso del quichua y del castellano en la sierra ecuatoriana /","Büttner, Thomas Th.",1993,FALSE
+"275","ALDERMAN","PM 006303 .H878  2001","X031782120","Pragmática de la cultura y la lengua quechua /","Hurtado de Mendoza S., W.",2001,FALSE
+"276","ALDERMAN","PM 006303 .J35  1985","X001013899","Grammatical relations in Imbabura Quechua /","Jake, Janice L. (Janice Lynn),",1985,FALSE
+"277","ALDERMAN","PM 006303 .L37  1988","X001358382","Mixed categories : nominalizations in Quechua /","Lefebvre, Claire.",1988,FALSE
+"278","ALDERMAN","PM 006303 .L4","X004198459","Lengua quíchua,","Leonardi F. José.",1966,FALSE
+"279","ALDERMAN","PM 006303 .M455  2014","X031782054","Quechua avanzado /","Mejía Huamán, Mario,",2014,FALSE
+"280","ALDERMAN","PM 006303 .N78  1996","X004884871","Sounds like life : sound-symbolic grammar, performance, and cognition in Pastaza Quechua /","Nuckolls, Janis B.",1996,FALSE
+"281","ALDERMAN","PM 006303 .P37  1993","X002404195","Gramática de la lengua quichua actualmente en uso entre los indígenas del Ecuador /","Paris, Julio.",1993,FALSE
+"282","ALDERMAN","PM 006303 .W38  1989","X001596421","A grammar of Huallaga (Huánuco) Quechua /","Weber, David,",1989,FALSE
+"283","ALDERMAN","PM 006305 .T49  1994","X002611128","Texto de enseñanza del idioma quechua como segunda lengua : aprendamos el idioma quechua para hablar con los que hablan el idioma quechua /","Terceros Carrasco, Eustaquia.",1994,FALSE
+"284","ALDERMAN","PM 006306 .A78  2014","X031803706","Arte y vocabulario en la lengua general del Perú /","",2014,FALSE
+"285","ALDERMAN","PM 006306 .D52  2013  V.000001","X031194456","Lexicón, o Vocabulario de la lengua general del Perú /","Domingo de Santo Tomás,",2013,TRUE
+"286","ALDERMAN","PM 006306 .G6  1989","X002496512","Vocabulario de la lengua general de todo el Perú, llamada lengua qquichua o del Inca /","González Holguín, Diego,",1989,FALSE
+"287","ALDERMAN","PM 006308.9 .O5  1971","X006003155","Ullanta; drama quechua del tiempo de los inkas.","",1971,FALSE
+"288","ALDERMAN","PM 006309 .C47  1987","X001433140","Lingüística quechua /","Cerrón-Palomino, Rodolfo.",1987,FALSE
+"289","ALDERMAN","PM 006309.5 .P89  N83  2010","X030744134","Lessons from a Quechua strongwoman : ideophony, dialogue, and perspective /","Nuckolls, Janis B.",2010,FALSE
+"290","ALDERMAN","PM 007110 .A55  2006","X030203957","A grammar of Tariana, from Northwest Amazonia /","A?khenval?d, A. I?U. (Aleksandra I?Ur?evna)",2006,FALSE
+"291","ALDERMAN","PM 007165 .A55  2002","X004668800","Language contact in Amazonia /","A?khenval?d, A. I?U. (Aleksandra I?Ur?evna)",2002,FALSE
+"292","ALDERMAN","PM 007173 .G7","X001189957","A description of colloquial Guaraní.","Gregores, Emma.",1967,FALSE
+"293","ALDERMAN","PM 007173 .M38  1981","X000778348","El Guaraní a su alcance /","Meliá, Bartomeu.",1981,FALSE
+"294","ALDERMAN","PM 007173 .S35  1979  V.000001","X001060219","Curso breve del idioma Guaraní /","Scott, Pablo.",1979,TRUE
+"295","ALDERMAN","PM 007266 .A5  B7  1987","X001684801","Yamana-English : A dictionary of the speech of Tierra del Fuego /","Bridges, Thomas,",1989,FALSE
+"296","ALDERMAN","PM 007270 .Z5  D53  2011","X031636476","Dicionário de verbos português-yanomama = Napëpëni? thë thaa thaatarapëhe nahã thãaxo, yanomama thããxo, thëki?pëã wëanowei siki? /","",2011,TRUE
+"297","ALDERMAN","PM 007801 .C66  2013","X031759362","Contact languages : a comprehensive guide /","",2013,FALSE
+"298","ALDERMAN","PM 007802 .G55  2016","X031762673","Kisisi (our langauge) : the story of Colin and Sadiki /","Gilmore, Perry,",2016,FALSE
+"299","ALDERMAN","PM 007802 .H3  1966","X000361535","Pidgin and creole languages,","Hall, Robert A. (Robert Anderson),",1966,FALSE
+"300","ALDERMAN","PM 007802 .H36  2008","X031737765","The handbook of Pidgin and Creole studies /","",2008,FALSE
+"301","ALDERMAN","PM 007802 .H65  1988  V.000002","X001561734","Pidgins and creoles /","Holm, John A.",1988,TRUE
+"302","ALDERMAN","PM 007802 .L3","X000762765","Langues en contact : pidgins, Creoles = Languages in contact /","",1977,FALSE
+"303","ALDERMAN","PM 007802 .M59  2003","X004769216","The mixed language debate : theoretical and empirical advances /","",2003,FALSE
+"304","ALDERMAN","PM 007802 .M78  1986","X001079054","Pidgin and Creole linguistics /","Mühlhäusler, Peter.",1986,FALSE
+"305","ALDERMAN","PM 007802 .P37  2011","X031187218","Linguistic justice for Europe and for the world /","Parijs, Philippe van,",2011,FALSE
+"306","ALDERMAN","PM 007802 .P48","X000043949","Pidgin and creole linguistics /","",1977,FALSE
+"307","ALDERMAN","PM 007802 .P498  1983","X000888269","Pidginization and creolization as language acquisition /","",1983,FALSE
+"308","ALDERMAN","PM 007802 .P5","X000298302","Pidginization and creolization of languages; proceedings of a conference held at the University of the West Indies, Mona, Jamaica, April, 1968.","",1971,FALSE
+"309","ALDERMAN","PM 007802 .P54  1995","X002579278","Pidgins and creoles : an introduction /","",1995,FALSE
+"310","ALDERMAN","PM 007802 .R66  1988","X001337937","Pidgin and Creole languages /","Romaine, Suzanne,",1988,FALSE
+"311","ALDERMAN","PM 007802 .S43  1997","X004126221","Contact languages : pidgins and creoles /","Sebba, Mark.",1997,FALSE
+"312","ALDERMAN","PM 007802 .S56  2008","X030279023","The emergence of pidgin and Creole languages /","Siegel, Jeff.",2008,FALSE
+"313","ALDERMAN","PM 007802 .S87  2013  V.000002","X031733061","The survey of Pidgin and Creole languages /","",2013,TRUE
+"314","ALDERMAN","PM 007807 .A73  L36  1996","X004048162","Language contact in the Arctic : northern pidgins and contact languages /","",1996,TRUE
+"315","ALDERMAN","PM 007807 .P16  T79  2004","X004807190","Pacific pidgins and creoles : origins, growth and development /","Tryon, D. T. (Darrell T.)",2004,TRUE
+"316","ALDERMAN","PM 007807 .P33  D74  2016","X031804190","Language contact in the early colonial Pacific : maritime Polynesian Pidgin before Pidgin English /","Drechsel, Emanuel J.,",2016,TRUE
+"317","ALDERMAN","PM 007831 .A74  2012","X030844322","The acquisition of Creole languages : how children surpass their input /","Adone, Dany.",2012,FALSE
+"318","ALDERMAN","PM 007831 .A76  2012","X030875574","Agency in the emergence of Creole languages : the role of women, renegades, and people of African and indigenous descent in the emergence of the colonial era Creoles /","",2012,FALSE
+"319","ALDERMAN","PM 007831 .B53  2008","X030253287","Bastard tongues : a trailblazing linguist finds clues to our common humanity in the world's lowliest languages /","Bickerton, Derek.",2008,FALSE
+"320","ALDERMAN","PM 007831 .C4813  2001","X004766539","Creolization of language and culture /","Chaudenson, Robert.",2001,FALSE
+"321","ALDERMAN","PM 007831 .C67  2015","X031642111","Substrate and adstrate : the origins of spatial semantics in west african pidgincreoles /","Corum, Micah,",2015,FALSE
+"322","ALDERMAN","PM 007831 .C73  1996","X002686365","Creole languages and language acquisition /","",1996,FALSE
+"323","ALDERMAN","PM 007831 .C745  1994","X006035780","Creolization and language change /","",1994,FALSE
+"324","ALDERMAN","PM 007831 .E17  1995","X002010856","The early stages of creolization /","",1995,FALSE
+"325","ALDERMAN","PM 007831 .L36  1994","X002481158","Language & the social construction of identity in Creole situations /","",1994,FALSE
+"326","ALDERMAN","PM 007831 .L4  2011  V.000001","X031193234","Atlas linguistique des petites Antilles /","Le Du, Jean.",2011,TRUE
+"327","ALDERMAN","PM 007831 .M365  2005","X004810179","Defining Creole /","McWhorter, John H.",2005,FALSE
+"328","ALDERMAN","PM 007831 .P4  1995","X002629346","Penser la créolité /","",1995,FALSE
+"329","ALDERMAN","PM 007831 .P48  1987","X001218858","Pidgin and Creole languages : essays in memory of John E. Reinecke /","",1987,FALSE
+"330","ALDERMAN","PM 007833 .S62  1983","X000485171","The Social context of Creolization /","",1983,FALSE
+"331","ALDERMAN","PM 007834 .C37  B65  2014","X031656173","Creole renegades : rhetoric of betrayal and guilt in the Caribbean diaspora /","Boisseron, Bénédicte,",2014,FALSE
+"332","ALDERMAN","PM 007851 .C495  1989","X001736692","Créoles et enseignement du français : français, créolisation, créoles et français marginaux : problèmes d'apprentissage, d'enseignement des langues et d'aménagement linguistique dans les espaces créolophones /","Chaudenson, Robert.",1989,FALSE
+"333","ALDERMAN","PM 007851 .C65  2006","X030371185","La créolisation linguistique et les sciences humaines /","Colloque ""La créolisation linguistique et les sciences humaines""",2007,FALSE
+"334","ALDERMAN","PM 007851 .V32  2002","X004688504","La créolisation : à chacun sa vérité /","",2002,FALSE
+"335","ALDERMAN","PM 007851 .W54  2005","X030039752","Le français adultère : ou, Les langues mixtes de l'altérité francophone /","Wijnands, Paul.",2005,FALSE
+"336","ALDERMAN","PM 007852 .C66  2001  T.000001","X004530670","Dictionnaire des néologismes créoles /","Confiant, Raphaël,",2001,TRUE
+"337","ALDERMAN","PM 007853 .C65  1998","X004247201","Dictionnaire des titim et sirandanes : devinettes et jeux de mots du monde créole /","Confiant, Raphaël,",1998,FALSE
+"338","ALDERMAN","PM 007853 .M46  2002","X004620223","Mémwè an fonséyè, ou, Les quatre-vingt dix pouvoirs des morts /","",2002,FALSE
+"339","ALDERMAN","PM 007854 .A5  B4","X000053658","La langue créole, force jugulée : étude socio-linguistique des rapports de force entre le créole et le français aux Antilles /","Bébel-Gisler, Dany.",1976,FALSE
+"340","ALDERMAN","PM 007854 .C27  A32  1998","X004236306","Inventaire étymologique des termes créoles des Caraïbes d'origine africaine /","Anglade, Pierre.",1998,FALSE
+"341","ALDERMAN","PM 007854 .C27  A77  2004","X004824829","Français-créole/créole-français : de la traduction : ethique, pratiques, problèmes, enjeux /","Arsaye, Jean-Pierre,",2004,FALSE
+"342","ALDERMAN","PM 007854 .C27  C74  1996","X004020150","Créoles de la Caraïbe : actes du colloque universitaire en hommage à Guy Hazaël-Massieux, Pointe-à-Pitre, le 27 mars 1995 /","",1996,TRUE
+"343","ALDERMAN","PM 007854 .C27  H39  2008","X030516508","Textes anciens en créole français de la Caraïbe : histoire et analyse /","Hazaël-Massieux, Marie-Christine.",2008,FALSE
+"344","ALDERMAN","PM 007854 .F7  B36  2007","X031602496","Dictionnaire créole guyanais-français : suivi d'un index français-créole guyanais /","Barthelemi, Georges.",2007,FALSE
+"345","ALDERMAN","PM 007854 .G8  B42  1989","X001842311","Le defi culturel guadeloupéen : devenir ce que nous sommes /","Bébel-Gisler, Dany.",1989,FALSE
+"346","ALDERMAN","PM 007854 .G8  D53  1990","X001982738","Dictionnaire Créole français : (Guadeloupe) : avec un abrégé de grammaire créole, un lexique français/créole, les comparaisons courantes, les locutions et plus de 1000 proverbes /","",1990,TRUE
+"347","ALDERMAN","PM 007854 .G8  P68  1984","X001203550","Dictionnaire des expressions du créole guadeloupéen /","Poullet, Hector.",1984,FALSE
+"348","ALDERMAN","PM 007854 .G8  S36  2004","X030505827","In search of a national identity : Creole and politics in Guadeloupe /","Schnepel, Ellen M.",2004,FALSE
+"349","ALDERMAN","PM 007854 .G89  B68  2013","X031610559","Liwa lajan : l'argent roi, adaptation en langue creole de Martinique du Plutus d'Aristophane /","Boukman, Daniel,",2013,FALSE
+"350","ALDERMAN","PM 007854 .H3  H35  2010","X030773635","The Haitian Creole language : history, structure, use, and education /","",2010,FALSE
+"351","ALDERMAN","PM 007854 .H3  L44  1998","X004262800","Creole genesis and the acquisition of grammar : the case of Haitian creole /","Lefebvre, Claire.",1998,TRUE
+"352","ALDERMAN","PM 007854 .H3  T87  2008","X030522415","Creole made easy : a simple introduction to Haitian Creole for English speaking people /","Turnbull, Wally R.",2008,TRUE
+"353","ALDERMAN","PM 007854 .H31  D36  2005","X030033041","Éléments de grammaire comparée français-créole haïtien /","Damoiseau, Robert.",2005,TRUE
+"354","ALDERMAN","PM 007854 .H34  A34  2009","X030522422","Oxford picture dictionary. Angle/Kreyòl Ayisyen /","Adelson-Goldstein, Jayme.",2009,FALSE
+"355","ALDERMAN","PM 007854 .H34  T49  2008","X030516774","Haitian Creole dictionary & phrasebook : Haitian Creole-English/English-Haitian Creole /","Theodore, Charmant.",2008,TRUE
+"356","ALDERMAN","PM 007854 .H37  A152  2011","X031712500","135 poètes créoles d'Haïti de 1750 à 2011 : anthologie /","",2011,FALSE
+"357","ALDERMAN","PM 007854 .L6  K57  2003","X004704668","If I could turn my tongue like that : the Creole language of Pointe Coupee Parish, Louisiana /","Klingler, Thomas A.",2003,FALSE
+"358","ALDERMAN","PM 007854 .M24  C664  2007  V.000002","X030568504","Dictionnaire créole martiniquais-français /","Confiant, Raphaël,",2007,TRUE
+"359","ALDERMAN","PM 007854 .M25  M37  1996","X006038097","Le Discours des mères martiniquaises : diglossie et créolité : un point de vue sociolinguistique /","March, Christian.",1996,FALSE
+"360","ALDERMAN","PM 007854 .M258  B37  2001","X004611395","La fable créole /","Bernabé, Jean.",2001,FALSE
+"361","ALDERMAN","PM 007854 .M3  B34","X000882417","Kreol: a description of Mauritian Creole.","Baker, Philip,",1972,FALSE
+"362","ALDERMAN","PM 007854 .M3  B35  1987","X001505709","Morisyen-English-français : diksyoner kreol morisyen = dictionary of Mauritian Creole /","Baker, Philip,",1987,FALSE
+"363","ALDERMAN","PM 007871 .D58  1985","X000949778","Diversity and development in English-related creoles /","",1985,FALSE
+"364","ALDERMAN","PM 007874 .C27  W56  1993","X002251979","Predication in Caribbean English Creoles /","Winford, Donald.",1993,FALSE
+"365","ALDERMAN","PM 007874 .G8  B5","X000493533","Dynamics of a creole system /","Bickerton, Derek,",1975,FALSE
+"366","ALDERMAN","PM 007874 .G8  R53  1987","X001300083","Dimensions of a Creole continuum : history, texts, linguistic analysis of Guyanese Creole /","Rickford, John R.,",1987,TRUE
+"367","ALDERMAN","PM 007874 .H3  V45  2003","X004708896","Hawai'i creole English : a typological analysis of the tense-mood-aspect system /","Velupillai, Viveka,",2003,TRUE
+"368","ALDERMAN","PM 007874 .J3  A33  1991","X002667906","Understanding Jamaican patois : an introduction to Afro-Jamaican grammar /","Adams, L. Emilie,",1991,FALSE
+"369","ALDERMAN","PM 007874 .J3  A43  1981","X000504049","Phonological variation in the Jamaican continuum /","Akers, Glenn Alan.",1981,FALSE
+"370","ALDERMAN","PM 007874 .J3  L35  1990","X001831482","Language in exile : three hundred years of Jamaican Creole /","Lalla, Barbara,",1990,TRUE
+"371","ALDERMAN","PM 007874 .J3  L4","X000277563","Jamaican Creole; an historical introduction to Jamaican Creole,","Le Page, R. B. (Robert Brock),",1960,TRUE
+"372","ALDERMAN","PM 007874 .J3  P65  1994","X002523175","Dread talk : the language of Rastafari /","Pollard, Velma.",1994,FALSE
+"373","ALDERMAN","PM 007874 .J3  P65  2000","X004423115","Dread talk : the language of Rastafari /","Pollard, Velma.",2000,FALSE
+"374","ALDERMAN","PM 007874 .J3  V65  1989","X001520674","Voices in exile : Jamaican texts of the 18th and 19th centuries /","",1989,TRUE
+"375","ALDERMAN","PM 007874 .T7  S75  1985","X001504430","The Still cry : personal accounts of East Indians in Trinidad and Tobago during indentureship, 1845-1917 /","",1985,FALSE
+"376","ALDERMAN","PM 007891 .Z9  N453  1990  TEXT","X002447254","An introductory programmed course in Tok Pisin /","Litteral, Robert.",1990,TRUE
+"377","ALDERMAN","PM 007891 .Z9  N465  1992","X002141907","Language, education, and development : urban and rural Tok Pisin in Papua New Guinea /","Romaine, Suzanne,",1992,FALSE
+"378","ALDERMAN","PM 007891 .Z9  N4684  2003","X004683853","Tok Pisin texts : from the beginning to the present /","",2003,FALSE
+"379","ALDERMAN","PM 007895 .B4  C73  2004","X004803648","Bislama reference grammar /","Crowley, Terry.",2004,TRUE
+"380","ALDERMAN","PM 007895 .B4  M49  2000","X006113500","Constraints on null subjects in Bislama (Vanuatu) : social and linguistic factors /","Meyerhoff, Miriam.",2000,FALSE
+"381","ALDERMAN","PM 007895 .B4  T79  1987","X001333978","Bislama : an introduction to the national language of Vanuatu /","Tryon, D. T. (Darrell T.)",1987,TRUE
+"382","ALDERMAN","PM 007895 .N3  A94  2015","X031846118","Anglo-Nagamese grammar : the lingua franca of Nagaland translated into English and Sümi /","Aye, N. Khashito,",2015,FALSE
+"383","ALDERMAN","PM 007895 .N83  L847  2005","X030501374","Un créole arabe : le kinubi de Mombasa, Kenya /","Luffin, Xavier.",2005,TRUE
+"384","ALDERMAN","PM 007895 .N83  W45  2005","X004900144","The Nubi language of Uganda : an Arabic Creole in Africa /","Wellens, Inneke Hilda Werner.",2005,FALSE
+"385","ALDERMAN","PM 007895 .P3  J84  2003","X004741849","Haiku in Papiamentu = Un mushi di Haiku /","Juliana, Elis.",2003,FALSE
+"386","ALDERMAN","PM 007895 .P3  P36  1983","X000866849","Papiamentu, problems and possibilities : papers presented at the conference on Papiamentu, Papiamentu--Problema i Posibilidat /","",1983,FALSE
+"387","ALDERMAN","PM 007895 .P35  B76  2006  D.000001","X030154771","De kleur van mijn eiland : Aruba, Bonaire, Curaçao : ideologie en schrijven in het Papiamentu sinds 1863 /","Broek, Aart G.",2006,TRUE
+"388","ALDERMAN","PM 008004 .I58  1989","X001605259","Interlinguistics : aspects of the science of planned languages /","",1989,FALSE
+"389","ALDERMAN","PM 008008 .C37  2015","X031795689","La langue mondiale : traduction et domination /","Casanova, Pascale,",2015,FALSE
+"390","ALDERMAN","PM 008008 .F76  2011","X031187951","From Elvish to Klingon : exploring invented languages /","",2011,FALSE
+"391","ALDERMAN","PM 008008 .G37  2015","X031732662","Esperanto and its rivals : the struggle for an international language /","Garvía Soto, Roberto,",2015,FALSE
+"392","ALDERMAN","PM 008008 .L28  1985","X000953370","The artificial language movement /","Large, J. A.",1985,FALSE
+"393","CLEMONS","PM 008008 .O37  2009","X030506350","In the land of invented languages : Esperanto rock stars, Klingon poets, Loglan lovers, and the mad dreamers who tried to build a perfect language /","Okrent, Arika.",2009,FALSE
+"394","ALDERMAN","PM 008009 .L49  2007","X004832739","Language, mind and nature : artificial languages in England from Bacon to Locke /","Lewis, Rhodri,",2007,FALSE
+"395","ALDERMAN","PM 008009 .S77  1982","X000506149","Universal languages and scientific taxonomy in the seventeenth century /","Slaughter, M. M. (Mary M.)",1982,FALSE
+"396","ALDERMAN","PM 008009 .S84  1995","X002681043","The new philosophy and universal languages in seventeenth-century England : Bacon, Hobbes, and Wilkins /","Stillman, Robert E.,",1995,FALSE
+"397","ALDERMAN","PM 008208 .A8  1993","X002157449","Aspects of internationalism : language and culture /","",1993,FALSE
+"398","ALDERMAN","PM 008208 .E86  1982","X000545117","Esperanto in the modern world : studies and articles on language problems, the right to communicate, and the international language, (1959-1982) /","",1982,FALSE
+"399","ALDERMAN","PM 008208 .J313  1993","X002158496","Esperanto : language, literature, and community /","Janton, Pierre.",1993,FALSE
+"400","ALDERMAN","PM 008209 .S36  2016","X031772976","Bridge of words : Esperanto and the dream of a universal language /","Schor, Esther H.,",2016,FALSE
+"401","ALDERMAN","PM 008780 .S35  2004","X004809088","A gateway to Sindarin : a grammar of an Elvish language from J.R.R. Tolkien's Lord of the rings /","Salo, David,",2004,FALSE
+"402","ALDERMAN","PM 009021 .E55  L39","X006172063","The complete Enochian dictionary : a dictionary of the Angelic language as revealed to Dr. John Dee and Edward Kelley /","Laycock, Donald C.",1978,TRUE
