@@ -1,20 +1,10 @@
 # Data Dictionary
-* Catalog.Id - catalog id
-* Item.Barcode - barcode
-* Item.Call.Number - call number
-* Item.Library.Code - current building home of book
-* Catalog.Title - title
-* Catalog.Author - author
-* Catalog.Pub.Year - publication year
-* Item.Created.Date - data added to catalog
-* Item.Last.Checkout.Date - last date of checkout
-* NumInhouseUses - inhouse uses
-* NumCheckouts - number of checkouts
-* NumRenewals - number of renewals
-* Duplicates - copies in collection
-* Bib.Marc.Subfield.Data - encoded list of buildings where volume has resided
-* MultiVolume - part of multi volume set
-* modelC - rank by model C
-* MODEL - 1 = clemons, 0 = ivy
-* LiaisonRecommendation - IGNORE - not used in the version
+This set of picklists was produced on Mar 27, 2019 and is the first attempt at the new list for the movers. The files contins books to be sent to clemons 1. It needs to be validated before put into action
 
+* Item.Library.Code	- In english the building the collection belongs to before the move
+* Item.Shelving.Id	- The call number
+* Item.Barcode	- barcode number
+* Catalog.Title	- title
+* Catalog.Author	- author
+* Catalog.Pub.Year	- year of  publication
+* MultiVolume - if "TRUE" then this row represents multiple volumes in a set
