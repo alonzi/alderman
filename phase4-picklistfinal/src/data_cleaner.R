@@ -17,7 +17,7 @@ data_cleaner <- function(filename) {
 ######################
 # read in data
 #data_tibble <- read.csv(filename,fileEncoding="latin1") # use for PC_.csv
-data_tibble <- read.csv(filename)
+data_tibble <- read.csv(filename,encoding="UTF-8")
 print('analyzing')
 print(filename)
 ######################
@@ -54,7 +54,8 @@ data_tibble <- mutate(data_tibble,scoreC=1/(1+exp(-(beta[1]*as.numeric(x0)+beta[
 data_tibble <- mutate(data_tibble,modelC=dense_rank(1-scoreC))
 
 data_tibble <- mutate(data_tibble,dscoreC=1-scoreC)
-data_tibble <- arrange(data_tibble,dscoreC)
+# put back
+#data_tibble <- arrange(data_tibble,dscoreC)
 
 
 cutoffs <- list('./data/AM_AS_AZ_.csv'=811,
@@ -162,7 +163,7 @@ data_tibble_uniques <- count(data_tibble,Catalog.Id)
 data_tibble <- left_join(data_tibble,data_tibble_uniques)
 
 # remove duplicate catalog ids
-data_tibble <- distinct(data_tibble,Catalog.Id,.keep_all=TRUE)
+#data_tibble <- distinct(data_tibble,Catalog.Id,.keep_all=TRUE)
 
 # add column for multi volume set
 vol1 <-"\\sAbh.*$|\\sAbt.*$|\\san.*$|\\sband*$|\\sbd.*$|\\sBde.*$|\\sbk.*$|\\sbr.*$|\\sBuch*$|\\sc.*$|\\sch.*$|\\scis.*$|\\scuad.*$|\\scz.*$|\\sd.*$|\\sfasc.*$|\\sF.*$|\\sfol.*$|\\sg.*$|\\sHalbbd.*$|\\sHeft*$|\\siss.*$|\\sissue*$|\\sjaarg.*$|\\sJahrg.*$|\\skn.*$|\\skng.*$|\\sl.*$|\\sLfg.*$|\\sn.F.*$|\\snouv.*$|\\sn.r.*$|\\sno.*$|\\snr.*$|\\snu.*$|\\spt.*$|\\squad.*$|\\sReihe*$|\\sr.*$|\\sroc.*$|\\srocz.*$|\\ssb.*$|\\sser.*$|\\sses.*$|\\ssess.*$|\\sSdhft.*$|\\ssuppl.*$|\\ssv.*$|\\sT.*$|\\stbd.*$|\\steil*$|\\stomo*$|\\stome*$|\\sv.*$|\\svyd.*$|\\svyp.*$|\\swyd.*$|\\swydz.*$|\\syr.*$|\\szesz.*$"
@@ -171,21 +172,21 @@ data_tibble <- mutate(data_tibble,MultiVolume=grepl(vol1,Item.Call.Number,ignore
 
 
 # filter to only keep items for clemons (aka modelC==1)
-data_tibble <- filter(data_tibble, model == 1)
+#data_tibble <- filter(data_tibble, model == 1)
 
 
 # select columns for liaisons
-data_tibble <- select(data_tibble,Item.Shelving.Id,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,MultiVolume,modelC,MODEL)
+#data_tibble <- select(data_tibble,Item.Shelving.Id,Catalog.Id,Item.Barcode,Item.Call.Number,Item.Library.Code,Catalog.Title,Catalog.Author,Catalog.Pub.Year,Item.Created.Date,Item.Last.Checkout.Date,NumInhouseUses,NumCheckouts,NumRenewals,MultiVolume,modelC,MODEL)
 
 
 
 
 
 # select columns for picklist
-data_tibble <- select(data_tibble,Item.Library.Code,Item.Shelving.Id,Item.Barcode,Catalog.Title,Catalog.Author,Catalog.Pub.Year,MultiVolume)
+#data_tibble <- select(data_tibble,Item.Library.Code,Item.Shelving.Id,Item.Barcode,Catalog.Title,Catalog.Author,Catalog.Pub.Year,MultiVolume)
 
 # sort on Item Shelving Id (aka callnumber order)
-data_tibble <- arrange(data_tibble,Item.Shelving.Id)
+#data_tibble <- arrange(data_tibble,Item.Shelving.Id)
 
 print('finish loop')
 print(filename)

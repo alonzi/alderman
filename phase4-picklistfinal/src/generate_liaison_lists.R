@@ -10,7 +10,7 @@ source("./src/data_cleaner.R")
 datapath <- "./data"
 input_files <- list.files(datapath)
 input_files <- paste(datapath,input_files,sep="/")
-output_files <- paste("./picklists/x",list.files(datapath),sep="")
+output_files <- paste("./picklists2/x",list.files(datapath),sep="")
 
 # Turn the crank
 tibbles <- lapply(input_files,data_cleaner)
